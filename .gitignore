@@ -1,0 +1,17 @@
+# Fichiers indésirables
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+.idea/
+.vscode/
+__pycache__/
+*.pyc
+.jekyll-cache/
+.jekyll-metadata
+_site/
+vendor/
+.bundle/
+*.part
+*.tmp

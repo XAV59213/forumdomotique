@@ -1,0 +1,31 @@
+theme: jekyll-theme-cayman
+lang: fr
+title: Les articles de XAV59213 sur Forum Domotique
+description: >-
+  Sauvegarde et vitrine des articles, guides, tests et messages
+  de XAV59213 sur Forum Domotique (forumdomotique.com).
+url: https://xav59213.github.io
+baseurl: /forumdomotique
+show_downloads: false
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+plugins:
+  - jekyll-seo-tag
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+exclude:
+  - inventaire.json
+  - .gitignore
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
