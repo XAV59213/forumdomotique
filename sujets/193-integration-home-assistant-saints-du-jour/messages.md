@@ -1,7 +1,7 @@
 ---
 title: "🕊️ Intégration Home Assistant – Saints du Jour 🇫🇷"
 description: "Je vous présente une petite intégration personnalisée que j’ai développée pour Home Assistant : Saints du Jour Ce composant affiche automatiquement le…"
-image: /sujets/193-integration-home-assistant-saints-du-jour/images/Capturedcrandu2025-06-0714-58-19.png
+image: /sujets/193-integration-home-assistant-saints-du-jour/images/cover-saints-du-jour.png
 date: 2025-06-07
 ---
 {% raw %}

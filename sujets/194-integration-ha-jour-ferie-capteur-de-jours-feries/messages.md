@@ -8,8 +8,13 @@ date: 2025-06-07
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/194-%F0%9F%87%AB%F0%9F%87%B7-int%C3%A9gration-ha-jour-f%C3%A9ri%C3%A9-capteur-de-jours-f%C3%A9ri%C3%A9s/">Lire et commenter sur Forum Domotique</a> · <a href="https://github.com/XAV59213/jourferier">Dépôt HACS : Jour Férié</a></p>
 
 
-<section class="carousel photo-carousel" data-carousel data-lightbox aria-roledescription="carrousel" aria-label="Photos de l’article (8)" tabindex="0">
+<section class="carousel photo-carousel" data-carousel data-lightbox aria-roledescription="carrousel" aria-label="Photos de l’article (9)" tabindex="0">
 <div class="carousel-track" data-track>
+<figure class="photo-slide" data-slide>
+  <a href="images/cover-jour-ferie.png" data-full="images/cover-jour-ferie.png" data-alt="Couverture — Jour Férié, intégration HACS officielle pour Home Assistant" aria-label="Agrandir la couverture">
+    <img src="images/cover-jour-ferie.png" alt="Couverture — Jour Férié, intégration HACS officielle pour Home Assistant" loading="eager" width="1200" height="630">
+  </a>
+</figure>
 <figure class="photo-slide" data-slide>
   <a href="images/Capturedcrandu2025-06-0809-22-23.png" data-full="images/Capturedcrandu2025-06-0809-22-23.png" data-alt="Photo 1 — ## 🇫🇷 [Intégration HA] Jour Férié – Capteur de jours fériés" aria-label="Agrandir la photo 1 : Photo 1 — ## 🇫🇷 [Intégration HA] Jour Férié – Capteur de jours fériés">
     <img src="images/Capturedcrandu2025-06-0809-22-23.png" alt="Photo 1 — ## 🇫🇷 [Intégration HA] Jour Férié – Capteur de jours fériés" loading="eager">

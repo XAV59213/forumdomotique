@@ -1,7 +1,7 @@
 ---
 title: "Home Assistant 2026.2 : la mise à jour de février 2026 rend le dashboard Home par défaut et lance la Device Database"
 description: "Après une 2026.1 un peu plus calme post-fêtes, l'équipe frappe fort avec la 2026.2 ! Sortie officielle le 4 février 2026, cette version transforme le…"
-image: /contenus/actualites/home-assistant-20262-la-mise-a-jour-de-fevrier-2026-rend-le-dashboard-home-par-defaut-et-l/images/Capturedcrandu2026-01-3111-53-41.png
+image: /contenus/actualites/home-assistant-20262-la-mise-a-jour-de-fevrier-2026-rend-le-dashboard-home-par-defaut-et-l/images/cover-2026-2.jpg
 date: 2026-01-31
 section: actualites
 tags:

@@ -80,7 +80,7 @@ Cette vitrine rassemble ses publications pour les lire confortablement, et renvo
   </div>
 </article>
 <article class="hero-slide" data-slide>
-  <img src="{{ '/sujets/133-projet-piscine-besoin-de-testeur/images/piscinexa.png' | relative_url }}" alt="Tableau de bord de l’intégration Piscinexa pour Home Assistant" width="1200" height="675" loading="eager">
+  <img src="{{ '/sujets/133-projet-piscine-besoin-de-testeur/images/cover-piscinexa.png' | relative_url }}" alt="Couverture de Piscinexa, gestion de piscine pour Home Assistant" width="1200" height="630" loading="eager">
   <div class="hero-caption">
     <div class="tag">Intégration</div>
     <h2><a href="sujets/133-projet-piscine-besoin-de-testeur/messages.html">Piscinexa</a></h2>

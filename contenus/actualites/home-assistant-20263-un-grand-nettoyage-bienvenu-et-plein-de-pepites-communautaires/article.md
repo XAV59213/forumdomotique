@@ -1,7 +1,7 @@
 ---
 title: "Home Assistant 2026.3 : Un « grand nettoyage » bienvenu et plein de pépites communautaires"
 description: "Franck Nijhof (Frenck) l'annonce clairement dans le billet officiel : « On a pris le temps de reviewer, polir et merger un nombre impressionnant de PRs…"
-image: /assets/images/og-default.png
+image: /contenus/actualites/home-assistant-20263-un-grand-nettoyage-bienvenu-et-plein-de-pepites-communautaires/images/cover-2026-3.jpg
 date: 2026-03-21
 section: actualites
 tags:

@@ -25,7 +25,7 @@
   repo: freesmsxa
   official: true
   blurb: Recevez les alertes de la maison par SMS, gratuitement, avec l’option Free.
-  image: /sujets/110-free-mobile-sms-xa-integration-home-assistant/images/Capturedcrandu2025-05-0308-33-31.png
+  image: /sujets/110-free-mobile-sms-xa-integration-home-assistant/images/cover-free-sms-xa.png
   page: /sujets/110-free-mobile-sms-xa-integration-home-assistant/messages.html
   related:
   - title: Envoyer des SMS depuis le dashboard
@@ -43,7 +43,7 @@
   repo: saintdujour
   official: true
   blurb: Le ou les saints fêtés aujourd’hui et demain, selon le calendrier français.
-  image: /sujets/193-integration-home-assistant-saints-du-jour/images/Capturedcrandu2025-06-0714-58-19.png
+  image: /sujets/193-integration-home-assistant-saints-du-jour/images/cover-saints-du-jour.png
   page: /sujets/193-integration-home-assistant-saints-du-jour/messages.html
 - name: Phase de la Lune
   repo: phase_lune
@@ -63,7 +63,7 @@
   repo: date_countdown
   official: false
   blurb: Anniversaires, noces et dates qui comptent, avec des cartes Lovelace dédiées.
-  image: /sujets/4093-integration-home-assistant-souvenirs-et-celebrations/images/apercu-global.png
+  image: /sujets/4093-integration-home-assistant-souvenirs-et-celebrations/images/cover-souvenirs.png
   page: /sujets/4093-integration-home-assistant-souvenirs-et-celebrations/messages.html
   related:
   - title: Date Countdown (première version)
@@ -78,7 +78,7 @@
   repo: piscinexa
   official: false
   blurb: Calculs de pH, de chlore et de temps de filtration pour entretenir sa piscine.
-  image: /sujets/133-projet-piscine-besoin-de-testeur/images/piscinexa.png
+  image: /sujets/133-projet-piscine-besoin-de-testeur/images/cover-piscinexa.png
   page: /sujets/133-projet-piscine-besoin-de-testeur/messages.html
   related:
   - title: Tableau de bord de gestion de piscine
@@ -87,5 +87,5 @@
   repo: spacexha
   official: false
   blurb: L’univers SpaceX dans Home Assistant (dépôt personnalisé).
-  image: /assets/images/og-default.png
+  image: /assets/images/covers/cover-spacex-starman.png
   page: null

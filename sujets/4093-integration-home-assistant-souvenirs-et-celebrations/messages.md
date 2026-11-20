@@ -1,7 +1,7 @@
 ---
 title: "🎂 Intégration Home Assistant – Souvenirs et Célébrations"
 description: "Je vous présente une intégration personnalisée que j’ai développée pour Home Assistant : Souvenirs et Célébrations . Elle permet de suivre, au fil de…"
-image: /sujets/4093-integration-home-assistant-souvenirs-et-celebrations/images/apercu-global.png
+image: /sujets/4093-integration-home-assistant-souvenirs-et-celebrations/images/cover-souvenirs.png
 date: 2026-11-20
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/4093-%F0%9F%8E%82-int%C3%A9gration-home-assistant-souvenirs-et-c%C3%A9l%C3%A9brations/">Lire et commenter sur Forum Domotique</a> · <a href="https://github.com/XAV59213/date_countdown">Dépôt HACS : Souvenirs et Célébrations</a></p>

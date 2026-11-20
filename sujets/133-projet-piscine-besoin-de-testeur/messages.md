@@ -1,7 +1,7 @@
 ---
 title: "Projet Piscine BESOIN DE TESTEUR"
 description: "Objectif : L'intégration Piscinexa est une solution personnalisée pour la gestion et la surveillance des piscines via Home Assistant. Elle permet de…"
-image: /sujets/133-projet-piscine-besoin-de-testeur/images/piscinexa.png
+image: /sujets/133-projet-piscine-besoin-de-testeur/images/cover-piscinexa.png
 date: 2025-05-08
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/133-projet-piscine-besoin-de-testeur/">Lire et commenter sur Forum Domotique</a> · <a href="https://github.com/XAV59213/piscinexa">Dépôt HACS : Piscinexa</a></p>

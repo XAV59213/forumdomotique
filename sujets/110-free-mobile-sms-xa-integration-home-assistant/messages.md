@@ -1,7 +1,7 @@
 ---
 title: "📨 Free Mobile SMS XA – Intégration Home Assistant"
 description: "Free Mobile SMS XA simplifie l'envoi de notifications SMS via l'API Free Mobile dans Home Assistant Objectif : Rendre l'intégration facile , intuitive…"
-image: /sujets/110-free-mobile-sms-xa-integration-home-assistant/images/icon.png
+image: /sujets/110-free-mobile-sms-xa-integration-home-assistant/images/cover-free-sms-xa.png
 date: 2025-05-03
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/110-%F0%9F%93%A8-free-mobile-sms-xa-int%C3%A9gration-home-assistant/">Lire et commenter sur Forum Domotique</a> · <a href="https://github.com/XAV59213/freesmsxa">Dépôt HACS : Free Mobile SMS XA</a></p>
