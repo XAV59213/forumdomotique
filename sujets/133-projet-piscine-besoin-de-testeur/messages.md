@@ -1,17 +1,22 @@
 ---
 title: "Projet Piscine BESOIN DE TESTEUR"
 description: "Objectif : L'intégration Piscinexa est une solution personnalisée pour la gestion et la surveillance des piscines via Home Assistant. Elle permet de…"
-image: /sujets/133-projet-piscine-besoin-de-testeur/images/banner-piscinexa.png
+image: /sujets/133-projet-piscine-besoin-de-testeur/images/banner-piscinexa.jpg
 date: 2025-05-08
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/133-projet-piscine-besoin-de-testeur/">Lire et commenter sur Forum Domotique</a> · <a href="https://github.com/XAV59213/piscinexa">Dépôt HACS : Piscinexa</a></p>
 
 
-<section class="carousel photo-carousel" data-carousel data-lightbox aria-roledescription="carrousel" aria-label="Photos de l’article (8)" tabindex="0">
+<section class="carousel photo-carousel" data-carousel data-lightbox aria-roledescription="carrousel" aria-label="Photos de l’article (9)" tabindex="0">
 <div class="carousel-track" data-track>
 <figure class="photo-slide" data-slide>
+  <a href="images/banner-piscinexa.jpg" data-full="images/banner-piscinexa.jpg" data-alt="Bannière de Piscinexa, l’entretien de la piscine dans Home Assistant" aria-label="Agrandir la photo 1 : Bannière de Piscinexa">
+    <img src="images/banner-piscinexa.jpg" alt="Bannière de Piscinexa, l’entretien de la piscine dans Home Assistant" loading="eager">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
   <a href="images/piscinexa.png" data-full="images/piscinexa.png" data-alt="Photo 1 — Projet Piscine BESOIN DE TESTEUR" aria-label="Agrandir la photo 1 : Photo 1 — Projet Piscine BESOIN DE TESTEUR">
-    <img src="images/piscinexa.png" alt="Photo 1 — Projet Piscine BESOIN DE TESTEUR" loading="eager">
+    <img src="images/piscinexa.png" alt="Photo 2 — Projet Piscine BESOIN DE TESTEUR" loading="lazy">
   </a>
 </figure>
 <figure class="photo-slide" data-slide>

@@ -1,18 +1,23 @@
 ---
 title: "🚀 Starship Tracker – Suivez les lancements Starship de SpaceX dans Home Assistant"
 description: "Les fans d’espace vont aimer 🚀 Je vous présente Starship Tracker , une intégration Home Assistant qui suit le programme Starship de SpaceX : la prochaine…"
-image: /sujets/4095-starship-tracker-suivez-les-lancements-starship-de-spacex-dans-home-assistant/images/card-bloc-mission.jpg
+image: /sujets/4095-starship-tracker-suivez-les-lancements-starship-de-spacex-dans-home-assistant/images/banner-starship.jpg
 date: 2026-11-20
 ---
 {% raw %}
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/4095-%F0%9F%9A%80-starship-tracker-suivez-les-lancements-starship-de-spacex-dans-home-assistant/">Lire et commenter sur Forum Domotique</a> · <a href="https://github.com/XAV59213/starship_tracker">Dépôt HACS : Starship Tracker</a></p>
 
 
-<section class="carousel photo-carousel" data-carousel data-lightbox aria-roledescription="carrousel" aria-label="Photos de l’article (4)" tabindex="0">
+<section class="carousel photo-carousel" data-carousel data-lightbox aria-roledescription="carrousel" aria-label="Photos de l’article (5)" tabindex="0">
 <div class="carousel-track" data-track>
 <figure class="photo-slide" data-slide>
+  <a href="images/banner-starship.jpg" data-full="images/banner-starship.jpg" data-alt="Bannière de Starship Tracker, les lancements Starship dans Home Assistant" aria-label="Agrandir la photo 1 : Bannière de Starship Tracker">
+    <img src="images/banner-starship.jpg" alt="Bannière de Starship Tracker, les lancements Starship dans Home Assistant" loading="eager">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
   <a href="images/card-bloc-mission.jpg" data-full="images/card-bloc-mission.jpg" data-alt="Photo 1 — 🚀 Starship Tracker – Suivez les lancements Starship de SpaceX dans Home Assistant" aria-label="Agrandir la photo 1 : Photo 1 — 🚀 Starship Tracker – Suivez les lancements Starship de SpaceX dans Home Assistant">
-    <img src="images/card-bloc-mission.jpg" alt="Photo 1 — 🚀 Starship Tracker – Suivez les lancements Starship de SpaceX dans Home Assistant" loading="eager">
+    <img src="images/card-bloc-mission.jpg" alt="Photo 2 — 🚀 Starship Tracker – Suivez les lancements Starship de SpaceX dans Home Assistant" loading="lazy">
   </a>
 </figure>
 <figure class="photo-slide" data-slide>

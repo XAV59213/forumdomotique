@@ -57,7 +57,7 @@
   official: true
   blurb: 'Suivez les lancements Starship de SpaceX : mission, compte à rebours et
     actualités.'
-  image: /sujets/4095-starship-tracker-suivez-les-lancements-starship-de-spacex-dans-home-assistant/images/card-bloc-mission.jpg
+  image: /sujets/4095-starship-tracker-suivez-les-lancements-starship-de-spacex-dans-home-assistant/images/banner-starship.jpg
   page: /sujets/4095-starship-tracker-suivez-les-lancements-starship-de-spacex-dans-home-assistant/messages.html
 - name: Souvenirs et Célébrations
   repo: date_countdown
@@ -79,7 +79,7 @@
   repo: piscinexa
   official: false
   blurb: Calculs de pH, de chlore et de temps de filtration pour entretenir sa piscine.
-  image: /sujets/133-projet-piscine-besoin-de-testeur/images/banner-piscinexa.png
+  image: /sujets/133-projet-piscine-besoin-de-testeur/images/banner-piscinexa.jpg
   page: /sujets/133-projet-piscine-besoin-de-testeur/messages.html
   related:
   - title: Tableau de bord de gestion de piscine
