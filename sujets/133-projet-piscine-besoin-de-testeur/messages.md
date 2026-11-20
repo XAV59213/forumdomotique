@@ -6,6 +6,57 @@ date: 2025-05-08
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/133-projet-piscine-besoin-de-testeur/">Lire et commenter sur Forum Domotique</a> · <a href="https://github.com/XAV59213/piscinexa">Dépôt HACS : Piscinexa</a></p>
 
+
+<section class="carousel photo-carousel" data-carousel data-lightbox aria-roledescription="carrousel" aria-label="Photos de l’article (8)" tabindex="0">
+<div class="carousel-track" data-track>
+<figure class="photo-slide" data-slide>
+  <a href="images/piscinexa.png" data-full="images/piscinexa.png" data-alt="Photo 1 — Projet Piscine BESOIN DE TESTEUR" aria-label="Agrandir la photo 1 : Photo 1 — Projet Piscine BESOIN DE TESTEUR">
+    <img src="images/piscinexa.png" alt="Photo 1 — Projet Piscine BESOIN DE TESTEUR" loading="eager">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-05-1012-52-38.png" data-full="images/Capturedcrandu2025-05-1012-52-38.png" data-alt="Photo 2 — Projet Piscine BESOIN DE TESTEUR" aria-label="Agrandir la photo 2 : Photo 2 — Projet Piscine BESOIN DE TESTEUR">
+    <img src="images/Capturedcrandu2025-05-1012-52-38.png" alt="Photo 2 — Projet Piscine BESOIN DE TESTEUR" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Sanstitre.jpeg" data-full="images/Sanstitre.jpeg" data-alt="Photo 3 — Projet Piscine BESOIN DE TESTEUR" aria-label="Agrandir la photo 3 : Photo 3 — Projet Piscine BESOIN DE TESTEUR">
+    <img src="images/Sanstitre.jpeg" alt="Photo 3 — Projet Piscine BESOIN DE TESTEUR" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Sanstitre1.jpeg" data-full="images/Sanstitre1.jpeg" data-alt="Photo 4 — Projet Piscine BESOIN DE TESTEUR" aria-label="Agrandir la photo 4 : Photo 4 — Projet Piscine BESOIN DE TESTEUR">
+    <img src="images/Sanstitre1.jpeg" alt="Photo 4 — Projet Piscine BESOIN DE TESTEUR" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-05-1812-17-32.png" data-full="images/Capturedcrandu2025-05-1812-17-32.png" data-alt="Photo 5 — Projet Piscine BESOIN DE TESTEUR" aria-label="Agrandir la photo 5 : Photo 5 — Projet Piscine BESOIN DE TESTEUR">
+    <img src="images/Capturedcrandu2025-05-1812-17-32.png" alt="Photo 5 — Projet Piscine BESOIN DE TESTEUR" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capture_d_ecran_du_2025-05-18_12-17-32.png" data-full="images/Capture_d_ecran_du_2025-05-18_12-17-32.png" data-alt="Photo 6 — Projet Piscine BESOIN DE TESTEUR" aria-label="Agrandir la photo 6 : Photo 6 — Projet Piscine BESOIN DE TESTEUR">
+    <img src="images/Capture_d_ecran_du_2025-05-18_12-17-32.png" alt="Photo 6 — Projet Piscine BESOIN DE TESTEUR" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capture_d_ecran_du_2025-05-18_12-18-23.png" data-full="images/Capture_d_ecran_du_2025-05-18_12-18-23.png" data-alt="Photo 7 — Projet Piscine BESOIN DE TESTEUR" aria-label="Agrandir la photo 7 : Photo 7 — Projet Piscine BESOIN DE TESTEUR">
+    <img src="images/Capture_d_ecran_du_2025-05-18_12-18-23.png" alt="Photo 7 — Projet Piscine BESOIN DE TESTEUR" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capture_d_ecran_du_2025-05-18_12-18-55.png" data-full="images/Capture_d_ecran_du_2025-05-18_12-18-55.png" data-alt="Photo 8 — Projet Piscine BESOIN DE TESTEUR" aria-label="Agrandir la photo 8 : Photo 8 — Projet Piscine BESOIN DE TESTEUR">
+    <img src="images/Capture_d_ecran_du_2025-05-18_12-18-55.png" alt="Photo 8 — Projet Piscine BESOIN DE TESTEUR" loading="lazy">
+  </a>
+</figure>
+</div>
+<button type="button" class="carousel-nav" data-prev aria-label="Photo précédente">‹</button>
+<button type="button" class="carousel-nav" data-next aria-label="Photo suivante">›</button>
+<div class="carousel-dots" data-dots></div>
+<div class="carousel-live" data-live aria-live="polite"></div>
+<p class="carousel-hint">Faites défiler les photos, ou ouvrez-les pour les agrandir (si JavaScript est activé).</p>
+</section>
+
 # Projet Piscine BESOIN DE TESTEUR
 
 - **Catégorie :** [Projets et Personnalisations](https://forumdomotique.com/forums/12-projets-et-personnalisations/)

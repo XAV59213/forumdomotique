@@ -3,6 +3,10 @@ title: "Home Assistant 2026.3 : Un \\\\\\\\\\\\\\\"grand nettoyage\\\\\\\\\\\\\\
 description: "Franck Nijhof (Frenck) l'annonce clairement dans le billet officiel : « On a pris le temps de reviewer, polir et merger un nombre impressionnant de PRs…"
 image: /assets/images/og-default.png
 date: 2026-03-21
+section: actualites
+tags:
+  - domotique
+  - home-assistant
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/actualites/home-assistant/home-assistant-20263-un-grand-nettoyage-bienvenu-et-plein-de-p%C3%A9pites-communautaires-r13/">Lire et commenter sur Forum Domotique</a></p>
 

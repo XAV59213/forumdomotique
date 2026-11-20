@@ -6,6 +6,32 @@ date: 2025-12-14
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/605-quand-papa-geek-essaie-de-faire-plaisir-%C3%A0-maman-lhistoire-de-linterrupteur-maudit/">Lire et commenter sur Forum Domotique</a></p>
 
+
+<section class="carousel photo-carousel" data-carousel data-lightbox aria-roledescription="carrousel" aria-label="Photos de l’article (3)" tabindex="0">
+<div class="carousel-track" data-track>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-12-1414-25-30.png" data-full="images/Capturedcrandu2025-12-1414-25-30.png" data-alt="Photo 1 — Quand Papa Geek Essaie de Faire Plaisir à Maman : L'Histoire de l'Interrupteur Maudit" aria-label="Agrandir la photo 1 : Photo 1 — Quand Papa Geek Essaie de Faire Plaisir à Maman : L'Histoire de l'Interrupteur Maudit">
+    <img src="images/Capturedcrandu2025-12-1414-25-30.png" alt="Photo 1 — Quand Papa Geek Essaie de Faire Plaisir à Maman : L'Histoire de l'Interrupteur Maudit" loading="eager">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-12-1414-27-26.png" data-full="images/Capturedcrandu2025-12-1414-27-26.png" data-alt="Photo 2 — Quand Papa Geek Essaie de Faire Plaisir à Maman : L'Histoire de l'Interrupteur Maudit" aria-label="Agrandir la photo 2 : Photo 2 — Quand Papa Geek Essaie de Faire Plaisir à Maman : L'Histoire de l'Interrupteur Maudit">
+    <img src="images/Capturedcrandu2025-12-1414-27-26.png" alt="Photo 2 — Quand Papa Geek Essaie de Faire Plaisir à Maman : L'Histoire de l'Interrupteur Maudit" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-12-1413-56-15.png" data-full="images/Capturedcrandu2025-12-1413-56-15.png" data-alt="Photo 3 — Quand Papa Geek Essaie de Faire Plaisir à Maman : L'Histoire de l'Interrupteur Maudit" aria-label="Agrandir la photo 3 : Photo 3 — Quand Papa Geek Essaie de Faire Plaisir à Maman : L'Histoire de l'Interrupteur Maudit">
+    <img src="images/Capturedcrandu2025-12-1413-56-15.png" alt="Photo 3 — Quand Papa Geek Essaie de Faire Plaisir à Maman : L'Histoire de l'Interrupteur Maudit" loading="lazy">
+  </a>
+</figure>
+</div>
+<button type="button" class="carousel-nav" data-prev aria-label="Photo précédente">‹</button>
+<button type="button" class="carousel-nav" data-next aria-label="Photo suivante">›</button>
+<div class="carousel-dots" data-dots></div>
+<div class="carousel-live" data-live aria-live="polite"></div>
+<p class="carousel-hint">Faites défiler les photos, ou ouvrez-les pour les agrandir (si JavaScript est activé).</p>
+</section>
+
 # Quand Papa Geek Essaie de Faire Plaisir à Maman : L'Histoire de l'Interrupteur Maudit
 
 - **Catégorie :** [Tutoriels, Guides & Astuces des Membres](https://forumdomotique.com/forums/87-tutoriels-guides-astuces-des-membres/)

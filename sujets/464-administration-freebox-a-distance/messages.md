@@ -6,6 +6,32 @@ date: 2025-10-28
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/464-administration-freebox-%C3%A0-distance/">Lire et commenter sur Forum Domotique</a></p>
 
+
+<section class="carousel photo-carousel" data-carousel data-lightbox aria-roledescription="carrousel" aria-label="Photos de l’article (3)" tabindex="0">
+<div class="carousel-track" data-track>
+<figure class="photo-slide" data-slide>
+  <a href="images/IMG_6149.png" data-full="images/IMG_6149.png" data-alt="Photo 1 — Administration Freebox à distance" aria-label="Agrandir la photo 1 : Photo 1 — Administration Freebox à distance">
+    <img src="images/IMG_6149.png" alt="Photo 1 — Administration Freebox à distance" loading="eager">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/IMG_6148.png" data-full="images/IMG_6148.png" data-alt="Photo 2 — Administration Freebox à distance" aria-label="Agrandir la photo 2 : Photo 2 — Administration Freebox à distance">
+    <img src="images/IMG_6148.png" alt="Photo 2 — Administration Freebox à distance" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/T-l-commande-Freebox-Devialet.png" data-full="images/T-l-commande-Freebox-Devialet.png" data-alt="Photo 3 — Administration Freebox à distance" aria-label="Agrandir la photo 3 : Photo 3 — Administration Freebox à distance">
+    <img src="images/T-l-commande-Freebox-Devialet.png" alt="Photo 3 — Administration Freebox à distance" loading="lazy">
+  </a>
+</figure>
+</div>
+<button type="button" class="carousel-nav" data-prev aria-label="Photo précédente">‹</button>
+<button type="button" class="carousel-nav" data-next aria-label="Photo suivante">›</button>
+<div class="carousel-dots" data-dots></div>
+<div class="carousel-live" data-live aria-live="polite"></div>
+<p class="carousel-hint">Faites défiler les photos, ou ouvrez-les pour les agrandir (si JavaScript est activé).</p>
+</section>
+
 # Administration Freebox à distance
 
 - **Catégorie :** [Vos Tests & Retours d’expérience](https://forumdomotique.com/forums/110-vos-tests-retours-dexp%C3%A9rience/)

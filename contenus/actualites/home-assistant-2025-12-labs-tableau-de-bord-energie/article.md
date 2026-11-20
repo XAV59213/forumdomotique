@@ -3,8 +3,63 @@ title: "Modification de Home Assistant 2025.12 : la mise à jour de décembre 20
 description: "On l'attendait avec impatience, elle arrive pile pour les fêtes ! La mise à jour Home Assistant de décembre 2025 (2025.12), sortie comme prévu le premier…"
 image: /contenus/actualites/home-assistant-2025-12-labs-tableau-de-bord-energie/images/Capturedcrandu2025-11-3016-55-00.png
 date: 2025-11-30
+section: actualites
+tags:
+  - domotique
+  - home-assistant
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/actualites/home-assistant/home-assistant-2025-12-labs-tableau-de-bord-energie/">Lire et commenter sur Forum Domotique</a></p>
+
+
+<section class="carousel photo-carousel" data-carousel data-lightbox aria-roledescription="carrousel" aria-label="Photos de l’article (8)" tabindex="0">
+<div class="carousel-track" data-track>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-11-3016-55-00.png" data-full="images/Capturedcrandu2025-11-3016-55-00.png" data-alt="Photo 1 — Modification de Home Assistant 2025.12 : la mise à jour de décembre 2025 repousse les limites avec les Labs et un tableau de bord énergie boosté" aria-label="Agrandir la photo 1 : Photo 1 — Modification de Home Assistant 2025.12 : la mise à jour de décembre 2025 repousse les limites avec les Labs et un tableau de bord énergie boosté">
+    <img src="images/Capturedcrandu2025-11-3016-55-00.png" alt="Photo 1 — Modification de Home Assistant 2025.12 : la mise à jour de décembre 2025 repousse les limites avec les Labs et un tableau de bord énergie boosté" loading="eager">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-11-3016-55-12.png" data-full="images/Capturedcrandu2025-11-3016-55-12.png" data-alt="Photo 2 — Modification de Home Assistant 2025.12 : la mise à jour de décembre 2025 repousse les limites avec les Labs et un tableau de bord énergie boosté" aria-label="Agrandir la photo 2 : Photo 2 — Modification de Home Assistant 2025.12 : la mise à jour de décembre 2025 repousse les limites avec les Labs et un tableau de bord énergie boosté">
+    <img src="images/Capturedcrandu2025-11-3016-55-12.png" alt="Photo 2 — Modification de Home Assistant 2025.12 : la mise à jour de décembre 2025 repousse les limites avec les Labs et un tableau de bord énergie boosté" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-11-3016-59-05.png" data-full="images/Capturedcrandu2025-11-3016-59-05.png" data-alt="Photo 3 — Modification de Home Assistant 2025.12 : la mise à jour de décembre 2025 repousse les limites avec les Labs et un tableau de bord énergie boosté" aria-label="Agrandir la photo 3 : Photo 3 — Modification de Home Assistant 2025.12 : la mise à jour de décembre 2025 repousse les limites avec les Labs et un tableau de bord énergie boosté">
+    <img src="images/Capturedcrandu2025-11-3016-59-05.png" alt="Photo 3 — Modification de Home Assistant 2025.12 : la mise à jour de décembre 2025 repousse les limites avec les Labs et un tableau de bord énergie boosté" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-11-3016-59-55.png" data-full="images/Capturedcrandu2025-11-3016-59-55.png" data-alt="Photo 4 — Modification de Home Assistant 2025.12 : la mise à jour de décembre 2025 repousse les limites avec les Labs et un tableau de bord énergie boosté" aria-label="Agrandir la photo 4 : Photo 4 — Modification de Home Assistant 2025.12 : la mise à jour de décembre 2025 repousse les limites avec les Labs et un tableau de bord énergie boosté">
+    <img src="images/Capturedcrandu2025-11-3016-59-55.png" alt="Photo 4 — Modification de Home Assistant 2025.12 : la mise à jour de décembre 2025 repousse les limites avec les Labs et un tableau de bord énergie boosté" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-11-3017-01-42.png" data-full="images/Capturedcrandu2025-11-3017-01-42.png" data-alt="Photo 5 — Modification de Home Assistant 2025.12 : la mise à jour de décembre 2025 repousse les limites avec les Labs et un tableau de bord énergie boosté" aria-label="Agrandir la photo 5 : Photo 5 — Modification de Home Assistant 2025.12 : la mise à jour de décembre 2025 repousse les limites avec les Labs et un tableau de bord énergie boosté">
+    <img src="images/Capturedcrandu2025-11-3017-01-42.png" alt="Photo 5 — Modification de Home Assistant 2025.12 : la mise à jour de décembre 2025 repousse les limites avec les Labs et un tableau de bord énergie boosté" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-11-3017-04-27.png" data-full="images/Capturedcrandu2025-11-3017-04-27.png" data-alt="Photo 6 — Modification de Home Assistant 2025.12 : la mise à jour de décembre 2025 repousse les limites avec les Labs et un tableau de bord énergie boosté" aria-label="Agrandir la photo 6 : Photo 6 — Modification de Home Assistant 2025.12 : la mise à jour de décembre 2025 repousse les limites avec les Labs et un tableau de bord énergie boosté">
+    <img src="images/Capturedcrandu2025-11-3017-04-27.png" alt="Photo 6 — Modification de Home Assistant 2025.12 : la mise à jour de décembre 2025 repousse les limites avec les Labs et un tableau de bord énergie boosté" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-11-3017-04-48.png" data-full="images/Capturedcrandu2025-11-3017-04-48.png" data-alt="Photo 7 — Modification de Home Assistant 2025.12 : la mise à jour de décembre 2025 repousse les limites avec les Labs et un tableau de bord énergie boosté" aria-label="Agrandir la photo 7 : Photo 7 — Modification de Home Assistant 2025.12 : la mise à jour de décembre 2025 repousse les limites avec les Labs et un tableau de bord énergie boosté">
+    <img src="images/Capturedcrandu2025-11-3017-04-48.png" alt="Photo 7 — Modification de Home Assistant 2025.12 : la mise à jour de décembre 2025 repousse les limites avec les Labs et un tableau de bord énergie boosté" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-11-3017-04-55.png" data-full="images/Capturedcrandu2025-11-3017-04-55.png" data-alt="Photo 8 — Modification de Home Assistant 2025.12 : la mise à jour de décembre 2025 repousse les limites avec les Labs et un tableau de bord énergie boosté" aria-label="Agrandir la photo 8 : Photo 8 — Modification de Home Assistant 2025.12 : la mise à jour de décembre 2025 repousse les limites avec les Labs et un tableau de bord énergie boosté">
+    <img src="images/Capturedcrandu2025-11-3017-04-55.png" alt="Photo 8 — Modification de Home Assistant 2025.12 : la mise à jour de décembre 2025 repousse les limites avec les Labs et un tableau de bord énergie boosté" loading="lazy">
+  </a>
+</figure>
+</div>
+<button type="button" class="carousel-nav" data-prev aria-label="Photo précédente">‹</button>
+<button type="button" class="carousel-nav" data-next aria-label="Photo suivante">›</button>
+<div class="carousel-dots" data-dots></div>
+<div class="carousel-live" data-live aria-live="polite"></div>
+<p class="carousel-hint">Faites défiler les photos, ou ouvrez-les pour les agrandir (si JavaScript est activé).</p>
+</section>
 
 # Modification de Home Assistant 2025.12 : la mise à jour de décembre 2025 repousse les limites avec les Labs et un tableau de bord énergie boosté
 
@@ -139,6 +194,8 @@ Votre avis nous intéresse ! Vous avez déjà installé la mise à jour Home Ass
 
 ---
 
+<section class="article-comments" id="commentaires">
+
 ## Commentaires de XAV59213 sur cet article (1)
 
 ### Commentaire 1 — 1 décembre 2025 à 16:03 (Europe/Paris)
@@ -147,3 +204,5 @@ Votre avis nous intéresse ! Vous avez déjà installé la mise à jour Home Ass
 - **Lien :** https://forumdomotique.com/actualites/home-assistant/home-assistant-2025-12-labs-tableau-de-bord-energie/?do=findComment&comment=66
 
 Désolé 🤣
+
+</section>

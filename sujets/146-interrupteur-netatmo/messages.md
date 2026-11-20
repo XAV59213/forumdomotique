@@ -6,6 +6,37 @@ date: 2025-11-09
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/146-interrupteur-netatmo/">Lire et commenter sur Forum Domotique</a></p>
 
+
+<section class="carousel photo-carousel" data-carousel data-lightbox aria-roledescription="carrousel" aria-label="Photos de l’article (4)" tabindex="0">
+<div class="carousel-track" data-track>
+<figure class="photo-slide" data-slide>
+  <a href="images/IMG_6227.png" data-full="images/IMG_6227.png" data-alt="Photo 1 — Interrupteur netatmo" aria-label="Agrandir la photo 1 : Photo 1 — Interrupteur netatmo">
+    <img src="images/IMG_6227.png" alt="Photo 1 — Interrupteur netatmo" loading="eager">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/IMG_6228.png" data-full="images/IMG_6228.png" data-alt="Photo 2 — Interrupteur netatmo" aria-label="Agrandir la photo 2 : Photo 2 — Interrupteur netatmo">
+    <img src="images/IMG_6228.png" alt="Photo 2 — Interrupteur netatmo" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/IMG_6229.png" data-full="images/IMG_6229.png" data-alt="Photo 3 — Interrupteur netatmo" aria-label="Agrandir la photo 3 : Photo 3 — Interrupteur netatmo">
+    <img src="images/IMG_6229.png" alt="Photo 3 — Interrupteur netatmo" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/IMG_6230.png" data-full="images/IMG_6230.png" data-alt="Photo 4 — Interrupteur netatmo" aria-label="Agrandir la photo 4 : Photo 4 — Interrupteur netatmo">
+    <img src="images/IMG_6230.png" alt="Photo 4 — Interrupteur netatmo" loading="lazy">
+  </a>
+</figure>
+</div>
+<button type="button" class="carousel-nav" data-prev aria-label="Photo précédente">‹</button>
+<button type="button" class="carousel-nav" data-next aria-label="Photo suivante">›</button>
+<div class="carousel-dots" data-dots></div>
+<div class="carousel-live" data-live aria-live="polite"></div>
+<p class="carousel-hint">Faites défiler les photos, ou ouvrez-les pour les agrandir (si JavaScript est activé).</p>
+</section>
+
 # Interrupteur netatmo
 
 - **Catégorie :** [Netatmo](https://forumdomotique.com/forums/48-netatmo/)

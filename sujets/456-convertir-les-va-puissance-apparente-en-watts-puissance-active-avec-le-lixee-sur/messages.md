@@ -7,6 +7,57 @@ date: 2025-10-21
 {% raw %}
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/456-convertir-les-va-puissance-apparente-en-watts-puissance-active-avec-le-lixee-sur-home-assistant/">Lire et commenter sur Forum Domotique</a></p>
 
+
+<section class="carousel photo-carousel" data-carousel data-lightbox aria-roledescription="carrousel" aria-label="Photos de l’article (8)" tabindex="0">
+<div class="carousel-track" data-track>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-10-2115-15-02.png" data-full="images/Capturedcrandu2025-10-2115-15-02.png" data-alt="Photo 1 — Convertir les VA (Puissance apparente) en Watts (Puissance active) avec le Lixee sur Home Assistant" aria-label="Agrandir la photo 1 : Photo 1 — Convertir les VA (Puissance apparente) en Watts (Puissance active) avec le Lixee sur Home Assistant">
+    <img src="images/Capturedcrandu2025-10-2115-15-02.png" alt="Photo 1 — Convertir les VA (Puissance apparente) en Watts (Puissance active) avec le Lixee sur Home Assistant" loading="eager">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-10-2115-15-14.png" data-full="images/Capturedcrandu2025-10-2115-15-14.png" data-alt="Photo 2 — Convertir les VA (Puissance apparente) en Watts (Puissance active) avec le Lixee sur Home Assistant" aria-label="Agrandir la photo 2 : Photo 2 — Convertir les VA (Puissance apparente) en Watts (Puissance active) avec le Lixee sur Home Assistant">
+    <img src="images/Capturedcrandu2025-10-2115-15-14.png" alt="Photo 2 — Convertir les VA (Puissance apparente) en Watts (Puissance active) avec le Lixee sur Home Assistant" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-10-2115-16-03.png" data-full="images/Capturedcrandu2025-10-2115-16-03.png" data-alt="Photo 3 — Convertir les VA (Puissance apparente) en Watts (Puissance active) avec le Lixee sur Home Assistant" aria-label="Agrandir la photo 3 : Photo 3 — Convertir les VA (Puissance apparente) en Watts (Puissance active) avec le Lixee sur Home Assistant">
+    <img src="images/Capturedcrandu2025-10-2115-16-03.png" alt="Photo 3 — Convertir les VA (Puissance apparente) en Watts (Puissance active) avec le Lixee sur Home Assistant" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-10-2115-16-26.png" data-full="images/Capturedcrandu2025-10-2115-16-26.png" data-alt="Photo 4 — Convertir les VA (Puissance apparente) en Watts (Puissance active) avec le Lixee sur Home Assistant" aria-label="Agrandir la photo 4 : Photo 4 — Convertir les VA (Puissance apparente) en Watts (Puissance active) avec le Lixee sur Home Assistant">
+    <img src="images/Capturedcrandu2025-10-2115-16-26.png" alt="Photo 4 — Convertir les VA (Puissance apparente) en Watts (Puissance active) avec le Lixee sur Home Assistant" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-10-2115-16-45.png" data-full="images/Capturedcrandu2025-10-2115-16-45.png" data-alt="Photo 5 — Convertir les VA (Puissance apparente) en Watts (Puissance active) avec le Lixee sur Home Assistant" aria-label="Agrandir la photo 5 : Photo 5 — Convertir les VA (Puissance apparente) en Watts (Puissance active) avec le Lixee sur Home Assistant">
+    <img src="images/Capturedcrandu2025-10-2115-16-45.png" alt="Photo 5 — Convertir les VA (Puissance apparente) en Watts (Puissance active) avec le Lixee sur Home Assistant" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-10-2115-16-58.png" data-full="images/Capturedcrandu2025-10-2115-16-58.png" data-alt="Photo 6 — Convertir les VA (Puissance apparente) en Watts (Puissance active) avec le Lixee sur Home Assistant" aria-label="Agrandir la photo 6 : Photo 6 — Convertir les VA (Puissance apparente) en Watts (Puissance active) avec le Lixee sur Home Assistant">
+    <img src="images/Capturedcrandu2025-10-2115-16-58.png" alt="Photo 6 — Convertir les VA (Puissance apparente) en Watts (Puissance active) avec le Lixee sur Home Assistant" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-10-2115-39-09.png" data-full="images/Capturedcrandu2025-10-2115-39-09.png" data-alt="Photo 7 — Convertir les VA (Puissance apparente) en Watts (Puissance active) avec le Lixee sur Home Assistant" aria-label="Agrandir la photo 7 : Photo 7 — Convertir les VA (Puissance apparente) en Watts (Puissance active) avec le Lixee sur Home Assistant">
+    <img src="images/Capturedcrandu2025-10-2115-39-09.png" alt="Photo 7 — Convertir les VA (Puissance apparente) en Watts (Puissance active) avec le Lixee sur Home Assistant" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-10-2115-43-55.png" data-full="images/Capturedcrandu2025-10-2115-43-55.png" data-alt="Photo 8 — Convertir les VA (Puissance apparente) en Watts (Puissance active) avec le Lixee sur Home Assistant" aria-label="Agrandir la photo 8 : Photo 8 — Convertir les VA (Puissance apparente) en Watts (Puissance active) avec le Lixee sur Home Assistant">
+    <img src="images/Capturedcrandu2025-10-2115-43-55.png" alt="Photo 8 — Convertir les VA (Puissance apparente) en Watts (Puissance active) avec le Lixee sur Home Assistant" loading="lazy">
+  </a>
+</figure>
+</div>
+<button type="button" class="carousel-nav" data-prev aria-label="Photo précédente">‹</button>
+<button type="button" class="carousel-nav" data-next aria-label="Photo suivante">›</button>
+<div class="carousel-dots" data-dots></div>
+<div class="carousel-live" data-live aria-live="polite"></div>
+<p class="carousel-hint">Faites défiler les photos, ou ouvrez-les pour les agrandir (si JavaScript est activé).</p>
+</section>
+
 # Convertir les VA (Puissance apparente) en Watts (Puissance active) avec le Lixee sur Home Assistant
 
 - **Catégorie :** [Projets et Personnalisations](https://forumdomotique.com/forums/12-projets-et-personnalisations/)

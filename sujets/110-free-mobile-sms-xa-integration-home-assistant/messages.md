@@ -6,6 +6,42 @@ date: 2025-05-03
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/110-%F0%9F%93%A8-free-mobile-sms-xa-int%C3%A9gration-home-assistant/">Lire et commenter sur Forum Domotique</a> · <a href="https://github.com/XAV59213/freesmsxa">Dépôt HACS : Free Mobile SMS XA</a></p>
 
+
+<section class="carousel photo-carousel" data-carousel data-lightbox aria-roledescription="carrousel" aria-label="Photos de l’article (5)" tabindex="0">
+<div class="carousel-track" data-track>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-05-0308-33-31.png" data-full="images/Capturedcrandu2025-05-0308-33-31.png" data-alt="Photo 1 — 📨 Free Mobile SMS XA – Intégration Home Assistant" aria-label="Agrandir la photo 1 : Photo 1 — 📨 Free Mobile SMS XA – Intégration Home Assistant">
+    <img src="images/Capturedcrandu2025-05-0308-33-31.png" alt="Photo 1 — 📨 Free Mobile SMS XA – Intégration Home Assistant" loading="eager">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/IMG_7381.png" data-full="images/IMG_7381.png" data-alt="Photo 2 — 📨 Free Mobile SMS XA – Intégration Home Assistant" aria-label="Agrandir la photo 2 : Photo 2 — 📨 Free Mobile SMS XA – Intégration Home Assistant">
+    <img src="images/IMG_7381.png" alt="Photo 2 — 📨 Free Mobile SMS XA – Intégration Home Assistant" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/token.png" data-full="images/token.png" data-alt="Photo 3 — 📨 Free Mobile SMS XA – Intégration Home Assistant" aria-label="Agrandir la photo 3 : Photo 3 — 📨 Free Mobile SMS XA – Intégration Home Assistant">
+    <img src="images/token.png" alt="Photo 3 — 📨 Free Mobile SMS XA – Intégration Home Assistant" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capture_d_ecran_du_2025-05-02_11-11-45.png" data-full="images/Capture_d_ecran_du_2025-05-02_11-11-45.png" data-alt="Photo 4 — 📨 Free Mobile SMS XA – Intégration Home Assistant" aria-label="Agrandir la photo 4 : Photo 4 — 📨 Free Mobile SMS XA – Intégration Home Assistant">
+    <img src="images/Capture_d_ecran_du_2025-05-02_11-11-45.png" alt="Photo 4 — 📨 Free Mobile SMS XA – Intégration Home Assistant" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capture_d_ecran_du_2025-05-02_11-12-06.png" data-full="images/Capture_d_ecran_du_2025-05-02_11-12-06.png" data-alt="Photo 5 — 📨 Free Mobile SMS XA – Intégration Home Assistant" aria-label="Agrandir la photo 5 : Photo 5 — 📨 Free Mobile SMS XA – Intégration Home Assistant">
+    <img src="images/Capture_d_ecran_du_2025-05-02_11-12-06.png" alt="Photo 5 — 📨 Free Mobile SMS XA – Intégration Home Assistant" loading="lazy">
+  </a>
+</figure>
+</div>
+<button type="button" class="carousel-nav" data-prev aria-label="Photo précédente">‹</button>
+<button type="button" class="carousel-nav" data-next aria-label="Photo suivante">›</button>
+<div class="carousel-dots" data-dots></div>
+<div class="carousel-live" data-live aria-live="polite"></div>
+<p class="carousel-hint">Faites défiler les photos, ou ouvrez-les pour les agrandir (si JavaScript est activé).</p>
+</section>
+
 # 📨 Free Mobile SMS XA – Intégration Home Assistant
 
 - **Catégorie :** [Projets et Personnalisations](https://forumdomotique.com/forums/12-projets-et-personnalisations/)

@@ -6,6 +6,87 @@ date: 2025-09-20
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/390-slzb-mr2-silicon-labs-multiprotocol-ne-d%C3%A9marre-pas-et-lixee-zlinky-tic-sans-entit%C3%A9s-dans-zigbee2mqtt/">Lire et commenter sur Forum Domotique</a></p>
 
+
+<section class="carousel photo-carousel" data-carousel data-lightbox aria-roledescription="carrousel" aria-label="Photos de l’article (14)" tabindex="0">
+<div class="carousel-track" data-track>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-09-2015-22-23.png" data-full="images/Capturedcrandu2025-09-2015-22-23.png" data-alt="Photo 1 — slzb-mr2: Silicon Labs Multiprotocol ne démarre pas et LiXee ZLinky TIC sans entités dans Zigbee2MQTT" aria-label="Agrandir la photo 1 : Photo 1 — slzb-mr2: Silicon Labs Multiprotocol ne démarre pas et LiXee ZLinky TIC sans entités dans Zigbee2MQTT">
+    <img src="images/Capturedcrandu2025-09-2015-22-23.png" alt="Photo 1 — slzb-mr2: Silicon Labs Multiprotocol ne démarre pas et LiXee ZLinky TIC sans entités dans Zigbee2MQTT" loading="eager">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/IMG_5913.jpeg" data-full="images/IMG_5913.jpeg" data-alt="Photo 2 — slzb-mr2: Silicon Labs Multiprotocol ne démarre pas et LiXee ZLinky TIC sans entités dans Zigbee2MQTT" aria-label="Agrandir la photo 2 : Photo 2 — slzb-mr2: Silicon Labs Multiprotocol ne démarre pas et LiXee ZLinky TIC sans entités dans Zigbee2MQTT">
+    <img src="images/IMG_5913.jpeg" alt="Photo 2 — slzb-mr2: Silicon Labs Multiprotocol ne démarre pas et LiXee ZLinky TIC sans entités dans Zigbee2MQTT" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-09-2215-07-45.png" data-full="images/Capturedcrandu2025-09-2215-07-45.png" data-alt="Photo 3 — slzb-mr2: Silicon Labs Multiprotocol ne démarre pas et LiXee ZLinky TIC sans entités dans Zigbee2MQTT" aria-label="Agrandir la photo 3 : Photo 3 — slzb-mr2: Silicon Labs Multiprotocol ne démarre pas et LiXee ZLinky TIC sans entités dans Zigbee2MQTT">
+    <img src="images/Capturedcrandu2025-09-2215-07-45.png" alt="Photo 3 — slzb-mr2: Silicon Labs Multiprotocol ne démarre pas et LiXee ZLinky TIC sans entités dans Zigbee2MQTT" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-09-2215-13-09.png" data-full="images/Capturedcrandu2025-09-2215-13-09.png" data-alt="Photo 4 — slzb-mr2: Silicon Labs Multiprotocol ne démarre pas et LiXee ZLinky TIC sans entités dans Zigbee2MQTT" aria-label="Agrandir la photo 4 : Photo 4 — slzb-mr2: Silicon Labs Multiprotocol ne démarre pas et LiXee ZLinky TIC sans entités dans Zigbee2MQTT">
+    <img src="images/Capturedcrandu2025-09-2215-13-09.png" alt="Photo 4 — slzb-mr2: Silicon Labs Multiprotocol ne démarre pas et LiXee ZLinky TIC sans entités dans Zigbee2MQTT" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/IMG_5914.jpeg" data-full="images/IMG_5914.jpeg" data-alt="Photo 5 — slzb-mr2: Silicon Labs Multiprotocol ne démarre pas et LiXee ZLinky TIC sans entités dans Zigbee2MQTT" aria-label="Agrandir la photo 5 : Photo 5 — slzb-mr2: Silicon Labs Multiprotocol ne démarre pas et LiXee ZLinky TIC sans entités dans Zigbee2MQTT">
+    <img src="images/IMG_5914.jpeg" alt="Photo 5 — slzb-mr2: Silicon Labs Multiprotocol ne démarre pas et LiXee ZLinky TIC sans entités dans Zigbee2MQTT" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-09-2216-50-45.png" data-full="images/Capturedcrandu2025-09-2216-50-45.png" data-alt="Photo 6 — slzb-mr2: Silicon Labs Multiprotocol ne démarre pas et LiXee ZLinky TIC sans entités dans Zigbee2MQTT" aria-label="Agrandir la photo 6 : Photo 6 — slzb-mr2: Silicon Labs Multiprotocol ne démarre pas et LiXee ZLinky TIC sans entités dans Zigbee2MQTT">
+    <img src="images/Capturedcrandu2025-09-2216-50-45.png" alt="Photo 6 — slzb-mr2: Silicon Labs Multiprotocol ne démarre pas et LiXee ZLinky TIC sans entités dans Zigbee2MQTT" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/ZLinky_Blink_OK.gif" data-full="images/ZLinky_Blink_OK.gif" data-alt="Photo 7 — slzb-mr2: Silicon Labs Multiprotocol ne démarre pas et LiXee ZLinky TIC sans entités dans Zigbee2MQTT" aria-label="Agrandir la photo 7 : Photo 7 — slzb-mr2: Silicon Labs Multiprotocol ne démarre pas et LiXee ZLinky TIC sans entités dans Zigbee2MQTT">
+    <img src="images/ZLinky_Blink_OK.gif" alt="Photo 7 — slzb-mr2: Silicon Labs Multiprotocol ne démarre pas et LiXee ZLinky TIC sans entités dans Zigbee2MQTT" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-09-2316-24-14.png" data-full="images/Capturedcrandu2025-09-2316-24-14.png" data-alt="Photo 8 — slzb-mr2: Silicon Labs Multiprotocol ne démarre pas et LiXee ZLinky TIC sans entités dans Zigbee2MQTT" aria-label="Agrandir la photo 8 : Photo 8 — slzb-mr2: Silicon Labs Multiprotocol ne démarre pas et LiXee ZLinky TIC sans entités dans Zigbee2MQTT">
+    <img src="images/Capturedcrandu2025-09-2316-24-14.png" alt="Photo 8 — slzb-mr2: Silicon Labs Multiprotocol ne démarre pas et LiXee ZLinky TIC sans entités dans Zigbee2MQTT" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-09-2317-00-40.png" data-full="images/Capturedcrandu2025-09-2317-00-40.png" data-alt="Photo 9 — slzb-mr2: Silicon Labs Multiprotocol ne démarre pas et LiXee ZLinky TIC sans entités dans Zigbee2MQTT" aria-label="Agrandir la photo 9 : Photo 9 — slzb-mr2: Silicon Labs Multiprotocol ne démarre pas et LiXee ZLinky TIC sans entités dans Zigbee2MQTT">
+    <img src="images/Capturedcrandu2025-09-2317-00-40.png" alt="Photo 9 — slzb-mr2: Silicon Labs Multiprotocol ne démarre pas et LiXee ZLinky TIC sans entités dans Zigbee2MQTT" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-09-2317-31-20.png" data-full="images/Capturedcrandu2025-09-2317-31-20.png" data-alt="Photo 10 — slzb-mr2: Silicon Labs Multiprotocol ne démarre pas et LiXee ZLinky TIC sans entités dans Zigbee2MQTT" aria-label="Agrandir la photo 10 : Photo 10 — slzb-mr2: Silicon Labs Multiprotocol ne démarre pas et LiXee ZLinky TIC sans entités dans Zigbee2MQTT">
+    <img src="images/Capturedcrandu2025-09-2317-31-20.png" alt="Photo 10 — slzb-mr2: Silicon Labs Multiprotocol ne démarre pas et LiXee ZLinky TIC sans entités dans Zigbee2MQTT" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-09-2317-04-11.png" data-full="images/Capturedcrandu2025-09-2317-04-11.png" data-alt="Photo 11 — slzb-mr2: Silicon Labs Multiprotocol ne démarre pas et LiXee ZLinky TIC sans entités dans Zigbee2MQTT" aria-label="Agrandir la photo 11 : Photo 11 — slzb-mr2: Silicon Labs Multiprotocol ne démarre pas et LiXee ZLinky TIC sans entités dans Zigbee2MQTT">
+    <img src="images/Capturedcrandu2025-09-2317-04-11.png" alt="Photo 11 — slzb-mr2: Silicon Labs Multiprotocol ne démarre pas et LiXee ZLinky TIC sans entités dans Zigbee2MQTT" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-09-2317-12-13.png" data-full="images/Capturedcrandu2025-09-2317-12-13.png" data-alt="Photo 12 — slzb-mr2: Silicon Labs Multiprotocol ne démarre pas et LiXee ZLinky TIC sans entités dans Zigbee2MQTT" aria-label="Agrandir la photo 12 : Photo 12 — slzb-mr2: Silicon Labs Multiprotocol ne démarre pas et LiXee ZLinky TIC sans entités dans Zigbee2MQTT">
+    <img src="images/Capturedcrandu2025-09-2317-12-13.png" alt="Photo 12 — slzb-mr2: Silicon Labs Multiprotocol ne démarre pas et LiXee ZLinky TIC sans entités dans Zigbee2MQTT" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-09-2317-23-26.png" data-full="images/Capturedcrandu2025-09-2317-23-26.png" data-alt="Photo 13 — slzb-mr2: Silicon Labs Multiprotocol ne démarre pas et LiXee ZLinky TIC sans entités dans Zigbee2MQTT" aria-label="Agrandir la photo 13 : Photo 13 — slzb-mr2: Silicon Labs Multiprotocol ne démarre pas et LiXee ZLinky TIC sans entités dans Zigbee2MQTT">
+    <img src="images/Capturedcrandu2025-09-2317-23-26.png" alt="Photo 13 — slzb-mr2: Silicon Labs Multiprotocol ne démarre pas et LiXee ZLinky TIC sans entités dans Zigbee2MQTT" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-09-2317-49-44.png" data-full="images/Capturedcrandu2025-09-2317-49-44.png" data-alt="Photo 14 — slzb-mr2: Silicon Labs Multiprotocol ne démarre pas et LiXee ZLinky TIC sans entités dans Zigbee2MQTT" aria-label="Agrandir la photo 14 : Photo 14 — slzb-mr2: Silicon Labs Multiprotocol ne démarre pas et LiXee ZLinky TIC sans entités dans Zigbee2MQTT">
+    <img src="images/Capturedcrandu2025-09-2317-49-44.png" alt="Photo 14 — slzb-mr2: Silicon Labs Multiprotocol ne démarre pas et LiXee ZLinky TIC sans entités dans Zigbee2MQTT" loading="lazy">
+  </a>
+</figure>
+</div>
+<button type="button" class="carousel-nav" data-prev aria-label="Photo précédente">‹</button>
+<button type="button" class="carousel-nav" data-next aria-label="Photo suivante">›</button>
+<div class="carousel-dots" data-dots></div>
+<div class="carousel-live" data-live aria-live="polite"></div>
+<p class="carousel-hint">Faites défiler les photos, ou ouvrez-les pour les agrandir (si JavaScript est activé).</p>
+</section>
+
 # slzb-mr2: Silicon Labs Multiprotocol ne démarre pas et LiXee ZLinky TIC sans entités dans Zigbee2MQTT
 
 - **Catégorie :** [Installation et Configuration](https://forumdomotique.com/forums/8-installation-et-configuration/)

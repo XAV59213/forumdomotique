@@ -6,6 +6,32 @@ date: 2025-04-28
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/86-double-va-et-vient-avec-une-petite-anomalie/">Lire et commenter sur Forum Domotique</a></p>
 
+
+<section class="carousel photo-carousel" data-carousel data-lightbox aria-roledescription="carrousel" aria-label="Photos de l’article (3)" tabindex="0">
+<div class="carousel-track" data-track>
+<figure class="photo-slide" data-slide>
+  <a href="images/sonoffzm.png" data-full="images/sonoffzm.png" data-alt="Photo 1 — Double \\\\"va et vient\\\\" avec une petite anomalie" aria-label="Agrandir la photo 1 : Photo 1 — Double \\\\"va et vient\\\\" avec une petite anomalie">
+    <img src="images/sonoffzm.png" alt="Photo 1 — Double \\\\"va et vient\\\\" avec une petite anomalie" loading="eager">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/AD_4nXfwPwPmKHvameRqT0Qt5Z_ygbGYd8XoOtxeLNHRW2NACwREcaVGO3mocH141q0sa95Mo2V-97pao6l_qb-QT0KVEnavy9x26u8B1FqJbqntHXE3pglF.jpg" data-full="images/AD_4nXfwPwPmKHvameRqT0Qt5Z_ygbGYd8XoOtxeLNHRW2NACwREcaVGO3mocH141q0sa95Mo2V-97pao6l_qb-QT0KVEnavy9x26u8B1FqJbqntHXE3pglF.jpg" data-alt="Photo 2 — Double \\\\"va et vient\\\\" avec une petite anomalie" aria-label="Agrandir la photo 2 : Photo 2 — Double \\\\"va et vient\\\\" avec une petite anomalie">
+    <img src="images/AD_4nXfwPwPmKHvameRqT0Qt5Z_ygbGYd8XoOtxeLNHRW2NACwREcaVGO3mocH141q0sa95Mo2V-97pao6l_qb-QT0KVEnavy9x26u8B1FqJbqntHXE3pglF.jpg" alt="Photo 2 — Double \\\\"va et vient\\\\" avec une petite anomalie" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/AD_4nXc22wj-U-yn1gjm3kcAXZMwUPuPMtJJGLmYUwE9m4JvOtW6kHbRyrkmiP7p4EsAMZZvQVN4EeHb6pavdsXv8YVE-_YWxIzplnirSQlwionTjOMdcgTf.jpg" data-full="images/AD_4nXc22wj-U-yn1gjm3kcAXZMwUPuPMtJJGLmYUwE9m4JvOtW6kHbRyrkmiP7p4EsAMZZvQVN4EeHb6pavdsXv8YVE-_YWxIzplnirSQlwionTjOMdcgTf.jpg" data-alt="Photo 3 — Double \\\\"va et vient\\\\" avec une petite anomalie" aria-label="Agrandir la photo 3 : Photo 3 — Double \\\\"va et vient\\\\" avec une petite anomalie">
+    <img src="images/AD_4nXc22wj-U-yn1gjm3kcAXZMwUPuPMtJJGLmYUwE9m4JvOtW6kHbRyrkmiP7p4EsAMZZvQVN4EeHb6pavdsXv8YVE-_YWxIzplnirSQlwionTjOMdcgTf.jpg" alt="Photo 3 — Double \\\\"va et vient\\\\" avec une petite anomalie" loading="lazy">
+  </a>
+</figure>
+</div>
+<button type="button" class="carousel-nav" data-prev aria-label="Photo précédente">‹</button>
+<button type="button" class="carousel-nav" data-next aria-label="Photo suivante">›</button>
+<div class="carousel-dots" data-dots></div>
+<div class="carousel-live" data-live aria-live="polite"></div>
+<p class="carousel-hint">Faites défiler les photos, ou ouvrez-les pour les agrandir (si JavaScript est activé).</p>
+</section>
+
 # Double "va et vient" avec une petite anomalie
 
 - **Catégorie :** [Lidl Smart Home (Silvercrest & Livarno)](https://forumdomotique.com/forums/90-lidl-smart-home-silvercrest-livarno/)

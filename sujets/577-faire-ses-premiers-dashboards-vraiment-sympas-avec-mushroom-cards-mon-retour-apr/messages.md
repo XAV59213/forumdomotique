@@ -7,6 +7,77 @@ date: 2025-12-01
 {% raw %}
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/577-faire-ses-premiers-dashboards-vraiment-sympas-avec-mushroom-cards-mon-retour-apr%C3%A8s-plusieurs-mois-dutilisation-intensive-sur-home-assistant/">Lire et commenter sur Forum Domotique</a></p>
 
+
+<section class="carousel photo-carousel" data-carousel data-lightbox aria-roledescription="carrousel" aria-label="Photos de l’article (12)" tabindex="0">
+<div class="carousel-track" data-track>
+<figure class="photo-slide" data-slide>
+  <a href="images/index.png" data-full="images/index.png" data-alt="Photo 1 — Faire ses premiers dashboards vraiment sympas avec Mushroom Cards : mon retour après plusieurs mois d’utilisation intensive sur home assistant" aria-label="Agrandir la photo 1 : Photo 1 — Faire ses premiers dashboards vraiment sympas avec Mushroom Cards : mon retour après plusieurs mois d’utilisation intensive sur home assistant">
+    <img src="images/index.png" alt="Photo 1 — Faire ses premiers dashboards vraiment sympas avec Mushroom Cards : mon retour après plusieurs mois d’utilisation intensive sur home assistant" loading="eager">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-12-0116-33-14.png" data-full="images/Capturedcrandu2025-12-0116-33-14.png" data-alt="Photo 2 — Faire ses premiers dashboards vraiment sympas avec Mushroom Cards : mon retour après plusieurs mois d’utilisation intensive sur home assistant" aria-label="Agrandir la photo 2 : Photo 2 — Faire ses premiers dashboards vraiment sympas avec Mushroom Cards : mon retour après plusieurs mois d’utilisation intensive sur home assistant">
+    <img src="images/Capturedcrandu2025-12-0116-33-14.png" alt="Photo 2 — Faire ses premiers dashboards vraiment sympas avec Mushroom Cards : mon retour après plusieurs mois d’utilisation intensive sur home assistant" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-12-0116-33-06.png" data-full="images/Capturedcrandu2025-12-0116-33-06.png" data-alt="Photo 3 — Faire ses premiers dashboards vraiment sympas avec Mushroom Cards : mon retour après plusieurs mois d’utilisation intensive sur home assistant" aria-label="Agrandir la photo 3 : Photo 3 — Faire ses premiers dashboards vraiment sympas avec Mushroom Cards : mon retour après plusieurs mois d’utilisation intensive sur home assistant">
+    <img src="images/Capturedcrandu2025-12-0116-33-06.png" alt="Photo 3 — Faire ses premiers dashboards vraiment sympas avec Mushroom Cards : mon retour après plusieurs mois d’utilisation intensive sur home assistant" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-12-0116-44-46.png" data-full="images/Capturedcrandu2025-12-0116-44-46.png" data-alt="Photo 4 — Faire ses premiers dashboards vraiment sympas avec Mushroom Cards : mon retour après plusieurs mois d’utilisation intensive sur home assistant" aria-label="Agrandir la photo 4 : Photo 4 — Faire ses premiers dashboards vraiment sympas avec Mushroom Cards : mon retour après plusieurs mois d’utilisation intensive sur home assistant">
+    <img src="images/Capturedcrandu2025-12-0116-44-46.png" alt="Photo 4 — Faire ses premiers dashboards vraiment sympas avec Mushroom Cards : mon retour après plusieurs mois d’utilisation intensive sur home assistant" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-12-0116-46-51.png" data-full="images/Capturedcrandu2025-12-0116-46-51.png" data-alt="Photo 5 — Faire ses premiers dashboards vraiment sympas avec Mushroom Cards : mon retour après plusieurs mois d’utilisation intensive sur home assistant" aria-label="Agrandir la photo 5 : Photo 5 — Faire ses premiers dashboards vraiment sympas avec Mushroom Cards : mon retour après plusieurs mois d’utilisation intensive sur home assistant">
+    <img src="images/Capturedcrandu2025-12-0116-46-51.png" alt="Photo 5 — Faire ses premiers dashboards vraiment sympas avec Mushroom Cards : mon retour après plusieurs mois d’utilisation intensive sur home assistant" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-12-0116-49-32.png" data-full="images/Capturedcrandu2025-12-0116-49-32.png" data-alt="Photo 6 — Faire ses premiers dashboards vraiment sympas avec Mushroom Cards : mon retour après plusieurs mois d’utilisation intensive sur home assistant" aria-label="Agrandir la photo 6 : Photo 6 — Faire ses premiers dashboards vraiment sympas avec Mushroom Cards : mon retour après plusieurs mois d’utilisation intensive sur home assistant">
+    <img src="images/Capturedcrandu2025-12-0116-49-32.png" alt="Photo 6 — Faire ses premiers dashboards vraiment sympas avec Mushroom Cards : mon retour après plusieurs mois d’utilisation intensive sur home assistant" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-12-0117-04-28.png" data-full="images/Capturedcrandu2025-12-0117-04-28.png" data-alt="Photo 7 — Faire ses premiers dashboards vraiment sympas avec Mushroom Cards : mon retour après plusieurs mois d’utilisation intensive sur home assistant" aria-label="Agrandir la photo 7 : Photo 7 — Faire ses premiers dashboards vraiment sympas avec Mushroom Cards : mon retour après plusieurs mois d’utilisation intensive sur home assistant">
+    <img src="images/Capturedcrandu2025-12-0117-04-28.png" alt="Photo 7 — Faire ses premiers dashboards vraiment sympas avec Mushroom Cards : mon retour après plusieurs mois d’utilisation intensive sur home assistant" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-12-0117-05-45.png" data-full="images/Capturedcrandu2025-12-0117-05-45.png" data-alt="Photo 8 — Faire ses premiers dashboards vraiment sympas avec Mushroom Cards : mon retour après plusieurs mois d’utilisation intensive sur home assistant" aria-label="Agrandir la photo 8 : Photo 8 — Faire ses premiers dashboards vraiment sympas avec Mushroom Cards : mon retour après plusieurs mois d’utilisation intensive sur home assistant">
+    <img src="images/Capturedcrandu2025-12-0117-05-45.png" alt="Photo 8 — Faire ses premiers dashboards vraiment sympas avec Mushroom Cards : mon retour après plusieurs mois d’utilisation intensive sur home assistant" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-12-0117-21-14.png" data-full="images/Capturedcrandu2025-12-0117-21-14.png" data-alt="Photo 9 — Faire ses premiers dashboards vraiment sympas avec Mushroom Cards : mon retour après plusieurs mois d’utilisation intensive sur home assistant" aria-label="Agrandir la photo 9 : Photo 9 — Faire ses premiers dashboards vraiment sympas avec Mushroom Cards : mon retour après plusieurs mois d’utilisation intensive sur home assistant">
+    <img src="images/Capturedcrandu2025-12-0117-21-14.png" alt="Photo 9 — Faire ses premiers dashboards vraiment sympas avec Mushroom Cards : mon retour après plusieurs mois d’utilisation intensive sur home assistant" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-12-0117-26-40.png" data-full="images/Capturedcrandu2025-12-0117-26-40.png" data-alt="Photo 10 — Faire ses premiers dashboards vraiment sympas avec Mushroom Cards : mon retour après plusieurs mois d’utilisation intensive sur home assistant" aria-label="Agrandir la photo 10 : Photo 10 — Faire ses premiers dashboards vraiment sympas avec Mushroom Cards : mon retour après plusieurs mois d’utilisation intensive sur home assistant">
+    <img src="images/Capturedcrandu2025-12-0117-26-40.png" alt="Photo 10 — Faire ses premiers dashboards vraiment sympas avec Mushroom Cards : mon retour après plusieurs mois d’utilisation intensive sur home assistant" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-12-0117-29-08.png" data-full="images/Capturedcrandu2025-12-0117-29-08.png" data-alt="Photo 11 — Faire ses premiers dashboards vraiment sympas avec Mushroom Cards : mon retour après plusieurs mois d’utilisation intensive sur home assistant" aria-label="Agrandir la photo 11 : Photo 11 — Faire ses premiers dashboards vraiment sympas avec Mushroom Cards : mon retour après plusieurs mois d’utilisation intensive sur home assistant">
+    <img src="images/Capturedcrandu2025-12-0117-29-08.png" alt="Photo 11 — Faire ses premiers dashboards vraiment sympas avec Mushroom Cards : mon retour après plusieurs mois d’utilisation intensive sur home assistant" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-12-0118-02-03.png" data-full="images/Capturedcrandu2025-12-0118-02-03.png" data-alt="Photo 12 — Faire ses premiers dashboards vraiment sympas avec Mushroom Cards : mon retour après plusieurs mois d’utilisation intensive sur home assistant" aria-label="Agrandir la photo 12 : Photo 12 — Faire ses premiers dashboards vraiment sympas avec Mushroom Cards : mon retour après plusieurs mois d’utilisation intensive sur home assistant">
+    <img src="images/Capturedcrandu2025-12-0118-02-03.png" alt="Photo 12 — Faire ses premiers dashboards vraiment sympas avec Mushroom Cards : mon retour après plusieurs mois d’utilisation intensive sur home assistant" loading="lazy">
+  </a>
+</figure>
+</div>
+<button type="button" class="carousel-nav" data-prev aria-label="Photo précédente">‹</button>
+<button type="button" class="carousel-nav" data-next aria-label="Photo suivante">›</button>
+<div class="carousel-dots" data-dots></div>
+<div class="carousel-live" data-live aria-live="polite"></div>
+<p class="carousel-hint">Faites défiler les photos, ou ouvrez-les pour les agrandir (si JavaScript est activé).</p>
+</section>
+
 # Faire ses premiers dashboards vraiment sympas avec Mushroom Cards : mon retour après plusieurs mois d’utilisation intensive sur home assistant
 
 - **Catégorie :** [Intégrations et Add-ons](https://forumdomotique.com/forums/11-int%C3%A9grations-et-add-ons/)

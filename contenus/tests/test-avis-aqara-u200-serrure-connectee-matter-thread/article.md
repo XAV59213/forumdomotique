@@ -1,10 +1,109 @@
 ---
 title: "Test et avis Aqara U200 : une serrure Matter et Thread vraiment taillée pour Home Assistant"
 description: "Dans cet article, je vous partage mon retour d’expérience complet sur l’installation et l’utilisation de la Aqara U200 , accompagnée de son cylindre vendu…"
-image: /contenus/tests/test-avis-aqara-u200-serrure-connectee-matter-thread/images/logo_domadoo.png
+image: /contenus/tests/test-avis-aqara-u200-serrure-connectee-matter-thread/images/x-l6LUTj.jpeg
 date: 2025-12-28
+section: tests
+product: U200
+brand: Aqara
+tags:
+  - domotique
+  - sécurité
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/tests/securite-surveillance/test-avis-aqara-u200-serrure-connectee-matter-thread/">Lire et commenter sur Forum Domotique</a></p>
+
+
+{% include product-meta.html %}
+
+<section class="carousel photo-carousel" data-carousel data-lightbox aria-roledescription="carrousel" aria-label="Photos de l’article (16)" tabindex="0">
+<div class="carousel-track" data-track>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-12-1311-21-29.png" data-full="images/Capturedcrandu2025-12-1311-21-29.png" data-alt="Photo 1 — Test et avis Aqara U200 : une serrure Matter et Thread vraiment taillée pour Home Assistant" aria-label="Agrandir la photo 1 : Photo 1 — Test et avis Aqara U200 : une serrure Matter et Thread vraiment taillée pour Home Assistant">
+    <img src="images/Capturedcrandu2025-12-1311-21-29.png" alt="Photo 1 — Test et avis Aqara U200 : une serrure Matter et Thread vraiment taillée pour Home Assistant" loading="eager">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-12-1311-05-10.png" data-full="images/Capturedcrandu2025-12-1311-05-10.png" data-alt="Photo 2 — Test et avis Aqara U200 : une serrure Matter et Thread vraiment taillée pour Home Assistant" aria-label="Agrandir la photo 2 : Photo 2 — Test et avis Aqara U200 : une serrure Matter et Thread vraiment taillée pour Home Assistant">
+    <img src="images/Capturedcrandu2025-12-1311-05-10.png" alt="Photo 2 — Test et avis Aqara U200 : une serrure Matter et Thread vraiment taillée pour Home Assistant" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-12-1310-48-56.png" data-full="images/Capturedcrandu2025-12-1310-48-56.png" data-alt="Photo 3 — Test et avis Aqara U200 : une serrure Matter et Thread vraiment taillée pour Home Assistant" aria-label="Agrandir la photo 3 : Photo 3 — Test et avis Aqara U200 : une serrure Matter et Thread vraiment taillée pour Home Assistant">
+    <img src="images/Capturedcrandu2025-12-1310-48-56.png" alt="Photo 3 — Test et avis Aqara U200 : une serrure Matter et Thread vraiment taillée pour Home Assistant" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-12-1311-08-14.png" data-full="images/Capturedcrandu2025-12-1311-08-14.png" data-alt="Photo 4 — Test et avis Aqara U200 : une serrure Matter et Thread vraiment taillée pour Home Assistant" aria-label="Agrandir la photo 4 : Photo 4 — Test et avis Aqara U200 : une serrure Matter et Thread vraiment taillée pour Home Assistant">
+    <img src="images/Capturedcrandu2025-12-1311-08-14.png" alt="Photo 4 — Test et avis Aqara U200 : une serrure Matter et Thread vraiment taillée pour Home Assistant" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/x-l6LUTj.jpeg" data-full="images/x-l6LUTj.jpeg" data-alt="Photo 5 — Test et avis Aqara U200 : une serrure Matter et Thread vraiment taillée pour Home Assistant" aria-label="Agrandir la photo 5 : Photo 5 — Test et avis Aqara U200 : une serrure Matter et Thread vraiment taillée pour Home Assistant">
+    <img src="images/x-l6LUTj.jpeg" alt="Photo 5 — Test et avis Aqara U200 : une serrure Matter et Thread vraiment taillée pour Home Assistant" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/4frnqyFb.jpeg" data-full="images/4frnqyFb.jpeg" data-alt="Photo 6 — Test et avis Aqara U200 : une serrure Matter et Thread vraiment taillée pour Home Assistant" aria-label="Agrandir la photo 6 : Photo 6 — Test et avis Aqara U200 : une serrure Matter et Thread vraiment taillée pour Home Assistant">
+    <img src="images/4frnqyFb.jpeg" alt="Photo 6 — Test et avis Aqara U200 : une serrure Matter et Thread vraiment taillée pour Home Assistant" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-12-1311-52-37.png" data-full="images/Capturedcrandu2025-12-1311-52-37.png" data-alt="Photo 7 — Test et avis Aqara U200 : une serrure Matter et Thread vraiment taillée pour Home Assistant" aria-label="Agrandir la photo 7 : Photo 7 — Test et avis Aqara U200 : une serrure Matter et Thread vraiment taillée pour Home Assistant">
+    <img src="images/Capturedcrandu2025-12-1311-52-37.png" alt="Photo 7 — Test et avis Aqara U200 : une serrure Matter et Thread vraiment taillée pour Home Assistant" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-12-1311-53-47.png" data-full="images/Capturedcrandu2025-12-1311-53-47.png" data-alt="Photo 8 — Test et avis Aqara U200 : une serrure Matter et Thread vraiment taillée pour Home Assistant" aria-label="Agrandir la photo 8 : Photo 8 — Test et avis Aqara U200 : une serrure Matter et Thread vraiment taillée pour Home Assistant">
+    <img src="images/Capturedcrandu2025-12-1311-53-47.png" alt="Photo 8 — Test et avis Aqara U200 : une serrure Matter et Thread vraiment taillée pour Home Assistant" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/aqa0.jpeg" data-full="images/aqa0.jpeg" data-alt="Photo 9 — Test et avis Aqara U200 : une serrure Matter et Thread vraiment taillée pour Home Assistant" aria-label="Agrandir la photo 9 : Photo 9 — Test et avis Aqara U200 : une serrure Matter et Thread vraiment taillée pour Home Assistant">
+    <img src="images/aqa0.jpeg" alt="Photo 9 — Test et avis Aqara U200 : une serrure Matter et Thread vraiment taillée pour Home Assistant" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/aqa2.jpeg" data-full="images/aqa2.jpeg" data-alt="Photo 10 — Test et avis Aqara U200 : une serrure Matter et Thread vraiment taillée pour Home Assistant" aria-label="Agrandir la photo 10 : Photo 10 — Test et avis Aqara U200 : une serrure Matter et Thread vraiment taillée pour Home Assistant">
+    <img src="images/aqa2.jpeg" alt="Photo 10 — Test et avis Aqara U200 : une serrure Matter et Thread vraiment taillée pour Home Assistant" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/aqa4.jpeg" data-full="images/aqa4.jpeg" data-alt="Photo 11 — Test et avis Aqara U200 : une serrure Matter et Thread vraiment taillée pour Home Assistant" aria-label="Agrandir la photo 11 : Photo 11 — Test et avis Aqara U200 : une serrure Matter et Thread vraiment taillée pour Home Assistant">
+    <img src="images/aqa4.jpeg" alt="Photo 11 — Test et avis Aqara U200 : une serrure Matter et Thread vraiment taillée pour Home Assistant" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/aqara8.jpeg" data-full="images/aqara8.jpeg" data-alt="Photo 12 — Test et avis Aqara U200 : une serrure Matter et Thread vraiment taillée pour Home Assistant" aria-label="Agrandir la photo 12 : Photo 12 — Test et avis Aqara U200 : une serrure Matter et Thread vraiment taillée pour Home Assistant">
+    <img src="images/aqara8.jpeg" alt="Photo 12 — Test et avis Aqara U200 : une serrure Matter et Thread vraiment taillée pour Home Assistant" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/PG_8UuAv.jpeg" data-full="images/PG_8UuAv.jpeg" data-alt="Photo 13 — Test et avis Aqara U200 : une serrure Matter et Thread vraiment taillée pour Home Assistant" aria-label="Agrandir la photo 13 : Photo 13 — Test et avis Aqara U200 : une serrure Matter et Thread vraiment taillée pour Home Assistant">
+    <img src="images/PG_8UuAv.jpeg" alt="Photo 13 — Test et avis Aqara U200 : une serrure Matter et Thread vraiment taillée pour Home Assistant" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-12-1312-05-50.png" data-full="images/Capturedcrandu2025-12-1312-05-50.png" data-alt="Photo 14 — Test et avis Aqara U200 : une serrure Matter et Thread vraiment taillée pour Home Assistant" aria-label="Agrandir la photo 14 : Photo 14 — Test et avis Aqara U200 : une serrure Matter et Thread vraiment taillée pour Home Assistant">
+    <img src="images/Capturedcrandu2025-12-1312-05-50.png" alt="Photo 14 — Test et avis Aqara U200 : une serrure Matter et Thread vraiment taillée pour Home Assistant" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-12-1312-06-03.png" data-full="images/Capturedcrandu2025-12-1312-06-03.png" data-alt="Photo 15 — Test et avis Aqara U200 : une serrure Matter et Thread vraiment taillée pour Home Assistant" aria-label="Agrandir la photo 15 : Photo 15 — Test et avis Aqara U200 : une serrure Matter et Thread vraiment taillée pour Home Assistant">
+    <img src="images/Capturedcrandu2025-12-1312-06-03.png" alt="Photo 15 — Test et avis Aqara U200 : une serrure Matter et Thread vraiment taillée pour Home Assistant" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-12-1308-46-03.png" data-full="images/Capturedcrandu2025-12-1308-46-03.png" data-alt="Photo 16 — Test et avis Aqara U200 : une serrure Matter et Thread vraiment taillée pour Home Assistant" aria-label="Agrandir la photo 16 : Photo 16 — Test et avis Aqara U200 : une serrure Matter et Thread vraiment taillée pour Home Assistant">
+    <img src="images/Capturedcrandu2025-12-1308-46-03.png" alt="Photo 16 — Test et avis Aqara U200 : une serrure Matter et Thread vraiment taillée pour Home Assistant" loading="lazy">
+  </a>
+</figure>
+</div>
+<button type="button" class="carousel-nav" data-prev aria-label="Photo précédente">‹</button>
+<button type="button" class="carousel-nav" data-next aria-label="Photo suivante">›</button>
+<div class="carousel-dots" data-dots></div>
+<div class="carousel-live" data-live aria-live="polite"></div>
+<p class="carousel-hint">Faites défiler les photos, ou ouvrez-les pour les agrandir (si JavaScript est activé).</p>
+</section>
 
 # Test et avis Aqara U200 : une serrure Matter et Thread vraiment taillée pour Home Assistant
 
@@ -225,6 +324,8 @@ Quelles automatisations avez-vous mises en place chez vous ? Les retours de la c
 
 ---
 
+<section class="article-comments" id="commentaires">
+
 ## Commentaires de XAV59213 sur cet article (2)
 
 ### Commentaire 1 — 30 décembre 2025 à 16:08 (Europe/Paris)
@@ -248,3 +349,5 @@ Voici un petit tuto qui explique le verrouillage auto: <https://monbatiment.fr/c
 - **Lien :** https://forumdomotique.com/tests/securite-surveillance/test-avis-aqara-u200-serrure-connectee-matter-thread/?do=findComment&comment=92
 
 💯
+
+</section>

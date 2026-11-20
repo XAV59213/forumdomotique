@@ -3,9 +3,103 @@ title: "Sauvegarde Home Assistant : backups locaux, Google Drive et cloud (guide
 description: "Tout commence avec le système natif de Home Assistant, qui a vraiment pris un coup de jeune depuis la version 2025.1. Avant, c'était déjà pratique, mais…"
 image: /contenus/guides/sauvegarde-home-assistant-backup-cloud/images/Capturedcrandu2026-01-0616-56-27.png
 date: 2026-01-18
+section: guides
+tags:
+  - domotique
 ---
 {% raw %}
 <p class="forum-cta"><a href="https://forumdomotique.com/guides-tutoriels/home-assistant/sauvegarde-home-assistant-backup-cloud/">Lire et commenter sur Forum Domotique</a></p>
+
+
+<section class="carousel photo-carousel" data-carousel data-lightbox aria-roledescription="carrousel" aria-label="Photos de l’article (16)" tabindex="0">
+<div class="carousel-track" data-track>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2026-01-0616-56-27.png" data-full="images/Capturedcrandu2026-01-0616-56-27.png" data-alt="Photo 1 — Sauvegarde Home Assistant : backups locaux, Google Drive et cloud (guide complet)" aria-label="Agrandir la photo 1 : Photo 1 — Sauvegarde Home Assistant : backups locaux, Google Drive et cloud (guide complet)">
+    <img src="images/Capturedcrandu2026-01-0616-56-27.png" alt="Photo 1 — Sauvegarde Home Assistant : backups locaux, Google Drive et cloud (guide complet)" loading="eager">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2026-01-0616-56-43.png" data-full="images/Capturedcrandu2026-01-0616-56-43.png" data-alt="Photo 2 — Sauvegarde Home Assistant : backups locaux, Google Drive et cloud (guide complet)" aria-label="Agrandir la photo 2 : Photo 2 — Sauvegarde Home Assistant : backups locaux, Google Drive et cloud (guide complet)">
+    <img src="images/Capturedcrandu2026-01-0616-56-43.png" alt="Photo 2 — Sauvegarde Home Assistant : backups locaux, Google Drive et cloud (guide complet)" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2026-01-0617-00-00.png" data-full="images/Capturedcrandu2026-01-0617-00-00.png" data-alt="Photo 3 — Sauvegarde Home Assistant : backups locaux, Google Drive et cloud (guide complet)" aria-label="Agrandir la photo 3 : Photo 3 — Sauvegarde Home Assistant : backups locaux, Google Drive et cloud (guide complet)">
+    <img src="images/Capturedcrandu2026-01-0617-00-00.png" alt="Photo 3 — Sauvegarde Home Assistant : backups locaux, Google Drive et cloud (guide complet)" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2026-01-0610-54-57.png" data-full="images/Capturedcrandu2026-01-0610-54-57.png" data-alt="Photo 4 — Sauvegarde Home Assistant : backups locaux, Google Drive et cloud (guide complet)" aria-label="Agrandir la photo 4 : Photo 4 — Sauvegarde Home Assistant : backups locaux, Google Drive et cloud (guide complet)">
+    <img src="images/Capturedcrandu2026-01-0610-54-57.png" alt="Photo 4 — Sauvegarde Home Assistant : backups locaux, Google Drive et cloud (guide complet)" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2026-01-0617-02-43.png" data-full="images/Capturedcrandu2026-01-0617-02-43.png" data-alt="Photo 5 — Sauvegarde Home Assistant : backups locaux, Google Drive et cloud (guide complet)" aria-label="Agrandir la photo 5 : Photo 5 — Sauvegarde Home Assistant : backups locaux, Google Drive et cloud (guide complet)">
+    <img src="images/Capturedcrandu2026-01-0617-02-43.png" alt="Photo 5 — Sauvegarde Home Assistant : backups locaux, Google Drive et cloud (guide complet)" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2026-01-0617-01-46.png" data-full="images/Capturedcrandu2026-01-0617-01-46.png" data-alt="Photo 6 — Sauvegarde Home Assistant : backups locaux, Google Drive et cloud (guide complet)" aria-label="Agrandir la photo 6 : Photo 6 — Sauvegarde Home Assistant : backups locaux, Google Drive et cloud (guide complet)">
+    <img src="images/Capturedcrandu2026-01-0617-01-46.png" alt="Photo 6 — Sauvegarde Home Assistant : backups locaux, Google Drive et cloud (guide complet)" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2026-01-0617-10-56.png" data-full="images/Capturedcrandu2026-01-0617-10-56.png" data-alt="Photo 7 — Sauvegarde Home Assistant : backups locaux, Google Drive et cloud (guide complet)" aria-label="Agrandir la photo 7 : Photo 7 — Sauvegarde Home Assistant : backups locaux, Google Drive et cloud (guide complet)">
+    <img src="images/Capturedcrandu2026-01-0617-10-56.png" alt="Photo 7 — Sauvegarde Home Assistant : backups locaux, Google Drive et cloud (guide complet)" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/default-social.png" data-full="images/default-social.png" data-alt="Photo 8 — Sauvegarde Home Assistant : backups locaux, Google Drive et cloud (guide complet)" aria-label="Agrandir la photo 8 : Photo 8 — Sauvegarde Home Assistant : backups locaux, Google Drive et cloud (guide complet)">
+    <img src="images/default-social.png" alt="Photo 8 — Sauvegarde Home Assistant : backups locaux, Google Drive et cloud (guide complet)" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2026-01-0610-57-43.png" data-full="images/Capturedcrandu2026-01-0610-57-43.png" data-alt="Photo 9 — Sauvegarde Home Assistant : backups locaux, Google Drive et cloud (guide complet)" aria-label="Agrandir la photo 9 : Photo 9 — Sauvegarde Home Assistant : backups locaux, Google Drive et cloud (guide complet)">
+    <img src="images/Capturedcrandu2026-01-0610-57-43.png" alt="Photo 9 — Sauvegarde Home Assistant : backups locaux, Google Drive et cloud (guide complet)" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2026-01-0611-24-33.png" data-full="images/Capturedcrandu2026-01-0611-24-33.png" data-alt="Photo 10 — Sauvegarde Home Assistant : backups locaux, Google Drive et cloud (guide complet)" aria-label="Agrandir la photo 10 : Photo 10 — Sauvegarde Home Assistant : backups locaux, Google Drive et cloud (guide complet)">
+    <img src="images/Capturedcrandu2026-01-0611-24-33.png" alt="Photo 10 — Sauvegarde Home Assistant : backups locaux, Google Drive et cloud (guide complet)" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2026-01-0611-08-05.png" data-full="images/Capturedcrandu2026-01-0611-08-05.png" data-alt="Photo 11 — Sauvegarde Home Assistant : backups locaux, Google Drive et cloud (guide complet)" aria-label="Agrandir la photo 11 : Photo 11 — Sauvegarde Home Assistant : backups locaux, Google Drive et cloud (guide complet)">
+    <img src="images/Capturedcrandu2026-01-0611-08-05.png" alt="Photo 11 — Sauvegarde Home Assistant : backups locaux, Google Drive et cloud (guide complet)" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2026-01-0611-08-13.png" data-full="images/Capturedcrandu2026-01-0611-08-13.png" data-alt="Photo 12 — Sauvegarde Home Assistant : backups locaux, Google Drive et cloud (guide complet)" aria-label="Agrandir la photo 12 : Photo 12 — Sauvegarde Home Assistant : backups locaux, Google Drive et cloud (guide complet)">
+    <img src="images/Capturedcrandu2026-01-0611-08-13.png" alt="Photo 12 — Sauvegarde Home Assistant : backups locaux, Google Drive et cloud (guide complet)" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/default-social-2.png" data-full="images/default-social-2.png" data-alt="Photo 13 — Sauvegarde Home Assistant : backups locaux, Google Drive et cloud (guide complet)" aria-label="Agrandir la photo 13 : Photo 13 — Sauvegarde Home Assistant : backups locaux, Google Drive et cloud (guide complet)">
+    <img src="images/default-social-2.png" alt="Photo 13 — Sauvegarde Home Assistant : backups locaux, Google Drive et cloud (guide complet)" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2026-01-0614-32-34.png" data-full="images/Capturedcrandu2026-01-0614-32-34.png" data-alt="Photo 14 — Sauvegarde Home Assistant : backups locaux, Google Drive et cloud (guide complet)" aria-label="Agrandir la photo 14 : Photo 14 — Sauvegarde Home Assistant : backups locaux, Google Drive et cloud (guide complet)">
+    <img src="images/Capturedcrandu2026-01-0614-32-34.png" alt="Photo 14 — Sauvegarde Home Assistant : backups locaux, Google Drive et cloud (guide complet)" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2026-01-1011-13-42.png" data-full="images/Capturedcrandu2026-01-1011-13-42.png" data-alt="Photo 15 — Sauvegarde Home Assistant : backups locaux, Google Drive et cloud (guide complet)" aria-label="Agrandir la photo 15 : Photo 15 — Sauvegarde Home Assistant : backups locaux, Google Drive et cloud (guide complet)">
+    <img src="images/Capturedcrandu2026-01-1011-13-42.png" alt="Photo 15 — Sauvegarde Home Assistant : backups locaux, Google Drive et cloud (guide complet)" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2026-01-1012-27-27.png" data-full="images/Capturedcrandu2026-01-1012-27-27.png" data-alt="Photo 16 — Sauvegarde Home Assistant : backups locaux, Google Drive et cloud (guide complet)" aria-label="Agrandir la photo 16 : Photo 16 — Sauvegarde Home Assistant : backups locaux, Google Drive et cloud (guide complet)">
+    <img src="images/Capturedcrandu2026-01-1012-27-27.png" alt="Photo 16 — Sauvegarde Home Assistant : backups locaux, Google Drive et cloud (guide complet)" loading="lazy">
+  </a>
+</figure>
+</div>
+<button type="button" class="carousel-nav" data-prev aria-label="Photo précédente">‹</button>
+<button type="button" class="carousel-nav" data-next aria-label="Photo suivante">›</button>
+<div class="carousel-dots" data-dots></div>
+<div class="carousel-live" data-live aria-live="polite"></div>
+<p class="carousel-hint">Faites défiler les photos, ou ouvrez-les pour les agrandir (si JavaScript est activé).</p>
+</section>
 
 # Sauvegarde Home Assistant : backups locaux, Google Drive et cloud (guide complet)
 

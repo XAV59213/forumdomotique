@@ -6,6 +6,92 @@ date: 2025-12-21
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/618-comment-ajouter-la-musique-stock%C3%A9e-sur-le-disque-dur-de-votre-freebox-%C3%A0-music-assistant-via-partage-smb/">Lire et commenter sur Forum Domotique</a></p>
 
+
+<section class="carousel photo-carousel" data-carousel data-lightbox aria-roledescription="carrousel" aria-label="Photos de l’article (15)" tabindex="0">
+<div class="carousel-track" data-track>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-12-2113-19-55.png" data-full="images/Capturedcrandu2025-12-2113-19-55.png" data-alt="Photo 1 — Comment ajouter la musique stockée sur le disque dur de votre Freebox à Music Assistant via partage SMB" aria-label="Agrandir la photo 1 : Photo 1 — Comment ajouter la musique stockée sur le disque dur de votre Freebox à Music Assistant via partage SMB">
+    <img src="images/Capturedcrandu2025-12-2113-19-55.png" alt="Photo 1 — Comment ajouter la musique stockée sur le disque dur de votre Freebox à Music Assistant via partage SMB" loading="eager">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-12-2113-24-23.png" data-full="images/Capturedcrandu2025-12-2113-24-23.png" data-alt="Photo 2 — Comment ajouter la musique stockée sur le disque dur de votre Freebox à Music Assistant via partage SMB" aria-label="Agrandir la photo 2 : Photo 2 — Comment ajouter la musique stockée sur le disque dur de votre Freebox à Music Assistant via partage SMB">
+    <img src="images/Capturedcrandu2025-12-2113-24-23.png" alt="Photo 2 — Comment ajouter la musique stockée sur le disque dur de votre Freebox à Music Assistant via partage SMB" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-12-2112-46-35.png" data-full="images/Capturedcrandu2025-12-2112-46-35.png" data-alt="Photo 3 — Comment ajouter la musique stockée sur le disque dur de votre Freebox à Music Assistant via partage SMB" aria-label="Agrandir la photo 3 : Photo 3 — Comment ajouter la musique stockée sur le disque dur de votre Freebox à Music Assistant via partage SMB">
+    <img src="images/Capturedcrandu2025-12-2112-46-35.png" alt="Photo 3 — Comment ajouter la musique stockée sur le disque dur de votre Freebox à Music Assistant via partage SMB" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-12-2113-33-24.png" data-full="images/Capturedcrandu2025-12-2113-33-24.png" data-alt="Photo 4 — Comment ajouter la musique stockée sur le disque dur de votre Freebox à Music Assistant via partage SMB" aria-label="Agrandir la photo 4 : Photo 4 — Comment ajouter la musique stockée sur le disque dur de votre Freebox à Music Assistant via partage SMB">
+    <img src="images/Capturedcrandu2025-12-2113-33-24.png" alt="Photo 4 — Comment ajouter la musique stockée sur le disque dur de votre Freebox à Music Assistant via partage SMB" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-12-2112-46-42.png" data-full="images/Capturedcrandu2025-12-2112-46-42.png" data-alt="Photo 5 — Comment ajouter la musique stockée sur le disque dur de votre Freebox à Music Assistant via partage SMB" aria-label="Agrandir la photo 5 : Photo 5 — Comment ajouter la musique stockée sur le disque dur de votre Freebox à Music Assistant via partage SMB">
+    <img src="images/Capturedcrandu2025-12-2112-46-42.png" alt="Photo 5 — Comment ajouter la musique stockée sur le disque dur de votre Freebox à Music Assistant via partage SMB" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-12-2112-46-57.png" data-full="images/Capturedcrandu2025-12-2112-46-57.png" data-alt="Photo 6 — Comment ajouter la musique stockée sur le disque dur de votre Freebox à Music Assistant via partage SMB" aria-label="Agrandir la photo 6 : Photo 6 — Comment ajouter la musique stockée sur le disque dur de votre Freebox à Music Assistant via partage SMB">
+    <img src="images/Capturedcrandu2025-12-2112-46-57.png" alt="Photo 6 — Comment ajouter la musique stockée sur le disque dur de votre Freebox à Music Assistant via partage SMB" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-12-2113-35-09.png" data-full="images/Capturedcrandu2025-12-2113-35-09.png" data-alt="Photo 7 — Comment ajouter la musique stockée sur le disque dur de votre Freebox à Music Assistant via partage SMB" aria-label="Agrandir la photo 7 : Photo 7 — Comment ajouter la musique stockée sur le disque dur de votre Freebox à Music Assistant via partage SMB">
+    <img src="images/Capturedcrandu2025-12-2113-35-09.png" alt="Photo 7 — Comment ajouter la musique stockée sur le disque dur de votre Freebox à Music Assistant via partage SMB" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-12-2112-29-07.png" data-full="images/Capturedcrandu2025-12-2112-29-07.png" data-alt="Photo 8 — Comment ajouter la musique stockée sur le disque dur de votre Freebox à Music Assistant via partage SMB" aria-label="Agrandir la photo 8 : Photo 8 — Comment ajouter la musique stockée sur le disque dur de votre Freebox à Music Assistant via partage SMB">
+    <img src="images/Capturedcrandu2025-12-2112-29-07.png" alt="Photo 8 — Comment ajouter la musique stockée sur le disque dur de votre Freebox à Music Assistant via partage SMB" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-12-2112-29-28.png" data-full="images/Capturedcrandu2025-12-2112-29-28.png" data-alt="Photo 9 — Comment ajouter la musique stockée sur le disque dur de votre Freebox à Music Assistant via partage SMB" aria-label="Agrandir la photo 9 : Photo 9 — Comment ajouter la musique stockée sur le disque dur de votre Freebox à Music Assistant via partage SMB">
+    <img src="images/Capturedcrandu2025-12-2112-29-28.png" alt="Photo 9 — Comment ajouter la musique stockée sur le disque dur de votre Freebox à Music Assistant via partage SMB" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-12-2113-58-29.png" data-full="images/Capturedcrandu2025-12-2113-58-29.png" data-alt="Photo 10 — Comment ajouter la musique stockée sur le disque dur de votre Freebox à Music Assistant via partage SMB" aria-label="Agrandir la photo 10 : Photo 10 — Comment ajouter la musique stockée sur le disque dur de votre Freebox à Music Assistant via partage SMB">
+    <img src="images/Capturedcrandu2025-12-2113-58-29.png" alt="Photo 10 — Comment ajouter la musique stockée sur le disque dur de votre Freebox à Music Assistant via partage SMB" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-12-2113-58-41.png" data-full="images/Capturedcrandu2025-12-2113-58-41.png" data-alt="Photo 11 — Comment ajouter la musique stockée sur le disque dur de votre Freebox à Music Assistant via partage SMB" aria-label="Agrandir la photo 11 : Photo 11 — Comment ajouter la musique stockée sur le disque dur de votre Freebox à Music Assistant via partage SMB">
+    <img src="images/Capturedcrandu2025-12-2113-58-41.png" alt="Photo 11 — Comment ajouter la musique stockée sur le disque dur de votre Freebox à Music Assistant via partage SMB" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-12-2112-33-21.png" data-full="images/Capturedcrandu2025-12-2112-33-21.png" data-alt="Photo 12 — Comment ajouter la musique stockée sur le disque dur de votre Freebox à Music Assistant via partage SMB" aria-label="Agrandir la photo 12 : Photo 12 — Comment ajouter la musique stockée sur le disque dur de votre Freebox à Music Assistant via partage SMB">
+    <img src="images/Capturedcrandu2025-12-2112-33-21.png" alt="Photo 12 — Comment ajouter la musique stockée sur le disque dur de votre Freebox à Music Assistant via partage SMB" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-12-2112-33-37.png" data-full="images/Capturedcrandu2025-12-2112-33-37.png" data-alt="Photo 13 — Comment ajouter la musique stockée sur le disque dur de votre Freebox à Music Assistant via partage SMB" aria-label="Agrandir la photo 13 : Photo 13 — Comment ajouter la musique stockée sur le disque dur de votre Freebox à Music Assistant via partage SMB">
+    <img src="images/Capturedcrandu2025-12-2112-33-37.png" alt="Photo 13 — Comment ajouter la musique stockée sur le disque dur de votre Freebox à Music Assistant via partage SMB" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-12-2112-50-07.png" data-full="images/Capturedcrandu2025-12-2112-50-07.png" data-alt="Photo 14 — Comment ajouter la musique stockée sur le disque dur de votre Freebox à Music Assistant via partage SMB" aria-label="Agrandir la photo 14 : Photo 14 — Comment ajouter la musique stockée sur le disque dur de votre Freebox à Music Assistant via partage SMB">
+    <img src="images/Capturedcrandu2025-12-2112-50-07.png" alt="Photo 14 — Comment ajouter la musique stockée sur le disque dur de votre Freebox à Music Assistant via partage SMB" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-12-2112-50-27.png" data-full="images/Capturedcrandu2025-12-2112-50-27.png" data-alt="Photo 15 — Comment ajouter la musique stockée sur le disque dur de votre Freebox à Music Assistant via partage SMB" aria-label="Agrandir la photo 15 : Photo 15 — Comment ajouter la musique stockée sur le disque dur de votre Freebox à Music Assistant via partage SMB">
+    <img src="images/Capturedcrandu2025-12-2112-50-27.png" alt="Photo 15 — Comment ajouter la musique stockée sur le disque dur de votre Freebox à Music Assistant via partage SMB" loading="lazy">
+  </a>
+</figure>
+</div>
+<button type="button" class="carousel-nav" data-prev aria-label="Photo précédente">‹</button>
+<button type="button" class="carousel-nav" data-next aria-label="Photo suivante">›</button>
+<div class="carousel-dots" data-dots></div>
+<div class="carousel-live" data-live aria-live="polite"></div>
+<p class="carousel-hint">Faites défiler les photos, ou ouvrez-les pour les agrandir (si JavaScript est activé).</p>
+</section>
+
 # Comment ajouter la musique stockée sur le disque dur de votre Freebox à Music Assistant via partage SMB
 
 - **Catégorie :** [Tutoriels, Guides & Astuces des Membres](https://forumdomotique.com/forums/87-tutoriels-guides-astuces-des-membres/)

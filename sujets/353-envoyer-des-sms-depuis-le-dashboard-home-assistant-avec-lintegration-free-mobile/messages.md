@@ -7,6 +7,57 @@ date: 2025-08-24
 {% raw %}
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/353-envoyer-des-sms-depuis-le-dashboard-home-assistant-avec-lint%C3%A9gration-free-mobile-sms-xa/">Lire et commenter sur Forum Domotique</a> · <a href="https://github.com/XAV59213/freesmsxa">Dépôt HACS : Free Mobile SMS XA</a></p>
 
+
+<section class="carousel photo-carousel" data-carousel data-lightbox aria-roledescription="carrousel" aria-label="Photos de l’article (8)" tabindex="0">
+<div class="carousel-track" data-track>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-08-2416-46-25.png" data-full="images/Capturedcrandu2025-08-2416-46-25.png" data-alt="Photo 1 — Envoyer des SMS depuis le dashboard Home Assistant (avec l’intégration Free Mobile SMS XA)" aria-label="Agrandir la photo 1 : Photo 1 — Envoyer des SMS depuis le dashboard Home Assistant (avec l’intégration Free Mobile SMS XA)">
+    <img src="images/Capturedcrandu2025-08-2416-46-25.png" alt="Photo 1 — Envoyer des SMS depuis le dashboard Home Assistant (avec l’intégration Free Mobile SMS XA)" loading="eager">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-08-2416-46-17.png" data-full="images/Capturedcrandu2025-08-2416-46-17.png" data-alt="Photo 2 — Envoyer des SMS depuis le dashboard Home Assistant (avec l’intégration Free Mobile SMS XA)" aria-label="Agrandir la photo 2 : Photo 2 — Envoyer des SMS depuis le dashboard Home Assistant (avec l’intégration Free Mobile SMS XA)">
+    <img src="images/Capturedcrandu2025-08-2416-46-17.png" alt="Photo 2 — Envoyer des SMS depuis le dashboard Home Assistant (avec l’intégration Free Mobile SMS XA)" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-08-2416-50-55.png" data-full="images/Capturedcrandu2025-08-2416-50-55.png" data-alt="Photo 3 — Envoyer des SMS depuis le dashboard Home Assistant (avec l’intégration Free Mobile SMS XA)" aria-label="Agrandir la photo 3 : Photo 3 — Envoyer des SMS depuis le dashboard Home Assistant (avec l’intégration Free Mobile SMS XA)">
+    <img src="images/Capturedcrandu2025-08-2416-50-55.png" alt="Photo 3 — Envoyer des SMS depuis le dashboard Home Assistant (avec l’intégration Free Mobile SMS XA)" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-08-2417-14-50.png" data-full="images/Capturedcrandu2025-08-2417-14-50.png" data-alt="Photo 4 — Envoyer des SMS depuis le dashboard Home Assistant (avec l’intégration Free Mobile SMS XA)" aria-label="Agrandir la photo 4 : Photo 4 — Envoyer des SMS depuis le dashboard Home Assistant (avec l’intégration Free Mobile SMS XA)">
+    <img src="images/Capturedcrandu2025-08-2417-14-50.png" alt="Photo 4 — Envoyer des SMS depuis le dashboard Home Assistant (avec l’intégration Free Mobile SMS XA)" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-08-2417-02-55.png" data-full="images/Capturedcrandu2025-08-2417-02-55.png" data-alt="Photo 5 — Envoyer des SMS depuis le dashboard Home Assistant (avec l’intégration Free Mobile SMS XA)" aria-label="Agrandir la photo 5 : Photo 5 — Envoyer des SMS depuis le dashboard Home Assistant (avec l’intégration Free Mobile SMS XA)">
+    <img src="images/Capturedcrandu2025-08-2417-02-55.png" alt="Photo 5 — Envoyer des SMS depuis le dashboard Home Assistant (avec l’intégration Free Mobile SMS XA)" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-08-2417-05-19.png" data-full="images/Capturedcrandu2025-08-2417-05-19.png" data-alt="Photo 6 — Envoyer des SMS depuis le dashboard Home Assistant (avec l’intégration Free Mobile SMS XA)" aria-label="Agrandir la photo 6 : Photo 6 — Envoyer des SMS depuis le dashboard Home Assistant (avec l’intégration Free Mobile SMS XA)">
+    <img src="images/Capturedcrandu2025-08-2417-05-19.png" alt="Photo 6 — Envoyer des SMS depuis le dashboard Home Assistant (avec l’intégration Free Mobile SMS XA)" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-08-2417-25-44.png" data-full="images/Capturedcrandu2025-08-2417-25-44.png" data-alt="Photo 7 — Envoyer des SMS depuis le dashboard Home Assistant (avec l’intégration Free Mobile SMS XA)" aria-label="Agrandir la photo 7 : Photo 7 — Envoyer des SMS depuis le dashboard Home Assistant (avec l’intégration Free Mobile SMS XA)">
+    <img src="images/Capturedcrandu2025-08-2417-25-44.png" alt="Photo 7 — Envoyer des SMS depuis le dashboard Home Assistant (avec l’intégration Free Mobile SMS XA)" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-08-2417-25-16.png" data-full="images/Capturedcrandu2025-08-2417-25-16.png" data-alt="Photo 8 — Envoyer des SMS depuis le dashboard Home Assistant (avec l’intégration Free Mobile SMS XA)" aria-label="Agrandir la photo 8 : Photo 8 — Envoyer des SMS depuis le dashboard Home Assistant (avec l’intégration Free Mobile SMS XA)">
+    <img src="images/Capturedcrandu2025-08-2417-25-16.png" alt="Photo 8 — Envoyer des SMS depuis le dashboard Home Assistant (avec l’intégration Free Mobile SMS XA)" loading="lazy">
+  </a>
+</figure>
+</div>
+<button type="button" class="carousel-nav" data-prev aria-label="Photo précédente">‹</button>
+<button type="button" class="carousel-nav" data-next aria-label="Photo suivante">›</button>
+<div class="carousel-dots" data-dots></div>
+<div class="carousel-live" data-live aria-live="polite"></div>
+<p class="carousel-hint">Faites défiler les photos, ou ouvrez-les pour les agrandir (si JavaScript est activé).</p>
+</section>
+
 # Envoyer des SMS depuis le dashboard Home Assistant (avec l’intégration Free Mobile SMS XA)
 
 - **Catégorie :** [Automatisations et Scénarios](https://forumdomotique.com/forums/9-automatisations-et-sc%C3%A9narios/)

@@ -6,6 +6,62 @@ date: 2025-11-30
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/567-compteur-deau-connect%C3%A9-%C3%A0-moins-de-20-%E2%82%AC-ma-consommation-enfin-sous-contr%C3%B4le-et-les-fuites-plus-jamais-une-surprise/">Lire et commenter sur Forum Domotique</a></p>
 
+
+<section class="carousel photo-carousel" data-carousel data-lightbox aria-roledescription="carrousel" aria-label="Photos de l’article (9)" tabindex="0">
+<div class="carousel-track" data-track>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-11-3014-11-10.png" data-full="images/Capturedcrandu2025-11-3014-11-10.png" data-alt="Photo 1 — Compteur d’eau connecté à moins de 20 € : ma consommation enfin sous contrôle (et les fuites plus jamais une surprise)" aria-label="Agrandir la photo 1 : Photo 1 — Compteur d’eau connecté à moins de 20 € : ma consommation enfin sous contrôle (et les fuites plus jamais une surprise)">
+    <img src="images/Capturedcrandu2025-11-3014-11-10.png" alt="Photo 1 — Compteur d’eau connecté à moins de 20 € : ma consommation enfin sous contrôle (et les fuites plus jamais une surprise)" loading="eager">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-11-3014-11-30.png" data-full="images/Capturedcrandu2025-11-3014-11-30.png" data-alt="Photo 2 — Compteur d’eau connecté à moins de 20 € : ma consommation enfin sous contrôle (et les fuites plus jamais une surprise)" aria-label="Agrandir la photo 2 : Photo 2 — Compteur d’eau connecté à moins de 20 € : ma consommation enfin sous contrôle (et les fuites plus jamais une surprise)">
+    <img src="images/Capturedcrandu2025-11-3014-11-30.png" alt="Photo 2 — Compteur d’eau connecté à moins de 20 € : ma consommation enfin sous contrôle (et les fuites plus jamais une surprise)" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-11-3012-30-06.png" data-full="images/Capturedcrandu2025-11-3012-30-06.png" data-alt="Photo 3 — Compteur d’eau connecté à moins de 20 € : ma consommation enfin sous contrôle (et les fuites plus jamais une surprise)" aria-label="Agrandir la photo 3 : Photo 3 — Compteur d’eau connecté à moins de 20 € : ma consommation enfin sous contrôle (et les fuites plus jamais une surprise)">
+    <img src="images/Capturedcrandu2025-11-3012-30-06.png" alt="Photo 3 — Compteur d’eau connecté à moins de 20 € : ma consommation enfin sous contrôle (et les fuites plus jamais une surprise)" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-11-3013-44-36.png" data-full="images/Capturedcrandu2025-11-3013-44-36.png" data-alt="Photo 4 — Compteur d’eau connecté à moins de 20 € : ma consommation enfin sous contrôle (et les fuites plus jamais une surprise)" aria-label="Agrandir la photo 4 : Photo 4 — Compteur d’eau connecté à moins de 20 € : ma consommation enfin sous contrôle (et les fuites plus jamais une surprise)">
+    <img src="images/Capturedcrandu2025-11-3013-44-36.png" alt="Photo 4 — Compteur d’eau connecté à moins de 20 € : ma consommation enfin sous contrôle (et les fuites plus jamais une surprise)" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-11-3013-47-19.png" data-full="images/Capturedcrandu2025-11-3013-47-19.png" data-alt="Photo 5 — Compteur d’eau connecté à moins de 20 € : ma consommation enfin sous contrôle (et les fuites plus jamais une surprise)" aria-label="Agrandir la photo 5 : Photo 5 — Compteur d’eau connecté à moins de 20 € : ma consommation enfin sous contrôle (et les fuites plus jamais une surprise)">
+    <img src="images/Capturedcrandu2025-11-3013-47-19.png" alt="Photo 5 — Compteur d’eau connecté à moins de 20 € : ma consommation enfin sous contrôle (et les fuites plus jamais une surprise)" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-11-3012-39-38.png" data-full="images/Capturedcrandu2025-11-3012-39-38.png" data-alt="Photo 6 — Compteur d’eau connecté à moins de 20 € : ma consommation enfin sous contrôle (et les fuites plus jamais une surprise)" aria-label="Agrandir la photo 6 : Photo 6 — Compteur d’eau connecté à moins de 20 € : ma consommation enfin sous contrôle (et les fuites plus jamais une surprise)">
+    <img src="images/Capturedcrandu2025-11-3012-39-38.png" alt="Photo 6 — Compteur d’eau connecté à moins de 20 € : ma consommation enfin sous contrôle (et les fuites plus jamais une surprise)" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-11-3012-42-45.png" data-full="images/Capturedcrandu2025-11-3012-42-45.png" data-alt="Photo 7 — Compteur d’eau connecté à moins de 20 € : ma consommation enfin sous contrôle (et les fuites plus jamais une surprise)" aria-label="Agrandir la photo 7 : Photo 7 — Compteur d’eau connecté à moins de 20 € : ma consommation enfin sous contrôle (et les fuites plus jamais une surprise)">
+    <img src="images/Capturedcrandu2025-11-3012-42-45.png" alt="Photo 7 — Compteur d’eau connecté à moins de 20 € : ma consommation enfin sous contrôle (et les fuites plus jamais une surprise)" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-11-3014-09-07.png" data-full="images/Capturedcrandu2025-11-3014-09-07.png" data-alt="Photo 8 — Compteur d’eau connecté à moins de 20 € : ma consommation enfin sous contrôle (et les fuites plus jamais une surprise)" aria-label="Agrandir la photo 8 : Photo 8 — Compteur d’eau connecté à moins de 20 € : ma consommation enfin sous contrôle (et les fuites plus jamais une surprise)">
+    <img src="images/Capturedcrandu2025-11-3014-09-07.png" alt="Photo 8 — Compteur d’eau connecté à moins de 20 € : ma consommation enfin sous contrôle (et les fuites plus jamais une surprise)" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-11-3014-08-47.png" data-full="images/Capturedcrandu2025-11-3014-08-47.png" data-alt="Photo 9 — Compteur d’eau connecté à moins de 20 € : ma consommation enfin sous contrôle (et les fuites plus jamais une surprise)" aria-label="Agrandir la photo 9 : Photo 9 — Compteur d’eau connecté à moins de 20 € : ma consommation enfin sous contrôle (et les fuites plus jamais une surprise)">
+    <img src="images/Capturedcrandu2025-11-3014-08-47.png" alt="Photo 9 — Compteur d’eau connecté à moins de 20 € : ma consommation enfin sous contrôle (et les fuites plus jamais une surprise)" loading="lazy">
+  </a>
+</figure>
+</div>
+<button type="button" class="carousel-nav" data-prev aria-label="Photo précédente">‹</button>
+<button type="button" class="carousel-nav" data-next aria-label="Photo suivante">›</button>
+<div class="carousel-dots" data-dots></div>
+<div class="carousel-live" data-live aria-live="polite"></div>
+<p class="carousel-hint">Faites défiler les photos, ou ouvrez-les pour les agrandir (si JavaScript est activé).</p>
+</section>
+
 # Compteur d’eau connecté à moins de 20 € : ma consommation enfin sous contrôle (et les fuites plus jamais une surprise)
 
 - **Catégorie :** [Projets et Personnalisations](https://forumdomotique.com/forums/12-projets-et-personnalisations/)

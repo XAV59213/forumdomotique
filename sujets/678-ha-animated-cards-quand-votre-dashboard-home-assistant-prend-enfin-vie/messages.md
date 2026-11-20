@@ -6,6 +6,37 @@ date: 2026-01-11
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/678-ha-animated-cards-quand-votre-dashboard-home-assistant-prend-enfin-vie/">Lire et commenter sur Forum Domotique</a></p>
 
+
+<section class="carousel photo-carousel" data-carousel data-lightbox aria-roledescription="carrousel" aria-label="Photos de l’article (4)" tabindex="0">
+<div class="carousel-track" data-track>
+<figure class="photo-slide" data-slide>
+  <a href="images/523000371-65ba4a4e-bed4-4ee1-8735-03e2bfd67db6.gif" data-full="images/523000371-65ba4a4e-bed4-4ee1-8735-03e2bfd67db6.gif" data-alt="Photo 1 — HA-Animated-cards : quand votre dashboard Home Assistant prend enfin vie" aria-label="Agrandir la photo 1 : Photo 1 — HA-Animated-cards : quand votre dashboard Home Assistant prend enfin vie">
+    <img src="images/523000371-65ba4a4e-bed4-4ee1-8735-03e2bfd67db6.gif" alt="Photo 1 — HA-Animated-cards : quand votre dashboard Home Assistant prend enfin vie" loading="eager">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/HA-Animated-cards.png" data-full="images/HA-Animated-cards.png" data-alt="Photo 2 — HA-Animated-cards : quand votre dashboard Home Assistant prend enfin vie" aria-label="Agrandir la photo 2 : Photo 2 — HA-Animated-cards : quand votre dashboard Home Assistant prend enfin vie">
+    <img src="images/HA-Animated-cards.png" alt="Photo 2 — HA-Animated-cards : quand votre dashboard Home Assistant prend enfin vie" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2026-01-1113-35-20.png" data-full="images/Capturedcrandu2026-01-1113-35-20.png" data-alt="Photo 3 — HA-Animated-cards : quand votre dashboard Home Assistant prend enfin vie" aria-label="Agrandir la photo 3 : Photo 3 — HA-Animated-cards : quand votre dashboard Home Assistant prend enfin vie">
+    <img src="images/Capturedcrandu2026-01-1113-35-20.png" alt="Photo 3 — HA-Animated-cards : quand votre dashboard Home Assistant prend enfin vie" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2026-01-1114-31-01.png" data-full="images/Capturedcrandu2026-01-1114-31-01.png" data-alt="Photo 4 — HA-Animated-cards : quand votre dashboard Home Assistant prend enfin vie" aria-label="Agrandir la photo 4 : Photo 4 — HA-Animated-cards : quand votre dashboard Home Assistant prend enfin vie">
+    <img src="images/Capturedcrandu2026-01-1114-31-01.png" alt="Photo 4 — HA-Animated-cards : quand votre dashboard Home Assistant prend enfin vie" loading="lazy">
+  </a>
+</figure>
+</div>
+<button type="button" class="carousel-nav" data-prev aria-label="Photo précédente">‹</button>
+<button type="button" class="carousel-nav" data-next aria-label="Photo suivante">›</button>
+<div class="carousel-dots" data-dots></div>
+<div class="carousel-live" data-live aria-live="polite"></div>
+<p class="carousel-hint">Faites défiler les photos, ou ouvrez-les pour les agrandir (si JavaScript est activé).</p>
+</section>
+
 # HA-Animated-cards : quand votre dashboard Home Assistant prend enfin vie
 
 - **Catégorie :** [Vos Dashboards & Installations](https://forumdomotique.com/forums/109-vos-dashboards-installations/)

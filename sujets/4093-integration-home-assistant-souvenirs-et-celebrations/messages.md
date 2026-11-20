@@ -6,6 +6,52 @@ date: 2026-11-20
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/4093-%F0%9F%8E%82-int%C3%A9gration-home-assistant-souvenirs-et-c%C3%A9l%C3%A9brations/">Lire et commenter sur Forum Domotique</a> · <a href="https://github.com/XAV59213/date_countdown">Dépôt HACS : Souvenirs et Célébrations</a></p>
 
+
+<section class="carousel photo-carousel" data-carousel data-lightbox aria-roledescription="carrousel" aria-label="Photos de l’article (7)" tabindex="0">
+<div class="carousel-track" data-track>
+<figure class="photo-slide" data-slide>
+  <a href="images/apercu-global.png" data-full="images/apercu-global.png" data-alt="Photo 1 — 🎂 Intégration Home Assistant – Souvenirs et Célébrations" aria-label="Agrandir la photo 1 : Photo 1 — 🎂 Intégration Home Assistant – Souvenirs et Célébrations">
+    <img src="images/apercu-global.png" alt="Photo 1 — 🎂 Intégration Home Assistant – Souvenirs et Célébrations" loading="eager">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/apercu-global-sombre.png" data-full="images/apercu-global-sombre.png" data-alt="Photo 2 — 🎂 Intégration Home Assistant – Souvenirs et Célébrations" aria-label="Agrandir la photo 2 : Photo 2 — 🎂 Intégration Home Assistant – Souvenirs et Célébrations">
+    <img src="images/apercu-global-sombre.png" alt="Photo 2 — 🎂 Intégration Home Assistant – Souvenirs et Célébrations" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/informations.png" data-full="images/informations.png" data-alt="Photo 3 — 🎂 Intégration Home Assistant – Souvenirs et Célébrations" aria-label="Agrandir la photo 3 : Photo 3 — 🎂 Intégration Home Assistant – Souvenirs et Célébrations">
+    <img src="images/informations.png" alt="Photo 3 — 🎂 Intégration Home Assistant – Souvenirs et Célébrations" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/liste.png" data-full="images/liste.png" data-alt="Carte Liste / Agenda" aria-label="Agrandir la photo 4 : Carte Liste / Agenda">
+    <img src="images/liste.png" alt="Carte Liste / Agenda" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/compte-a-rebours-jour-j.png" data-full="images/compte-a-rebours-jour-j.png" data-alt="Photo 5 — 🎂 Intégration Home Assistant – Souvenirs et Célébrations" aria-label="Agrandir la photo 5 : Photo 5 — 🎂 Intégration Home Assistant – Souvenirs et Célébrations">
+    <img src="images/compte-a-rebours-jour-j.png" alt="Photo 5 — 🎂 Intégration Home Assistant – Souvenirs et Célébrations" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/frise.png" data-full="images/frise.png" data-alt="Photo 6 — 🎂 Intégration Home Assistant – Souvenirs et Célébrations" aria-label="Agrandir la photo 6 : Photo 6 — 🎂 Intégration Home Assistant – Souvenirs et Célébrations">
+    <img src="images/frise.png" alt="Photo 6 — 🎂 Intégration Home Assistant – Souvenirs et Célébrations" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/memoriaux.png" data-full="images/memoriaux.png" data-alt="Photo 7 — 🎂 Intégration Home Assistant – Souvenirs et Célébrations" aria-label="Agrandir la photo 7 : Photo 7 — 🎂 Intégration Home Assistant – Souvenirs et Célébrations">
+    <img src="images/memoriaux.png" alt="Photo 7 — 🎂 Intégration Home Assistant – Souvenirs et Célébrations" loading="lazy">
+  </a>
+</figure>
+</div>
+<button type="button" class="carousel-nav" data-prev aria-label="Photo précédente">‹</button>
+<button type="button" class="carousel-nav" data-next aria-label="Photo suivante">›</button>
+<div class="carousel-dots" data-dots></div>
+<div class="carousel-live" data-live aria-live="polite"></div>
+<p class="carousel-hint">Faites défiler les photos, ou ouvrez-les pour les agrandir (si JavaScript est activé).</p>
+</section>
+
 # 🎂 Intégration Home Assistant – Souvenirs et Célébrations
 
 - **Catégorie :** [Projets et Personnalisations](https://forumdomotique.com/forums/12-projets-et-personnalisations/)

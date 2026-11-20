@@ -6,6 +6,97 @@ date: 2025-09-20
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/402-cr%C3%A9er-sa-box-domotique-parfaite-de-limpression-3d-%C3%A0-la-configuration-home-assistant/">Lire et commenter sur Forum Domotique</a></p>
 
+
+<section class="carousel photo-carousel" data-carousel data-lightbox aria-roledescription="carrousel" aria-label="Photos de l’article (16)" tabindex="0">
+<div class="carousel-track" data-track>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-09-2015-02-01.png" data-full="images/Capturedcrandu2025-09-2015-02-01.png" data-alt="Photo 1 — Créer sa box domotique parfaite : de l'impression 3D à la configuration Home Assistant !" aria-label="Agrandir la photo 1 : Photo 1 — Créer sa box domotique parfaite : de l'impression 3D à la configuration Home Assistant !">
+    <img src="images/Capturedcrandu2025-09-2015-02-01.png" alt="Photo 1 — Créer sa box domotique parfaite : de l'impression 3D à la configuration Home Assistant !" loading="eager">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-09-2014-41-45.png" data-full="images/Capturedcrandu2025-09-2014-41-45.png" data-alt="Photo 2 — Créer sa box domotique parfaite : de l'impression 3D à la configuration Home Assistant !" aria-label="Agrandir la photo 2 : Photo 2 — Créer sa box domotique parfaite : de l'impression 3D à la configuration Home Assistant !">
+    <img src="images/Capturedcrandu2025-09-2014-41-45.png" alt="Photo 2 — Créer sa box domotique parfaite : de l'impression 3D à la configuration Home Assistant !" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-09-2014-42-15.png" data-full="images/Capturedcrandu2025-09-2014-42-15.png" data-alt="Photo 3 — Créer sa box domotique parfaite : de l'impression 3D à la configuration Home Assistant !" aria-label="Agrandir la photo 3 : Photo 3 — Créer sa box domotique parfaite : de l'impression 3D à la configuration Home Assistant !">
+    <img src="images/Capturedcrandu2025-09-2014-42-15.png" alt="Photo 3 — Créer sa box domotique parfaite : de l'impression 3D à la configuration Home Assistant !" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-09-2014-42-27.png" data-full="images/Capturedcrandu2025-09-2014-42-27.png" data-alt="Photo 4 — Créer sa box domotique parfaite : de l'impression 3D à la configuration Home Assistant !" aria-label="Agrandir la photo 4 : Photo 4 — Créer sa box domotique parfaite : de l'impression 3D à la configuration Home Assistant !">
+    <img src="images/Capturedcrandu2025-09-2014-42-27.png" alt="Photo 4 — Créer sa box domotique parfaite : de l'impression 3D à la configuration Home Assistant !" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-09-2014-52-03.png" data-full="images/Capturedcrandu2025-09-2014-52-03.png" data-alt="Photo 5 — Créer sa box domotique parfaite : de l'impression 3D à la configuration Home Assistant !" aria-label="Agrandir la photo 5 : Photo 5 — Créer sa box domotique parfaite : de l'impression 3D à la configuration Home Assistant !">
+    <img src="images/Capturedcrandu2025-09-2014-52-03.png" alt="Photo 5 — Créer sa box domotique parfaite : de l'impression 3D à la configuration Home Assistant !" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-09-2112-22-19.png" data-full="images/Capturedcrandu2025-09-2112-22-19.png" data-alt="Photo 6 — Créer sa box domotique parfaite : de l'impression 3D à la configuration Home Assistant !" aria-label="Agrandir la photo 6 : Photo 6 — Créer sa box domotique parfaite : de l'impression 3D à la configuration Home Assistant !">
+    <img src="images/Capturedcrandu2025-09-2112-22-19.png" alt="Photo 6 — Créer sa box domotique parfaite : de l'impression 3D à la configuration Home Assistant !" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-09-2516-59-29.png" data-full="images/Capturedcrandu2025-09-2516-59-29.png" data-alt="Photo 7 — Créer sa box domotique parfaite : de l'impression 3D à la configuration Home Assistant !" aria-label="Agrandir la photo 7 : Photo 7 — Créer sa box domotique parfaite : de l'impression 3D à la configuration Home Assistant !">
+    <img src="images/Capturedcrandu2025-09-2516-59-29.png" alt="Photo 7 — Créer sa box domotique parfaite : de l'impression 3D à la configuration Home Assistant !" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-09-2613-36-57.png" data-full="images/Capturedcrandu2025-09-2613-36-57.png" data-alt="Photo 8 — Créer sa box domotique parfaite : de l'impression 3D à la configuration Home Assistant !" aria-label="Agrandir la photo 8 : Photo 8 — Créer sa box domotique parfaite : de l'impression 3D à la configuration Home Assistant !">
+    <img src="images/Capturedcrandu2025-09-2613-36-57.png" alt="Photo 8 — Créer sa box domotique parfaite : de l'impression 3D à la configuration Home Assistant !" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/GSSkG4Gz.jpeg" data-full="images/GSSkG4Gz.jpeg" data-alt="Photo 9 — Créer sa box domotique parfaite : de l'impression 3D à la configuration Home Assistant !" aria-label="Agrandir la photo 9 : Photo 9 — Créer sa box domotique parfaite : de l'impression 3D à la configuration Home Assistant !">
+    <img src="images/GSSkG4Gz.jpeg" alt="Photo 9 — Créer sa box domotique parfaite : de l'impression 3D à la configuration Home Assistant !" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/M4HZ3-OW.jpeg" data-full="images/M4HZ3-OW.jpeg" data-alt="Photo 10 — Créer sa box domotique parfaite : de l'impression 3D à la configuration Home Assistant !" aria-label="Agrandir la photo 10 : Photo 10 — Créer sa box domotique parfaite : de l'impression 3D à la configuration Home Assistant !">
+    <img src="images/M4HZ3-OW.jpeg" alt="Photo 10 — Créer sa box domotique parfaite : de l'impression 3D à la configuration Home Assistant !" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/FVasgKeN.jpeg" data-full="images/FVasgKeN.jpeg" data-alt="Photo 11 — Créer sa box domotique parfaite : de l'impression 3D à la configuration Home Assistant !" aria-label="Agrandir la photo 11 : Photo 11 — Créer sa box domotique parfaite : de l'impression 3D à la configuration Home Assistant !">
+    <img src="images/FVasgKeN.jpeg" alt="Photo 11 — Créer sa box domotique parfaite : de l'impression 3D à la configuration Home Assistant !" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/3dJ5dUuW.jpeg" data-full="images/3dJ5dUuW.jpeg" data-alt="Photo 12 — Créer sa box domotique parfaite : de l'impression 3D à la configuration Home Assistant !" aria-label="Agrandir la photo 12 : Photo 12 — Créer sa box domotique parfaite : de l'impression 3D à la configuration Home Assistant !">
+    <img src="images/3dJ5dUuW.jpeg" alt="Photo 12 — Créer sa box domotique parfaite : de l'impression 3D à la configuration Home Assistant !" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/6DJKNNcx.jpeg" data-full="images/6DJKNNcx.jpeg" data-alt="Photo 13 — Créer sa box domotique parfaite : de l'impression 3D à la configuration Home Assistant !" aria-label="Agrandir la photo 13 : Photo 13 — Créer sa box domotique parfaite : de l'impression 3D à la configuration Home Assistant !">
+    <img src="images/6DJKNNcx.jpeg" alt="Photo 13 — Créer sa box domotique parfaite : de l'impression 3D à la configuration Home Assistant !" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Ttl7fVEr.jpeg" data-full="images/Ttl7fVEr.jpeg" data-alt="Photo 14 — Créer sa box domotique parfaite : de l'impression 3D à la configuration Home Assistant !" aria-label="Agrandir la photo 14 : Photo 14 — Créer sa box domotique parfaite : de l'impression 3D à la configuration Home Assistant !">
+    <img src="images/Ttl7fVEr.jpeg" alt="Photo 14 — Créer sa box domotique parfaite : de l'impression 3D à la configuration Home Assistant !" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/cp1SJiQu.jpeg" data-full="images/cp1SJiQu.jpeg" data-alt="Photo 15 — Créer sa box domotique parfaite : de l'impression 3D à la configuration Home Assistant !" aria-label="Agrandir la photo 15 : Photo 15 — Créer sa box domotique parfaite : de l'impression 3D à la configuration Home Assistant !">
+    <img src="images/cp1SJiQu.jpeg" alt="Photo 15 — Créer sa box domotique parfaite : de l'impression 3D à la configuration Home Assistant !" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Fl_nQH1E.jpeg" data-full="images/Fl_nQH1E.jpeg" data-alt="Photo 16 — Créer sa box domotique parfaite : de l'impression 3D à la configuration Home Assistant !" aria-label="Agrandir la photo 16 : Photo 16 — Créer sa box domotique parfaite : de l'impression 3D à la configuration Home Assistant !">
+    <img src="images/Fl_nQH1E.jpeg" alt="Photo 16 — Créer sa box domotique parfaite : de l'impression 3D à la configuration Home Assistant !" loading="lazy">
+  </a>
+</figure>
+</div>
+<button type="button" class="carousel-nav" data-prev aria-label="Photo précédente">‹</button>
+<button type="button" class="carousel-nav" data-next aria-label="Photo suivante">›</button>
+<div class="carousel-dots" data-dots></div>
+<div class="carousel-live" data-live aria-live="polite"></div>
+<p class="carousel-hint">Faites défiler les photos, ou ouvrez-les pour les agrandir (si JavaScript est activé).</p>
+</section>
+
 # Créer sa box domotique parfaite : de l'impression 3D à la configuration Home Assistant !
 
 - **Catégorie :** [Tutoriels, Guides & Astuces des Membres](https://forumdomotique.com/forums/87-tutoriels-guides-astuces-des-membres/)

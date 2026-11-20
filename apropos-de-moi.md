@@ -4,6 +4,8 @@ description: "À propos de XAV59213 (Xavier Descamps) : intégrations Home Assis
 image: /images-profil/Sanstitre.jpeg
 date: 2026-11-20
 ---
+{% include site-nav.html %}
+
 # À propos de moi — XAV59213
 
 - **Profil :** https://forumdomotique.com/profile/106-xav59213/

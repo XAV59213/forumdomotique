@@ -6,6 +6,52 @@ date: 2025-10-25
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/460-mon-projet-domotique-caddies-3d-pour-s%C3%A9curiser-les-disques-de-mon-hp-gen8/">Lire et commenter sur Forum Domotique</a></p>
 
+
+<section class="carousel photo-carousel" data-carousel data-lightbox aria-roledescription="carrousel" aria-label="Photos de l’article (7)" tabindex="0">
+<div class="carousel-track" data-track>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-10-2514-07-15.png" data-full="images/Capturedcrandu2025-10-2514-07-15.png" data-alt="Photo 1 — Mon projet domotique : caddies 3D pour sécuriser les disques de mon HP  Gen8" aria-label="Agrandir la photo 1 : Photo 1 — Mon projet domotique : caddies 3D pour sécuriser les disques de mon HP  Gen8">
+    <img src="images/Capturedcrandu2025-10-2514-07-15.png" alt="Photo 1 — Mon projet domotique : caddies 3D pour sécuriser les disques de mon HP  Gen8" loading="eager">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-10-2514-06-47.png" data-full="images/Capturedcrandu2025-10-2514-06-47.png" data-alt="Photo 2 — Mon projet domotique : caddies 3D pour sécuriser les disques de mon HP  Gen8" aria-label="Agrandir la photo 2 : Photo 2 — Mon projet domotique : caddies 3D pour sécuriser les disques de mon HP  Gen8">
+    <img src="images/Capturedcrandu2025-10-2514-06-47.png" alt="Photo 2 — Mon projet domotique : caddies 3D pour sécuriser les disques de mon HP  Gen8" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Pepaqhfl.jpeg" data-full="images/Pepaqhfl.jpeg" data-alt="Photo 3 — Mon projet domotique : caddies 3D pour sécuriser les disques de mon HP  Gen8" aria-label="Agrandir la photo 3 : Photo 3 — Mon projet domotique : caddies 3D pour sécuriser les disques de mon HP  Gen8">
+    <img src="images/Pepaqhfl.jpeg" alt="Photo 3 — Mon projet domotique : caddies 3D pour sécuriser les disques de mon HP  Gen8" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/bzr7hECb.jpeg" data-full="images/bzr7hECb.jpeg" data-alt="Photo 4 — Mon projet domotique : caddies 3D pour sécuriser les disques de mon HP  Gen8" aria-label="Agrandir la photo 4 : Photo 4 — Mon projet domotique : caddies 3D pour sécuriser les disques de mon HP  Gen8">
+    <img src="images/bzr7hECb.jpeg" alt="Photo 4 — Mon projet domotique : caddies 3D pour sécuriser les disques de mon HP  Gen8" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/GtztpAxw.jpeg" data-full="images/GtztpAxw.jpeg" data-alt="Photo 5 — Mon projet domotique : caddies 3D pour sécuriser les disques de mon HP  Gen8" aria-label="Agrandir la photo 5 : Photo 5 — Mon projet domotique : caddies 3D pour sécuriser les disques de mon HP  Gen8">
+    <img src="images/GtztpAxw.jpeg" alt="Photo 5 — Mon projet domotique : caddies 3D pour sécuriser les disques de mon HP  Gen8" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/m5oHdEQ1.jpeg" data-full="images/m5oHdEQ1.jpeg" data-alt="Photo 6 — Mon projet domotique : caddies 3D pour sécuriser les disques de mon HP  Gen8" aria-label="Agrandir la photo 6 : Photo 6 — Mon projet domotique : caddies 3D pour sécuriser les disques de mon HP  Gen8">
+    <img src="images/m5oHdEQ1.jpeg" alt="Photo 6 — Mon projet domotique : caddies 3D pour sécuriser les disques de mon HP  Gen8" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/KHkbsxFo.jpeg" data-full="images/KHkbsxFo.jpeg" data-alt="Photo 7 — Mon projet domotique : caddies 3D pour sécuriser les disques de mon HP  Gen8" aria-label="Agrandir la photo 7 : Photo 7 — Mon projet domotique : caddies 3D pour sécuriser les disques de mon HP  Gen8">
+    <img src="images/KHkbsxFo.jpeg" alt="Photo 7 — Mon projet domotique : caddies 3D pour sécuriser les disques de mon HP  Gen8" loading="lazy">
+  </a>
+</figure>
+</div>
+<button type="button" class="carousel-nav" data-prev aria-label="Photo précédente">‹</button>
+<button type="button" class="carousel-nav" data-next aria-label="Photo suivante">›</button>
+<div class="carousel-dots" data-dots></div>
+<div class="carousel-live" data-live aria-live="polite"></div>
+<p class="carousel-hint">Faites défiler les photos, ou ouvrez-les pour les agrandir (si JavaScript est activé).</p>
+</section>
+
 # Mon projet domotique : caddies 3D pour sécuriser les disques de mon HP  Gen8
 
 - **Catégorie :** [Café Domotique](https://forumdomotique.com/forums/85-caf%C3%A9-domotique/)

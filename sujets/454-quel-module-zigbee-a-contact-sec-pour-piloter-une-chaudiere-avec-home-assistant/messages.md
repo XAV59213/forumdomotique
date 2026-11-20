@@ -6,6 +6,32 @@ date: 2025-10-21
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/454-quel-module-zigbee-%C3%A0-contact-sec-pour-piloter-une-chaudi%C3%A8re-avec-home-assistant-via-zigbee2mqtt/">Lire et commenter sur Forum Domotique</a></p>
 
+
+<section class="carousel photo-carousel" data-carousel data-lightbox aria-roledescription="carrousel" aria-label="Photos de l’article (3)" tabindex="0">
+<div class="carousel-track" data-track>
+<figure class="photo-slide" data-slide>
+  <a href="images/IMG_6108.jpeg" data-full="images/IMG_6108.jpeg" data-alt="Photo 1 — Quel module Zigbee à contact sec pour piloter une chaudière avec Home Assistant via Zigbee2MQTT ?" aria-label="Agrandir la photo 1 : Photo 1 — Quel module Zigbee à contact sec pour piloter une chaudière avec Home Assistant via Zigbee2MQTT ?">
+    <img src="images/IMG_6108.jpeg" alt="Photo 1 — Quel module Zigbee à contact sec pour piloter une chaudière avec Home Assistant via Zigbee2MQTT ?" loading="eager">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/IMG_6118.jpeg" data-full="images/IMG_6118.jpeg" data-alt="Photo 2 — Quel module Zigbee à contact sec pour piloter une chaudière avec Home Assistant via Zigbee2MQTT ?" aria-label="Agrandir la photo 2 : Photo 2 — Quel module Zigbee à contact sec pour piloter une chaudière avec Home Assistant via Zigbee2MQTT ?">
+    <img src="images/IMG_6118.jpeg" alt="Photo 2 — Quel module Zigbee à contact sec pour piloter une chaudière avec Home Assistant via Zigbee2MQTT ?" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/IMG_6119.jpeg" data-full="images/IMG_6119.jpeg" data-alt="Photo 3 — Quel module Zigbee à contact sec pour piloter une chaudière avec Home Assistant via Zigbee2MQTT ?" aria-label="Agrandir la photo 3 : Photo 3 — Quel module Zigbee à contact sec pour piloter une chaudière avec Home Assistant via Zigbee2MQTT ?">
+    <img src="images/IMG_6119.jpeg" alt="Photo 3 — Quel module Zigbee à contact sec pour piloter une chaudière avec Home Assistant via Zigbee2MQTT ?" loading="lazy">
+  </a>
+</figure>
+</div>
+<button type="button" class="carousel-nav" data-prev aria-label="Photo précédente">‹</button>
+<button type="button" class="carousel-nav" data-next aria-label="Photo suivante">›</button>
+<div class="carousel-dots" data-dots></div>
+<div class="carousel-live" data-live aria-live="polite"></div>
+<p class="carousel-hint">Faites défiler les photos, ou ouvrez-les pour les agrandir (si JavaScript est activé).</p>
+</section>
+
 # Quel module Zigbee à contact sec pour piloter une chaudière avec Home Assistant via Zigbee2MQTT ?
 
 - **Catégorie :** [Autres marques de matériel domotique](https://forumdomotique.com/forums/59-autres-marques-de-mat%C3%A9riel-domotique/)

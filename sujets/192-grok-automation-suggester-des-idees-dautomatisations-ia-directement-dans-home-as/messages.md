@@ -7,6 +7,32 @@ date: 2025-06-07
 {% raw %}
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/192-%F0%9F%A7%A0-grok-automation-suggester-des-id%C3%A9es-dautomatisations-ia-directement-dans-home-assistant/">Lire et commenter sur Forum Domotique</a> · <a href="https://github.com/XAV59213/grok_automation_suggester">Dépôt HACS : Grok Automation Suggester</a></p>
 
+
+<section class="carousel photo-carousel" data-carousel data-lightbox aria-roledescription="carrousel" aria-label="Photos de l’article (3)" tabindex="0">
+<div class="carousel-track" data-track>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-06-0711-23-20.png" data-full="images/Capturedcrandu2025-06-0711-23-20.png" data-alt="Photo 1 — 🧠 Grok Automation Suggester – Des idées d’automatisations IA directement dans Home Assistant !" aria-label="Agrandir la photo 1 : Photo 1 — 🧠 Grok Automation Suggester – Des idées d’automatisations IA directement dans Home Assistant !">
+    <img src="images/Capturedcrandu2025-06-0711-23-20.png" alt="Photo 1 — 🧠 Grok Automation Suggester – Des idées d’automatisations IA directement dans Home Assistant !" loading="eager">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-06-0711-25-35.png" data-full="images/Capturedcrandu2025-06-0711-25-35.png" data-alt="Photo 2 — 🧠 Grok Automation Suggester – Des idées d’automatisations IA directement dans Home Assistant !" aria-label="Agrandir la photo 2 : Photo 2 — 🧠 Grok Automation Suggester – Des idées d’automatisations IA directement dans Home Assistant !">
+    <img src="images/Capturedcrandu2025-06-0711-25-35.png" alt="Photo 2 — 🧠 Grok Automation Suggester – Des idées d’automatisations IA directement dans Home Assistant !" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-06-0711-25-57.png" data-full="images/Capturedcrandu2025-06-0711-25-57.png" data-alt="Photo 3 — 🧠 Grok Automation Suggester – Des idées d’automatisations IA directement dans Home Assistant !" aria-label="Agrandir la photo 3 : Photo 3 — 🧠 Grok Automation Suggester – Des idées d’automatisations IA directement dans Home Assistant !">
+    <img src="images/Capturedcrandu2025-06-0711-25-57.png" alt="Photo 3 — 🧠 Grok Automation Suggester – Des idées d’automatisations IA directement dans Home Assistant !" loading="lazy">
+  </a>
+</figure>
+</div>
+<button type="button" class="carousel-nav" data-prev aria-label="Photo précédente">‹</button>
+<button type="button" class="carousel-nav" data-next aria-label="Photo suivante">›</button>
+<div class="carousel-dots" data-dots></div>
+<div class="carousel-live" data-live aria-live="polite"></div>
+<p class="carousel-hint">Faites défiler les photos, ou ouvrez-les pour les agrandir (si JavaScript est activé).</p>
+</section>
+
 # 🧠 Grok Automation Suggester – Des idées d’automatisations IA directement dans Home Assistant !
 
 - **Catégorie :** [Projets et Personnalisations](https://forumdomotique.com/forums/12-projets-et-personnalisations/)

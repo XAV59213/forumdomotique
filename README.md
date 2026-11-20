@@ -10,6 +10,14 @@ Cette archive est une **sauvegarde publique** des messages, sujets, articles, gu
 
 **Vitrine en ligne :** [https://xav59213.github.io/forumdomotique/](https://xav59213.github.io/forumdomotique/)
 
+Rubriques de la vitrine :
+
+- [Mes intégrations GitHub / HACS](https://xav59213.github.io/forumdomotique/mes-integrations/)
+- [Tests produits](https://xav59213.github.io/forumdomotique/tests-produits/)
+- [Guides](https://xav59213.github.io/forumdomotique/guides/) et [Actualités](https://xav59213.github.io/forumdomotique/actualites/)
+- [Réponses aux utilisateurs](https://xav59213.github.io/forumdomotique/reponses-utilisateurs/) (à part des dépôts et des tests)
+
+
 Le contenu a été recopié à partir des pages publiques du forum, sans modification des messages sur le site d’origine. L’objectif est de conserver une copie lisible si le forum devenait indisponible, et de la présenter sur une petite vitrine.
 
 Chaque sujet se trouve dans un dossier, avec un fichier Markdown (`messages.md`) qui reprend le titre, la catégorie, l’URL du sujet, puis chaque message de XAV59213 (date en heure de Paris, lien `findComment`, corps en Markdown). Les images embarquées sont dans un sous-dossier `images/` ; l’URL d’origine est conservée en commentaire HTML sous chaque image.

@@ -1,0 +1,91 @@
+- name: Freebox Homexa
+  repo: freebox_homexa
+  official: true
+  blurb: Toute votre Freebox dans Home Assistant, désormais dans la bibliothèque officielle
+    de HACS.
+  image: /sujets/4074-freebox-homexa-est-dans-hacs-par-defaut-et-pas-mal-de-nouveautes/images/IMG_7808.png
+  page: /sujets/4074-freebox-homexa-est-dans-hacs-par-defaut-et-pas-mal-de-nouveautes/messages.html
+  related:
+  - title: Présentation du projet
+    url: /sujets/101-presentation-du-projet-freebox-homexa/messages.html
+  - title: Guide utilisateur (v28.8.24)
+    url: /sujets/4008-guide-utilisateur-freebox-homexa-de-linstallation-a-lutilisation-v28824/messages.html
+  - title: Mise à jour 28.8.64
+    url: /sujets/4063-freebox-homexa-passe-en-28864/messages.html
+- name: Chauffage fil pilote FR
+  repo: chauffage
+  official: true
+  blurb: Pilotez vos radiateurs électriques à fil pilote en local, sans cloud.
+  image: /sujets/596-chauffage-electrique-fil-pilote-fr-enfin-une-integration-qui-parle-francais/images/IMG_6431.jpeg
+  page: /sujets/596-chauffage-electrique-fil-pilote-fr-enfin-une-integration-qui-parle-francais/messages.html
+  related:
+  - title: Logo et icône officiels
+    url: /sujets/597-logo-icone-officielle-pour-chauffage-electrique-fil-pilote-fr-dimensions-noms-de/messages.html
+- name: Free Mobile SMS XA
+  repo: freesmsxa
+  official: true
+  blurb: Recevez les alertes de la maison par SMS, gratuitement, avec l’option Free.
+  image: /sujets/110-free-mobile-sms-xa-integration-home-assistant/images/Capturedcrandu2025-05-0308-33-31.png
+  page: /sujets/110-free-mobile-sms-xa-integration-home-assistant/messages.html
+  related:
+  - title: Envoyer des SMS depuis le dashboard
+    url: /sujets/353-envoyer-des-sms-depuis-le-dashboard-home-assistant-avec-lintegration-free-mobile/messages.html
+  - title: Notifications SMS dans les automatisations
+    url: /sujets/354-configurer-lenvoi-de-notifications-sms-dans-vos-automatisations-home-assistant-v/messages.html
+- name: Jour Férié
+  repo: jourferier
+  official: true
+  blurb: Savoir si aujourd’hui est férié, demain aussi, et calculer les ponts — y
+    compris en Alsace-Moselle.
+  image: /sujets/194-integration-ha-jour-ferie-capteur-de-jours-feries/images/Capturedcrandu2025-06-0809-22-23.png
+  page: /sujets/194-integration-ha-jour-ferie-capteur-de-jours-feries/messages.html
+- name: Saints du Jour
+  repo: saintdujour
+  official: true
+  blurb: Le ou les saints fêtés aujourd’hui et demain, selon le calendrier français.
+  image: /sujets/193-integration-home-assistant-saints-du-jour/images/Capturedcrandu2025-06-0714-58-19.png
+  page: /sujets/193-integration-home-assistant-saints-du-jour/messages.html
+- name: Phase de la Lune
+  repo: phase_lune
+  official: true
+  blurb: La phase, l’illumination et une anecdote du jour, chaque matin dans Home
+    Assistant.
+  image: /sujets/4094-phase-de-la-lune-la-lune-son-illumination-et-une-anecdote-par-jour-dans-home-ass/images/card-preview.jpg
+  page: /sujets/4094-phase-de-la-lune-la-lune-son-illumination-et-une-anecdote-par-jour-dans-home-ass/messages.html
+- name: Starship Tracker
+  repo: starship_tracker
+  official: true
+  blurb: 'Suivez les lancements Starship de SpaceX : mission, compte à rebours et
+    actualités.'
+  image: /sujets/4095-starship-tracker-suivez-les-lancements-starship-de-spacex-dans-home-assistant/images/card-bloc-mission.jpg
+  page: /sujets/4095-starship-tracker-suivez-les-lancements-starship-de-spacex-dans-home-assistant/messages.html
+- name: Souvenirs et Célébrations
+  repo: date_countdown
+  official: false
+  blurb: Anniversaires, noces et dates qui comptent, avec des cartes Lovelace dédiées.
+  image: /sujets/4093-integration-home-assistant-souvenirs-et-celebrations/images/apercu-global.png
+  page: /sujets/4093-integration-home-assistant-souvenirs-et-celebrations/messages.html
+  related:
+  - title: Date Countdown (première version)
+    url: /sujets/196-integration-date-countdown-suivi-devenements-personnels-dans-home-assistant/messages.html
+- name: Maison 3D
+  repo: maison3d
+  official: false
+  blurb: Une photo de votre maison qui vit au rythme de la météo (projet en cours).
+  image: /sujets/4096-projet-en-cours-maison-3d-votre-maison-qui-vit-au-rythme-de-la-meteo-dans-home-a/images/maison3d-reference.webp
+  page: /sujets/4096-projet-en-cours-maison-3d-votre-maison-qui-vit-au-rythme-de-la-meteo-dans-home-a/messages.html
+- name: Piscinexa
+  repo: piscinexa
+  official: false
+  blurb: Calculs de pH, de chlore et de temps de filtration pour entretenir sa piscine.
+  image: /sujets/133-projet-piscine-besoin-de-testeur/images/piscinexa.png
+  page: /sujets/133-projet-piscine-besoin-de-testeur/messages.html
+  related:
+  - title: Tableau de bord de gestion de piscine
+    url: /sujets/90-creer-un-tableau-de-bord-de-gestion-de-piscine-dans-home-assistant/messages.html
+- name: SpaceX et Starman
+  repo: spacexha
+  official: false
+  blurb: L’univers SpaceX dans Home Assistant (dépôt personnalisé).
+  image: /assets/images/og-default.png
+  page: null

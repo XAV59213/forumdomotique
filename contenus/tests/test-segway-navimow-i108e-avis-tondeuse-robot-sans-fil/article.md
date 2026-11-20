@@ -1,10 +1,109 @@
 ---
 title: "Test Segway Navimow i108E : un mois avec la tondeuse robot sans câble périmétrique"
 description: "La tondeuse robot sans fil périmétrique est l'une des évolutions les plus intéressantes de ces dernières années pour qui veut automatiser l'entretien du…"
-image: /contenus/tests/test-segway-navimow-i108e-avis-tondeuse-robot-sans-fil/images/logo_amazon.png
+image: /contenus/tests/test-segway-navimow-i108e-avis-tondeuse-robot-sans-fil/images/IMG_6753.jpeg
 date: 2026-03-29
+section: tests
+product: Navimow i108E
+brand: Segway
+tags:
+  - jardin
+  - domotique
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/tests/accessoires/test-segway-navimow-i108e-avis-tondeuse-robot-sans-fil/">Lire et commenter sur Forum Domotique</a></p>
+
+
+{% include product-meta.html %}
+
+<section class="carousel photo-carousel" data-carousel data-lightbox aria-roledescription="carrousel" aria-label="Photos de l’article (16)" tabindex="0">
+<div class="carousel-track" data-track>
+<figure class="photo-slide" data-slide>
+  <a href="images/JcKvBabX.jpeg" data-full="images/JcKvBabX.jpeg" data-alt="Photo 1 — Test Segway Navimow i108E : un mois avec la tondeuse robot sans câble périmétrique" aria-label="Agrandir la photo 1 : Photo 1 — Test Segway Navimow i108E : un mois avec la tondeuse robot sans câble périmétrique">
+    <img src="images/JcKvBabX.jpeg" alt="Photo 1 — Test Segway Navimow i108E : un mois avec la tondeuse robot sans câble périmétrique" loading="eager">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/lLQN1Drx.jpeg" data-full="images/lLQN1Drx.jpeg" data-alt="Photo 2 — Test Segway Navimow i108E : un mois avec la tondeuse robot sans câble périmétrique" aria-label="Agrandir la photo 2 : Photo 2 — Test Segway Navimow i108E : un mois avec la tondeuse robot sans câble périmétrique">
+    <img src="images/lLQN1Drx.jpeg" alt="Photo 2 — Test Segway Navimow i108E : un mois avec la tondeuse robot sans câble périmétrique" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/mxHefEXr.jpeg" data-full="images/mxHefEXr.jpeg" data-alt="Photo 3 — Test Segway Navimow i108E : un mois avec la tondeuse robot sans câble périmétrique" aria-label="Agrandir la photo 3 : Photo 3 — Test Segway Navimow i108E : un mois avec la tondeuse robot sans câble périmétrique">
+    <img src="images/mxHefEXr.jpeg" alt="Photo 3 — Test Segway Navimow i108E : un mois avec la tondeuse robot sans câble périmétrique" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/zQXISwvA.jpeg" data-full="images/zQXISwvA.jpeg" data-alt="Photo 4 — Test Segway Navimow i108E : un mois avec la tondeuse robot sans câble périmétrique" aria-label="Agrandir la photo 4 : Photo 4 — Test Segway Navimow i108E : un mois avec la tondeuse robot sans câble périmétrique">
+    <img src="images/zQXISwvA.jpeg" alt="Photo 4 — Test Segway Navimow i108E : un mois avec la tondeuse robot sans câble périmétrique" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/qOCWB7l4.jpeg" data-full="images/qOCWB7l4.jpeg" data-alt="Photo 5 — Test Segway Navimow i108E : un mois avec la tondeuse robot sans câble périmétrique" aria-label="Agrandir la photo 5 : Photo 5 — Test Segway Navimow i108E : un mois avec la tondeuse robot sans câble périmétrique">
+    <img src="images/qOCWB7l4.jpeg" alt="Photo 5 — Test Segway Navimow i108E : un mois avec la tondeuse robot sans câble périmétrique" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/VfCFQ2kG.jpeg" data-full="images/VfCFQ2kG.jpeg" data-alt="Photo 6 — Test Segway Navimow i108E : un mois avec la tondeuse robot sans câble périmétrique" aria-label="Agrandir la photo 6 : Photo 6 — Test Segway Navimow i108E : un mois avec la tondeuse robot sans câble périmétrique">
+    <img src="images/VfCFQ2kG.jpeg" alt="Photo 6 — Test Segway Navimow i108E : un mois avec la tondeuse robot sans câble périmétrique" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/9HwVGtZ8.jpeg" data-full="images/9HwVGtZ8.jpeg" data-alt="Photo 7 — Test Segway Navimow i108E : un mois avec la tondeuse robot sans câble périmétrique" aria-label="Agrandir la photo 7 : Photo 7 — Test Segway Navimow i108E : un mois avec la tondeuse robot sans câble périmétrique">
+    <img src="images/9HwVGtZ8.jpeg" alt="Photo 7 — Test Segway Navimow i108E : un mois avec la tondeuse robot sans câble périmétrique" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/jDkqkpX8.jpeg" data-full="images/jDkqkpX8.jpeg" data-alt="Photo 8 — Test Segway Navimow i108E : un mois avec la tondeuse robot sans câble périmétrique" aria-label="Agrandir la photo 8 : Photo 8 — Test Segway Navimow i108E : un mois avec la tondeuse robot sans câble périmétrique">
+    <img src="images/jDkqkpX8.jpeg" alt="Photo 8 — Test Segway Navimow i108E : un mois avec la tondeuse robot sans câble périmétrique" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/XPGodNgB.jpeg" data-full="images/XPGodNgB.jpeg" data-alt="Photo 9 — Test Segway Navimow i108E : un mois avec la tondeuse robot sans câble périmétrique" aria-label="Agrandir la photo 9 : Photo 9 — Test Segway Navimow i108E : un mois avec la tondeuse robot sans câble périmétrique">
+    <img src="images/XPGodNgB.jpeg" alt="Photo 9 — Test Segway Navimow i108E : un mois avec la tondeuse robot sans câble périmétrique" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/8y0FMr9X.jpeg" data-full="images/8y0FMr9X.jpeg" data-alt="Photo 10 — Test Segway Navimow i108E : un mois avec la tondeuse robot sans câble périmétrique" aria-label="Agrandir la photo 10 : Photo 10 — Test Segway Navimow i108E : un mois avec la tondeuse robot sans câble périmétrique">
+    <img src="images/8y0FMr9X.jpeg" alt="Photo 10 — Test Segway Navimow i108E : un mois avec la tondeuse robot sans câble périmétrique" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/PfnyhO2e.jpeg" data-full="images/PfnyhO2e.jpeg" data-alt="Photo 11 — Test Segway Navimow i108E : un mois avec la tondeuse robot sans câble périmétrique" aria-label="Agrandir la photo 11 : Photo 11 — Test Segway Navimow i108E : un mois avec la tondeuse robot sans câble périmétrique">
+    <img src="images/PfnyhO2e.jpeg" alt="Photo 11 — Test Segway Navimow i108E : un mois avec la tondeuse robot sans câble périmétrique" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/oqUIjLzg.jpeg" data-full="images/oqUIjLzg.jpeg" data-alt="Photo 12 — Test Segway Navimow i108E : un mois avec la tondeuse robot sans câble périmétrique" aria-label="Agrandir la photo 12 : Photo 12 — Test Segway Navimow i108E : un mois avec la tondeuse robot sans câble périmétrique">
+    <img src="images/oqUIjLzg.jpeg" alt="Photo 12 — Test Segway Navimow i108E : un mois avec la tondeuse robot sans câble périmétrique" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/IMG_6751.jpeg" data-full="images/IMG_6751.jpeg" data-alt="Photo 13 — Test Segway Navimow i108E : un mois avec la tondeuse robot sans câble périmétrique" aria-label="Agrandir la photo 13 : Photo 13 — Test Segway Navimow i108E : un mois avec la tondeuse robot sans câble périmétrique">
+    <img src="images/IMG_6751.jpeg" alt="Photo 13 — Test Segway Navimow i108E : un mois avec la tondeuse robot sans câble périmétrique" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/IMG_6753.jpeg" data-full="images/IMG_6753.jpeg" data-alt="Photo 14 — Test Segway Navimow i108E : un mois avec la tondeuse robot sans câble périmétrique" aria-label="Agrandir la photo 14 : Photo 14 — Test Segway Navimow i108E : un mois avec la tondeuse robot sans câble périmétrique">
+    <img src="images/IMG_6753.jpeg" alt="Photo 14 — Test Segway Navimow i108E : un mois avec la tondeuse robot sans câble périmétrique" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/IMG_6749.jpeg" data-full="images/IMG_6749.jpeg" data-alt="Photo 15 — Test Segway Navimow i108E : un mois avec la tondeuse robot sans câble périmétrique" aria-label="Agrandir la photo 15 : Photo 15 — Test Segway Navimow i108E : un mois avec la tondeuse robot sans câble périmétrique">
+    <img src="images/IMG_6749.jpeg" alt="Photo 15 — Test Segway Navimow i108E : un mois avec la tondeuse robot sans câble périmétrique" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2026-03-2114-59-35.png" data-full="images/Capturedcrandu2026-03-2114-59-35.png" data-alt="Photo 16 — Test Segway Navimow i108E : un mois avec la tondeuse robot sans câble périmétrique" aria-label="Agrandir la photo 16 : Photo 16 — Test Segway Navimow i108E : un mois avec la tondeuse robot sans câble périmétrique">
+    <img src="images/Capturedcrandu2026-03-2114-59-35.png" alt="Photo 16 — Test Segway Navimow i108E : un mois avec la tondeuse robot sans câble périmétrique" loading="lazy">
+  </a>
+</figure>
+</div>
+<button type="button" class="carousel-nav" data-prev aria-label="Photo précédente">‹</button>
+<button type="button" class="carousel-nav" data-next aria-label="Photo suivante">›</button>
+<div class="carousel-dots" data-dots></div>
+<div class="carousel-live" data-live aria-live="polite"></div>
+<p class="carousel-hint">Faites défiler les photos, ou ouvrez-les pour les agrandir (si JavaScript est activé).</p>
+</section>
 
 # Test Segway Navimow i108E : un mois avec la tondeuse robot sans câble périmétrique
 

@@ -1,0 +1,46 @@
+{% assign items = include.items %}
+{% if items and items.size > 0 %}
+<div class="{% if include.carousel %}carousel card-carousel{% else %}card-grid-wrap{% endif %}" {% if include.carousel %}data-carousel aria-roledescription="carrousel" tabindex="0"{% endif %} aria-label="{{ include.label }}" {% unless include.carousel %}data-filter-group{% endunless %}>
+  {% unless include.carousel %}
+  {% if include.filters %}
+  <div class="filter-bar" role="toolbar" aria-label="Filtrer par catégorie">
+    <button type="button" class="filter-btn" data-filter="*" aria-pressed="true">Tous</button>
+    {% assign tag_list = "" %}
+    {% for p in items %}
+      {% for t in p.tags %}
+        {% assign tag_list = tag_list | append: t | append: "|" %}
+      {% endfor %}
+    {% endfor %}
+    {% assign tags = tag_list | split: "|" | uniq | sort %}
+    {% for t in tags %}
+      {% if t != "" %}
+      <button type="button" class="filter-btn" data-filter="{{ t | escape }}">{{ t }}</button>
+      {% endif %}
+    {% endfor %}
+  </div>
+  {% endif %}
+  {% endunless %}
+  <div class="{% if include.carousel %}carousel-track{% else %}feature-grid{% endif %}" {% if include.carousel %}data-track{% endif %} data-card-list>
+    {% for p in items %}
+    <a class="feature-card" href="{{ p.url | relative_url }}" {% if include.carousel %}data-slide{% endif %} data-tags="{{ p.tags | join: ' ' }}">
+      {% if p.image %}
+      <img class="card-thumb" src="{{ p.image | relative_url }}" alt="" loading="lazy" width="280" height="140">
+      {% endif %}
+      {% if p.brand %}
+      <div class="tag">{{ p.brand }}</div>
+      {% elsif p.section %}
+      <div class="tag">{{ p.section }}</div>
+      {% endif %}
+      <h3>{{ p.product | default: p.title }}</h3>
+      <p>{{ p.description }}</p>
+      {% if p.date %}<p class="card-date">{{ p.date | date: "%d/%m/%Y" }}</p>{% endif %}
+    </a>
+    {% endfor %}
+  </div>
+  {% if include.carousel %}
+  <button type="button" class="carousel-nav" data-prev aria-label="Faire défiler vers la gauche">‹</button>
+  <button type="button" class="carousel-nav" data-next aria-label="Faire défiler vers la droite">›</button>
+  <p class="carousel-hint">Faites défiler horizontalement pour voir toute la sélection.</p>
+  {% endif %}
+</div>
+{% endif %}

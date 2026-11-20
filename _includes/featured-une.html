@@ -1,0 +1,19 @@
+{% if include.une %}
+<section class="featured-block">
+  <p class="kicker">{{ include.label }}</p>
+  <div class="featured-inner">
+    <a class="featured-media" href="{{ include.une.url | relative_url }}">
+      <img src="{{ include.une.image | relative_url }}" alt="{{ include.une.product | default: include.une.title | escape }}">
+    </a>
+    <div class="featured-copy">
+      {% if include.une.brand or include.une.product %}
+      <p class="brand">{% if include.une.brand %}{{ include.une.brand }}{% endif %}{% if include.une.brand and include.une.product %} · {% endif %}{% if include.une.product %}{{ include.une.product }}{% endif %}</p>
+      {% endif %}
+      <h2><a href="{{ include.une.url | relative_url }}">{{ include.une.title }}</a></h2>
+      <p>{{ include.une.description }}</p>
+      {% if include.une.date %}<p class="featured-date">{{ include.une.date | date: "%d/%m/%Y" }}</p>{% endif %}
+      <a class="hero-btn" href="{{ include.une.url | relative_url }}">{{ include.button }}</a>
+    </div>
+  </div>
+</section>
+{% endif %}

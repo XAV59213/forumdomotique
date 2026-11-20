@@ -3,8 +3,103 @@ title: "Installer et configurer le SONOFF ZBMINIL2 ZigBee sur Home Assistant : g
 description: "Dans le monde de la domotique, les modules ZigBee comme le SONOFF ZBMINIL2 offrent une flexibilité incroyable pour moderniser vos interrupteurs existants…"
 image: /contenus/guides/installer-sonoff-zbminil2-home-assistant-zigbee-sans-neutre/images/Designsanstitre.png
 date: 2025-10-12
+section: guides
+tags:
+  - domotique
+  - zigbee
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/guides-tutoriels/home-assistant/installer-sonoff-zbminil2-home-assistant-zigbee-sans-neutre/">Lire et commenter sur Forum Domotique</a></p>
+
+
+<section class="carousel photo-carousel" data-carousel data-lightbox aria-roledescription="carrousel" aria-label="Photos de l’article (16)" tabindex="0">
+<div class="carousel-track" data-track>
+<figure class="photo-slide" data-slide>
+  <a href="images/Designsanstitre.png" data-full="images/Designsanstitre.png" data-alt="Photo 1 — Installer et configurer le SONOFF ZBMINIL2 ZigBee sur Home Assistant : guide complet (poussoir, va-et-vient, interrupteur simple)" aria-label="Agrandir la photo 1 : Photo 1 — Installer et configurer le SONOFF ZBMINIL2 ZigBee sur Home Assistant : guide complet (poussoir, va-et-vient, interrupteur simple)">
+    <img src="images/Designsanstitre.png" alt="Photo 1 — Installer et configurer le SONOFF ZBMINIL2 ZigBee sur Home Assistant : guide complet (poussoir, va-et-vient, interrupteur simple)" loading="eager">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-10-0514-06-17.png" data-full="images/Capturedcrandu2025-10-0514-06-17.png" data-alt="Photo 2 — Installer et configurer le SONOFF ZBMINIL2 ZigBee sur Home Assistant : guide complet (poussoir, va-et-vient, interrupteur simple)" aria-label="Agrandir la photo 2 : Photo 2 — Installer et configurer le SONOFF ZBMINIL2 ZigBee sur Home Assistant : guide complet (poussoir, va-et-vient, interrupteur simple)">
+    <img src="images/Capturedcrandu2025-10-0514-06-17.png" alt="Photo 2 — Installer et configurer le SONOFF ZBMINIL2 ZigBee sur Home Assistant : guide complet (poussoir, va-et-vient, interrupteur simple)" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-10-0513-53-26.png" data-full="images/Capturedcrandu2025-10-0513-53-26.png" data-alt="Photo 3 — Installer et configurer le SONOFF ZBMINIL2 ZigBee sur Home Assistant : guide complet (poussoir, va-et-vient, interrupteur simple)" aria-label="Agrandir la photo 3 : Photo 3 — Installer et configurer le SONOFF ZBMINIL2 ZigBee sur Home Assistant : guide complet (poussoir, va-et-vient, interrupteur simple)">
+    <img src="images/Capturedcrandu2025-10-0513-53-26.png" alt="Photo 3 — Installer et configurer le SONOFF ZBMINIL2 ZigBee sur Home Assistant : guide complet (poussoir, va-et-vient, interrupteur simple)" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-10-0511-36-52.png" data-full="images/Capturedcrandu2025-10-0511-36-52.png" data-alt="Photo 4 — Installer et configurer le SONOFF ZBMINIL2 ZigBee sur Home Assistant : guide complet (poussoir, va-et-vient, interrupteur simple)" aria-label="Agrandir la photo 4 : Photo 4 — Installer et configurer le SONOFF ZBMINIL2 ZigBee sur Home Assistant : guide complet (poussoir, va-et-vient, interrupteur simple)">
+    <img src="images/Capturedcrandu2025-10-0511-36-52.png" alt="Photo 4 — Installer et configurer le SONOFF ZBMINIL2 ZigBee sur Home Assistant : guide complet (poussoir, va-et-vient, interrupteur simple)" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/RND1Nw2S.jpeg" data-full="images/RND1Nw2S.jpeg" data-alt="Photo 5 — Installer et configurer le SONOFF ZBMINIL2 ZigBee sur Home Assistant : guide complet (poussoir, va-et-vient, interrupteur simple)" aria-label="Agrandir la photo 5 : Photo 5 — Installer et configurer le SONOFF ZBMINIL2 ZigBee sur Home Assistant : guide complet (poussoir, va-et-vient, interrupteur simple)">
+    <img src="images/RND1Nw2S.jpeg" alt="Photo 5 — Installer et configurer le SONOFF ZBMINIL2 ZigBee sur Home Assistant : guide complet (poussoir, va-et-vient, interrupteur simple)" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/i0KL-Ffj.jpeg" data-full="images/i0KL-Ffj.jpeg" data-alt="Photo 6 — Installer et configurer le SONOFF ZBMINIL2 ZigBee sur Home Assistant : guide complet (poussoir, va-et-vient, interrupteur simple)" aria-label="Agrandir la photo 6 : Photo 6 — Installer et configurer le SONOFF ZBMINIL2 ZigBee sur Home Assistant : guide complet (poussoir, va-et-vient, interrupteur simple)">
+    <img src="images/i0KL-Ffj.jpeg" alt="Photo 6 — Installer et configurer le SONOFF ZBMINIL2 ZigBee sur Home Assistant : guide complet (poussoir, va-et-vient, interrupteur simple)" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-10-0515-11-04.png" data-full="images/Capturedcrandu2025-10-0515-11-04.png" data-alt="Photo 7 — Installer et configurer le SONOFF ZBMINIL2 ZigBee sur Home Assistant : guide complet (poussoir, va-et-vient, interrupteur simple)" aria-label="Agrandir la photo 7 : Photo 7 — Installer et configurer le SONOFF ZBMINIL2 ZigBee sur Home Assistant : guide complet (poussoir, va-et-vient, interrupteur simple)">
+    <img src="images/Capturedcrandu2025-10-0515-11-04.png" alt="Photo 7 — Installer et configurer le SONOFF ZBMINIL2 ZigBee sur Home Assistant : guide complet (poussoir, va-et-vient, interrupteur simple)" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/4_gEKwTD.jpeg" data-full="images/4_gEKwTD.jpeg" data-alt="Photo 8 — Installer et configurer le SONOFF ZBMINIL2 ZigBee sur Home Assistant : guide complet (poussoir, va-et-vient, interrupteur simple)" aria-label="Agrandir la photo 8 : Photo 8 — Installer et configurer le SONOFF ZBMINIL2 ZigBee sur Home Assistant : guide complet (poussoir, va-et-vient, interrupteur simple)">
+    <img src="images/4_gEKwTD.jpeg" alt="Photo 8 — Installer et configurer le SONOFF ZBMINIL2 ZigBee sur Home Assistant : guide complet (poussoir, va-et-vient, interrupteur simple)" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/14_U2HQv.jpeg" data-full="images/14_U2HQv.jpeg" data-alt="Photo 9 — Installer et configurer le SONOFF ZBMINIL2 ZigBee sur Home Assistant : guide complet (poussoir, va-et-vient, interrupteur simple)" aria-label="Agrandir la photo 9 : Photo 9 — Installer et configurer le SONOFF ZBMINIL2 ZigBee sur Home Assistant : guide complet (poussoir, va-et-vient, interrupteur simple)">
+    <img src="images/14_U2HQv.jpeg" alt="Photo 9 — Installer et configurer le SONOFF ZBMINIL2 ZigBee sur Home Assistant : guide complet (poussoir, va-et-vient, interrupteur simple)" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-10-0516-47-44.png" data-full="images/Capturedcrandu2025-10-0516-47-44.png" data-alt="Photo 10 — Installer et configurer le SONOFF ZBMINIL2 ZigBee sur Home Assistant : guide complet (poussoir, va-et-vient, interrupteur simple)" aria-label="Agrandir la photo 10 : Photo 10 — Installer et configurer le SONOFF ZBMINIL2 ZigBee sur Home Assistant : guide complet (poussoir, va-et-vient, interrupteur simple)">
+    <img src="images/Capturedcrandu2025-10-0516-47-44.png" alt="Photo 10 — Installer et configurer le SONOFF ZBMINIL2 ZigBee sur Home Assistant : guide complet (poussoir, va-et-vient, interrupteur simple)" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-10-0516-47-35.png" data-full="images/Capturedcrandu2025-10-0516-47-35.png" data-alt="Photo 11 — Installer et configurer le SONOFF ZBMINIL2 ZigBee sur Home Assistant : guide complet (poussoir, va-et-vient, interrupteur simple)" aria-label="Agrandir la photo 11 : Photo 11 — Installer et configurer le SONOFF ZBMINIL2 ZigBee sur Home Assistant : guide complet (poussoir, va-et-vient, interrupteur simple)">
+    <img src="images/Capturedcrandu2025-10-0516-47-35.png" alt="Photo 11 — Installer et configurer le SONOFF ZBMINIL2 ZigBee sur Home Assistant : guide complet (poussoir, va-et-vient, interrupteur simple)" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/GtMtj-VX.jpeg" data-full="images/GtMtj-VX.jpeg" data-alt="Photo 12 — Installer et configurer le SONOFF ZBMINIL2 ZigBee sur Home Assistant : guide complet (poussoir, va-et-vient, interrupteur simple)" aria-label="Agrandir la photo 12 : Photo 12 — Installer et configurer le SONOFF ZBMINIL2 ZigBee sur Home Assistant : guide complet (poussoir, va-et-vient, interrupteur simple)">
+    <img src="images/GtMtj-VX.jpeg" alt="Photo 12 — Installer et configurer le SONOFF ZBMINIL2 ZigBee sur Home Assistant : guide complet (poussoir, va-et-vient, interrupteur simple)" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/WkRSS5P3.jpeg" data-full="images/WkRSS5P3.jpeg" data-alt="Photo 13 — Installer et configurer le SONOFF ZBMINIL2 ZigBee sur Home Assistant : guide complet (poussoir, va-et-vient, interrupteur simple)" aria-label="Agrandir la photo 13 : Photo 13 — Installer et configurer le SONOFF ZBMINIL2 ZigBee sur Home Assistant : guide complet (poussoir, va-et-vient, interrupteur simple)">
+    <img src="images/WkRSS5P3.jpeg" alt="Photo 13 — Installer et configurer le SONOFF ZBMINIL2 ZigBee sur Home Assistant : guide complet (poussoir, va-et-vient, interrupteur simple)" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/lvVVFstT.jpeg" data-full="images/lvVVFstT.jpeg" data-alt="Photo 14 — Installer et configurer le SONOFF ZBMINIL2 ZigBee sur Home Assistant : guide complet (poussoir, va-et-vient, interrupteur simple)" aria-label="Agrandir la photo 14 : Photo 14 — Installer et configurer le SONOFF ZBMINIL2 ZigBee sur Home Assistant : guide complet (poussoir, va-et-vient, interrupteur simple)">
+    <img src="images/lvVVFstT.jpeg" alt="Photo 14 — Installer et configurer le SONOFF ZBMINIL2 ZigBee sur Home Assistant : guide complet (poussoir, va-et-vient, interrupteur simple)" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Ac-gamdg.jpeg" data-full="images/Ac-gamdg.jpeg" data-alt="Photo 15 — Installer et configurer le SONOFF ZBMINIL2 ZigBee sur Home Assistant : guide complet (poussoir, va-et-vient, interrupteur simple)" aria-label="Agrandir la photo 15 : Photo 15 — Installer et configurer le SONOFF ZBMINIL2 ZigBee sur Home Assistant : guide complet (poussoir, va-et-vient, interrupteur simple)">
+    <img src="images/Ac-gamdg.jpeg" alt="Photo 15 — Installer et configurer le SONOFF ZBMINIL2 ZigBee sur Home Assistant : guide complet (poussoir, va-et-vient, interrupteur simple)" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/NmcddqLP.jpeg" data-full="images/NmcddqLP.jpeg" data-alt="Photo 16 — Installer et configurer le SONOFF ZBMINIL2 ZigBee sur Home Assistant : guide complet (poussoir, va-et-vient, interrupteur simple)" aria-label="Agrandir la photo 16 : Photo 16 — Installer et configurer le SONOFF ZBMINIL2 ZigBee sur Home Assistant : guide complet (poussoir, va-et-vient, interrupteur simple)">
+    <img src="images/NmcddqLP.jpeg" alt="Photo 16 — Installer et configurer le SONOFF ZBMINIL2 ZigBee sur Home Assistant : guide complet (poussoir, va-et-vient, interrupteur simple)" loading="lazy">
+  </a>
+</figure>
+</div>
+<button type="button" class="carousel-nav" data-prev aria-label="Photo précédente">‹</button>
+<button type="button" class="carousel-nav" data-next aria-label="Photo suivante">›</button>
+<div class="carousel-dots" data-dots></div>
+<div class="carousel-live" data-live aria-live="polite"></div>
+<p class="carousel-hint">Faites défiler les photos, ou ouvrez-les pour les agrandir (si JavaScript est activé).</p>
+</section>
 
 # Installer et configurer le SONOFF ZBMINIL2 ZigBee sur Home Assistant : guide complet (poussoir, va-et-vient, interrupteur simple)
 
@@ -619,6 +714,8 @@ Si vous cherchez une solution **Zigbee fiable et sans neutre** pour moderniser v
 
 ---
 
+<section class="article-comments" id="commentaires">
+
 ## Commentaires de XAV59213 sur cet article (11)
 
 ### Commentaire 1 — 15 octobre 2025 à 08:22 (Europe/Paris)
@@ -836,3 +933,5 @@ Dis-moi ce que tu as comme fils au tableau et on affine le schéma.
 
 ![IMG_7382.jpeg](images/IMG_7382.jpeg)
 <!-- source : https://cdn.forumdomotique.com/monthly_2026_09/IMG_7382.jpeg.54df85e6181aa01307ce45110ad586ef.jpeg -->
+
+</section>

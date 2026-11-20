@@ -3,8 +3,53 @@ title: "Home Assistant 2026.1 : la mise à jour de janvier 2026 améliore le tab
 description: "👋 Bonne année à tous ! L'équipe de Home Assistant commence 2026 sur les chapeaux de roues avec la version 2026.1, sortie le 7 janvier. Cette mise à jour…"
 image: /contenus/actualites/home-assistant-20261-la-mise-a-jour-de-janvier-2026-ameliore-le-tableau-de-bord-et-les-aut/images/social.png
 date: 2026-01-10
+section: actualites
+tags:
+  - domotique
+  - home-assistant
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/actualites/home-assistant/home-assistant-20261-la-mise-%C3%A0-jour-de-janvier-2026-am%C3%A9liore-le-tableau-de-bord-et-les-automatisations-r11/">Lire et commenter sur Forum Domotique</a></p>
+
+
+<section class="carousel photo-carousel" data-carousel data-lightbox aria-roledescription="carrousel" aria-label="Photos de l’article (6)" tabindex="0">
+<div class="carousel-track" data-track>
+<figure class="photo-slide" data-slide>
+  <a href="images/social.png" data-full="images/social.png" data-alt="Photo 1 — Home Assistant 2026.1 : la mise à jour de janvier 2026 améliore le tableau de bord et les automatisations" aria-label="Agrandir la photo 1 : Photo 1 — Home Assistant 2026.1 : la mise à jour de janvier 2026 améliore le tableau de bord et les automatisations">
+    <img src="images/social.png" alt="Photo 1 — Home Assistant 2026.1 : la mise à jour de janvier 2026 améliore le tableau de bord et les automatisations" loading="eager">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2026-01-1014-34-52.png" data-full="images/Capturedcrandu2026-01-1014-34-52.png" data-alt="Photo 2 — Home Assistant 2026.1 : la mise à jour de janvier 2026 améliore le tableau de bord et les automatisations" aria-label="Agrandir la photo 2 : Photo 2 — Home Assistant 2026.1 : la mise à jour de janvier 2026 améliore le tableau de bord et les automatisations">
+    <img src="images/Capturedcrandu2026-01-1014-34-52.png" alt="Photo 2 — Home Assistant 2026.1 : la mise à jour de janvier 2026 améliore le tableau de bord et les automatisations" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2026-01-1014-35-52.png" data-full="images/Capturedcrandu2026-01-1014-35-52.png" data-alt="Photo 3 — Home Assistant 2026.1 : la mise à jour de janvier 2026 améliore le tableau de bord et les automatisations" aria-label="Agrandir la photo 3 : Photo 3 — Home Assistant 2026.1 : la mise à jour de janvier 2026 améliore le tableau de bord et les automatisations">
+    <img src="images/Capturedcrandu2026-01-1014-35-52.png" alt="Photo 3 — Home Assistant 2026.1 : la mise à jour de janvier 2026 améliore le tableau de bord et les automatisations" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2026-01-1014-35-37.png" data-full="images/Capturedcrandu2026-01-1014-35-37.png" data-alt="Photo 4 — Home Assistant 2026.1 : la mise à jour de janvier 2026 améliore le tableau de bord et les automatisations" aria-label="Agrandir la photo 4 : Photo 4 — Home Assistant 2026.1 : la mise à jour de janvier 2026 améliore le tableau de bord et les automatisations">
+    <img src="images/Capturedcrandu2026-01-1014-35-37.png" alt="Photo 4 — Home Assistant 2026.1 : la mise à jour de janvier 2026 améliore le tableau de bord et les automatisations" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2026-01-1014-37-32.png" data-full="images/Capturedcrandu2026-01-1014-37-32.png" data-alt="Photo 5 — Home Assistant 2026.1 : la mise à jour de janvier 2026 améliore le tableau de bord et les automatisations" aria-label="Agrandir la photo 5 : Photo 5 — Home Assistant 2026.1 : la mise à jour de janvier 2026 améliore le tableau de bord et les automatisations">
+    <img src="images/Capturedcrandu2026-01-1014-37-32.png" alt="Photo 5 — Home Assistant 2026.1 : la mise à jour de janvier 2026 améliore le tableau de bord et les automatisations" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2026-01-1014-39-50.png" data-full="images/Capturedcrandu2026-01-1014-39-50.png" data-alt="Photo 6 — Home Assistant 2026.1 : la mise à jour de janvier 2026 améliore le tableau de bord et les automatisations" aria-label="Agrandir la photo 6 : Photo 6 — Home Assistant 2026.1 : la mise à jour de janvier 2026 améliore le tableau de bord et les automatisations">
+    <img src="images/Capturedcrandu2026-01-1014-39-50.png" alt="Photo 6 — Home Assistant 2026.1 : la mise à jour de janvier 2026 améliore le tableau de bord et les automatisations" loading="lazy">
+  </a>
+</figure>
+</div>
+<button type="button" class="carousel-nav" data-prev aria-label="Photo précédente">‹</button>
+<button type="button" class="carousel-nav" data-next aria-label="Photo suivante">›</button>
+<div class="carousel-dots" data-dots></div>
+<div class="carousel-live" data-live aria-live="polite"></div>
+<p class="carousel-hint">Faites défiler les photos, ou ouvrez-les pour les agrandir (si JavaScript est activé).</p>
+</section>
 
 # Home Assistant 2026.1 : la mise à jour de janvier 2026 améliore le tableau de bord et les automatisations
 
@@ -128,6 +173,8 @@ Bref… chapeau à l'équipe et à la communauté ! C'est probablement la meille
 
 ---
 
+<section class="article-comments" id="commentaires">
+
 ## Commentaires de XAV59213 sur cet article (1)
 
 ### Commentaire 1 — 12 janvier 2026 à 16:29 (Europe/Paris)
@@ -176,3 +223,5 @@ Bref… chapeau à l'équipe et à la communauté ! C'est probablement la meille
 - Bump pytado 0.18.16 ([@erwindouna](https://github.com/erwindouna) - [#160724](https://github.com/home-assistant/core/pull/160724)) ([tado docs](https://www.home-assistant.io/integrations/tado/))
 - Bump python-homewizard-energy to 10.0.1 ([@DCSBL](https://github.com/DCSBL) - [#160736](https://github.com/home-assistant/core/pull/160736)) ([homewizard docs](https://www.home-assistant.io/integrations/homewizard/))
 - Fix fitbit icon ([@joostlek](https://github.com/joostlek) - [#160750](https://github.com/home-assistant/core/pull/160750)) ([fitbit docs](https://www.home-assistant.io/integrations/fitbit/))
+
+</section>

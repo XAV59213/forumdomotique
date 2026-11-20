@@ -1,10 +1,109 @@
 ---
 title: "Test du SMLight SLZB-MR4U : un coordinateur Zigbee + Thread/Matter qui simplifie vraiment la vie"
 description: "J’ai installé pas mal de dongles Zigbee au fil des années, souvent en jonglant entre les limites de portée, les conflits radio et les essais plus ou moins…"
-image: /contenus/tests/test-slzb-mr4u-coordinateur-zigbee-thread-matter/images/logo_domadoo.png
+image: /contenus/tests/test-slzb-mr4u-coordinateur-zigbee-thread-matter/images/Designsanstitre_3_.png
 date: 2025-11-17
+section: tests
+product: SLZB-MR4U
+brand: SMLight
+tags:
+  - domotique
+  - zigbee
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/tests/dongles-passerelles/test-slzb-mr4u-coordinateur-zigbee-thread-matter/">Lire et commenter sur Forum Domotique</a></p>
+
+
+{% include product-meta.html %}
+
+<section class="carousel photo-carousel" data-carousel data-lightbox aria-roledescription="carrousel" aria-label="Photos de l’article (16)" tabindex="0">
+<div class="carousel-track" data-track>
+<figure class="photo-slide" data-slide>
+  <a href="images/Designsanstitre_3_.png" data-full="images/Designsanstitre_3_.png" data-alt="Photo 1 — Test du SMLight SLZB-MR4U : un coordinateur Zigbee + Thread/Matter qui simplifie vraiment la vie" aria-label="Agrandir la photo 1 : Photo 1 — Test du SMLight SLZB-MR4U : un coordinateur Zigbee + Thread/Matter qui simplifie vraiment la vie">
+    <img src="images/Designsanstitre_3_.png" alt="Photo 1 — Test du SMLight SLZB-MR4U : un coordinateur Zigbee + Thread/Matter qui simplifie vraiment la vie" loading="eager">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/MatterServer.png" data-full="images/MatterServer.png" data-alt="Photo 2 — Test du SMLight SLZB-MR4U : un coordinateur Zigbee + Thread/Matter qui simplifie vraiment la vie" aria-label="Agrandir la photo 2 : Photo 2 — Test du SMLight SLZB-MR4U : un coordinateur Zigbee + Thread/Matter qui simplifie vraiment la vie">
+    <img src="images/MatterServer.png" alt="Photo 2 — Test du SMLight SLZB-MR4U : un coordinateur Zigbee + Thread/Matter qui simplifie vraiment la vie" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/MatterServer_2_.png" data-full="images/MatterServer_2_.png" data-alt="Photo 3 — Test du SMLight SLZB-MR4U : un coordinateur Zigbee + Thread/Matter qui simplifie vraiment la vie" aria-label="Agrandir la photo 3 : Photo 3 — Test du SMLight SLZB-MR4U : un coordinateur Zigbee + Thread/Matter qui simplifie vraiment la vie">
+    <img src="images/MatterServer_2_.png" alt="Photo 3 — Test du SMLight SLZB-MR4U : un coordinateur Zigbee + Thread/Matter qui simplifie vraiment la vie" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-10-3116-08-22.png" data-full="images/Capturedcrandu2025-10-3116-08-22.png" data-alt="Photo 4 — Test du SMLight SLZB-MR4U : un coordinateur Zigbee + Thread/Matter qui simplifie vraiment la vie" aria-label="Agrandir la photo 4 : Photo 4 — Test du SMLight SLZB-MR4U : un coordinateur Zigbee + Thread/Matter qui simplifie vraiment la vie">
+    <img src="images/Capturedcrandu2025-10-3116-08-22.png" alt="Photo 4 — Test du SMLight SLZB-MR4U : un coordinateur Zigbee + Thread/Matter qui simplifie vraiment la vie" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-10-3117-32-38.png" data-full="images/Capturedcrandu2025-10-3117-32-38.png" data-alt="Photo 5 — Test du SMLight SLZB-MR4U : un coordinateur Zigbee + Thread/Matter qui simplifie vraiment la vie" aria-label="Agrandir la photo 5 : Photo 5 — Test du SMLight SLZB-MR4U : un coordinateur Zigbee + Thread/Matter qui simplifie vraiment la vie">
+    <img src="images/Capturedcrandu2025-10-3117-32-38.png" alt="Photo 5 — Test du SMLight SLZB-MR4U : un coordinateur Zigbee + Thread/Matter qui simplifie vraiment la vie" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-10-3117-32-28.png" data-full="images/Capturedcrandu2025-10-3117-32-28.png" data-alt="Photo 6 — Test du SMLight SLZB-MR4U : un coordinateur Zigbee + Thread/Matter qui simplifie vraiment la vie" aria-label="Agrandir la photo 6 : Photo 6 — Test du SMLight SLZB-MR4U : un coordinateur Zigbee + Thread/Matter qui simplifie vraiment la vie">
+    <img src="images/Capturedcrandu2025-10-3117-32-28.png" alt="Photo 6 — Test du SMLight SLZB-MR4U : un coordinateur Zigbee + Thread/Matter qui simplifie vraiment la vie" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-10-3115-52-43.png" data-full="images/Capturedcrandu2025-10-3115-52-43.png" data-alt="Photo 7 — Test du SMLight SLZB-MR4U : un coordinateur Zigbee + Thread/Matter qui simplifie vraiment la vie" aria-label="Agrandir la photo 7 : Photo 7 — Test du SMLight SLZB-MR4U : un coordinateur Zigbee + Thread/Matter qui simplifie vraiment la vie">
+    <img src="images/Capturedcrandu2025-10-3115-52-43.png" alt="Photo 7 — Test du SMLight SLZB-MR4U : un coordinateur Zigbee + Thread/Matter qui simplifie vraiment la vie" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-10-3117-20-32.png" data-full="images/Capturedcrandu2025-10-3117-20-32.png" data-alt="Photo 8 — Test du SMLight SLZB-MR4U : un coordinateur Zigbee + Thread/Matter qui simplifie vraiment la vie" aria-label="Agrandir la photo 8 : Photo 8 — Test du SMLight SLZB-MR4U : un coordinateur Zigbee + Thread/Matter qui simplifie vraiment la vie">
+    <img src="images/Capturedcrandu2025-10-3117-20-32.png" alt="Photo 8 — Test du SMLight SLZB-MR4U : un coordinateur Zigbee + Thread/Matter qui simplifie vraiment la vie" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-10-3117-23-46.png" data-full="images/Capturedcrandu2025-10-3117-23-46.png" data-alt="Photo 9 — Test du SMLight SLZB-MR4U : un coordinateur Zigbee + Thread/Matter qui simplifie vraiment la vie" aria-label="Agrandir la photo 9 : Photo 9 — Test du SMLight SLZB-MR4U : un coordinateur Zigbee + Thread/Matter qui simplifie vraiment la vie">
+    <img src="images/Capturedcrandu2025-10-3117-23-46.png" alt="Photo 9 — Test du SMLight SLZB-MR4U : un coordinateur Zigbee + Thread/Matter qui simplifie vraiment la vie" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-10-3117-26-10.png" data-full="images/Capturedcrandu2025-10-3117-26-10.png" data-alt="Photo 10 — Test du SMLight SLZB-MR4U : un coordinateur Zigbee + Thread/Matter qui simplifie vraiment la vie" aria-label="Agrandir la photo 10 : Photo 10 — Test du SMLight SLZB-MR4U : un coordinateur Zigbee + Thread/Matter qui simplifie vraiment la vie">
+    <img src="images/Capturedcrandu2025-10-3117-26-10.png" alt="Photo 10 — Test du SMLight SLZB-MR4U : un coordinateur Zigbee + Thread/Matter qui simplifie vraiment la vie" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-10-3117-42-35.png" data-full="images/Capturedcrandu2025-10-3117-42-35.png" data-alt="Photo 11 — Test du SMLight SLZB-MR4U : un coordinateur Zigbee + Thread/Matter qui simplifie vraiment la vie" aria-label="Agrandir la photo 11 : Photo 11 — Test du SMLight SLZB-MR4U : un coordinateur Zigbee + Thread/Matter qui simplifie vraiment la vie">
+    <img src="images/Capturedcrandu2025-10-3117-42-35.png" alt="Photo 11 — Test du SMLight SLZB-MR4U : un coordinateur Zigbee + Thread/Matter qui simplifie vraiment la vie" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-10-3117-43-39.png" data-full="images/Capturedcrandu2025-10-3117-43-39.png" data-alt="Photo 12 — Test du SMLight SLZB-MR4U : un coordinateur Zigbee + Thread/Matter qui simplifie vraiment la vie" aria-label="Agrandir la photo 12 : Photo 12 — Test du SMLight SLZB-MR4U : un coordinateur Zigbee + Thread/Matter qui simplifie vraiment la vie">
+    <img src="images/Capturedcrandu2025-10-3117-43-39.png" alt="Photo 12 — Test du SMLight SLZB-MR4U : un coordinateur Zigbee + Thread/Matter qui simplifie vraiment la vie" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-10-3118-04-50.png" data-full="images/Capturedcrandu2025-10-3118-04-50.png" data-alt="Photo 13 — Test du SMLight SLZB-MR4U : un coordinateur Zigbee + Thread/Matter qui simplifie vraiment la vie" aria-label="Agrandir la photo 13 : Photo 13 — Test du SMLight SLZB-MR4U : un coordinateur Zigbee + Thread/Matter qui simplifie vraiment la vie">
+    <img src="images/Capturedcrandu2025-10-3118-04-50.png" alt="Photo 13 — Test du SMLight SLZB-MR4U : un coordinateur Zigbee + Thread/Matter qui simplifie vraiment la vie" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-10-3118-10-32.png" data-full="images/Capturedcrandu2025-10-3118-10-32.png" data-alt="Photo 14 — Test du SMLight SLZB-MR4U : un coordinateur Zigbee + Thread/Matter qui simplifie vraiment la vie" aria-label="Agrandir la photo 14 : Photo 14 — Test du SMLight SLZB-MR4U : un coordinateur Zigbee + Thread/Matter qui simplifie vraiment la vie">
+    <img src="images/Capturedcrandu2025-10-3118-10-32.png" alt="Photo 14 — Test du SMLight SLZB-MR4U : un coordinateur Zigbee + Thread/Matter qui simplifie vraiment la vie" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-10-3118-12-52.png" data-full="images/Capturedcrandu2025-10-3118-12-52.png" data-alt="Photo 15 — Test du SMLight SLZB-MR4U : un coordinateur Zigbee + Thread/Matter qui simplifie vraiment la vie" aria-label="Agrandir la photo 15 : Photo 15 — Test du SMLight SLZB-MR4U : un coordinateur Zigbee + Thread/Matter qui simplifie vraiment la vie">
+    <img src="images/Capturedcrandu2025-10-3118-12-52.png" alt="Photo 15 — Test du SMLight SLZB-MR4U : un coordinateur Zigbee + Thread/Matter qui simplifie vraiment la vie" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-10-3118-13-53.png" data-full="images/Capturedcrandu2025-10-3118-13-53.png" data-alt="Photo 16 — Test du SMLight SLZB-MR4U : un coordinateur Zigbee + Thread/Matter qui simplifie vraiment la vie" aria-label="Agrandir la photo 16 : Photo 16 — Test du SMLight SLZB-MR4U : un coordinateur Zigbee + Thread/Matter qui simplifie vraiment la vie">
+    <img src="images/Capturedcrandu2025-10-3118-13-53.png" alt="Photo 16 — Test du SMLight SLZB-MR4U : un coordinateur Zigbee + Thread/Matter qui simplifie vraiment la vie" loading="lazy">
+  </a>
+</figure>
+</div>
+<button type="button" class="carousel-nav" data-prev aria-label="Photo précédente">‹</button>
+<button type="button" class="carousel-nav" data-next aria-label="Photo suivante">›</button>
+<div class="carousel-dots" data-dots></div>
+<div class="carousel-live" data-live aria-live="polite"></div>
+<p class="carousel-hint">Faites défiler les photos, ou ouvrez-les pour les agrandir (si JavaScript est activé).</p>
+</section>
 
 # Test du SMLight SLZB-MR4U : un coordinateur Zigbee + Thread/Matter qui simplifie vraiment la vie
 
@@ -188,6 +287,8 @@ Ce coordinateur ne cherche pas à réinventer la domotique. Il propose simplemen
 Pour mon installation, c’est un choix qui a du sens, et qui restera en place.
 
 ---
+
+<section class="article-comments" id="commentaires">
 
 ## Commentaires de XAV59213 sur cet article (16)
 
@@ -430,3 +531,5 @@ Voici le lien <https://www.domadoo.fr/fr/produits-de-domotique/8369-smlight-adap
 - **Lien :** https://forumdomotique.com/tests/dongles-passerelles/test-slzb-mr4u-coordinateur-zigbee-thread-matter/?do=findComment&comment=121
 
 Oui tu peux crée plusieurs instance zigbee
+
+</section>

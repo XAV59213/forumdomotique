@@ -7,6 +7,37 @@ date: 2026-11-20
 {% raw %}
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/4095-%F0%9F%9A%80-starship-tracker-suivez-les-lancements-starship-de-spacex-dans-home-assistant/">Lire et commenter sur Forum Domotique</a> · <a href="https://github.com/XAV59213/starship_tracker">Dépôt HACS : Starship Tracker</a></p>
 
+
+<section class="carousel photo-carousel" data-carousel data-lightbox aria-roledescription="carrousel" aria-label="Photos de l’article (4)" tabindex="0">
+<div class="carousel-track" data-track>
+<figure class="photo-slide" data-slide>
+  <a href="images/card-bloc-mission.jpg" data-full="images/card-bloc-mission.jpg" data-alt="Photo 1 — 🚀 Starship Tracker – Suivez les lancements Starship de SpaceX dans Home Assistant" aria-label="Agrandir la photo 1 : Photo 1 — 🚀 Starship Tracker – Suivez les lancements Starship de SpaceX dans Home Assistant">
+    <img src="images/card-bloc-mission.jpg" alt="Photo 1 — 🚀 Starship Tracker – Suivez les lancements Starship de SpaceX dans Home Assistant" loading="eager">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/card-compte-a-rebours.jpg" data-full="images/card-compte-a-rebours.jpg" data-alt="Photo 2 — 🚀 Starship Tracker – Suivez les lancements Starship de SpaceX dans Home Assistant" aria-label="Agrandir la photo 2 : Photo 2 — 🚀 Starship Tracker – Suivez les lancements Starship de SpaceX dans Home Assistant">
+    <img src="images/card-compte-a-rebours.jpg" alt="Photo 2 — 🚀 Starship Tracker – Suivez les lancements Starship de SpaceX dans Home Assistant" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/card-vol-1.jpg" data-full="images/card-vol-1.jpg" data-alt="Photo 3 — 🚀 Starship Tracker – Suivez les lancements Starship de SpaceX dans Home Assistant" aria-label="Agrandir la photo 3 : Photo 3 — 🚀 Starship Tracker – Suivez les lancements Starship de SpaceX dans Home Assistant">
+    <img src="images/card-vol-1.jpg" alt="Photo 3 — 🚀 Starship Tracker – Suivez les lancements Starship de SpaceX dans Home Assistant" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/card-chaines.jpg" data-full="images/card-chaines.jpg" data-alt="Photo 4 — 🚀 Starship Tracker – Suivez les lancements Starship de SpaceX dans Home Assistant" aria-label="Agrandir la photo 4 : Photo 4 — 🚀 Starship Tracker – Suivez les lancements Starship de SpaceX dans Home Assistant">
+    <img src="images/card-chaines.jpg" alt="Photo 4 — 🚀 Starship Tracker – Suivez les lancements Starship de SpaceX dans Home Assistant" loading="lazy">
+  </a>
+</figure>
+</div>
+<button type="button" class="carousel-nav" data-prev aria-label="Photo précédente">‹</button>
+<button type="button" class="carousel-nav" data-next aria-label="Photo suivante">›</button>
+<div class="carousel-dots" data-dots></div>
+<div class="carousel-live" data-live aria-live="polite"></div>
+<p class="carousel-hint">Faites défiler les photos, ou ouvrez-les pour les agrandir (si JavaScript est activé).</p>
+</section>
+
 # 🚀 Starship Tracker – Suivez les lancements Starship de SpaceX dans Home Assistant
 
 - **Catégorie :** [Projets et Personnalisations](https://forumdomotique.com/forums/12-projets-et-personnalisations/)

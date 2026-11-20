@@ -6,6 +6,87 @@ date: 2025-12-21
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/620-connecter-son-imprimante-3d-%C3%A0-home-assistant-avec-octoprint-sur-raspberry-pi-mon-retour-dexp%C3%A9rience/">Lire et commenter sur Forum Domotique</a></p>
 
+
+<section class="carousel photo-carousel" data-carousel data-lightbox aria-roledescription="carrousel" aria-label="Photos de l’article (14)" tabindex="0">
+<div class="carousel-track" data-track>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-12-2114-39-36.png" data-full="images/Capturedcrandu2025-12-2114-39-36.png" data-alt="Photo 1 — Connecter son imprimante 3D à Home Assistant avec OctoPrint sur Raspberry Pi : mon retour d'expérience" aria-label="Agrandir la photo 1 : Photo 1 — Connecter son imprimante 3D à Home Assistant avec OctoPrint sur Raspberry Pi : mon retour d'expérience">
+    <img src="images/Capturedcrandu2025-12-2114-39-36.png" alt="Photo 1 — Connecter son imprimante 3D à Home Assistant avec OctoPrint sur Raspberry Pi : mon retour d'expérience" loading="eager">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-12-2114-58-47.png" data-full="images/Capturedcrandu2025-12-2114-58-47.png" data-alt="Photo 2 — Connecter son imprimante 3D à Home Assistant avec OctoPrint sur Raspberry Pi : mon retour d'expérience" aria-label="Agrandir la photo 2 : Photo 2 — Connecter son imprimante 3D à Home Assistant avec OctoPrint sur Raspberry Pi : mon retour d'expérience">
+    <img src="images/Capturedcrandu2025-12-2114-58-47.png" alt="Photo 2 — Connecter son imprimante 3D à Home Assistant avec OctoPrint sur Raspberry Pi : mon retour d'expérience" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-12-2114-59-16.png" data-full="images/Capturedcrandu2025-12-2114-59-16.png" data-alt="Photo 3 — Connecter son imprimante 3D à Home Assistant avec OctoPrint sur Raspberry Pi : mon retour d'expérience" aria-label="Agrandir la photo 3 : Photo 3 — Connecter son imprimante 3D à Home Assistant avec OctoPrint sur Raspberry Pi : mon retour d'expérience">
+    <img src="images/Capturedcrandu2025-12-2114-59-16.png" alt="Photo 3 — Connecter son imprimante 3D à Home Assistant avec OctoPrint sur Raspberry Pi : mon retour d'expérience" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-12-2115-10-51.png" data-full="images/Capturedcrandu2025-12-2115-10-51.png" data-alt="Photo 4 — Connecter son imprimante 3D à Home Assistant avec OctoPrint sur Raspberry Pi : mon retour d'expérience" aria-label="Agrandir la photo 4 : Photo 4 — Connecter son imprimante 3D à Home Assistant avec OctoPrint sur Raspberry Pi : mon retour d'expérience">
+    <img src="images/Capturedcrandu2025-12-2115-10-51.png" alt="Photo 4 — Connecter son imprimante 3D à Home Assistant avec OctoPrint sur Raspberry Pi : mon retour d'expérience" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-12-2115-11-10.png" data-full="images/Capturedcrandu2025-12-2115-11-10.png" data-alt="Photo 5 — Connecter son imprimante 3D à Home Assistant avec OctoPrint sur Raspberry Pi : mon retour d'expérience" aria-label="Agrandir la photo 5 : Photo 5 — Connecter son imprimante 3D à Home Assistant avec OctoPrint sur Raspberry Pi : mon retour d'expérience">
+    <img src="images/Capturedcrandu2025-12-2115-11-10.png" alt="Photo 5 — Connecter son imprimante 3D à Home Assistant avec OctoPrint sur Raspberry Pi : mon retour d'expérience" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-12-2115-05-23.png" data-full="images/Capturedcrandu2025-12-2115-05-23.png" data-alt="Photo 6 — Connecter son imprimante 3D à Home Assistant avec OctoPrint sur Raspberry Pi : mon retour d'expérience" aria-label="Agrandir la photo 6 : Photo 6 — Connecter son imprimante 3D à Home Assistant avec OctoPrint sur Raspberry Pi : mon retour d'expérience">
+    <img src="images/Capturedcrandu2025-12-2115-05-23.png" alt="Photo 6 — Connecter son imprimante 3D à Home Assistant avec OctoPrint sur Raspberry Pi : mon retour d'expérience" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-12-2115-05-33.png" data-full="images/Capturedcrandu2025-12-2115-05-33.png" data-alt="Photo 7 — Connecter son imprimante 3D à Home Assistant avec OctoPrint sur Raspberry Pi : mon retour d'expérience" aria-label="Agrandir la photo 7 : Photo 7 — Connecter son imprimante 3D à Home Assistant avec OctoPrint sur Raspberry Pi : mon retour d'expérience">
+    <img src="images/Capturedcrandu2025-12-2115-05-33.png" alt="Photo 7 — Connecter son imprimante 3D à Home Assistant avec OctoPrint sur Raspberry Pi : mon retour d'expérience" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-12-2115-05-39.png" data-full="images/Capturedcrandu2025-12-2115-05-39.png" data-alt="Photo 8 — Connecter son imprimante 3D à Home Assistant avec OctoPrint sur Raspberry Pi : mon retour d'expérience" aria-label="Agrandir la photo 8 : Photo 8 — Connecter son imprimante 3D à Home Assistant avec OctoPrint sur Raspberry Pi : mon retour d'expérience">
+    <img src="images/Capturedcrandu2025-12-2115-05-39.png" alt="Photo 8 — Connecter son imprimante 3D à Home Assistant avec OctoPrint sur Raspberry Pi : mon retour d'expérience" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-12-2114-52-02.png" data-full="images/Capturedcrandu2025-12-2114-52-02.png" data-alt="Photo 9 — Connecter son imprimante 3D à Home Assistant avec OctoPrint sur Raspberry Pi : mon retour d'expérience" aria-label="Agrandir la photo 9 : Photo 9 — Connecter son imprimante 3D à Home Assistant avec OctoPrint sur Raspberry Pi : mon retour d'expérience">
+    <img src="images/Capturedcrandu2025-12-2114-52-02.png" alt="Photo 9 — Connecter son imprimante 3D à Home Assistant avec OctoPrint sur Raspberry Pi : mon retour d'expérience" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-12-2115-18-32.png" data-full="images/Capturedcrandu2025-12-2115-18-32.png" data-alt="Photo 10 — Connecter son imprimante 3D à Home Assistant avec OctoPrint sur Raspberry Pi : mon retour d'expérience" aria-label="Agrandir la photo 10 : Photo 10 — Connecter son imprimante 3D à Home Assistant avec OctoPrint sur Raspberry Pi : mon retour d'expérience">
+    <img src="images/Capturedcrandu2025-12-2115-18-32.png" alt="Photo 10 — Connecter son imprimante 3D à Home Assistant avec OctoPrint sur Raspberry Pi : mon retour d'expérience" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-12-2115-09-14.png" data-full="images/Capturedcrandu2025-12-2115-09-14.png" data-alt="Photo 11 — Connecter son imprimante 3D à Home Assistant avec OctoPrint sur Raspberry Pi : mon retour d'expérience" aria-label="Agrandir la photo 11 : Photo 11 — Connecter son imprimante 3D à Home Assistant avec OctoPrint sur Raspberry Pi : mon retour d'expérience">
+    <img src="images/Capturedcrandu2025-12-2115-09-14.png" alt="Photo 11 — Connecter son imprimante 3D à Home Assistant avec OctoPrint sur Raspberry Pi : mon retour d'expérience" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-12-2114-52-57.png" data-full="images/Capturedcrandu2025-12-2114-52-57.png" data-alt="Photo 12 — Connecter son imprimante 3D à Home Assistant avec OctoPrint sur Raspberry Pi : mon retour d'expérience" aria-label="Agrandir la photo 12 : Photo 12 — Connecter son imprimante 3D à Home Assistant avec OctoPrint sur Raspberry Pi : mon retour d'expérience">
+    <img src="images/Capturedcrandu2025-12-2114-52-57.png" alt="Photo 12 — Connecter son imprimante 3D à Home Assistant avec OctoPrint sur Raspberry Pi : mon retour d'expérience" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-12-2115-44-23.png" data-full="images/Capturedcrandu2025-12-2115-44-23.png" data-alt="Photo 13 — Connecter son imprimante 3D à Home Assistant avec OctoPrint sur Raspberry Pi : mon retour d'expérience" aria-label="Agrandir la photo 13 : Photo 13 — Connecter son imprimante 3D à Home Assistant avec OctoPrint sur Raspberry Pi : mon retour d'expérience">
+    <img src="images/Capturedcrandu2025-12-2115-44-23.png" alt="Photo 13 — Connecter son imprimante 3D à Home Assistant avec OctoPrint sur Raspberry Pi : mon retour d'expérience" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-12-2115-44-45.png" data-full="images/Capturedcrandu2025-12-2115-44-45.png" data-alt="Photo 14 — Connecter son imprimante 3D à Home Assistant avec OctoPrint sur Raspberry Pi : mon retour d'expérience" aria-label="Agrandir la photo 14 : Photo 14 — Connecter son imprimante 3D à Home Assistant avec OctoPrint sur Raspberry Pi : mon retour d'expérience">
+    <img src="images/Capturedcrandu2025-12-2115-44-45.png" alt="Photo 14 — Connecter son imprimante 3D à Home Assistant avec OctoPrint sur Raspberry Pi : mon retour d'expérience" loading="lazy">
+  </a>
+</figure>
+</div>
+<button type="button" class="carousel-nav" data-prev aria-label="Photo précédente">‹</button>
+<button type="button" class="carousel-nav" data-next aria-label="Photo suivante">›</button>
+<div class="carousel-dots" data-dots></div>
+<div class="carousel-live" data-live aria-live="polite"></div>
+<p class="carousel-hint">Faites défiler les photos, ou ouvrez-les pour les agrandir (si JavaScript est activé).</p>
+</section>
+
 # Connecter son imprimante 3D à Home Assistant avec OctoPrint sur Raspberry Pi : mon retour d'expérience
 
 - **Catégorie :** [Tutoriels, Guides & Astuces des Membres](https://forumdomotique.com/forums/87-tutoriels-guides-astuces-des-membres/)

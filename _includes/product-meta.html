@@ -1,0 +1,9 @@
+{% if page.product or page.brand %}
+<aside class="product-meta">
+  {% if page.product %}<p><span>Produit</span> {{ page.product }}</p>{% endif %}
+  {% if page.brand %}<p><span>Marque</span> {{ page.brand }}</p>{% endif %}
+  {% if page.tags %}
+  <p><span>Catégories</span> {% for t in page.tags %}{{ t }}{% unless forloop.last %}, {% endunless %}{% endfor %}</p>
+  {% endif %}
+</aside>
+{% endif %}

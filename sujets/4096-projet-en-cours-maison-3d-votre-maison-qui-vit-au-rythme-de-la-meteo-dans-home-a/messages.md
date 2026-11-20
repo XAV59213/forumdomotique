@@ -6,6 +6,32 @@ date: 2026-11-20
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/4096-%F0%9F%8F%A1-projet-en-cours-maison-3d-votre-maison-qui-vit-au-rythme-de-la-m%C3%A9t%C3%A9o-dans-home-assistant/">Lire et commenter sur Forum Domotique</a> · <a href="https://github.com/XAV59213/maison3d">Dépôt HACS : Maison 3D</a></p>
 
+
+<section class="carousel photo-carousel" data-carousel data-lightbox aria-roledescription="carrousel" aria-label="Photos de l’article (3)" tabindex="0">
+<div class="carousel-track" data-track>
+<figure class="photo-slide" data-slide>
+  <a href="images/maison3d-reference.webp" data-full="images/maison3d-reference.webp" data-alt="Photo 1 — 🏡 [Projet en cours] Maison 3D – Votre maison qui vit au rythme de la météo dans Home Assistant" aria-label="Agrandir la photo 1 : Photo 1 — 🏡 [Projet en cours] Maison 3D – Votre maison qui vit au rythme de la météo dans Home Assistant">
+    <img src="images/maison3d-reference.webp" alt="Photo 1 — 🏡 [Projet en cours] Maison 3D – Votre maison qui vit au rythme de la météo dans Home Assistant" loading="eager">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/clair-nuit-960.webp" data-full="images/clair-nuit-960.webp" data-alt="Photo 2 — 🏡 [Projet en cours] Maison 3D – Votre maison qui vit au rythme de la météo dans Home Assistant" aria-label="Agrandir la photo 2 : Photo 2 — 🏡 [Projet en cours] Maison 3D – Votre maison qui vit au rythme de la météo dans Home Assistant">
+    <img src="images/clair-nuit-960.webp" alt="Photo 2 — 🏡 [Projet en cours] Maison 3D – Votre maison qui vit au rythme de la météo dans Home Assistant" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/neige-jour-640.webp" data-full="images/neige-jour-640.webp" data-alt="Photo 3 — 🏡 [Projet en cours] Maison 3D – Votre maison qui vit au rythme de la météo dans Home Assistant" aria-label="Agrandir la photo 3 : Photo 3 — 🏡 [Projet en cours] Maison 3D – Votre maison qui vit au rythme de la météo dans Home Assistant">
+    <img src="images/neige-jour-640.webp" alt="Photo 3 — 🏡 [Projet en cours] Maison 3D – Votre maison qui vit au rythme de la météo dans Home Assistant" loading="lazy">
+  </a>
+</figure>
+</div>
+<button type="button" class="carousel-nav" data-prev aria-label="Photo précédente">‹</button>
+<button type="button" class="carousel-nav" data-next aria-label="Photo suivante">›</button>
+<div class="carousel-dots" data-dots></div>
+<div class="carousel-live" data-live aria-live="polite"></div>
+<p class="carousel-hint">Faites défiler les photos, ou ouvrez-les pour les agrandir (si JavaScript est activé).</p>
+</section>
+
 # 🏡 [Projet en cours] Maison 3D – Votre maison qui vit au rythme de la météo dans Home Assistant
 
 - **Catégorie :** [Projets et Personnalisations](https://forumdomotique.com/forums/12-projets-et-personnalisations/)

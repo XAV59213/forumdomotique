@@ -7,6 +7,47 @@ date: 2025-11-08
 {% raw %}
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/489-int%C3%A9grer-resmed-myair-cpap-dans-home-assistant/">Lire et commenter sur Forum Domotique</a></p>
 
+
+<section class="carousel photo-carousel" data-carousel data-lightbox aria-roledescription="carrousel" aria-label="Photos de l’article (6)" tabindex="0">
+<div class="carousel-track" data-track>
+<figure class="photo-slide" data-slide>
+  <a href="images/MatterServer_8_.png" data-full="images/MatterServer_8_.png" data-alt="Photo 1 — Intégrer ResMed myAir CPAP dans Home Assistant" aria-label="Agrandir la photo 1 : Photo 1 — Intégrer ResMed myAir CPAP dans Home Assistant">
+    <img src="images/MatterServer_8_.png" alt="Photo 1 — Intégrer ResMed myAir CPAP dans Home Assistant" loading="eager">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-11-0817-46-12.png" data-full="images/Capturedcrandu2025-11-0817-46-12.png" data-alt="Photo 2 — Intégrer ResMed myAir CPAP dans Home Assistant" aria-label="Agrandir la photo 2 : Photo 2 — Intégrer ResMed myAir CPAP dans Home Assistant">
+    <img src="images/Capturedcrandu2025-11-0817-46-12.png" alt="Photo 2 — Intégrer ResMed myAir CPAP dans Home Assistant" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-11-0817-41-00.png" data-full="images/Capturedcrandu2025-11-0817-41-00.png" data-alt="Photo 3 — Intégrer ResMed myAir CPAP dans Home Assistant" aria-label="Agrandir la photo 3 : Photo 3 — Intégrer ResMed myAir CPAP dans Home Assistant">
+    <img src="images/Capturedcrandu2025-11-0817-41-00.png" alt="Photo 3 — Intégrer ResMed myAir CPAP dans Home Assistant" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-11-0817-44-32.png" data-full="images/Capturedcrandu2025-11-0817-44-32.png" data-alt="Photo 4 — Intégrer ResMed myAir CPAP dans Home Assistant" aria-label="Agrandir la photo 4 : Photo 4 — Intégrer ResMed myAir CPAP dans Home Assistant">
+    <img src="images/Capturedcrandu2025-11-0817-44-32.png" alt="Photo 4 — Intégrer ResMed myAir CPAP dans Home Assistant" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-11-0817-54-34.png" data-full="images/Capturedcrandu2025-11-0817-54-34.png" data-alt="Photo 5 — Intégrer ResMed myAir CPAP dans Home Assistant" aria-label="Agrandir la photo 5 : Photo 5 — Intégrer ResMed myAir CPAP dans Home Assistant">
+    <img src="images/Capturedcrandu2025-11-0817-54-34.png" alt="Photo 5 — Intégrer ResMed myAir CPAP dans Home Assistant" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/Capturedcrandu2025-11-0817-14-02.png" data-full="images/Capturedcrandu2025-11-0817-14-02.png" data-alt="Photo 6 — Intégrer ResMed myAir CPAP dans Home Assistant" aria-label="Agrandir la photo 6 : Photo 6 — Intégrer ResMed myAir CPAP dans Home Assistant">
+    <img src="images/Capturedcrandu2025-11-0817-14-02.png" alt="Photo 6 — Intégrer ResMed myAir CPAP dans Home Assistant" loading="lazy">
+  </a>
+</figure>
+</div>
+<button type="button" class="carousel-nav" data-prev aria-label="Photo précédente">‹</button>
+<button type="button" class="carousel-nav" data-next aria-label="Photo suivante">›</button>
+<div class="carousel-dots" data-dots></div>
+<div class="carousel-live" data-live aria-live="polite"></div>
+<p class="carousel-hint">Faites défiler les photos, ou ouvrez-les pour les agrandir (si JavaScript est activé).</p>
+</section>
+
 # Intégrer ResMed myAir CPAP dans Home Assistant
 
 - **Catégorie :** [Intégrations et Add-ons](https://forumdomotique.com/forums/11-int%C3%A9grations-et-add-ons/)

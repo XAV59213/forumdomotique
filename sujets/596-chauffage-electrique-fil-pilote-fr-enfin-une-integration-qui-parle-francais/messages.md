@@ -6,6 +6,52 @@ date: 2025-12-09
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/596-chauffage-%C3%A9lectrique-fil-pilote-fr-enfin-une-int%C3%A9gration-qui-parle-fran%C3%A7ais/">Lire et commenter sur Forum Domotique</a> · <a href="https://github.com/XAV59213/chauffage">Dépôt HACS : Chauffage Électrique Fil Pilote FR</a></p>
 
+
+<section class="carousel photo-carousel" data-carousel data-lightbox aria-roledescription="carrousel" aria-label="Photos de l’article (7)" tabindex="0">
+<div class="carousel-track" data-track>
+<figure class="photo-slide" data-slide>
+  <a href="images/IMG_6431.jpeg" data-full="images/IMG_6431.jpeg" data-alt="Photo 1 — Chauffage Électrique Fil Pilote FR – Enfin une intégration qui parle français !" aria-label="Agrandir la photo 1 : Photo 1 — Chauffage Électrique Fil Pilote FR – Enfin une intégration qui parle français !">
+    <img src="images/IMG_6431.jpeg" alt="Photo 1 — Chauffage Électrique Fil Pilote FR – Enfin une intégration qui parle français !" loading="eager">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/carte-chauffage.jpg" data-full="images/carte-chauffage.jpg" data-alt="Photo 2 — Chauffage Électrique Fil Pilote FR – Enfin une intégration qui parle français !" aria-label="Agrandir la photo 2 : Photo 2 — Chauffage Électrique Fil Pilote FR – Enfin une intégration qui parle français !">
+    <img src="images/carte-chauffage.jpg" alt="Photo 2 — Chauffage Électrique Fil Pilote FR – Enfin une intégration qui parle français !" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/config-thermostat.jpg" data-full="images/config-thermostat.jpg" data-alt="Photo 3 — Chauffage Électrique Fil Pilote FR – Enfin une intégration qui parle français !" aria-label="Agrandir la photo 3 : Photo 3 — Chauffage Électrique Fil Pilote FR – Enfin une intégration qui parle français !">
+    <img src="images/config-thermostat.jpg" alt="Photo 3 — Chauffage Électrique Fil Pilote FR – Enfin une intégration qui parle français !" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/config-thermostat-2.jpg" data-full="images/config-thermostat-2.jpg" data-alt="Photo 4 — Chauffage Électrique Fil Pilote FR – Enfin une intégration qui parle français !" aria-label="Agrandir la photo 4 : Photo 4 — Chauffage Électrique Fil Pilote FR – Enfin une intégration qui parle français !">
+    <img src="images/config-thermostat-2.jpg" alt="Photo 4 — Chauffage Électrique Fil Pilote FR – Enfin une intégration qui parle français !" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/config-thermostat-3.jpg" data-full="images/config-thermostat-3.jpg" data-alt="Photo 5 — Chauffage Électrique Fil Pilote FR – Enfin une intégration qui parle français !" aria-label="Agrandir la photo 5 : Photo 5 — Chauffage Électrique Fil Pilote FR – Enfin une intégration qui parle français !">
+    <img src="images/config-thermostat-3.jpg" alt="Photo 5 — Chauffage Électrique Fil Pilote FR – Enfin une intégration qui parle français !" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/config-thermostat-4.jpg" data-full="images/config-thermostat-4.jpg" data-alt="Photo 6 — Chauffage Électrique Fil Pilote FR – Enfin une intégration qui parle français !" aria-label="Agrandir la photo 6 : Photo 6 — Chauffage Électrique Fil Pilote FR – Enfin une intégration qui parle français !">
+    <img src="images/config-thermostat-4.jpg" alt="Photo 6 — Chauffage Électrique Fil Pilote FR – Enfin une intégration qui parle français !" loading="lazy">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
+  <a href="images/config-thermostat-5.jpg" data-full="images/config-thermostat-5.jpg" data-alt="Photo 7 — Chauffage Électrique Fil Pilote FR – Enfin une intégration qui parle français !" aria-label="Agrandir la photo 7 : Photo 7 — Chauffage Électrique Fil Pilote FR – Enfin une intégration qui parle français !">
+    <img src="images/config-thermostat-5.jpg" alt="Photo 7 — Chauffage Électrique Fil Pilote FR – Enfin une intégration qui parle français !" loading="lazy">
+  </a>
+</figure>
+</div>
+<button type="button" class="carousel-nav" data-prev aria-label="Photo précédente">‹</button>
+<button type="button" class="carousel-nav" data-next aria-label="Photo suivante">›</button>
+<div class="carousel-dots" data-dots></div>
+<div class="carousel-live" data-live aria-live="polite"></div>
+<p class="carousel-hint">Faites défiler les photos, ou ouvrez-les pour les agrandir (si JavaScript est activé).</p>
+</section>
+
 # Chauffage Électrique Fil Pilote FR – Enfin une intégration qui parle français !
 
 - **Catégorie :** [Projets et Personnalisations](https://forumdomotique.com/forums/12-projets-et-personnalisations/)
