@@ -775,3 +775,7 @@ $ha-navy: #0b3a57;
 .ha-patch-security ul { margin: 0.3rem 0 0; padding-left: 1.2rem; }
 .ha-patch-links { font-size: 0.88rem; color: #4f6473; }
 @media (max-width: 700px) { .ha-patch-badge { margin-left: 0; } }
+
+/* Flèches des carrousels de cartes : au milieu de la vignette, jamais sur le titre */
+.card-carousel .carousel-nav { top: 2.8rem; transform: none; }
+@media (max-width: 700px) { .card-carousel .carousel-nav, .ha-cards .carousel-nav { top: 3.4rem; transform: none; } }
