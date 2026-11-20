@@ -4,6 +4,7 @@ description: "Après une 2026.1 un peu plus calme post-fêtes, l'équipe frappe 
 image: /contenus/actualites/home-assistant-20262-la-mise-a-jour-de-fevrier-2026-rend-le-dashboard-home-par-defaut-et-l/images/cover-2026-2.jpg
 date: 2026-01-31
 section: actualites
+canonical_url: https://xav59213.github.io/forumdomotique/actualite-home-assistant/home-assistant-2026-2/
 tags:
   - domotique
   - home-assistant

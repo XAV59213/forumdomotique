@@ -4,6 +4,7 @@ description: "👋 Bonne année à tous ! L'équipe de Home Assistant commence 2
 image: /contenus/actualites/home-assistant-20261-la-mise-a-jour-de-janvier-2026-ameliore-le-tableau-de-bord-et-les-aut/images/social.png
 date: 2026-01-10
 section: actualites
+canonical_url: https://xav59213.github.io/forumdomotique/actualite-home-assistant/home-assistant-2026-1/
 tags:
   - domotique
   - home-assistant

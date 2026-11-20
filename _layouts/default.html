@@ -59,11 +59,7 @@
         {% assign home_articles = home_tests | plus: home_guides | plus: home_ha %}
         {% assign home_news = site.pages | where: "section", "actualites" %}
         {% for p in home_news %}
-          {% assign home_skip_news = false %}
-          {% if p.url contains 'home-assistant-20261' %}{% assign home_skip_news = true %}{% endif %}
-          {% if p.url contains 'home-assistant-20262' %}{% assign home_skip_news = true %}{% endif %}
-          {% if p.url contains 'home-assistant-20263' %}{% assign home_skip_news = true %}{% endif %}
-          {% unless home_skip_news %}
+          {% unless p.canonical_url %}
             {% assign home_articles = home_articles | plus: 1 %}
           {% endunless %}
         {% endfor %}
@@ -77,6 +73,9 @@
     {% endif %}
 
     <main id="content" class="main-content" role="main">
+      {% if page.section == "actualites" and page.canonical_url %}
+      <p class="ha-note">Cette page conserve l’archive du message publié sur le forum. <a href="{{ page.canonical_url }}">Voir l’article détaillé</a> dans la section Actualité Home Assistant.</p>
+      {% endif %}
       {{ content }}
     </main>
     {% include site-footer.html %}

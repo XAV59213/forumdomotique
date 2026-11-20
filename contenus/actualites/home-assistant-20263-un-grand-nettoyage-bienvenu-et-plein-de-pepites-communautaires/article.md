@@ -4,6 +4,7 @@ description: "Franck Nijhof (Frenck) l'annonce clairement dans le billet officie
 image: /contenus/actualites/home-assistant-20263-un-grand-nettoyage-bienvenu-et-plein-de-pepites-communautaires/images/cover-2026-3.jpg
 date: 2026-03-21
 section: actualites
+canonical_url: https://xav59213.github.io/forumdomotique/actualite-home-assistant/home-assistant-2026-3/
 tags:
   - domotique
   - home-assistant

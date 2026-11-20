@@ -12,7 +12,7 @@ permalink: /actualites/
 
 <p class="ha-note">📰 Retrouvez aussi chaque version 2026 expliquée en détail dans la section <a href="{{ '/actualite-home-assistant/' | relative_url }}">Actualité Home Assistant</a>.</p>
 
-{% assign news = site.pages | where: "section", "actualites" | sort: "date" | reverse %}
+{% assign news = site.pages | where: "section", "actualites" | where_exp: "item", "item.canonical_url == nil" | sort: "date" | reverse %}
 {% assign news_feat = news | where: "featured", true %}
 {% if news_feat.size > 0 %}
   {% assign news_une = news_feat | first %}
