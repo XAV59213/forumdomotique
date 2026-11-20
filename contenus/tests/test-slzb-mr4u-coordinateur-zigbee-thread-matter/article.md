@@ -1,7 +1,7 @@
 ---
 title: "Test du SMLight SLZB-MR4U : un coordinateur Zigbee + Thread/Matter qui simplifie vraiment la vie"
 description: "J’ai installé pas mal de dongles Zigbee au fil des années, souvent en jonglant entre les limites de portée, les conflits radio et les essais plus ou moins…"
-image: /contenus/tests/test-slzb-mr4u-coordinateur-zigbee-thread-matter/images/Designsanstitre_3_.png
+image: /contenus/tests/test-slzb-mr4u-coordinateur-zigbee-thread-matter/images/cover-slzb-mr4u.jpg
 date: 2025-11-17
 section: tests
 product: SLZB-MR4U
