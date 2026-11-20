@@ -29,3 +29,7 @@ Pour toute autre utilisation, merci d’adresser une demande via le formulaire G
 <p><a class="btn-demand" href="https://github.com/XAV59213/forumdomotique/issues/new?template=demande-autorisation.yml">Demander une autorisation</a></p>
 
 Aucune adresse électronique n’est publiée sur cette page. La demande transite uniquement par le formulaire ci-dessus.
+
+## Confidentialité
+
+Cette vitrine utilise [GoatCounter](https://www.goatcounter.com/) pour compter les visites des pages. Cet outil ne dépose pas de cookie et ne suit pas les visiteurs d’un site à l’autre. Les statistiques servent uniquement à savoir quels articles sont lus ; elles ne sont pas utilisées à des fins publicitaires.
