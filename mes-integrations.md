@@ -8,7 +8,7 @@ permalink: /mes-integrations/
 
 # Mes intégrations GitHub / HACS
 
-<p class="section-lead">Ici se trouvent uniquement les <strong>dépôts et présentations d’intégrations</strong> développées par Xavier (XAV59213). Les tests produits, les guides et les réponses dans les sujets d’autres membres sont dans des rubriques à part.</p>
+<p class="section-lead">Ici se trouvent uniquement les <strong>dépôts et présentations d’intégrations</strong> que je développe (XAV59213). Les tests produits, les guides et les réponses dans les sujets d’autres membres sont dans des rubriques à part.</p>
 
 <div class="feature-grid">
 {% for item in site.data.integrations %}

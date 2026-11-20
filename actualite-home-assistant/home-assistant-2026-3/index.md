@@ -129,11 +129,11 @@ Après chaque version mensuelle, Home Assistant publie des versions correctives 
 3. Mettez à jour, puis rendez-vous dans les réglages de votre robot aspirateur pour l’associer à vos pièces.
 
 <div class="ha-avis" markdown="1">
-### 💬 L’avis de Xavier
+### 💬 Mon avis
 
 Pas de révolution, mais des fonctions qu’on utilise **tous les jours** : le nettoyage par pièce change la vie de ceux qui ont un robot, et « Continue on error » rend les automatisations plus robustes sans écrire une ligne de YAML. Côté France, l’arrivée de MyNeomitis est une bonne nouvelle pour le chauffage électrique. Seul vrai point de vigilance : le passage obligatoire aux kelvins.
 </div>
 
 Votre robot connaît-il déjà vos pièces ? Partagez votre configuration sur [Forum Domotique](https://forumdomotique.com/) !
 
-<p class="ha-signature">— Xavier (XAV59213)</p>
+<p class="ha-signature">— XAV59213</p>

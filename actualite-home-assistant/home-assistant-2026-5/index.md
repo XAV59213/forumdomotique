@@ -145,11 +145,11 @@ Après chaque version mensuelle, Home Assistant publie des versions correctives 
 3. Si vous testiez les blocs « arrivée/départ de la maison » de Labs, remplacez-les avant la mise à jour.
 
 <div class="ha-avis" markdown="1">
-### 💬 L’avis de Xavier
+### 💬 Mon avis
 
 Pour un domoticien français, **Teleinfo** est la nouveauté du mois : lire son Linky en local, sans cloud, directement dans le cœur de Home Assistant, c’est un vrai pas en avant pour le suivi de consommation. La radiofréquence ouvre la porte à nos volets et portails RF, et le tableau Maintenance évitera bien des pannes « mystères ». Le proxy série demande encore des mains de bricoleur, mais la base est posée.
 </div>
 
 Vous lisez déjà votre Linky dans Home Assistant ? Comparez vos montages sur [Forum Domotique](https://forumdomotique.com/) !
 
-<p class="ha-signature">— Xavier (XAV59213)</p>
+<p class="ha-signature">— XAV59213</p>

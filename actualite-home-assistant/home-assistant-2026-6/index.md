@@ -138,11 +138,11 @@ Après chaque version mensuelle, Home Assistant publie des versions correctives 
 3. Notez votre **clé de chiffrement de sauvegarde** dans un gestionnaire de mots de passe.
 
 <div class="ha-avis" markdown="1">
-### 💬 L’avis de Xavier
+### 💬 Mon avis
 
 Le sélecteur de cartes « par entité » est exactement ce qu’il fallait pour les débutants : on part de *sa* lampe, pas d’un jargon. Les indicateurs en direct sur les conditions vont faire gagner un temps fou en dépannage. Attention en revanche à la fin de l’ancienne syntaxe des templates : c’est le genre de changement qui casse une installation ancienne en silence. Et clin d’œil aux piscinistes : l’arrivée de **Vistapool** confirme que la piscine connectée a toute sa place dans Home Assistant.
 </div>
 
 Avez-vous déjà migré vos anciens templates ? Entraidons-nous sur [Forum Domotique](https://forumdomotique.com/) !
 
-<p class="ha-signature">— Xavier (XAV59213)</p>
+<p class="ha-signature">— XAV59213</p>

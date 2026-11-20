@@ -136,11 +136,11 @@ Après chaque version mensuelle, Home Assistant publie des versions correctives 
 3. Si vous avez écrit un prompt LLM qui cite des outils par leur nom, ajoutez les nouveaux préfixes.
 
 <div class="ha-avis" markdown="1">
-### 💬 L’avis de Xavier
+### 💬 Mon avis
 
 Deux nouveautés me semblent particulièrement utiles au quotidien : les **détails « pourquoi »** de l’Activité (fini les enquêtes pour comprendre une lumière qui s’allume seule) et la **carte du réseau Matter**, indispensable pour diagnostiquer un réseau Thread. Pour les francophones, la nouvelle reconnaissance vocale Cloud mérite clairement un test, puisqu’elle cible justement les langues autres que l’anglais.
 </div>
 
 Vous avez testé la nouvelle reconnaissance vocale ? Donnez votre avis sur [Forum Domotique](https://forumdomotique.com/) !
 
-<p class="ha-signature">— Xavier (XAV59213)</p>
+<p class="ha-signature">— XAV59213</p>

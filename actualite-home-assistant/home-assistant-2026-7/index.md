@@ -138,11 +138,11 @@ Après chaque version mensuelle, Home Assistant publie des versions correctives 
 4. Après la mise à jour, testez le bouton **Update all**… sur une carte à la fois si vous êtes prudent.
 
 <div class="ha-avis" markdown="1">
-### 💬 L’avis de Xavier
+### 💬 Mon avis
 
 C’est sans doute **la version la plus importante de l’année pour les débutants**. Penser « par pièce » plutôt que « par capteur » change tout : une automatisation bien écrite aujourd’hui fonctionnera encore quand vous ajouterez des appareils demain. Le fait que les intégrations puissent ajouter leurs propres déclencheurs ouvre aussi de belles perspectives pour nous, développeurs d’intégrations HACS. Gros coup de cœur pour la nouvelle frise Activité, enfin lisible.
 </div>
 
 Vous avez converti vos vieilles automatisations ? Partagez vos avant/après sur [Forum Domotique](https://forumdomotique.com/) !
 
-<p class="ha-signature">— Xavier (XAV59213)</p>
+<p class="ha-signature">— XAV59213</p>

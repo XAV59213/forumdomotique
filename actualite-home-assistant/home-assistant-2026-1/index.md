@@ -147,11 +147,11 @@ Après chaque version mensuelle, Home Assistant publie des versions correctives 
 | Réponses d’actions ESPHome | Échanges bidirectionnels | Bricoleurs ESPHome |
 
 <div class="ha-avis" markdown="1">
-### 💬 L’avis de Xavier
+### 💬 Mon avis
 
 Une version de transition, mais qui va dans le bon sens : Home Assistant se rend plus **accessible au reste du foyer** (le dashboard Home sur mobile) et plus **lisible pour celui qui automatise** (les déclencheurs par usage). La page Appareils est le genre de petit détail qui pousse à ranger sa maison… et c’est indispensable pour tirer parti des automatisations par pièce qui arrivent. Si vous ne l’avez pas encore fait, c’est le bon moment pour essayer Labs.
 </div>
 
 Et vous, vous avez testé les nouveaux déclencheurs ? Venez en parler sur [Forum Domotique](https://forumdomotique.com/) !
 
-<p class="ha-signature">— Xavier (XAV59213)</p>
+<p class="ha-signature">— XAV59213</p>

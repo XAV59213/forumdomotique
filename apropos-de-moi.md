@@ -1,6 +1,6 @@
 ---
 title: "À propos de moi — XAV59213"
-description: "À propos de XAV59213 (Xavier Descamps) : intégrations Home Assistant pour la France, disponibles dans HACS ou en dépôt personnalisé."
+description: "À propos de XAV59213 : intégrations Home Assistant pour la France, disponibles dans HACS ou en dépôt personnalisé."
 image: /images-profil/Sanstitre.jpeg
 date: 2026-11-20
 ---

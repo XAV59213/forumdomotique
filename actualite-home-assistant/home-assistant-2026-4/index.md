@@ -151,11 +151,11 @@ Après chaque version mensuelle, Home Assistant publie des versions correctives 
 3. Vérifiez que le **Supervisor** est bien à jour (faille critique corrigée en 2026.03.2).
 
 <div class="ha-avis" markdown="1">
-### 💬 L’avis de Xavier
+### 💬 Mon avis
 
 L’infrarouge, c’est la bonne idée qui n’a l’air de rien : combien de climatiseurs mobiles et de vieux téléviseurs dorment chez nous ? Avec un proxy à quelques euros, ils entrent dans la domotique **en local**. Côté automatisations, les blocs multi-domaines rendent enfin les scénarios lisibles par tout le foyer. Et pour les propriétaires de serrures Matter, la gestion des codes depuis Home Assistant est un vrai plus.
 </div>
 
 Vous avez déjà flashé un proxy infrarouge ? Racontez-nous sur [Forum Domotique](https://forumdomotique.com/) !
 
-<p class="ha-signature">— Xavier (XAV59213)</p>
+<p class="ha-signature">— XAV59213</p>

@@ -126,11 +126,11 @@ Après chaque version mensuelle, Home Assistant publie des versions correctives 
 3. Si vous utilisiez `battery_level` d’un aspirateur dans un template, basculez sur l’entité batterie dédiée.
 
 <div class="ha-avis" markdown="1">
-### 💬 L’avis de Xavier
+### 💬 Mon avis
 
 Une version qui ne fait pas de bruit mais qui compte : retirer le « :8123 » et les mots « avancé » ou « expert », c’est enlever des barrières pour tous ceux qui hésitent à se lancer. Côté France, les améliorations **Overkiz** pour les sèche-serviettes Atlantic et le thermostat Somfy sont bienvenues. Et en tant qu’auteur de l’intégration **Phase de la Lune**, je ne peux que saluer l’arrivée d’un déclencheur lunaire natif 🌕 : les deux approches se complètent très bien.
 </div>
 
 Vous avez profité de la nouvelle adresse sans port ? Dites-le nous sur [Forum Domotique](https://forumdomotique.com/) !
 
-<p class="ha-signature">— Xavier (XAV59213)</p>
+<p class="ha-signature">— XAV59213</p>

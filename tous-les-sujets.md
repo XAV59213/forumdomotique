@@ -64,7 +64,7 @@ Les publications sont classées pour bien séparer **les dépôts GitHub**, **le
 
 ## Autres sujets ouverts par XAV59213
 
-Sujets lancés par Xavier qui ne sont ni une présentation d’intégration, ni un test ou un guide CMS (café, projets perso, astuces diverses).
+Mes sujets qui ne sont ni une présentation d’intégration, ni un test ou un guide CMS (café, projets perso, astuces diverses).
 
 | Sujet | Catégorie | Nb de posts | Date | Forum | Page |
 |---|---|---:|---|---|---|

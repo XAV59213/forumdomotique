@@ -161,11 +161,11 @@ Après chaque version mensuelle, Home Assistant publie des versions correctives 
 | Carte Distribution | Répartition d’une grandeur | Suivi énergie |
 
 <div class="ha-avis" markdown="1">
-### 💬 L’avis de Xavier
+### 💬 Mon avis
 
 Cette 2026.2 marque un virage : Home Assistant parle enfin comme ses utilisateurs (Apps, Overview, conditions « par usage »). Pour un débutant, la différence est énorme. La Device database mérite qu’on y participe : plus elle est riche, plus il sera simple de choisir du matériel compatible. Et si vous ne deviez retenir qu’un raccourci : **Ctrl + K**.
 </div>
 
 Qu’en pensez-vous de cette 2026.2 ? Prêt à partager vos appareils ? Réagissez sur [Forum Domotique](https://forumdomotique.com/actualites/home-assistant/home-assistant-20262-la-mise-%C3%A0-jour-de-f%C3%A9vrier-2026-rend-le-dashboard-home-par-d%C3%A9faut-et-lance-la-device-database-r12/) !
 
-<p class="ha-signature">— Xavier (XAV59213)</p>
+<p class="ha-signature">— XAV59213</p>

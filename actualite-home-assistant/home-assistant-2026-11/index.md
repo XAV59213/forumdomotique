@@ -187,11 +187,11 @@ Après chaque version mensuelle, Home Assistant publie des versions correctives 
 4. Ouvrez ensuite **Paramètres › Marketplace** : vos projets HACS doivent tous y figurer. Vérifiez vos dashboards, où les nouveaux noms d’entités sont les plus visibles.
 
 <div class="ha-avis" markdown="1">
-### 💬 L’avis de Xavier
+### 💬 Mon avis
 
 En tant que développeur d’intégrations distribuées via HACS (Freebox Homexa, Chauffage fil pilote, Jour Férié…), je vois l’arrivée du **Marketplace** comme une reconnaissance énorme pour tout l’écosystème communautaire. Installer une intégration **sans redémarrer** et sans compte GitHub, c’est ce qui manquait aux débutants. Les exclusions dans les cibles et les sections automatiques sont du même niveau : moins de bricolage, plus de logique. Seul conseil : prenez le temps de lire les breaking changes, cette version touche à beaucoup de choses.
 </div>
 
 Vous êtes passé au Marketplace ? Racontez votre migration sur [Forum Domotique](https://forumdomotique.com/) !
 
-<p class="ha-signature">— Xavier (XAV59213)</p>
+<p class="ha-signature">— XAV59213</p>

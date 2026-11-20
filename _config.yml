@@ -26,10 +26,10 @@ relative_links:
 # Le flux Atom complet est généré par feed.xml (jekyll-feed n’est pas
 # utilisé : il produisait un /feed-posts.xml vide, faute de dossier _posts/).
 author:
-  name: Xavier Descamps (XAV59213)
+  name: XAV59213
   url: https://forumdomotique.com/profile/106-xav59213/
 social:
-  name: Xavier Descamps
+  name: XAV59213
   links:
     - https://github.com/XAV59213
     - https://forumdomotique.com/profile/106-xav59213/

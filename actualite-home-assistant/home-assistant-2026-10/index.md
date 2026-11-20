@@ -134,11 +134,11 @@ Après chaque version mensuelle, Home Assistant publie des versions correctives 
 3. Vérifiez que les comptes qui publient en MQTT via des scripts sont bien administrateurs.
 
 <div class="ha-avis" markdown="1">
-### 💬 L’avis de Xavier
+### 💬 Mon avis
 
 La nouvelle carte est une très belle réponse à un vrai problème : passer à OpenStreetMap en vectoriel, avec un cache local, c’est plus beau **et** plus respectueux de la vie privée. Mais la vraie pépite, c’est **Triggered by** : diviser par deux le nombre d’automatisations rend une installation beaucoup plus facile à maintenir. Quant au serveur MCP en un clic, il ouvre la porte à des usages IA intéressants… à manier avec prudence et des droits bien choisis.
 </div>
 
 Vous fusionnez déjà vos automatisations avec « Triggered by » ? Partagez vos exemples sur [Forum Domotique](https://forumdomotique.com/) !
 
-<p class="ha-signature">— Xavier (XAV59213)</p>
+<p class="ha-signature">— XAV59213</p>
