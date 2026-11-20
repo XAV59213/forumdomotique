@@ -23,6 +23,7 @@ Cette vitrine rassemble ses publications pour les lire confortablement, et renvo
 ## À la une
 
 <section class="carousel hero-carousel" data-carousel data-autoplay="6000" aria-roledescription="carrousel" aria-label="Articles à la une" tabindex="0">
+<div class="hero-frame">
 <div class="carousel-track" data-track>
 <article class="hero-slide" data-slide>
   <img src="{{ '/sujets/4074-freebox-homexa-est-dans-hacs-par-defaut-et-pas-mal-de-nouveautes/images/IMG_7808.png' | relative_url }}" alt="Carte Freebox Homexa dans un tableau de bord Home Assistant" width="1200" height="675" loading="eager">
@@ -99,6 +100,7 @@ Cette vitrine rassemble ses publications pour les lire confortablement, et renvo
 </div>
 <button type="button" class="carousel-nav" data-prev aria-label="Article précédent">‹</button>
 <button type="button" class="carousel-nav" data-next aria-label="Article suivant">›</button>
+</div>
 <div class="carousel-dots" data-dots></div>
 <div class="carousel-live" data-live aria-live="polite"></div>
 <p class="carousel-hint">Faites défiler horizontalement pour voir les autres articles.</p>

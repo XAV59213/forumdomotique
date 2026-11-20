@@ -8,7 +8,7 @@ permalink: /actualites/
 
 # Actualités
 
-<p class="section-lead">Les notes de version et actualités Home Assistant publiées sur Forum Domotique. L’<strong>actualité à la une</strong> est la plus récente, sauf si un article porte <code>featured: true</code> dans son entête.</p>
+<p class="section-lead">Les notes de version et actualités Home Assistant publiées sur Forum Domotique. L’<strong>actualité à la une</strong> est la plus récente, sauf choix contraire dans l’entête de l’article.</p>
 
 {% assign news = site.pages | where: "section", "actualites" | sort: "date" | reverse %}
 {% assign news_feat = news | where: "featured", true %}

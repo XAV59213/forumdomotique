@@ -8,7 +8,7 @@ permalink: /guides/
 
 # Guides
 
-<p class="section-lead">Des pas à pas pour installer, configurer et sauvegarder sa maison connectée. Le <strong>guide à la une</strong> est le plus récent, sauf si un article porte <code>featured: true</code> dans son entête.</p>
+<p class="section-lead">Des pas à pas pour installer, configurer et sauvegarder sa maison connectée. Le <strong>guide à la une</strong> est le plus récent, sauf choix contraire dans l’entête de l’article.</p>
 
 {% assign guides = site.pages | where: "section", "guides" | sort: "date" | reverse %}
 {% assign guides_feat = guides | where: "featured", true %}
