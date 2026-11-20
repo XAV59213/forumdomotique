@@ -1,0 +1,58 @@
+- v: "2026.2.1"
+  date: 2026-02-06
+  date_fr: "6 février 2026"
+  fixes: 20
+  summary: "Deux jours après la sortie, une première corrective qui règle surtout des détails d’intégrations, dont un changement non rétrocompatible pour Tuya et un assouplissement de la détection des identifiants d’entités invalides."
+  notable:
+    - i: "Tuya"
+      t: "Suppression du préréglage « off » redondant sur les climatiseurs (changement non rétrocompatible : vérifiez vos automatisations qui l’utilisaient)."
+    - i: "Entités"
+      t: "Détection des identifiants d’entités invalides rendue plus tolérante."
+    - i: "Cloudflare R2"
+      t: "Envois de sauvegardes en plusieurs parties corrigés (tailles de blocs cohérentes)."
+    - i: "Serveur MCP"
+      t: "Correction de l’échappement Unicode dans les réponses aux outils (accents, caractères spéciaux)."
+    - i: "Shelly, Denon AVR, Todoist, Tesla Fleet"
+      t: "État du thermostat Linkedgo, état « stopped » pris en compte, actions todo.* corrigées, classe du capteur de réserve de batterie."
+- v: "2026.2.2"
+  date: 2026-02-13
+  date_fr: "13 février 2026"
+  fixes: 42
+  summary: "La plus grosse corrective du mois. On y trouve une série de correctifs pour les assistants IA (OpenAI, Google Gemini, Ollama, Open Router, Cloud), dont les outils échouaient lorsqu’un résultat contenait une heure ou une date, ainsi que des corrections pour les sauvegardes Backblaze B2 et la gestion des redémarrages des FRITZ!Box."
+  notable:
+    - i: "Assistants IA"
+      t: "Correction de la conversion en JSON des heures et dates dans les résultats d’outils pour OpenAI, Google Generative AI, Ollama, Open Router et Home Assistant Cloud."
+    - i: "Backblaze B2"
+      t: "Ajout d’un délai sur le téléchargement des métadonnées pour éviter qu’une sauvegarde reste bloquée."
+    - i: "FRITZ!Box Tools et FRITZ!Smarthome"
+      t: "Meilleure gestion du redémarrage de la box."
+    - i: "Homematic IP"
+      t: "Capteur d’humidité absolue des thermostats en verre HmIP-WGT corrigé."
+    - i: "Tuya"
+      t: "Correction de l’état « indisponible »."
+    - i: "Telegram bot"
+      t: "Bug de l’assistant de configuration et de l’action edit_message_media corrigés."
+    - i: "Tesla (Teslemetry, Tessie, Tesla Fleet)"
+      t: "Classe du capteur de réserve de batterie corrigée ; enregistrement partenaire sur toutes les régions."
+    - i: "Miele, Todoist, qBittorrent, Vodafone Station, Comelit"
+      t: "Nouveaux programmes Miele, moins de délais dépassés Todoist, valeurs nulles transitoires filtrées, état d’image et avertissements d’alarme corrigés."
+- v: "2026.2.3"
+  date: 2026-02-20
+  date_fr: "20 février 2026"
+  fixes: 20
+  summary: "Corrective plus calme, avec un petit durcissement de sécurité, un indicateur de progression bienvenu pendant la sauvegarde qui précède une mise à jour, et des correctifs Z-Wave et Homematic IP."
+  security:
+    - "Les redirections vers localhost sont désormais bloquées."
+  notable:
+    - i: "Mises à jour (Supervisor)"
+      t: "Un indicateur de progression s’affiche pendant l’étape de sauvegarde d’une mise à jour de Core ou d’une App."
+    - i: "Z-Wave"
+      t: "Le réglage du préréglage (preset) des thermostats fonctionne de nouveau."
+    - i: "Homematic IP"
+      t: "Les entités se rétablissent après une reconnexion du point d’accès au cloud."
+    - i: "Roborock"
+      t: "Possibilité de choisir la région du compte."
+    - i: "Calendrier distant"
+      t: "Gestion correcte des événements situés dans la même période de mise à jour."
+    - i: "Xbox, Control4, eheimdigital, homee, Miele"
+      t: "Appel bloquant supprimé, états CVC multi-étages, création dynamique d’entités, unité Lux, programme de lave-vaisselle."

@@ -1,7 +1,8 @@
 ---
 title: "Sauvegarde Home Assistant : backups locaux, Google Drive et cloud (guide complet)"
 description: "Tout commence avec le système natif de Home Assistant, qui a vraiment pris un coup de jeune depuis la version 2025.1. Avant, c'était déjà pratique, mais…"
-image: /contenus/guides/sauvegarde-home-assistant-backup-cloud/images/Capturedcrandu2026-01-0616-56-27.png
+image: /contenus/guides/sauvegarde-home-assistant-backup-cloud/images/cover-sauvegarde.png
+image_alt: "Couverture du guide Sauvegarde Home Assistant : backups locaux, Google Drive et cloud"
 date: 2026-01-18
 section: guides
 tags:
@@ -11,11 +12,16 @@ tags:
 <p class="forum-cta"><a href="https://forumdomotique.com/guides-tutoriels/home-assistant/sauvegarde-home-assistant-backup-cloud/">Lire et commenter sur Forum Domotique</a></p>
 
 
-<section class="carousel photo-carousel" data-carousel data-lightbox aria-roledescription="carrousel" aria-label="Photos de l’article (16)" tabindex="0">
+<section class="carousel photo-carousel" data-carousel data-lightbox aria-roledescription="carrousel" aria-label="Photos de l’article (17)" tabindex="0">
 <div class="carousel-track" data-track>
 <figure class="photo-slide" data-slide>
+  <a href="images/cover-sauvegarde.png" data-full="images/cover-sauvegarde.png" data-alt="Couverture — Sauvegarde Home Assistant : backups locaux, Google Drive et cloud" aria-label="Agrandir la couverture du guide">
+    <img src="images/cover-sauvegarde.png" alt="Couverture — Sauvegarde Home Assistant : backups locaux, Google Drive et cloud" loading="eager" width="1200" height="630">
+  </a>
+</figure>
+<figure class="photo-slide" data-slide>
   <a href="images/Capturedcrandu2026-01-0616-56-27.png" data-full="images/Capturedcrandu2026-01-0616-56-27.png" data-alt="Photo 1 — Sauvegarde Home Assistant : backups locaux, Google Drive et cloud (guide complet)" aria-label="Agrandir la photo 1 : Photo 1 — Sauvegarde Home Assistant : backups locaux, Google Drive et cloud (guide complet)">
-    <img src="images/Capturedcrandu2026-01-0616-56-27.png" alt="Photo 1 — Sauvegarde Home Assistant : backups locaux, Google Drive et cloud (guide complet)" loading="eager">
+    <img src="images/Capturedcrandu2026-01-0616-56-27.png" alt="Photo 1 — Sauvegarde Home Assistant : backups locaux, Google Drive et cloud (guide complet)" loading="lazy">
   </a>
 </figure>
 <figure class="photo-slide" data-slide>

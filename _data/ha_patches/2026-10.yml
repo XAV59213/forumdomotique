@@ -1,0 +1,70 @@
+- v: "2026.10.1"
+  date: 2026-10-10
+  date_fr: "10 octobre 2026"
+  fixes: 69
+  summary: "La plus grosse corrective d’octobre : beaucoup d’intégrations ne passaient pas correctement en « indisponible » après un échec de mise à jour, plusieurs plantages sont corrigés (Hue, Spotify) et le thermostat générique réagit de nouveau à temps."
+  notable:
+    - i: "Thermostat générique"
+      t: "Il ne revérifie plus trop tard la température après une durée minimale de cycle ou une période de repos."
+    - i: "Disponibilité"
+      t: "Arve, EZVIZ, 17TRACK, Starlink, Subaru, SUPLA, TOLO, Xbox et Yardian passent bien en indisponible quand une mise à jour échoue."
+    - i: "Automatisations et traces"
+      t: "Les traces sont enregistrées pour les automatisations sans identifiant."
+    - i: "Flux vidéo"
+      t: "Retour du TLS non vérifié pour les sources de flux, avec une nouvelle option verify_ssl ; flux RTSPS UniFi Protect de nouveau lisibles."
+    - i: "FRITZ!SmartHome"
+      t: "Découverte SSDP corrigée et plus de valeurs « 0 » pour les mesures de puissance manquantes."
+    - i: "Philips Hue, Spotify, Matter"
+      t: "Plantage si le pont ne fournit pas de température de couleur, plantage en lecture sans élément, liste des utilisateurs de serrure qui s’arrêtait trop tôt."
+    - i: "OmniLogic"
+      t: "Suppression de l’intervalle d’interrogation configurable (changement non rétrocompatible)."
+    - i: "WLED, TRÅDFRI, SolarEdge Modbus, ViCare, Immich"
+      t: "Modes de couleur après changement de LED, mode HS conservé, délai de lecture de 30 s, nouvelle tentative sur erreur passagère, images retouchées affichées comme sur le serveur."
+- v: "2026.10.2"
+  date: 2026-10-16
+  date_fr: "16 octobre 2026"
+  fixes: 50
+  summary: "Une corrective tournée vers la sécurité des comptes et la confidentialité des diagnostics, avec aussi un assouplissement des conditions d’état introduites en breaking change dans la 2026.10.0."
+  security:
+    - "Les jetons de rafraîchissement d’un utilisateur sont révoqués quand on le supprime."
+    - "La commande de création d’identifiants protège le propriétaire et les identifiants existants."
+    - "Diagnostics expurgés : coordonnées des plannings (Teslemetry, Tesla Fleet), identifiants et hôte (SFR Box), données identifiantes (NRGkick)."
+  notable:
+    - i: "Conditions d’état"
+      t: "Une liste d’états est de nouveau acceptée avec une durée (for), ce que la 2026.10.0 refusait."
+    - i: "MQTT"
+      t: "Les déclencheurs d’appareils et les tags ne se déclenchent plus deux fois après un rechargement."
+    - i: "Broadlink"
+      t: "Passage à la bibliothèque broadlink-async."
+    - i: "KNX"
+      t: "L’initialisation du stockage SQLite des télégrammes n’est plus interrompue par un délai."
+    - i: "Groupes"
+      t: "Plus de plantage d’un capteur de groupe sans membre."
+    - i: "Modbus, FRITZ!Box Tools, Ecovacs, SolarEdge, Renault"
+      t: "Rechargement sans YAML, découverte et configuration corrigées, identifiants conservés pour éviter la vérification d’appareil, statistiques des modules, détails des véhicules."
+- v: "2026.10.3"
+  date: 2026-10-23
+  date_fr: "23 octobre 2026"
+  fixes: 27
+  summary: "Une corrective plus légère : correctifs FRITZ!SmartHome, KNX, EnergyZero, Home Connect et SMTP, et une contrainte de bibliothèque pour réparer EDL21."
+  notable:
+    - i: "FRITZ!SmartHome"
+      t: "Les capteurs « verrouillage » et « verrouillage de l’appareil » étaient inversés."
+    - i: "KNX"
+      t: "Le délai de démarrage est suspendu pendant l’initialisation du stockage des télégrammes."
+    - i: "Home Connect"
+      t: "L’écoute des événements ne s’arrête plus en cas d’erreur de rafraîchissement du jeton."
+    - i: "EnergyZero"
+      t: "Les prix du gaz manquants avant 6 h sont récupérés."
+    - i: "SMTP, UniFi Access, Proxmox VE, Synology DSM, EDL21"
+      t: "Contexte SSL dédié, événements d’accès en double, détection de version, erreurs des boutons, incompatibilité de bibliothèque corrigée."
+- v: "2026.10.4"
+  date: 2026-10-24
+  date_fr: "24 octobre 2026"
+  fixes: 2
+  summary: "Corrective express publiée le lendemain de la 2026.10.3, avec deux changements seulement."
+  notable:
+    - i: "Connexions HTTP"
+      t: "Les limites de taille des en-têtes du client aiohttp passent à 64 Kio, pour éviter des échecs avec certains services."
+    - i: "Lutron Caséta"
+      t: "Mise à jour de la bibliothèque pylutron-caseta."

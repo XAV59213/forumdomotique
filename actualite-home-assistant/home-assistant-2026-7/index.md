@@ -126,10 +126,9 @@ Environ **un tiers des installations** tournent sur Raspberry Pi. Une entité de
 
 ## 🩹 Versions correctives
 
-- **2026.7.1** (3 juillet) : 19 correctifs.
-- **2026.7.2** (10 juillet) : 59 correctifs.
-- **2026.7.3** (21 juillet) : 26 correctifs.
-- **2026.7.4** (24 juillet) : 7 correctifs.
+Après chaque version mensuelle, Home Assistant publie des versions correctives (en principe une par semaine, le vendredi) qui ne contiennent que des corrections de bugs et des mises à jour de bibliothèques. Voici le détail de celles de la **2026.7**, d’après la liste officielle des changements. Le nombre indiqué compte tous les changements listés, mises à jour de bibliothèques comprises.
+
+{% include ha-patches.html key="2026-7" %}
 
 ## 💾 Conseil de mise à jour
 

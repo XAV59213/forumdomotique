@@ -1,0 +1,45 @@
+- v: "2026.11.1"
+  date: 2026-11-09
+  date_fr: "9 novembre 2026"
+  fixes: 59
+  summary: "Première corrective de la version record : des ajustements du nouveau Marketplace, des correctifs HomeKit, Shelly, MQTT et La Marzocco, et un message plus clair pour les connexions ChirpStack/LoRaWAN."
+  security:
+    - "ONVIF : l’identifiant du webhook des événements est désormais aléatoire."
+  notable:
+    - i: "Marketplace"
+      t: "Le README d’un projet est rechargé après installation ou désinstallation, et les erreurs de limite de requêtes sont journalisées sans trace d’erreur complète."
+    - i: "HomeKit"
+      t: "Les événements de mouvement des caméras arrivent enfin jusqu’à HomeKit."
+    - i: "Shelly"
+      t: "Nouvelles entités ajoutées aux appareils RPC endormis à leur réveil ; volet bien « fermé » en position 0."
+    - i: "MQTT"
+      t: "L’encodage des messages est validé, et un encodage inconnu est géré à la réception."
+    - i: "LoRaWAN / ChirpStack"
+      t: "Explication claire des échecs de connexion liés à HTTP/2 et aux certificats."
+    - i: "ESPHome"
+      t: "Action « dégivrage » des climatiseurs prise en compte ; URL du proxy série corrigée."
+    - i: "Kostal Plenticore, Tomorrow.io, NUT, SolarEdge, myUplink"
+      t: "Fonctionnement après mise à jour du firmware, interrogation qui ne démarrait jamais, alarmes de l’onduleur, suppression d’appareils sans clé API, retour des capteurs de journal d’énergie."
+- v: "2026.11.2"
+  date: 2026-11-16
+  date_fr: "16 novembre 2026"
+  fixes: 48
+  summary: "Une corrective qui comporte une mise à jour de sécurité de bibliothèque, plusieurs masquages de données sensibles et des correctifs MQTT, Hue, webOS, Reolink et FRITZ!Box. C’est la version stable la plus récente au 20 novembre 2026."
+  security:
+    - "Mise à jour de sécurité de la bibliothèque aioftp (0.28.3), utilisée par l’intégration Yi."
+    - "Mot de passe Solar-Log masqué dans les diagnostics ; identifiants de compte Alexa Devices masqués ; valeurs de configuration plus journalisées quand le schéma est vide."
+  notable:
+    - i: "MQTT"
+      t: "Fin d’une boucle de rechargement causée par un unique_id en double d’une entité désactivée ; désabonnement corrigé après rechargement ; via_device pointant sur lui-même ignoré."
+    - i: "Philips Hue"
+      t: "La migration n’échoue plus pour les appareils Zigbee multicanaux."
+    - i: "LG webOS"
+      t: "La TV ne passe plus en indisponible quand elle réinitialise la connexion."
+    - i: "Reolink"
+      t: "Lecture des enregistrements corrigée pour les NVR et Hubs."
+    - i: "FRITZ!Box Tools"
+      t: "Lecture de la version de FRITZ!OS et diagnostics des anciens FRITZ!Repeater corrigés."
+    - i: "Texte (input_text)"
+      t: "L’action set_value refuse les valeurs qui ne respectent pas le motif défini."
+    - i: "Axis, ONVIF, Alexa Devices, Spotify, ViCare"
+      t: "Authentification basique et arrêt des flux, nouvelles tentatives d’URI, commande vocale rejouée après rechargement, prise en charge du volume respectée, écarts de température en kelvins."

@@ -175,8 +175,9 @@ La liste est longue (version record oblige). Les plus importants :
 
 ## 🩹 Versions correctives
 
-- **2026.11.1** (9 novembre) : 59 correctifs.
-- **2026.11.2** (16 novembre) : 48 correctifs. C’est la version stable la plus récente au moment d’écrire ces lignes (20 novembre 2026).
+Après chaque version mensuelle, Home Assistant publie des versions correctives (en principe une par semaine, le vendredi) qui ne contiennent que des corrections de bugs et des mises à jour de bibliothèques. Voici le détail de celles de la **2026.11**, d’après la liste officielle des changements. Le nombre indiqué compte tous les changements listés, mises à jour de bibliothèques comprises.
+
+{% include ha-patches.html key="2026-11" %}
 
 ## 💾 Conseil de mise à jour
 

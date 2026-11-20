@@ -1,0 +1,32 @@
+{% comment %} Versions correctives d’une version mensuelle. Données : _data/ha_patches/<AAAA-N>.yml. Paramètre : key="2026-4" {% endcomment %}
+{% assign patches = site.data.ha_patches[include.key] %}
+{% if patches and patches.size > 0 %}
+<div class="ha-patches">
+{% for p in patches %}
+<details class="ha-patch" id="patch-{{ p.v | replace: '.', '-' }}"{% if forloop.first %} open{% endif %}>
+  <summary>
+    <span class="ha-patch-v">{{ p.v }}</span>
+    <span class="ha-patch-meta">{{ p.date_fr }} · {{ p.fixes }} changement{% if p.fixes > 1 %}s{% endif %}</span>
+    {% if p.security %}<span class="ha-patch-badge">🔒 Sécurité</span>{% endif %}
+  </summary>
+  <div class="ha-patch-body">
+    <p>{{ p.summary }}</p>
+    {% if p.security %}
+    <div class="ha-patch-security">
+      <strong>🔒 Sécurité et confidentialité</strong>
+      <ul>{% for s in p.security %}<li>{{ s }}</li>{% endfor %}</ul>
+    </div>
+    {% endif %}
+    <p class="ha-patch-h">Correctifs notables</p>
+    <ul class="ha-patch-list">
+      {% for n in p.notable %}<li><strong>{{ n.i }}</strong> : {{ n.t }}</li>{% endfor %}
+    </ul>
+    <p class="ha-patch-links">Sources officielles : <a href="{{ page.release_url }}" target="_blank" rel="noopener">notes de version (section « Patch releases »)</a> · <a href="https://github.com/home-assistant/core/releases/tag/{{ p.v }}" target="_blank" rel="noopener">liste complète des changements {{ p.v }} sur GitHub</a></p>
+  </div>
+</details>
+{% endfor %}
+</div>
+<script>
+(function(){if(window.matchMedia&&window.matchMedia('(min-width: 701px)').matches){document.querySelectorAll('.ha-patch').forEach(function(d){d.open=true;});}})();
+</script>
+{% endif %}

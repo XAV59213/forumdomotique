@@ -754,3 +754,24 @@ $ha-navy: #0b3a57;
   .ha-hero .hero-caption { padding-left: 4.4rem; }
 }
 .ha-cards .carousel-nav { top: 2.6rem; transform: none; }
+
+/* Versions correctives */
+.ha-patches { margin: 0.6rem 0 1.6rem; }
+.ha-patch { border: 1px solid #d6e9f5; border-radius: 10px; margin: 0 0 0.8rem; background: #fff; }
+.ha-patch > summary { cursor: pointer; padding: 0.75rem 1rem; display: flex; flex-wrap: wrap; align-items: center; gap: 0.35rem 0.8rem; list-style: none; background: #f3f9fd; border-radius: 10px; }
+.ha-patch[open] > summary { border-bottom: 1px solid #d6e9f5; border-radius: 10px 10px 0 0; }
+.ha-patch > summary::-webkit-details-marker { display: none; }
+.ha-patch > summary::before { content: "▸"; color: #0288d1; font-weight: 700; transition: transform .15s; }
+.ha-patch[open] > summary::before { transform: rotate(90deg); }
+.ha-patch-v { font-weight: 800; color: #0d3550; font-size: 1.08rem; }
+.ha-patch-meta { color: #4f6473; font-size: 0.93rem; }
+.ha-patch-badge { margin-left: auto; background: #fdecea; color: #b3261e; font-size: 0.8rem; font-weight: 700; padding: 0.15rem 0.55rem; border-radius: 999px; }
+.ha-patch-body { padding: 0.4rem 1rem 0.6rem; }
+.ha-patch-body p { margin: 0.5rem 0; }
+.ha-patch-h { font-weight: 700; color: #0d3550; margin-top: 0.8rem !important; }
+.ha-patch-list { margin: 0.2rem 0 0.6rem; padding-left: 1.2rem; }
+.ha-patch-list li { margin: 0.25rem 0; }
+.ha-patch-security { background: #fff6f5; border-left: 4px solid #e53935; padding: 0.5rem 0.8rem; border-radius: 0 8px 8px 0; margin: 0.6rem 0; }
+.ha-patch-security ul { margin: 0.3rem 0 0; padding-left: 1.2rem; }
+.ha-patch-links { font-size: 0.88rem; color: #4f6473; }
+@media (max-width: 700px) { .ha-patch-badge { margin-left: 0; } }

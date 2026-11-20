@@ -127,10 +127,9 @@ Et aussi : **AiDot**, **CentriConnect/MyPropane**, **Cielo Home**, **Guntamatic*
 
 ## 🩹 Versions correctives
 
-- **2026.6.1** (5 juin) : 24 correctifs.
-- **2026.6.2** (9 juin) : 25 correctifs.
-- **2026.6.3** (12 juin) : 26 correctifs.
-- **2026.6.4** (19 juin) : 63 correctifs.
+Après chaque version mensuelle, Home Assistant publie des versions correctives (en principe une par semaine, le vendredi) qui ne contiennent que des corrections de bugs et des mises à jour de bibliothèques. Voici le détail de celles de la **2026.6**, d’après la liste officielle des changements. Le nombre indiqué compte tous les changements listés, mises à jour de bibliothèques comprises.
+
+{% include ha-patches.html key="2026-6" %}
 
 ## 💾 Conseil de mise à jour
 

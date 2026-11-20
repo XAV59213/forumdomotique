@@ -134,10 +134,9 @@ Nouveaux blocs aussi pour les **mises à jour**, les **lecteurs multimédias** (
 
 ## 🩹 Versions correctives
 
-- **2026.5.1** (8 mai) : 26 correctifs.
-- **2026.5.2** (15 mai) : 42 correctifs.
-- **2026.5.3** (19 mai) : 38 correctifs.
-- **2026.5.4** (22 mai) : 26 correctifs.
+Après chaque version mensuelle, Home Assistant publie des versions correctives (en principe une par semaine, le vendredi) qui ne contiennent que des corrections de bugs et des mises à jour de bibliothèques. Voici le détail de celles de la **2026.5**, d’après la liste officielle des changements. Le nombre indiqué compte tous les changements listés, mises à jour de bibliothèques comprises.
+
+{% include ha-patches.html key="2026-5" %}
 
 ## 💾 Conseil de mise à jour
 

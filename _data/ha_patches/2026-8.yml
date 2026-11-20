@@ -1,0 +1,46 @@
+- v: "2026.8.1"
+  date: 2026-08-07
+  date_fr: "7 août 2026"
+  fixes: 16
+  summary: "Première corrective d’août, courte, avec un correctif Matter pour les volets et des ajustements de rattachement d’appareils."
+  notable:
+    - i: "Matter"
+      t: "Les écritures d’état des volets sont regroupées pour éviter les états intermédiaires incohérents."
+    - i: "MQTT et ViCare"
+      t: "Les appareils indiquent correctement l’appareil par lequel ils sont reliés (via_device)."
+    - i: "SmartThings"
+      t: "Plage de consigne de refroidissement correcte pour les climatiseurs."
+    - i: "Seerr (Overseerr), Enphase Envoy, Picnic, API REST"
+      t: "Enregistrement du webhook, bibliothèques mises à jour, appels d’actions mieux suivis."
+- v: "2026.8.2"
+  date: 2026-08-14
+  date_fr: "14 août 2026"
+  fixes: 35
+  summary: "Des correctifs variés : Matter (appareils derrière un pont), SMTP, Supervisor, Wyoming, Homematic IP et le panneau KNX."
+  notable:
+    - i: "Matter"
+      t: "Les appareils composés derrière un pont Matter ne perdent plus leur rattachement « via »."
+    - i: "Homematic IP Cloud"
+      t: "Un refus d’activation de l’alarme est désormais signalé."
+    - i: "KNX"
+      t: "Correction du panneau KNX (option handle_safe_area pour les panneaux personnalisés)."
+    - i: "SMTP"
+      t: "Condition de concurrence corrigée et anciennes actions notify déchargées proprement."
+    - i: "Supervisor, Wyoming, Tado, Reolink, Mikrotik"
+      t: "Entrée de configuration créée dès l’installation, événements d’erreur gérés, intervalle adaptatif, import de l’heure, capteurs corrigés."
+- v: "2026.8.3"
+  date: 2026-08-21
+  date_fr: "21 août 2026"
+  fixes: 25
+  summary: "Dernière corrective d’août, avec un nettoyage des informations d’appareils par défaut dans plusieurs intégrations et des correctifs pour Sonos, Shelly et Assist."
+  notable:
+    - i: "Assist"
+      t: "Le cache des listes de la conversation est invalidé quand les appareils changent (noms et pièces à jour pour la voix)."
+    - i: "Sonos"
+      t: "Pochette et bouton lecture à l’ouverture d’un album de la bibliothèque musicale."
+    - i: "Shelly"
+      t: "Erreurs corrigées pour le Wall Display et le LinkedGo ST802 en mode plancher chauffant."
+    - i: "go2rtc"
+      t: "Seules les sessions de la caméra en échec sont supprimées."
+    - i: "Signal Messenger, Vizio, Overkiz, Enphase Envoy"
+      t: "Notifications à soi-même, plantage du volume, annulation d’une mise à jour d’hôte à la redécouverte, bibliothèque pyenphase 4.0."

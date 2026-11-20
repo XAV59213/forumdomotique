@@ -1,0 +1,69 @@
+- v: "2026.9.1"
+  date: 2026-09-05
+  date_fr: "5 septembre 2026"
+  fixes: 27
+  summary: "Première corrective de septembre, avec deux correctifs importants pour les sauvegardes (réception en streaming et risque de blocage) et un avertissement plus clair avant la suppression d’une App."
+  notable:
+    - i: "Sauvegardes"
+      t: "Réception des sauvegardes en streaming corrigée, et blocage potentiel évité lors de la réception d’un fichier."
+    - i: "Supervisor / Apps"
+      t: "Les réparations avertissent que supprimer une App efface aussi ses données."
+    - i: "Registre des appareils"
+      t: "Les appareils supprimés devenus injoignables sont purgés au chargement, et la recherche d’orphelins est plus rapide."
+    - i: "UniFi Protect"
+      t: "La surcharge d’hôte est respectée en mode public uniquement."
+    - i: "SMTP, Daikin, Hot Spring, motionEye, TRÅDFRI"
+      t: "Images jointes correctement, correctifs urgents de bibliothèques, adaptateur réseau SNA refusé, noms d’utilisateur vides acceptés, appareils sans version de firmware gérés."
+- v: "2026.9.2"
+  date: 2026-09-11
+  date_fr: "11 septembre 2026"
+  fixes: 46
+  summary: "Une corrective riche : identifiants masqués dans les journaux go2rtc, OAuth2 plus sûr pour Weheat, et de nombreux correctifs (calendrier distant, Tesla Fleet, Vizio, ESPHome, UniFi)."
+  security:
+    - "go2rtc : les identifiants sont masqués dans les journaux du serveur."
+    - "Weheat : l’autorisation OAuth2 utilise PKCE."
+  notable:
+    - i: "ESPHome"
+      t: "La configuration n’échoue plus si le Supervisor n’est pas encore prêt."
+    - i: "Calendrier distant"
+      t: "Délai HTTP allongé, messages d’erreur plus clairs et valeurs du formulaire conservées en cas d’erreur."
+    - i: "Tesla Fleet"
+      t: "Premier rafraîchissement borné par un délai et maintien d’éveil séparé par véhicule."
+    - i: "Prédiction d’usage"
+      t: "Les événements sont lus en flux au lieu d’être chargés en mémoire."
+    - i: "Vizio, Nest, LG webOS, UniFi, Liste locale"
+      t: "Barres de son qui demandaient une authentification, fonctions climat recalculées, source effacée hors liste, latence WAN inconnue si un moniteur ne répond pas, fichiers ICS mal formés réparés."
+- v: "2026.9.3"
+  date: 2026-09-18
+  date_fr: "18 septembre 2026"
+  fixes: 25
+  summary: "Une corrective qui renforce les sauvegardes (chiffrement de supervisor.tar lors des réécritures), la sécurité de l’onboarding et plusieurs intégrations (Matter, Nest, Spotify)."
+  security:
+    - "Sauvegardes : le fichier supervisor.tar est chiffré et déchiffré lors des réécritures de sauvegardes."
+    - "Onboarding : le nom d’utilisateur est validé avant la création du premier compte."
+    - "AirVisual : la clé API est masquée dans les journaux de débogage."
+  notable:
+    - i: "Matter"
+      t: "Les volets Shelly en Matter sont créés même quand l’attribut d’inclinaison est vide."
+    - i: "Nest"
+      t: "L’allumage du thermostat est idempotent (pas d’effet indésirable en cas de double commande)."
+    - i: "EnergyZero"
+      t: "Régression du prix du marché corrigée."
+    - i: "Private BLE Device"
+      t: "La clé IRK est désormais obligatoire dans l’assistant de configuration."
+    - i: "Spotify, Bond, Airthings BLE, IMAP, Alexa"
+      t: "Plantage à la réauthentification, hôte conservé, appareils en double, option de template réinitialisée, état de sonnette."
+- v: "2026.9.4"
+  date: 2026-09-27
+  date_fr: "27 septembre 2026"
+  fixes: 14
+  summary: "Petite corrective de fin de mois, avec un ajustement du filtre de sécurité HTTP et quelques correctifs (Tuya, Homematic IP, Todoist)."
+  security:
+    - "HTTP : le coût d’analyse du filtre de sécurité tient compte de la longueur de la cible de la requête."
+  notable:
+    - i: "Tuya"
+      t: "Les ventilateurs s’éteignent quand la vitesse est réglée à 0 %."
+    - i: "Homematic IP Cloud"
+      t: "L’assistant ne passe plus à l’étape suivante si le code PIN est refusé."
+    - i: "Todoist, ISEO Argo BLE, OpenEVSE, Xbox"
+      t: "Durée des événements à heure fixe, découverte d’appareils sans rapport, numéro de série manquant, statistiques de succès des amis."

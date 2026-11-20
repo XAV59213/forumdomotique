@@ -116,17 +116,16 @@ Home Assistant peut servir de **serveur MCP** (Model Context Protocol) pour que 
 ## ⚠️ Breaking changes à surveiller
 
 - **Authentification** : le **mode « legacy »** du fournisseur d’authentification Home Assistant est supprimé.
-- **Conditions d’état** : combiner `for` avec un attribut, une liste d’états ou l’état d’une autre entité **échoue désormais à la validation**.
+- **Conditions d’état** : combiner `for` avec un attribut, une liste d’états ou l’état d’une autre entité **échoue désormais à la validation**. La **2026.10.2** a ensuite de nouveau autorisé une **liste d’états** avec une durée.
 - **MQTT** : `mqtt.publish` et `mqtt.dump` exigent un **compte administrateur** (comme `synology_dsm.reboot` et `synology_dsm.shutdown`).
 - **Telegram bot** : `directory_path` de `download_file` doit figurer dans `allowlist_external_dirs`.
 - **Proxmox VE** : l’uptime devient un horodatage ; **Mealie** 3.2 minimum ; **easyEnergy**, **EnergyZero**, **EnergyFlip**, **OpenEVSE**, **IoTaWatt**, **Sofar**, **UniFi Network**, **Xbox** : ajustements.
 
 ## 🩹 Versions correctives
 
-- **2026.10.1** (10 octobre) : 69 correctifs.
-- **2026.10.2** (16 octobre) : 50 correctifs.
-- **2026.10.3** (23 octobre) : 27 correctifs.
-- **2026.10.4** (24 octobre) : 2 correctifs rapides (limites d’en-têtes HTTP relevées, Lutron Caséta).
+Après chaque version mensuelle, Home Assistant publie des versions correctives (en principe une par semaine, le vendredi) qui ne contiennent que des corrections de bugs et des mises à jour de bibliothèques. Voici le détail de celles de la **2026.10**, d’après la liste officielle des changements. Le nombre indiqué compte tous les changements listés, mises à jour de bibliothèques comprises.
+
+{% include ha-patches.html key="2026-10" %}
 
 ## 💾 Conseil de mise à jour
 

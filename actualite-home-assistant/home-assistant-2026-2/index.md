@@ -139,9 +139,9 @@ Nouvelle carte qui affiche, sous forme de barre horizontale proportionnelle, **l
 
 ## 🩹 Versions correctives
 
-- **2026.2.1** (6 février) : 20 correctifs.
-- **2026.2.2** (13 février) : 42 correctifs.
-- **2026.2.3** (20 février) : 20 correctifs.
+Après chaque version mensuelle, Home Assistant publie des versions correctives (en principe une par semaine, le vendredi) qui ne contiennent que des corrections de bugs et des mises à jour de bibliothèques. Voici le détail de celles de la **2026.2**, d’après la liste officielle des changements. Le nombre indiqué compte tous les changements listés, mises à jour de bibliothèques comprises.
+
+{% include ha-patches.html key="2026-2" %}
 
 ## 💾 Conseil de mise à jour
 

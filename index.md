@@ -62,7 +62,7 @@ Cette vitrine rassemble ses publications pour les lire confortablement, et renvo
   </div>
 </article>
 <article class="hero-slide" data-slide>
-  <img src="{{ '/sujets/194-integration-ha-jour-ferie-capteur-de-jours-feries/images/Capturedcrandu2025-06-0809-22-23.png' | relative_url }}" alt="Capteur Jour Férié affiché dans Home Assistant" width="1200" height="675" loading="eager">
+  <img src="{{ '/sujets/194-integration-ha-jour-ferie-capteur-de-jours-feries/images/cover-jour-ferie.png' | relative_url }}" alt="Couverture de l’intégration Jour Férié pour Home Assistant" width="1200" height="630" loading="eager">
   <div class="hero-caption">
     <div class="tag">HACS officiel</div>
     <h2><a href="sujets/194-integration-ha-jour-ferie-capteur-de-jours-feries/messages.html">Jour Férié</a></h2>

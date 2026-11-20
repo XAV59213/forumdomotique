@@ -126,9 +126,9 @@ S’y ajoute l’intégration virtuelle **Levoit** (gérée par VeSync). **Hikvi
 
 ## 🩹 Versions correctives
 
-- **2026.1.1** (12 janvier) : 37 correctifs.
-- **2026.1.2** (16 janvier) : 17 correctifs, dont deux failles XSS d’ampleur modérée (carte « Map » et carte d’historique, CVE-2026-33044 et CVE-2026-33045), divulguées plus tard dans les notes de la 2026.4.
-- **2026.1.3** (23 janvier) : 17 correctifs.
+Après chaque version mensuelle, Home Assistant publie des versions correctives (en principe une par semaine, le vendredi) qui ne contiennent que des corrections de bugs et des mises à jour de bibliothèques. Voici le détail de celles de la **2026.1**, d’après la liste officielle des changements. Le nombre indiqué compte tous les changements listés, mises à jour de bibliothèques comprises.
+
+{% include ha-patches.html key="2026-1" %}
 
 ## 💾 Conseil de mise à jour
 

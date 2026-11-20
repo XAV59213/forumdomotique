@@ -1,0 +1,72 @@
+- v: "2026.5.1"
+  date: 2026-05-08
+  date_fr: "8 mai 2026"
+  fixes: 26
+  summary: "Une première corrective largement consacrée à Overkiz (Somfy TaHoma et compatibles) : l’état ouvert/fermé et les commandes de nombreux volets, portails, pergolas et stores vénitiens sont corrigés. Elle répare aussi un plantage de la découverte Z-Wave."
+  security:
+    - "Axis : la vérification du certificat de la connexion WebSocket est corrigée (bibliothèque axis v70)."
+  notable:
+    - i: "Overkiz (Somfy TaHoma)"
+      t: "État « fermé » corrigé pour portes de garage et portails dynamiques, inclinaison des stores vénitiens (y compris RTS), commandes des pergolas bioclimatiques, unités des capteurs."
+    - i: "Z-Wave"
+      t: "La découverte ne plante plus sur un nœud dont la version de firmware est inconnue."
+    - i: "WiZ"
+      t: "Délai dépassé de l’assistant de configuration corrigé, et capteur wfsens reconnu comme source de présence."
+    - i: "Listes de tâches"
+      t: "Les déclencheurs « todo » acceptent des options."
+    - i: "Supervisor, FRITZ!Box Tools, IntelliFire"
+      t: "Erreur d’authentification sur le socket Unix, données mal formées à la configuration, reprise après échec d’installation."
+- v: "2026.5.2"
+  date: 2026-05-15
+  date_fr: "15 mai 2026"
+  fixes: 42
+  summary: "Une corrective riche, avec des correctifs MQTT, Homematic IP (plantage après la migration vers la 2026.5.0), Matter et Overkiz, et un changement non rétrocompatible pour Duco."
+  notable:
+    - i: "Homematic IP Cloud"
+      t: "Plantage à la configuration après la migration vers la 2026.5.0 corrigé ; polarité de l’état de serrure HmIP-FLC corrigée."
+    - i: "MQTT"
+      t: "La découverte d’appareils utilise bien les options QoS et d’encodage partagées ; segments conservés lors d’une nouvelle configuration ; réglages de sous-entrée correctement rappelés."
+    - i: "Matter"
+      t: "Les consignes décimales des thermostats sont correctement arrondies."
+    - i: "Overkiz"
+      t: "L’API locale ne marque plus à tort les appareils comme indisponibles."
+    - i: "Duco"
+      t: "Passage à une nouvelle bibliothèque et suppression des capteurs de température (changement non rétrocompatible)."
+    - i: "Énergie"
+      t: "L’unité est appliquée au capteur de puissance combiné."
+    - i: "Alexa, Shelly, WebDAV, InfluxDB, ZBT-1/ZBT-2"
+      t: "Événements de sonnette en double, disponibilité du lecteur multimédia, délai WebDAV porté à 30 s, reconfiguration InfluxDB v1, identifiants basés sur le numéro de série."
+- v: "2026.5.3"
+  date: 2026-05-19
+  date_fr: "19 mai 2026"
+  fixes: 38
+  summary: "Une corrective sortie en milieu de semaine pour corriger plusieurs plantages, dont un bug sérieux : une condition template en notation courte dans un bloc « choose » pouvait faire planter toutes les automatisations. Elle accélère aussi le démarrage."
+  notable:
+    - i: "Automatisations"
+      t: "Les conditions template en notation courte dans un bloc « choose » ne font plus planter l’ensemble des automatisations ; plantage du déclencheur horaire avec entity_id sans décalage corrigé."
+    - i: "Démarrage"
+      t: "La synchronisation Google Assistant et les tentatives de connexion GoodWe ne bloquent plus le démarrage ; blocage possible au chargement des extensions de templates évité."
+    - i: "Téléinfo"
+      t: "La découverte USB est désactivée pour l’intégration Téléinfo (compteurs Linky)."
+    - i: "Compteur de services publics (Utility Meter)"
+      t: "La prochaine remise à zéro ne se décale plus quand on renomme l’entité ; classe d’état correcte."
+    - i: "Overkiz"
+      t: "Nouveaux correctifs pour portails, portes de garage 4T, pergolas, stores et écrans."
+    - i: "Alarmes, ZHA, CalDAV, Daikin"
+      t: "Alarme manuelle à la restauration et Verisure qui plantaient, URI sans port pour ZHA, identifiants des événements CalDAV, erreurs de connexion Daikin."
+- v: "2026.5.4"
+  date: 2026-05-22
+  date_fr: "22 mai 2026"
+  fixes: 26
+  summary: "Une série de correctifs de plantages dans des intégrations variées (Hue, SmartThings, Wyoming, Lutron Caséta, ZBT-2), et une correction pour ZHA."
+  notable:
+    - i: "ZHA"
+      t: "Les retours à une version mineure antérieure ne sont plus bloqués."
+    - i: "Philips Hue"
+      t: "Les déclencheurs d’appareils supprimés du pont ne provoquent plus de plantage."
+    - i: "Wyoming"
+      t: "Le satellite ne plante plus si la synthèse vocale n’est pas configurée."
+    - i: "OpenAI"
+      t: "Suppression des citations de recherche web aussi pour les modèles GPT-5.x."
+    - i: "SmartThings, PowerView, Lutron Caséta, ZBT-2, Shelly"
+      t: "Plantages corrigés (horodatage vide, position inconnue, capteur de batterie non pris en charge, page matériel), validation du type MIME des pochettes."

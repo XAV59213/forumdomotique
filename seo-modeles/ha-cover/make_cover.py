@@ -14,9 +14,7 @@ q = urllib.parse.urlencode({'v': v, 'm': month, 't': tagline, 'i': icons,
                             'cp': json.dumps([cp[n] for n in names])})
 url = 'file://' + os.path.join(here, 'cover.html') + '?' + q
 png = os.path.abspath(out)
-subprocess.run(['google-chrome', '--headless=new', '--no-sandbox', '--disable-gpu',
-                '--hide-scrollbars', '--force-device-scale-factor=1',
-                '--window-size=1200,630', '--virtual-time-budget=4000',
-                '--screenshot=' + png, url], check=True,
-               stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+# Capture via le protocole DevTools (shot.py) : plus fiable que --screenshot.
+subprocess.run([sys.executable, os.path.join(here, 'shot.py'), url, png, '1200', '630'],
+               check=True, stdout=subprocess.DEVNULL, timeout=120)
 print(png)

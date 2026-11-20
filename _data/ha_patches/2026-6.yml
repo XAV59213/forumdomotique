@@ -1,0 +1,68 @@
+- v: "2026.6.1"
+  date: 2026-06-05
+  date_fr: "5 juin 2026"
+  fixes: 24
+  summary: "Première corrective de juin : des correctifs pour les personnes et zones, MQTT, Bluetooth et SleepIQ, et une modification de l’authentification par jeton dans l’URL, annulée ensuite dans la 2026.6.3."
+  notable:
+    - i: "Personnes"
+      t: "Les zones d’une personne sont correctement propagées depuis un suivi situé dans la zone Maison."
+    - i: "Bluetooth"
+      t: "Traitement des annonces corrigé pour les scans actifs."
+    - i: "MQTT"
+      t: "Fichiers de certificats créés avant la migration de l’entrée ; templates de valeur corrigés pour ventilateurs et sirènes."
+    - i: "Caméras, lecteurs multimédias, images"
+      t: "Authentification par jeton dans l’URL unifiée pour ces vues (changement annulé dans la 2026.6.3)."
+    - i: "SleepIQ, Lyric, Mitsubishi Comfort, Portainer, Reolink"
+      t: "Avalanche d’erreurs 401, plantage de capteur, appareils ignorés, délai d’espace disque, plus d’informations de diagnostic."
+- v: "2026.6.2"
+  date: 2026-06-09
+  date_fr: "9 juin 2026"
+  fixes: 25
+  summary: "Une corrective qui fiabilise les proxys Bluetooth ESPHome et Shelly au démarrage, limite une fuite de ressources de la synthèse vocale et restreint les protocoles utilisables par les annonces Wyoming."
+  security:
+    - "Wyoming : seuls certains protocoles sont autorisés avec ffmpeg pour les annonces des satellites."
+  notable:
+    - i: "ESPHome et Shelly"
+      t: "Home Assistant attend la connexion des proxys Bluetooth au démarrage."
+    - i: "Assist / TTS"
+      t: "Fuite de flux de synthèse vocale atténuée dans le pipeline."
+    - i: "Matériel (SkyConnect, ZBT-2)"
+      t: "Migration des identifiants uniques corrigée."
+    - i: "MQTT"
+      t: "Le rechargement n’échoue plus quand l’entrée n’est pas configurée."
+    - i: "Reolink, Plugwise, Zinvolt, Gardena, Alexa Devices"
+      t: "Événements ONVIF des caméras sur batterie, températures indisponibles, appareils indisponibles et puissance max 2 kW, scan actif, gestion des erreurs."
+- v: "2026.6.3"
+  date: 2026-06-12
+  date_fr: "12 juin 2026"
+  fixes: 26
+  summary: "Corrective de maintenance : annulation du changement d’authentification par jeton de la 2026.6.1, et nombreuses petites corrections (MQTT, Thread, Hue, diagnostics)."
+  notable:
+    - i: "HTTP"
+      t: "Annulation de l’unification de l’authentification par jeton dans l’URL introduite en 2026.6.1."
+    - i: "MQTT"
+      t: "La découverte ne réactive plus des entités que vous aviez désactivées."
+    - i: "Thread"
+      t: "L’adresse du routeur de bordure préféré est rafraîchie après reconnexion d’OTBR."
+    - i: "Alexa Devices"
+      t: "Davantage de champs masqués dans les diagnostics (utile avant de les partager)."
+    - i: "Philips Hue, iCloud, Yale Smart Living, LG Netcast"
+      t: "Plantage du capteur de luminosité, icône des groupes, erreur au déchargement, bouton panique multi-hubs, chaînes en double."
+- v: "2026.6.4"
+  date: 2026-06-19
+  date_fr: "19 juin 2026"
+  fixes: 63
+  summary: "Grosse corrective, dont une bonne partie complète des traductions manquantes dans les assistants de configuration de nombreuses intégrations. Elle corrige aussi une fuite de clé API dans les journaux et une erreur d’échelle de Growatt."
+  security:
+    - "Immich : la clé API n’apparaît plus dans les journaux d’erreurs."
+  notable:
+    - i: "Growatt"
+      t: "La puissance de sortie totale n’est plus 1000 fois trop faible avec l’API V1."
+    - i: "Z-Wave"
+      t: "L’action zwave_js.set_credential ne valide plus le nombre d’emplacements (introduite avec la gestion des codes en 2026.6)."
+    - i: "Traductions"
+      t: "Champs de formulaires traduits ou corrigés dans plus d’une vingtaine d’intégrations (Hue, Tuya, Blink, Ecobee, Honeywell, calendrier local…)."
+    - i: "Sonos"
+      t: "Les favoris apparaissent dans la liste des sources."
+    - i: "InfluxDB, WebDAV, MQTT, Alexa Devices, Subaru"
+      t: "Double barre oblique dans l’URL, nouvelle tentative en cas d’erreur de connexion, option de découverte mal enregistrée, nettoyage des routines, prise en charge API_GEN_4."

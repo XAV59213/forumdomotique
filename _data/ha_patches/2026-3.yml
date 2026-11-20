@@ -1,0 +1,70 @@
+- v: "2026.3.1"
+  date: 2026-03-06
+  date_fr: "6 mars 2026"
+  fixes: 25
+  summary: "Première corrective de mars : des correctifs variés d’intégrations, un ajustement de la protection contre les redirections SSRF et un changement non rétrocompatible pour Spotify, lié à la mise à jour de sa bibliothèque."
+  security:
+    - "Ajustement de la protection contre les redirections SSRF : elle ne s’applique plus qu’aux connexions qui définissent une liste de protocoles autorisés."
+  notable:
+    - i: "Spotify"
+      t: "Bibliothèque spotifyaio mise à jour en 2.0.2, signalée comme non rétrocompatible : consultez les notes officielles si vous utilisez Spotify."
+    - i: "Template"
+      t: "La variable this fonctionne de nouveau dans les options des entités template."
+    - i: "KNX"
+      t: "Attributs par défaut corrigés pour les capteurs d’énergie et de volume."
+    - i: "Rain Bird"
+      t: "Les programmateurs mis à jour en firmware 2.x fonctionnent de nouveau."
+    - i: "SMLIGHT"
+      t: "Création correcte des boutons sur les adaptateurs à plus de deux radios."
+    - i: "Snapcast, PowerView, IntesisHome, Roborock, HomeWizard"
+      t: "Groupes Snapcast fiabilisés, classe manquante PowerView, température extérieure à 0,0 °C enfin remontée, URL de base transmise lors de la réauthentification, classe d’appareil du débit d’eau."
+- v: "2026.3.2"
+  date: 2026-03-16
+  date_fr: "16 mars 2026"
+  fixes: 32
+  summary: "Une corrective dominée par les mises à jour de bibliothèques (19 sur 32), avec des correctifs utiles pour les volets Z-Wave, MQTT, la restauration d’état au démarrage et la nouvelle cartographie par pièce des aspirateurs."
+  notable:
+    - i: "Z-Wave"
+      t: "L’état des anciens volets basés sur Multilevel Switch se met à jour correctement."
+    - i: "Restauration d’état"
+      t: "Le redémarrage n’échoue plus si les données supplémentaires d’une entité sont corrompues."
+    - i: "Aspirateurs"
+      t: "Le sélecteur de pièces permet de réordonner les pièces."
+    - i: "MQTT"
+      t: "Suivi d’appareils : les surcharges via attributs JSON sont correctement réinitialisées."
+    - i: "FRITZ!Box, Alexa Devices, Vodafone Station, Portainer"
+      t: "État des interrupteurs Wi-Fi et « Ne pas déranger », commande des interrupteurs, option VERIFY_SSL qui était forcée."
+    - i: "August / Yale"
+      t: "Meilleure gestion des erreurs de jetons OAuth."
+- v: "2026.3.3"
+  date: 2026-03-20
+  date_fr: "20 mars 2026"
+  fixes: 25
+  summary: "Des corrections ciblées pour les sauvegardes chiffrées, Matter, Z-Wave, Proxmox et les FRITZ!Box, plus plusieurs petits bugs d’intégrations."
+  notable:
+    - i: "Sauvegardes"
+      t: "Une erreur était interceptée par le mauvais gestionnaire lors du chiffrement/déchiffrement d’une sauvegarde."
+    - i: "Matter"
+      t: "Détection des mises à jour de firmware corrigée quand les numéros de version sont identiques."
+    - i: "Z-Wave"
+      t: "Les volets Multilevel Switch v1 à v3 n’utilisent plus d’états « en mouvement » peu fiables ; vitesses de ventilateur corrigées pour le GE/Jasco ZWA4013."
+    - i: "Proxmox VE"
+      t: "Actions de redémarrage corrigées et vérification des permissions améliorée."
+    - i: "Tibber"
+      t: "Rafraîchissement du jeton corrigé."
+    - i: "FRITZ!Box Tools, SMLIGHT, Hikvision, Hive, LG Soundbar"
+      t: "Suivi d’appareils pendant la configuration, boutons des SLZB-MRxU, événements filtrés, bug d’authentification Hive, état et piste en cours LG."
+- v: "2026.3.4"
+  date: 2026-03-24
+  date_fr: "24 mars 2026"
+  fixes: 15
+  summary: "Petite corrective de fin de mois, essentiellement des mises à jour de bibliothèques, dont une qui répare TP-Link Omada après un changement de son API."
+  notable:
+    - i: "TP-Link Omada"
+      t: "Bibliothèque mise à jour pour suivre un changement non rétrocompatible de l’API Omada."
+    - i: "Template"
+      t: "Validation correcte des scripts dans les entités template."
+    - i: "FRITZ!Box Tools"
+      t: "Rechargement fiabilisé en cas de problème de connexion."
+    - i: "Z-Wave"
+      t: "Vitesses de ventilateur corrigées pour le GE/Jasco Enbrighten 55258 / ZW4002."

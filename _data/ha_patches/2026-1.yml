@@ -1,0 +1,56 @@
+- v: "2026.1.1"
+  date: 2026-01-12
+  date_fr: "12 janvier 2026"
+  fixes: 37
+  summary: "Première série de corrections après la sortie de la 2026.1 : beaucoup de petits bugs d’intégrations (Tesla, Fritz!Box, Z-Wave, Velux…) et la correction des sélecteurs des nouveaux déclencheurs « par usage » de l’éditeur d’automatisations. Près de la moitié des changements sont des mises à jour de bibliothèques."
+  notable:
+    - i: "Automatisations"
+      t: "Correction des sélecteurs des déclencheurs pour les climatiseurs, lumières et humidificateurs, utilisés par les nouveaux déclencheurs de la 2026.1."
+    - i: "Z-Wave"
+      t: "Ne crée plus de capteur binaire de notification pour l’état « idle » (inactif), qui générait des entités inutiles."
+    - i: "BTHome"
+      t: "Retour à la version 3.16.0 de la bibliothèque bthome-ble pour corriger des données manquantes."
+    - i: "Fritz!Box (Smarthome)"
+      t: "Correctif pour les anciens modèles qui ne prennent pas en charge les déclencheurs smarthome."
+    - i: "Hikvision"
+      t: "Les capteurs binaires des enregistreurs NVR sont de nouveau détectés."
+    - i: "Backblaze B2"
+      t: "Ajout d’un délai maximal sur les envois de sauvegardes pour éviter les blocages."
+    - i: "Teslemetry / Tesla Fleet"
+      t: "Migrations sécurisées, signal climat corrigé et bug de l’assistant de configuration résolu."
+    - i: "Velux, Tibber, Tractive, WLED, Enphase Envoy"
+      t: "Capteur de pluie de certaines fenêtres, meilleure gestion des limites d’appels Tibber, données de santé incomplètes Tractive, icônes de segments WLED, classe « stockage d’énergie » pour certaines batteries Envoy."
+- v: "2026.1.2"
+  date: 2026-01-16
+  date_fr: "16 janvier 2026"
+  fixes: 17
+  summary: "Version courte mais importante pour la sécurité : elle contient les correctifs de deux failles XSS (divulguées en mars, dans les notes de la 2026.4) et restreint certaines commandes des blueprints aux administrateurs. La détection vocale revient aussi à l’ancien moteur microVAD."
+  security:
+    - "Faille XSS stockée dans la carte « Map » via un nom d’appareil malveillant (gravité modérée, CVE-2026-33044)."
+    - "Faille XSS stockée dans la carte graphique d’historique (gravité modérée, CVE-2026-33045)."
+    - "Les commandes WebSocket des blueprints exigent désormais un compte administrateur."
+  notable:
+    - i: "Assist"
+      t: "Retour au détecteur d’activité vocale microVAD dans le pipeline vocal."
+    - i: "Z-Wave"
+      t: "Nettoyage des réparations « device config changed » inutiles."
+    - i: "Airzone"
+      t: "Correction des entités de sélection Q-Adapt."
+    - i: "Essent, Fressnapf Tracker, OpenAI"
+      t: "Intervalle de mise à jour Essent ramené à 1 heure, code SMS avec zéros en tête accepté, descriptions ajoutées à OpenAI Conversation."
+- v: "2026.1.3"
+  date: 2026-01-23
+  date_fr: "23 janvier 2026"
+  fixes: 17
+  summary: "Dernière corrective de janvier, surtout faite de mises à jour de bibliothèques, avec quelques correctifs ciblés (Matter, WiZ, UniFi Protect) et l’annulation d’une dépréciation concernant les installations en conteneur (Docker)."
+  notable:
+    - i: "HTTP"
+      t: "Annulation de la dépréciation de l’option server_host pour les installations en conteneur."
+    - i: "UniFi Protect"
+      t: "Détection correcte de plusieurs types d’objets intelligents dans un même événement."
+    - i: "WiZ"
+      t: "Correction des attributs de température de couleur."
+    - i: "Matter"
+      t: "Précision d’affichage ajustée pour la tension des batteries."
+    - i: "Capteurs binaires"
+      t: "Icônes corrigées pour l’état « en mouvement »."

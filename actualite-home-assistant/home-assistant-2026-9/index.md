@@ -125,10 +125,9 @@ Les graphiques deviennent navigables au **clavier** et lisibles par les **lecteu
 
 ## 🩹 Versions correctives
 
-- **2026.9.1** (5 septembre) : 27 correctifs.
-- **2026.9.2** (11 septembre) : 46 correctifs.
-- **2026.9.3** (18 septembre) : 25 correctifs.
-- **2026.9.4** (27 septembre) : 14 correctifs.
+Après chaque version mensuelle, Home Assistant publie des versions correctives (en principe une par semaine, le vendredi) qui ne contiennent que des corrections de bugs et des mises à jour de bibliothèques. Voici le détail de celles de la **2026.9**, d’après la liste officielle des changements. Le nombre indiqué compte tous les changements listés, mises à jour de bibliothèques comprises.
+
+{% include ha-patches.html key="2026-9" %}
 
 ## 💾 Conseil de mise à jour
 

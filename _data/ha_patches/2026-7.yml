@@ -1,0 +1,62 @@
+- v: "2026.7.1"
+  date: 2026-07-03
+  date_fr: "3 juillet 2026"
+  fixes: 19
+  summary: "Première corrective de juillet, avec des correctifs pour Proximity, KNX (historique des télégrammes), Overkiz et Homee, et un masquage des informations sensibles dans les journaux de débogage FRITZ!Box."
+  security:
+    - "FRITZ!Box Tools : la sortie de débogage est désormais expurgée des données sensibles."
+  notable:
+    - i: "Proximity"
+      t: "Correspondance améliorée avec les suivis qui exposent l’attribut in_zones."
+    - i: "KNX"
+      t: "Migration de l’historique des télégrammes corrigée pour les données de la 2026.3 et antérieures."
+    - i: "Overkiz"
+      t: "Configuration de la passerelle Rexel en API locale et commande d’eau chaude Hitachi Yutaki corrigées."
+    - i: "HomeKit Controller"
+      t: "L’entité d’événement de sonnette utilise le bon type d’événement « ring »."
+    - i: "Homee, SolarEdge, ecobee, SMTP, DNS IP"
+      t: "Entités indisponibles, unités d’énergie perdues, nouvelle tentative en cas d’échec passager, erreurs SMTP gérées, prise en charge des enregistrements CNAME."
+- v: "2026.7.2"
+  date: 2026-07-10
+  date_fr: "10 juillet 2026"
+  fixes: 59
+  summary: "La grosse corrective de juillet : de nombreux correctifs Teslemetry et Overkiz (dont une session Rexel qui expirait au bout d’un jour), et des corrections pour SMTP, ZHA, Sonos et ESPHome."
+  notable:
+    - i: "HTTP"
+      t: "La configuration HTTP de récupération enregistre le réseau complet des proxys de confiance."
+    - i: "Overkiz"
+      t: "Session OAuth2 Rexel qui expirait après un jour, mode de régulation manquant pour les radiateurs Atlantic, volets RollerShutterUno vus ouverts alors qu’ils étaient fermés."
+    - i: "Teslemetry"
+      t: "Réauthentification déclenchée quand nécessaire, faux états des ouvrants, rafales de requêtes en cas de crédits insuffisants."
+    - i: "ZHA"
+      t: "Le cache des déclencheurs d’appareils résout correctement les quirks."
+    - i: "SMTP"
+      t: "En-têtes « To » manquants corrigés."
+    - i: "Sonos, ESPHome, rest_command, Wyoming, Elgato"
+      t: "Appel bloquant supprimé, mises à jour ESPHome possibles pendant une file de compilation, authentification digest avec hôte templaté, pipeline non relancé après une erreur, température de couleur max."
+- v: "2026.7.3"
+  date: 2026-07-21
+  date_fr: "21 juillet 2026"
+  fixes: 26
+  summary: "Une corrective un peu plus tardive, avec des correctifs pour Overkiz (deuxième zone de chauffage Hitachi Yutaki), UniFi, Roborock et Supervisor."
+  notable:
+    - i: "Overkiz"
+      t: "La deuxième zone de chauffage Hitachi Yutaki n’utilise plus les états de la zone 1 ; ouverture/fermeture des volets RTSGeneric corrigée."
+    - i: "UniFi Network"
+      t: "Plus de plantage à la configuration avec un WAN cellulaire/5G sans moniteurs."
+    - i: "Roborock"
+      t: "Correction de la réparation liée à la cartographie des pièces de l’aspirateur."
+    - i: "Supervisor"
+      t: "Les entités de mise à jour des Apps se rafraîchissent après le rechargement de la boutique."
+    - i: "Hikvision, FRITZ!Box Tools, Plugwise"
+      t: "Identifiants uniques en double, réparations non persistantes, entités de sélection corrigées."
+- v: "2026.7.4"
+  date: 2026-07-24
+  date_fr: "24 juillet 2026"
+  fixes: 7
+  summary: "Toute petite corrective, surtout des mises à jour de bibliothèques, avec un correctif d’authentification Proxmox VE."
+  notable:
+    - i: "Proxmox VE"
+      t: "L’authentification n’échoue plus avec des « realms » contenant des majuscules."
+    - i: "Enphase Envoy"
+      t: "Téléchargement des données de diagnostic corrigé quand la réponse n’est pas en UTF-8."

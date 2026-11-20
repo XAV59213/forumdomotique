@@ -115,9 +115,9 @@ Quand un même appareil physique était configuré via **deux intégrations**, H
 
 ## 🩹 Versions correctives
 
-- **2026.8.1** (7 août) : 16 correctifs.
-- **2026.8.2** (14 août) : 35 correctifs.
-- **2026.8.3** (21 août) : 25 correctifs.
+Après chaque version mensuelle, Home Assistant publie des versions correctives (en principe une par semaine, le vendredi) qui ne contiennent que des corrections de bugs et des mises à jour de bibliothèques. Voici le détail de celles de la **2026.8**, d’après la liste officielle des changements. Le nombre indiqué compte tous les changements listés, mises à jour de bibliothèques comprises.
+
+{% include ha-patches.html key="2026-8" %}
 
 ## 💾 Conseil de mise à jour
 

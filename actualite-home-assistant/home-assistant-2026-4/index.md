@@ -140,10 +140,9 @@ Trois failles corrigées précédemment ont été divulguées, dont une **critiq
 
 ## 🩹 Versions correctives
 
-- **2026.4.1** (3 avril) : 28 correctifs.
-- **2026.4.2** (11 avril) : 68 correctifs.
-- **2026.4.3** (17 avril) : 27 correctifs.
-- **2026.4.4** (24 avril) : 15 correctifs.
+Après chaque version mensuelle, Home Assistant publie des versions correctives (en principe une par semaine, le vendredi) qui ne contiennent que des corrections de bugs et des mises à jour de bibliothèques. Voici le détail de celles de la **2026.4**, d’après la liste officielle des changements. Le nombre indiqué compte tous les changements listés, mises à jour de bibliothèques comprises.
+
+{% include ha-patches.html key="2026-4" %}
 
 ## 💾 Conseil de mise à jour
 
