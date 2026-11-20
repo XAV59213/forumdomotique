@@ -1,6 +1,10 @@
 ---
 title: "Première installation Home Assistant Green : avis sur capteurs Zigbee et recharge de voiture électrique en heures creuses"
+description: "J’ai hâte de lire tes posts pour suivre ton aventure avec Home Assistant !"
+image: /assets/images/og-default.png
+date: 2025-12-22
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/625-premi%C3%A8re-installation-home-assistant-green-avis-sur-capteurs-zigbee-et-recharge-de-voiture-%C3%A9lectrique-en-heures-creuses/">Lire et commenter sur Forum Domotique</a></p>
 
 # Première installation Home Assistant Green : avis sur capteurs Zigbee et recharge de voiture électrique en heures creuses
 

@@ -1,6 +1,10 @@
 ---
 title: "Zigbee 4.0 : Révolution IoT – Adieu les Pannes, Bonjour la Magie Connectée !"
+description: "La Connectivity Standards Alliance, anciennement connue sous le nom de Zigbee Alliance, a récemment dévoilé la mise à jour Zigbee 4.0 , une évolution…"
+image: /sujets/536-zigbee-40-revolution-iot-adieu-les-pannes-bonjour-la-magie-connectee/images/94743ECB-8C3A-444D-9D8C-DC4551566E5E.png
+date: 2025-11-26
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/536-zigbee-40-r%C3%A9volution-iot-adieu-les-pannes-bonjour-la-magie-connect%C3%A9e/">Lire et commenter sur Forum Domotique</a></p>
 
 # Zigbee 4.0 : Révolution IoT – Adieu les Pannes, Bonjour la Magie Connectée !
 

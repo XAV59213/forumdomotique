@@ -1,6 +1,10 @@
 ---
 title: "nouveau sur forum domotique"
+description: "nouveau sur forum domotique. Publication de XAV59213 sur Forum Domotique, à propos de Home Assistant et de la domotique."
+image: /assets/images/og-default.png
+date: 2025-11-26
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/539-nouveau-sur-forum-domotique/">Lire et commenter sur Forum Domotique</a></p>
 
 # nouveau sur forum domotique
 

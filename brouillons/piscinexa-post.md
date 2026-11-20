@@ -1,7 +1,11 @@
 ---
 title: "Brouillon — piscinexa — RÉPONSE dans le sujet 133 — ne rien publier ni modifier sans le OK de Xavier"
+description: "Action recommandée : publier la réponse complète ci-dessous dans le sujet existant. Le forum ne permet plus de modifier le premier message (délai de…"
+image: /assets/images/og-default.png
+date: 2026-11-20
+sitemap: false
+robots: noindex, nofollow
 ---
-
 # Brouillon — piscinexa — RÉPONSE dans le sujet 133 — ne rien publier ni modifier sans le OK de Xavier
 
 **Sujet existant :** [Projet Piscine BESOIN DE TESTEUR](https://forumdomotique.com/forums/topic/133-projet-piscine-besoin-de-testeur/) — Projets et Personnalisations — ouvert le 8 mai 2025, 12 messages ; dernier : lakes le 23 mai 2026 (« as-tu pu tester l’analyseur de chlore et pH ? », **sans réponse**). Intéressés : Carlito, Alcha, dekloo, lakes. Tutoriel lié : [90 Créer un tableau de bord de gestion de piscine](https://forumdomotique.com/forums/topic/90-cr%C3%A9er-un-tableau-de-bord-de-gestion-de-piscine-dans-home-assistant/) (27 avr. 2025, à laisser tel quel).

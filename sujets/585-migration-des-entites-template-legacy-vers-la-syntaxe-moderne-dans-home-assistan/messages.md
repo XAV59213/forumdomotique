@@ -1,8 +1,12 @@
 ---
 title: "Migration des Entités Template Legacy vers la Syntaxe Moderne dans Home Assistant : Résoudre l’Avertissement pour la Version 2026.6"
+description: "Home Assistant, la plateforme open-source populaire pour la domotique, évolue constamment pour améliorer la stabilité, la cohérence et les fonctionnalités…"
+image: /sujets/585-migration-des-entites-template-legacy-vers-la-syntaxe-moderne-dans-home-assistan/images/IMG_6359.png
+date: 2025-12-04
 ---
-
 {% raw %}
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/585-migration-des-entit%C3%A9s-template-legacy-vers-la-syntaxe-moderne-dans-home-assistant-r%C3%A9soudre-lavertissement-pour-la-version-20266/">Lire et commenter sur Forum Domotique</a></p>
+
 # Migration des Entités Template Legacy vers la Syntaxe Moderne dans Home Assistant : Résoudre l’Avertissement pour la Version 2026.6
 
 - **Catégorie :** [Tutoriels, Guides & Astuces des Membres](https://forumdomotique.com/forums/87-tutoriels-guides-astuces-des-membres/)

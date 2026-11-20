@@ -1,6 +1,10 @@
 ---
 title: "bonjour a tous"
+description: "À 69 ans, avec ton parcours de frigoriste climaticien et ta passion autodidacte pour l'informatique, la domotique et les nouvelles technologies, tu vas te…"
+image: /assets/images/og-default.png
+date: 2025-12-13
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/603-bonjour-a-tous/">Lire et commenter sur Forum Domotique</a></p>
 
 # bonjour a tous
 

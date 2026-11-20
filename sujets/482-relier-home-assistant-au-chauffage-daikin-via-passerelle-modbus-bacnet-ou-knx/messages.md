@@ -1,6 +1,10 @@
 ---
 title: "Relier Home Assistant au chauffage Daikin via passerelle Modbus, BACnet ou KNX"
+description: "Parmi les trois protocoles, KNX est de loin le plus adapté pour ton objectif (pilotage à distance basé sur présence ou ouverture de fenêtre). Voici…"
+image: /assets/images/og-default.png
+date: 2025-11-04
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/482-relier-home-assistant-au-chauffage-daikin-via-passerelle-modbus-bacnet-ou-knx/">Lire et commenter sur Forum Domotique</a></p>
 
 # Relier Home Assistant au chauffage Daikin via passerelle Modbus, BACnet ou KNX
 

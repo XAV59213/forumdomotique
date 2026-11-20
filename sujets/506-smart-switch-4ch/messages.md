@@ -1,8 +1,12 @@
 ---
 title: "smart switch  4ch"
+description: "D’abord, merci pour ta question, et oui, tu es au bon endroit pour discuter de ça on va essayer de trouver une solution pour ton setup avec Google Home et…"
+image: /assets/images/og-default.png
+date: 2025-11-19
 ---
-
 {% raw %}
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/506-smart-switch-4ch/">Lire et commenter sur Forum Domotique</a></p>
+
 # smart switch  4ch
 
 - **Catégorie :** [Présentez-vous](https://forumdomotique.com/forums/5-pr%C3%A9sentez-vous/)

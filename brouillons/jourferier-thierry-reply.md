@@ -1,7 +1,11 @@
 ---
 title: "jourferier thierry reply"
+description: "Merci pour ton retour ! Pour ta première question, oui : Pâques, l’Ascension et le lundi de Pentecôte sont recalculés automatiquement chaque année, il n’y…"
+image: /assets/images/og-default.png
+date: 2026-11-20
+sitemap: false
+robots: noindex, nofollow
 ---
-
 Salut Thierry,
 
 Merci pour ton retour ! Pour ta première question, oui : Pâques, l’Ascension et le lundi de Pentecôte sont recalculés automatiquement chaque année, il n’y a rien à modifier.

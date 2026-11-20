@@ -1,6 +1,10 @@
 ---
 title: "Modification de Home Assistant 2025.12 : la mise à jour de décembre 2025 repousse les limites avec les Labs et un tableau de bord énergie boosté"
+description: "On l'attendait avec impatience, elle arrive pile pour les fêtes ! La mise à jour Home Assistant de décembre 2025 (2025.12), sortie comme prévu le premier…"
+image: /contenus/actualites/home-assistant-2025-12-labs-tableau-de-bord-energie/images/Capturedcrandu2025-11-3016-55-00.png
+date: 2025-11-30
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/actualites/home-assistant/home-assistant-2025-12-labs-tableau-de-bord-energie/">Lire et commenter sur Forum Domotique</a></p>
 
 # Modification de Home Assistant 2025.12 : la mise à jour de décembre 2025 repousse les limites avec les Labs et un tableau de bord énergie boosté
 

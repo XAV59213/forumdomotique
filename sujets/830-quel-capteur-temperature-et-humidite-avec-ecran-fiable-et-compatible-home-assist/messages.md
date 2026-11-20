@@ -1,6 +1,10 @@
 ---
 title: "Quel capteur température et humidité avec écran, fiable et compatible Home Assistant ?"
+description: "Moi j’utilise depuis plus de 2 ans les capteurs Sonoff SNZB-02 (température + humidité Zigbee 3.0) et franchement, RAS : aucun souci de déconnexion, de…"
+image: /assets/images/og-default.png
+date: 2026-03-21
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/830-quel-capteur-temp%C3%A9rature-et-humidit%C3%A9-avec-%C3%A9cran-fiable-et-compatible-home-assistant/">Lire et commenter sur Forum Domotique</a></p>
 
 # Quel capteur température et humidité avec écran, fiable et compatible Home Assistant ?
 

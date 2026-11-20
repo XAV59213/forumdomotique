@@ -1,6 +1,10 @@
 ---
 title: "Finalisation de configuration"
+description: "Peux tu envoyer les logs du journal de z2mqtt D’après les logs que vous avez partagés, le problème principal semble venir de la configuration MQTT dans…"
+image: /sujets/680-finalisation-de-configuration/images/IMG_6554.png
+date: 2026-01-12
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/680-finalisation-de-configuration/">Lire et commenter sur Forum Domotique</a></p>
 
 # Finalisation de configuration
 

@@ -1,8 +1,12 @@
 ---
 title: "Sauvegarde Home Assistant : backups locaux, Google Drive et cloud (guide complet)"
+description: "Tout commence avec le système natif de Home Assistant, qui a vraiment pris un coup de jeune depuis la version 2025.1. Avant, c'était déjà pratique, mais…"
+image: /contenus/guides/sauvegarde-home-assistant-backup-cloud/images/Capturedcrandu2026-01-0616-56-27.png
+date: 2026-01-18
 ---
-
 {% raw %}
+<p class="forum-cta"><a href="https://forumdomotique.com/guides-tutoriels/home-assistant/sauvegarde-home-assistant-backup-cloud/">Lire et commenter sur Forum Domotique</a></p>
+
 # Sauvegarde Home Assistant : backups locaux, Google Drive et cloud (guide complet)
 
 - **Type :** Guide

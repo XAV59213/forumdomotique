@@ -1,6 +1,10 @@
 ---
 title: "SMLIGHT SZLB-06 - Mise à Jour et Z2M"
+description: "À minima sauvegarde /homeassistant/zigbee2mqtt/configuration.yaml et mais en place un backup journalier automatique dans paramètres système sauvegarde et…"
+image: /sujets/279-smlight-szlb-06-mise-a-jour-et-z2m/images/No_image_preview.png
+date: 2025-07-24
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/279-smlight-szlb-06-mise-%C3%A0-jour-et-z2m/">Lire et commenter sur Forum Domotique</a></p>
 
 # SMLIGHT SZLB-06 - Mise à Jour et Z2M
 

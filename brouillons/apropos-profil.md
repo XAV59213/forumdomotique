@@ -1,7 +1,11 @@
 ---
 title: "apropos profil"
+description: "On a deux vies, et la deuxième commence quand on se rend compte qu'on en a qu'une Passionné de domotique, je développe sur mon temps libre des…"
+image: /assets/images/og-default.png
+date: 2026-11-20
+sitemap: false
+robots: noindex, nofollow
 ---
-
 On a deux vies, et la deuxième commence quand on se rend compte qu'on en a qu'une.
 
 ### 🏠 Mes intégrations Home Assistant

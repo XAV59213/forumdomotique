@@ -1,7 +1,9 @@
 ---
 title: "Sauvegarde des publications de XAV59213 sur Forum Domotique"
+description: "Sauvegarde et vitrine des articles, guides, tests et intégrations Home Assistant (HACS) de XAV59213 sur Forum Domotique."
+image: /assets/images/og-default.png
+date: 2026-11-20
 ---
-
 # Sauvegarde des publications de XAV59213 sur Forum Domotique
 
 Cette archive est une **sauvegarde publique** des messages, sujets, articles, guides et tests publiés par **XAV59213** (Xavier Descamps) sur [Forum Domotique](https://forumdomotique.com/profile/106-xav59213/).

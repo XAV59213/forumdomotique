@@ -1,6 +1,10 @@
 ---
 title: "Présentation nouvel inscrit"
+description: "Bienvenue sur le forum et bravo pour ton message très clair ! Habitant le Nord, je connais bien ce climat qui nous laisse effectivement du temps pour…"
+image: /assets/images/og-default.png
+date: 2025-12-20
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/462-pr%C3%A9sentation-nouvel-inscrit/">Lire et commenter sur Forum Domotique</a></p>
 
 # Présentation nouvel inscrit
 

@@ -1,8 +1,12 @@
 ---
 title: "Pas de remonté d'info Multiprise NOUS A11Z"
+description: "Lors de votre configuration, avez-vous bien mis un canal éloigné du WiFi ? Le support pour la multiprise NOUS A11Z a été ajouté dans Zigbee2MQTT à partir…"
+image: /sujets/690-pas-de-remonte-dinfo-multiprise-nous-a11z/images/IMG_6589.png
+date: 2026-01-20
 ---
-
 {% raw %}
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/690-pas-de-remont%C3%A9-dinfo-multiprise-nous-a11z/">Lire et commenter sur Forum Domotique</a></p>
+
 # Pas de remonté d'info Multiprise NOUS A11Z
 
 - **Catégorie :** [Autres marques de matériel domotique](https://forumdomotique.com/forums/59-autres-marques-de-mat%C3%A9riel-domotique/)

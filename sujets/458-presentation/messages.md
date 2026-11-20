@@ -1,6 +1,10 @@
 ---
 title: "Présentation"
+description: "Super présentation, et quel parcours déjà impressionnant ! Une Fibaro HC2 qui tourne encore à 100 % Z-Wave après 10 ans, c’est du solide – respect ! 💪 Et…"
+image: /assets/images/og-default.png
+date: 2025-10-23
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/458-pr%C3%A9sentation/">Lire et commenter sur Forum Domotique</a></p>
 
 # Présentation
 

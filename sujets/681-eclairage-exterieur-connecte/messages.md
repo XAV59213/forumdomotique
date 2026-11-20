@@ -1,6 +1,10 @@
 ---
 title: "Eclairage exterieur connecté"
+description: "Pas de panique, ton setup est tout à fait réalisable avec la domotique actuelle Le problème de signal faible pour les ampoules éloignées est courant en…"
+image: /assets/images/og-default.png
+date: 2026-01-13
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/681-eclairage-exterieur-connect%C3%A9/">Lire et commenter sur Forum Domotique</a></p>
 
 # Eclairage exterieur connecté
 

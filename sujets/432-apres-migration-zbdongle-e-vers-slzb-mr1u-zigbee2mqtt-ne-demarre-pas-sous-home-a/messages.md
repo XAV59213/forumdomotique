@@ -1,6 +1,10 @@
 ---
 title: "Après migration ZBdongle-E vers SLZB-MR1U Zigbee2MQTT ne démarre pas sous Home Assistant"
+description: "Le SLZB-MR2 utilise une puce Texas Instruments CC2652P (Z-Stack 3.x). Mais Zigbee2MQTT essaie de communiquer avec une CC2530/CC2531 (Z-Stack 1.2) →…"
+image: /assets/images/og-default.png
+date: 2025-10-21
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/432-apr%C3%A8s-migration-zbdongle-e-vers-slzb-mr1u-zigbee2mqtt-ne-d%C3%A9marre-pas-sous-home-assistant/">Lire et commenter sur Forum Domotique</a></p>
 
 # Après migration ZBdongle-E vers SLZB-MR1U Zigbee2MQTT ne démarre pas sous Home Assistant
 

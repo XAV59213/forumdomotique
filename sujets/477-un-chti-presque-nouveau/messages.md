@@ -1,6 +1,10 @@
 ---
 title: "Un ch'ti presque nouveau"
+description: "Bonjour @Jyfy et bienvenue sur le forum ! Je suis ravi de voir des chtis comme toi rejoindre la communauté!!!!! Moi-même, je suis du coin, du côté de…"
+image: /assets/images/og-default.png
+date: 2025-11-01
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/477-un-chti-presque-nouveau/">Lire et commenter sur Forum Domotique</a></p>
 
 # Un ch'ti presque nouveau
 

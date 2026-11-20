@@ -1,6 +1,10 @@
 ---
 title: "decouverte de la domotique et de son monde"
+description: "Le RFXCOM peut prendre en charge ton problème, mais l’installation est un peu périlleuse. Il y a quelques tutoriels disponibles, mais pas beaucoup Je l’ai…"
+image: /assets/images/og-default.png
+date: 2025-12-04
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/582-decouverte-de-la-domotique-et-de-son-monde/">Lire et commenter sur Forum Domotique</a></p>
 
 # decouverte de la domotique et de son monde
 

@@ -1,6 +1,10 @@
 ---
 title: "Appelez-moi DARTAGNAN"
+description: "J’ai bien rigolé 🤣en lisant ton post, que de péripéties ! OK, donne-moi le modèle de ton double flux J’ai besoin de récupérer le fonctionnement pour…"
+image: /assets/images/og-default.png
+date: 2025-11-04
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/483-appelez-moi-dartagnan/">Lire et commenter sur Forum Domotique</a></p>
 
 # Appelez-moi DARTAGNAN
 

@@ -1,6 +1,10 @@
 ---
 title: "Pb erreur Zigbee2MQTT"
+description: "Tu as deux réseaux Zigbee qui utilisent exactement les mêmes paramètres (par exemple ZHA + Zigbee2MQTT, ou deux instances Zigbee2MQTT) Du coup…"
+image: /assets/images/og-default.png
+date: 2025-12-05
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/586-pb-erreur-zigbee2mqtt/">Lire et commenter sur Forum Domotique</a></p>
 
 # Pb erreur Zigbee2MQTT
 

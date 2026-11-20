@@ -1,6 +1,10 @@
 ---
 title: "CONSULTA"
+description: "Merci pour les détails sur votre installation. Je comprends bien le problème : votre barrière infrarouge déclenche la sirène localement, mais vous n’avez…"
+image: /assets/images/og-default.png
+date: 2025-12-21
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/616-consulta/">Lire et commenter sur Forum Domotique</a></p>
 
 # CONSULTA
 

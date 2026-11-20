@@ -1,6 +1,10 @@
 ---
 title: "slzb-mr2: Silicon Labs Multiprotocol ne démarre pas et LiXee ZLinky TIC sans entités dans Zigbee2MQTT"
+description: "@david regarde ta configuration spécifique dans Z2M LINKY mode HISTORIQUE Après modification il faudra attendre c'est pas de l’instantané Enedis doit…"
+image: /sujets/390-slzb-mr2-silicon-labs-multiprotocol-ne-demarre-pas-et-lixee-zlinky-tic-sans-enti/images/Capturedcrandu2025-09-2015-22-23.png
+date: 2025-09-20
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/390-slzb-mr2-silicon-labs-multiprotocol-ne-d%C3%A9marre-pas-et-lixee-zlinky-tic-sans-entit%C3%A9s-dans-zigbee2mqtt/">Lire et commenter sur Forum Domotique</a></p>
 
 # slzb-mr2: Silicon Labs Multiprotocol ne démarre pas et LiXee ZLinky TIC sans entités dans Zigbee2MQTT
 

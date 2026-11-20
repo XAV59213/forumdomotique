@@ -1,6 +1,10 @@
 ---
 title: "SONOFF ZBMINIL2 ZigBee"
+description: "il existe une multitude de protocole comme tu la indiquer ton SONOFF ZBMINIL2 ZigBee passe par du ZigBee il te faudra un serveur ZigBee comme dans home…"
+image: /assets/images/og-default.png
+date: 2025-05-22
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/121-sonoff-zbminil2-zigbee/">Lire et commenter sur Forum Domotique</a></p>
 
 # SONOFF ZBMINIL2 ZigBee
 

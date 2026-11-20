@@ -1,6 +1,10 @@
 ---
 title: "Comparatif 2025 des hubs domotiques et box domotiques: Matter, compatibilités Zigbee/Z-Wave/Thread, prix et conseils"
+description: "Ce sont des dispositifs centraux qui permettent de connecter et contrôler vos objets connectés (lumières, thermostats, caméras, etc.) via une app ou des…"
+image: /assets/images/og-default.png
+date: 2025-09-20
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/403-comparatif-2025-des-hubs-domotiques-et-box-domotiques-matter-compatibilit%C3%A9s-zigbeez-wavethread-prix-et-conseils/">Lire et commenter sur Forum Domotique</a></p>
 
 # Comparatif 2025 des hubs domotiques et box domotiques: Matter, compatibilités Zigbee/Z-Wave/Thread, prix et conseils
 

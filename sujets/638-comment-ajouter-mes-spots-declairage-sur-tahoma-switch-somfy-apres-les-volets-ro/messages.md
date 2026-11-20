@@ -1,6 +1,10 @@
 ---
 title: "Comment ajouter mes spots d’éclairage sur TaHoma Switch Somfy après les volets roulants ?"
+description: "Peux-tu me dire quels spots tu utilises ? Et utilises-tu une application avec ton smartphone ? Voici un petit guide concernant certains protocoles Le…"
+image: /assets/images/og-default.png
+date: 2025-12-30
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/638-comment-ajouter-mes-spots-d%C3%A9clairage-sur-tahoma-switch-somfy-apr%C3%A8s-les-volets-roulants/">Lire et commenter sur Forum Domotique</a></p>
 
 # Comment ajouter mes spots d’éclairage sur TaHoma Switch Somfy après les volets roulants ?
 

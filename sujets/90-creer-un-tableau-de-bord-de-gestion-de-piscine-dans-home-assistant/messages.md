@@ -1,8 +1,12 @@
 ---
 title: "Créer un tableau de bord de gestion de piscine dans Home Assistant"
+description: "Dans ce tutoriel, nous allons créer un tableau de bord interactif pour gérer une piscine dans Home Assistant . Ce tableau de bord permet de surveiller la…"
+image: /sujets/90-creer-un-tableau-de-bord-de-gestion-de-piscine-dans-home-assistant/images/Capturedcrandu2025-04-2710-21-38.png
+date: 2025-04-27
 ---
-
 {% raw %}
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/90-cr%C3%A9er-un-tableau-de-bord-de-gestion-de-piscine-dans-home-assistant/">Lire et commenter sur Forum Domotique</a> · <a href="https://github.com/XAV59213/piscinexa">Dépôt HACS : Piscinexa</a></p>
+
 # Créer un tableau de bord de gestion de piscine dans Home Assistant
 
 - **Catégorie :** [Tutoriels, Guides & Astuces des Membres](https://forumdomotique.com/forums/87-tutoriels-guides-astuces-des-membres/)

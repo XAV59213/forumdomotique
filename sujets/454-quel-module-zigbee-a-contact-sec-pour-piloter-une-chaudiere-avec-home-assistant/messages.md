@@ -1,6 +1,10 @@
 ---
 title: "Quel module Zigbee à contact sec pour piloter une chaudière avec Home Assistant via Zigbee2MQTT ?"
+description: "NodOn SIN-4-1-21 : Un module multifonction 16A à contact sec avec mesure de consommation Le Module Multifonction SIN-4-1-21 avec mesure de consommation…"
+image: /sujets/454-quel-module-zigbee-a-contact-sec-pour-piloter-une-chaudiere-avec-home-assistant/images/IMG_6108.jpeg
+date: 2025-10-21
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/454-quel-module-zigbee-%C3%A0-contact-sec-pour-piloter-une-chaudi%C3%A8re-avec-home-assistant-via-zigbee2mqtt/">Lire et commenter sur Forum Domotique</a></p>
 
 # Quel module Zigbee à contact sec pour piloter une chaudière avec Home Assistant via Zigbee2MQTT ?
 

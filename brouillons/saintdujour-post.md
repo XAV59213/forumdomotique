@@ -1,7 +1,11 @@
 ---
 title: "Brouillon — saintdujour — RÉPONSE dans le sujet 193 — ne rien publier ni modifier sans le OK de Xavier"
+description: "Action recommandée : publier la réponse complète ci-dessous dans le sujet existant. Le forum ne permet plus de modifier le premier message (délai de…"
+image: /assets/images/og-default.png
+date: 2026-11-20
+sitemap: false
+robots: noindex, nofollow
 ---
-
 {% raw %}
 # Brouillon — saintdujour — RÉPONSE dans le sujet 193 — ne rien publier ni modifier sans le OK de Xavier
 

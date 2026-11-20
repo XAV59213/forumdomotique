@@ -1,6 +1,10 @@
 ---
 title: "Test et avis Aqara U200 : une serrure Matter et Thread vraiment taillée pour Home Assistant"
+description: "Dans cet article, je vous partage mon retour d’expérience complet sur l’installation et l’utilisation de la Aqara U200 , accompagnée de son cylindre vendu…"
+image: /contenus/tests/test-avis-aqara-u200-serrure-connectee-matter-thread/images/logo_domadoo.png
+date: 2025-12-28
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/tests/securite-surveillance/test-avis-aqara-u200-serrure-connectee-matter-thread/">Lire et commenter sur Forum Domotique</a></p>
 
 # Test et avis Aqara U200 : une serrure Matter et Thread vraiment taillée pour Home Assistant
 

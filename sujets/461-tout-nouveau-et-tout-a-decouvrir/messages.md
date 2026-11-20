@@ -1,6 +1,10 @@
 ---
 title: "Tout nouveau et tout à découvrir"
+description: "Peux tu nous transmettre plus d’informations sur ton opérateur internet pour pouvoir d’aider! Puis comme dit @Pierre il faut fixer les ip des appareils…"
+image: /assets/images/og-default.png
+date: 2025-10-29
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/461-tout-nouveau-et-tout-%C3%A0-d%C3%A9couvrir/">Lire et commenter sur Forum Domotique</a></p>
 
 # Tout nouveau et tout à découvrir
 

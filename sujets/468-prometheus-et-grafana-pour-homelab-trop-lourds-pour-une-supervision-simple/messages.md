@@ -1,6 +1,10 @@
 ---
 title: "Prometheus et Grafana pour homelab: trop lourds pour une supervision simple ?"
+description: "Prometheus et Grafana pour homelab: trop lourds pour une supervision simple ?. Publication de XAV59213 sur Forum Domotique, à propos de Home Assistant et…"
+image: /assets/images/og-default.png
+date: 2025-11-04
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/468-prometheus-et-grafana-pour-homelab-trop-lourds-pour-une-supervision-simple/">Lire et commenter sur Forum Domotique</a></p>
 
 # Prometheus et Grafana pour homelab: trop lourds pour une supervision simple ?
 

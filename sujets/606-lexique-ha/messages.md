@@ -1,6 +1,10 @@
 ---
 title: "Lexique HA"
+description: "Bonsoir et merci pour cette présentation pleine d’humour et de sympathie 😊. À 71 ans, tu es loin d’être un « ancien jeune » fini : l’étincelle est…"
+image: /assets/images/og-default.png
+date: 2025-12-14
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/606-lexique-ha/">Lire et commenter sur Forum Domotique</a></p>
 
 # Lexique HA
 

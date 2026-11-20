@@ -1,8 +1,12 @@
 ---
 title: "🚀 Starship Tracker – Suivez les lancements Starship de SpaceX dans Home Assistant"
+description: "Les fans d’espace vont aimer 🚀 Je vous présente Starship Tracker , une intégration Home Assistant qui suit le programme Starship de SpaceX : la prochaine…"
+image: /sujets/4095-starship-tracker-suivez-les-lancements-starship-de-spacex-dans-home-assistant/images/card-bloc-mission.jpg
+date: 2026-11-20
 ---
-
 {% raw %}
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/4095-%F0%9F%9A%80-starship-tracker-suivez-les-lancements-starship-de-spacex-dans-home-assistant/">Lire et commenter sur Forum Domotique</a> · <a href="https://github.com/XAV59213/starship_tracker">Dépôt HACS : Starship Tracker</a></p>
+
 # 🚀 Starship Tracker – Suivez les lancements Starship de SpaceX dans Home Assistant
 
 - **Catégorie :** [Projets et Personnalisations](https://forumdomotique.com/forums/12-projets-et-personnalisations/)

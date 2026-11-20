@@ -1,6 +1,10 @@
 ---
 title: "Schéma de câblage NodOn SIN-4-1-21 pour chauffe-eau 1800 W pilotage et mesure de consommation avec solution de repli"
+description: "Moi pour les heures pleines heures creuse je laisse Enedis et mon télérupteurs géré le cumulus Pour le retour d état hc hp j’utilise le lixee J’utilise le…"
+image: /sujets/348-schema-de-cablage-nodon-sin-4-1-21-pour-chauffe-eau-1800-w-pilotage-et-mesure-de/images/image.png
+date: 2025-10-11
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/348-sch%C3%A9ma-de-c%C3%A2blage-nodon-sin-4-1-21-pour-chauffe-eau-1800-w-pilotage-et-mesure-de-consommation-avec-solution-de-repli/">Lire et commenter sur Forum Domotique</a></p>
 
 # Schéma de câblage NodOn SIN-4-1-21 pour chauffe-eau 1800 W pilotage et mesure de consommation avec solution de repli
 

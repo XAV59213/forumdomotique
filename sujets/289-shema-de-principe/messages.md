@@ -1,6 +1,10 @@
 ---
 title: "Shema de principe"
+description: "kikou @romantho bienvenue a toi et désoler pour le retard il y a tellement de post ! Voici une solution simple, fiable et peu chère pour ton étendoir…"
+image: /assets/images/og-default.png
+date: 2025-11-30
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/289-shema-de-principe/">Lire et commenter sur Forum Domotique</a></p>
 
 # Shema de principe
 

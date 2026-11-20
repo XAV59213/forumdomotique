@@ -1,6 +1,10 @@
 ---
 title: "Choisir une box domotique locale pour débutant, compatible avec mes prises Z-Wave : Home Assistant ou Eedomus/Fibaro ?"
+description: "Oui, Home Assistant (HA) est conçu pour être principalement local : il fonctionne sans internet pour les automatisations de base une fois configuré Pas de…"
+image: /sujets/463-choisir-une-box-domotique-locale-pour-debutant-compatible-avec-mes-prises-z-wave/images/default-social.png
+date: 2025-10-27
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/463-choisir-une-box-domotique-locale-pour-d%C3%A9butant-compatible-avec-mes-prises-z-wave-home-assistant-ou-eedomusfibaro/">Lire et commenter sur Forum Domotique</a></p>
 
 # Choisir une box domotique locale pour débutant, compatible avec mes prises Z-Wave : Home Assistant ou Eedomus/Fibaro ?
 

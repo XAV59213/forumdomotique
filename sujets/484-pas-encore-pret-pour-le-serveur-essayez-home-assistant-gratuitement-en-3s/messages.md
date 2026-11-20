@@ -1,6 +1,10 @@
 ---
 title: "Pas encore prêt pour le serveur ? Essayez Home Assistant gratuitement en 3s !"
+description: "Pas encore prêt pour le serveur ? Essayez Home Assistant gratuitement en 3s !. Publication de XAV59213 sur Forum Domotique, à propos de Home Assistant et…"
+image: /assets/images/og-default.png
+date: 2025-11-05
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/484-pas-encore-pr%C3%AAt-pour-le-serveur-essayez-home%E2%80%AFassistant-gratuitement-en-3s/">Lire et commenter sur Forum Domotique</a></p>
 
 # Pas encore prêt pour le serveur ? Essayez Home Assistant gratuitement en 3s !
 

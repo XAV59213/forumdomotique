@@ -1,6 +1,10 @@
 ---
 title: "Bonjour à toutes et tous"
+description: "Bonjour à toutes et tous. Publication de XAV59213 sur Forum Domotique, à propos de Home Assistant et de la domotique."
+image: /assets/images/og-default.png
+date: 2025-08-07
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/313-bonjour-%C3%A0-toutes-et-tous/">Lire et commenter sur Forum Domotique</a></p>
 
 # Bonjour à toutes et tous
 

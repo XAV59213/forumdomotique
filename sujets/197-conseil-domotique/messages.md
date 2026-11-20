@@ -1,6 +1,10 @@
 ---
 title: "Conseil domotique"
+description: "Pour domotiser vos volets roulants sur Home Assistant avec une installation mixte (Somfy radio, Nice radio, et Nice filaire avec interrupteur), il faut…"
+image: /assets/images/og-default.png
+date: 2025-06-08
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/197-conseil-domotique/">Lire et commenter sur Forum Domotique</a></p>
 
 # Conseil domotique
 

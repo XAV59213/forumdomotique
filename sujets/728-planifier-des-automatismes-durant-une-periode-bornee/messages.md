@@ -1,8 +1,12 @@
 ---
 title: "Planifier des automatismes durant une période bornée"
+description: "on peut réaliser ton scénario avec une automation en YAML (ou via l’interface graphique, mais le YAML est plus précis pour les boucles). Voici comment…"
+image: /assets/images/og-default.png
+date: 2026-01-31
 ---
-
 {% raw %}
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/728-planifier-des-automatismes-durant-une-p%C3%A9riode-born%C3%A9e/">Lire et commenter sur Forum Domotique</a></p>
+
 # Planifier des automatismes durant une période bornée
 
 - **Catégorie :** [Confort et Ambiance](https://forumdomotique.com/forums/67-confort-et-ambiance/)

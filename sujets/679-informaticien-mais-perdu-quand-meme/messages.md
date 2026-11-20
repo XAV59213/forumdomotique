@@ -1,6 +1,10 @@
 ---
 title: "Informaticien, mais perdu quand même ^^"
+description: "Ravi de te voir revenir aux forums ,c’est sympa de bricoler un peu de domotique pour ajouter du confort à la maison. Ton projet de projecteur extérieur…"
+image: /assets/images/og-default.png
+date: 2026-01-12
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/679-informaticien-mais-perdu-quand-m%C3%AAme/">Lire et commenter sur Forum Domotique</a></p>
 
 # Informaticien, mais perdu quand même ^^
 

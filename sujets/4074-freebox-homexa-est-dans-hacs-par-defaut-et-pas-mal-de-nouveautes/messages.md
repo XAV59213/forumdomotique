@@ -1,6 +1,10 @@
 ---
 title: "**Freebox Homexa est dans HACS par défaut 🎉 (et pas mal de nouveautés)**"
+description: "Bonne nouvelle : Freebox Homexa est enfin dans la bibliothèque HACS officielle ! frenck a fait une revue complète du code, il m'a demandé quelques…"
+image: /sujets/4074-freebox-homexa-est-dans-hacs-par-defaut-et-pas-mal-de-nouveautes/images/IMG_7808.png
+date: 2026-11-02
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/4074-freebox-homexa-est-dans-hacs-par-d%C3%A9faut-%F0%9F%8E%89-et-pas-mal-de-nouveaut%C3%A9s/">Lire et commenter sur Forum Domotique</a> · <a href="https://github.com/XAV59213/freebox_homexa">Dépôt HACS : Freebox Homexa</a></p>
 
 # **Freebox Homexa est dans HACS par défaut 🎉 (et pas mal de nouveautés)**
 

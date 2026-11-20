@@ -1,6 +1,10 @@
 ---
 title: "Guide du SMLight SLZB-MR4U : Installation multi-radio dédié à l’Open Border Router pour Matter over Thread"
+description: "Ces dernières semaines, j’ai beaucoup réfléchi à la façon d’intégrer plus sereinement des appareils Matter over Thread dans mon installation domotique…"
+image: /contenus/guides/guide-du-smlight-slzb-mr4u-installation-multi-radio-dedie-a-lopen-border-router-pour-matte/images/Capturedcrandu2025-12-1411-57-15.png
+date: 2025-12-17
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/guides-tutoriels/home-assistant/guide-du-smlight-slzb-mr4u-installation-multi-radio-d%C3%A9di%C3%A9-%C3%A0-lopen-border-router-pour-matter-over-thread-r11/">Lire et commenter sur Forum Domotique</a></p>
 
 # Guide du SMLight SLZB-MR4U : Installation multi-radio dédié à l’Open Border Router pour Matter over Thread
 

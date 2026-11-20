@@ -1,6 +1,10 @@
 ---
 title: "Entités MQTT non disponibles dans Home Assistant avec Zigbee2MQTT"
+description: "Salut @Jeremy peux tu afficher la page zigbee2mqtt sur une page expose d un appareil et faire un test on off"
+image: /sujets/355-entites-mqtt-non-disponibles-dans-home-assistant-avec-zigbee2mqtt/images/IMG_5792.png
+date: 2025-08-25
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/355-entit%C3%A9s-mqtt-non-disponibles-dans-home-assistant-avec-zigbee2mqtt/">Lire et commenter sur Forum Domotique</a></p>
 
 # Entités MQTT non disponibles dans Home Assistant avec Zigbee2MQTT
 

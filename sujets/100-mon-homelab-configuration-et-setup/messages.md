@@ -1,6 +1,10 @@
 ---
 title: "Mon Homelab - Configuration et Setup"
+description: "CPU : 32 cœurs modèle, 2x Intel Xeon E5-2690v2 Stockage : 10 To RAID avec contrôleur HP Smart Array Système d’exploitation : Proxmox VE (version 8.4.1)…"
+image: /sujets/100-mon-homelab-configuration-et-setup/images/HOMELAB.jpeg
+date: 2025-04-28
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/100-mon-homelab-configuration-et-setup/">Lire et commenter sur Forum Domotique</a></p>
 
 # Mon Homelab - Configuration et Setup
 

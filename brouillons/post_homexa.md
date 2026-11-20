@@ -1,7 +1,11 @@
 ---
 title: "post_homexa"
+description: "🎉 Freebox Homexa arrive dans HACS par défaut ! (+ les nouveautés jusqu'à la 28.8.74) Petite nouvelle qui me fait super plaisir : Freebox Homexa est…"
+image: /assets/images/og-default.png
+date: 2026-11-20
+sitemap: false
+robots: noindex, nofollow
 ---
-
 **🎉 Freebox Homexa arrive dans HACS par défaut ! (+ les nouveautés jusqu'à la 28.8.74)**
 
 Bonjour à tous,

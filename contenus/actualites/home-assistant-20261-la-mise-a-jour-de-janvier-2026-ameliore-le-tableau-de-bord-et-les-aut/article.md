@@ -1,6 +1,10 @@
 ---
 title: "Home Assistant 2026.1 : la mise à jour de janvier 2026 améliore le tableau de bord et les automatisations"
+description: "👋 Bonne année à tous ! L'équipe de Home Assistant commence 2026 sur les chapeaux de roues avec la version 2026.1, sortie le 7 janvier. Cette mise à jour…"
+image: /contenus/actualites/home-assistant-20261-la-mise-a-jour-de-janvier-2026-ameliore-le-tableau-de-bord-et-les-aut/images/social.png
+date: 2026-01-10
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/actualites/home-assistant/home-assistant-20261-la-mise-%C3%A0-jour-de-janvier-2026-am%C3%A9liore-le-tableau-de-bord-et-les-automatisations-r11/">Lire et commenter sur Forum Domotique</a></p>
 
 # Home Assistant 2026.1 : la mise à jour de janvier 2026 améliore le tableau de bord et les automatisations
 

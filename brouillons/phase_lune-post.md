@@ -1,7 +1,11 @@
 ---
 title: "Brouillon — phase_lune — NOUVEAU SUJET — ne rien publier ni modifier sans le OK de Xavier"
+description: "Action recommandée : nouveau sujet dans Projets et Personnalisations (là où sont Saints du Jour, Jour Férié, Date Countdown) Titre proposé : 🌙 Phase de la…"
+image: /assets/images/og-default.png
+date: 2026-11-20
+sitemap: false
+robots: noindex, nofollow
 ---
-
 # Brouillon — phase_lune — NOUVEAU SUJET — ne rien publier ni modifier sans le OK de Xavier
 
 **Sujet existant :** aucun trouvé (profil XAV59213, sections Projets et Personnalisations / Intégrations et Add-ons, recherche « phase de la lune »).

@@ -1,6 +1,10 @@
 ---
 title: "Installation anémomètre pour déclencher la remonté d'un store banne."
+description: "Pour intégrer votre store banne Franciaflex avec commande radio Well’com et un capteur de vent filaire (alimenté électriquement et communiquant par radio)…"
+image: /assets/images/og-default.png
+date: 2025-06-26
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/236-installation-an%C3%A9mom%C3%A8tre-pour-d%C3%A9clencher-la-remont%C3%A9-dun-store-banne/">Lire et commenter sur Forum Domotique</a></p>
 
 # Installation anémomètre pour déclencher la remonté d'un store banne.
 

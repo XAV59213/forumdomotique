@@ -1,7 +1,11 @@
 ---
 title: "topic196 original"
+description: "TITLE: 📆 [Intégration] Date Countdown – Suivi d’événements personnels dans Home Assistant Date Countdown est une intégration personnalisée pour Home…"
+image: /assets/images/og-default.png
+date: 2026-11-20
+sitemap: false
+robots: noindex, nofollow
 ---
-
 {% raw %}
 TITLE: 📆 [Intégration] Date Countdown – Suivi d’événements personnels dans Home Assistant
 

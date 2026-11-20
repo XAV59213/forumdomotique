@@ -1,8 +1,12 @@
 ---
 title: "Volet roulant"
+description: "Oui, c'est tout à fait possible et même assez classique en Home Assistant pour simuler une présence quand on est absent (anti-intrusion) Il existe…"
+image: /assets/images/og-default.png
+date: 2026-01-10
 ---
-
 {% raw %}
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/669-volet-roulant/">Lire et commenter sur Forum Domotique</a></p>
+
 # Volet roulant
 
 - **Catégorie :** [Smart Life / Tuya Smart](https://forumdomotique.com/forums/88-smart-life-tuya-smart/)

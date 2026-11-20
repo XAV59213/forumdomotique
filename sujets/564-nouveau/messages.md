@@ -1,6 +1,10 @@
 ---
 title: "Nouveau"
+description: "bienvenue à toi et à toute ton expérience. Ce sera un plaisir d’échanger et de t’orienter dans tes choix"
+image: /assets/images/og-default.png
+date: 2025-11-30
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/564-nouveau/">Lire et commenter sur Forum Domotique</a></p>
 
 # Nouveau
 

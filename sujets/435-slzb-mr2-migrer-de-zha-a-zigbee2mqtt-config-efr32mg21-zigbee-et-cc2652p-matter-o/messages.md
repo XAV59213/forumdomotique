@@ -1,6 +1,10 @@
 ---
 title: "SLZB-MR2 : migrer de ZHA à Zigbee2MQTT, config EFR32MG21 Zigbee et CC2652P Matter-over-Thread, conseils firmwares"
+description: "L’erreur « Matter-over-Thread en mode Ethernet nécessite une connexion stable » signifie que ton réseau Ethernet est trop instable ou saturé (gros…"
+image: /assets/images/og-default.png
+date: 2025-10-21
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/435-slzb-mr2-migrer-de-zha-%C3%A0-zigbee2mqtt-config-efr32mg21-zigbee-et-cc2652p-matter-over-thread-conseils-firmwares/">Lire et commenter sur Forum Domotique</a></p>
 
 # SLZB-MR2 : migrer de ZHA à Zigbee2MQTT, config EFR32MG21 Zigbee et CC2652P Matter-over-Thread, conseils firmwares
 

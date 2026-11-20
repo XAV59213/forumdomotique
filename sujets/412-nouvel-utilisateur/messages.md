@@ -1,6 +1,10 @@
 ---
 title: "Nouvel utilisateur"
+description: "J'ai commencer cette intégration pour home assistant pour les piscines ou spa Mon contrôleur de piscine a rendu l'âme si çà t’intéresse de l installer çà…"
+image: /assets/images/og-default.png
+date: 2025-09-25
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/412-nouvel-utilisateur/">Lire et commenter sur Forum Domotique</a></p>
 
 # Nouvel utilisateur
 

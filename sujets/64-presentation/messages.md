@@ -1,6 +1,10 @@
 ---
 title: "presentation"
+description: "presentation — Désoler du retard je remonte le temps au fur a mesure 😅"
+image: /assets/images/og-default.png
+date: 2025-11-04
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/64-presentation/">Lire et commenter sur Forum Domotique</a></p>
 
 # presentation
 

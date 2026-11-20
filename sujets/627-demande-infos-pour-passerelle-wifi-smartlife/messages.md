@@ -1,6 +1,10 @@
 ---
 title: "Demande infos pour passerelle wifi smartlife"
+description: "Il existe des petits hubs Zigbee pas trop chers J’en utilise un en ce moment pour mes interrupteurs tactiles avec rétro-éclairage Oui, tu peux ajouter le…"
+image: /assets/images/og-default.png
+date: 2025-12-23
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/627-demande-infos-pour-passerelle-wifi-smartlife/">Lire et commenter sur Forum Domotique</a></p>
 
 # Demande infos pour passerelle wifi smartlife
 

@@ -1,6 +1,10 @@
 ---
 title: "Quelle Raspberry PI pendre ?"
+description: "Quelle Raspberry PI pendre ? — Un Raspberry Pi 4 Modèle B - 4GB très bien pour commencer"
+image: /assets/images/og-default.png
+date: 2025-07-04
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/244-quelle-raspberry-pi-pendre/">Lire et commenter sur Forum Domotique</a></p>
 
 # Quelle Raspberry PI pendre ?
 

@@ -1,6 +1,10 @@
 ---
 title: "Fini les pannes de piles sur Home Assistant ! Le système PARFAIT"
+description: "Tu peux laisser to: vide si tu veux supprimer le mot \"Batterie\" Sur le code que tu a partagé il y a encore Pile présent"
+image: /assets/images/og-default.png
+date: 2025-10-21
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/339-fini-les-pannes-de-piles-sur-home-assistant-le-syst%C3%A8me-parfait/">Lire et commenter sur Forum Domotique</a></p>
 
 # Fini les pannes de piles sur Home Assistant ! Le système PARFAIT
 

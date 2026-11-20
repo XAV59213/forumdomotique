@@ -1,8 +1,12 @@
 ---
 title: "Lixee ne remonte pas l’injection des panneaux solaire"
+description: "La conversion de la puissance apparente (VA) en watts (W) avec LiXee ZLinky dans Homeassitant il faut créer un capteur sensor template dans Home Assistant…"
+image: /sujets/102-lixee-ne-remonte-pas-linjection-des-panneaux-solaire/images/Capturedcrandu2025-04-2918-42-07.png
+date: 2025-04-29
 ---
-
 {% raw %}
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/102-lixee-ne-remonte-pas-linjection-des-panneaux-solaire/">Lire et commenter sur Forum Domotique</a></p>
+
 # Lixee ne remonte pas l’injection des panneaux solaire
 
 - **Catégorie :** [Autres marques de matériel domotique](https://forumdomotique.com/forums/59-autres-marques-de-mat%C3%A9riel-domotique/)

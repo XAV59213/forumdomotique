@@ -1,6 +1,10 @@
 ---
 title: "Home Assistant: automatisation caméra Sonoff vers ZBMINIR2 ne fonctionne pas avec la condition coucher du soleil"
+description: "Merci pour ta description détaillée. Ton problème semble lié à la condition “après coucher du soleil” dans Home Assistant, qui peut parfois poser des…"
+image: /assets/images/og-default.png
+date: 2026-01-31
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/729-home-assistant-automatisation-cam%C3%A9ra-sonoff-vers-zbminir2-ne-fonctionne-pas-avec-la-condition-coucher-du-soleil/">Lire et commenter sur Forum Domotique</a></p>
 
 # Home Assistant: automatisation caméra Sonoff vers ZBMINIR2 ne fonctionne pas avec la condition coucher du soleil
 

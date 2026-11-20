@@ -1,6 +1,10 @@
 ---
 title: "Question sur les appareils déjà connectés et les mots de passe"
+description: "Quel opérateur utilise-tu, et surtout, quel type de répéteur as-tu choisi ? Si tu as des répéteurs Free tu na pas de mot de passe çà se repete, c’est top…"
+image: /sujets/151-question-sur-les-appareils-deja-connectes-et-les-mots-de-passe/images/XO8oXTOZ.jpeg
+date: 2025-05-22
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/151-question-sur-les-appareils-d%C3%A9j%C3%A0-connect%C3%A9s-et-les-mots-de-passe/">Lire et commenter sur Forum Domotique</a></p>
 
 # Question sur les appareils déjà connectés et les mots de passe
 

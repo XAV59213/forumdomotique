@@ -1,6 +1,10 @@
 ---
 title: "Nouvelle chtite nordiste!"
+description: "Ravi de voir une Nordiste dans le coin ! 🕺 N’hésite pas à partager tes questions ou les problèmes que tu rencontres, on sera ravis de t’aider à optimiser…"
+image: /assets/images/og-default.png
+date: 2025-10-14
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/445-nouvelle-chtite-nordiste/">Lire et commenter sur Forum Domotique</a></p>
 
 # Nouvelle chtite nordiste!
 

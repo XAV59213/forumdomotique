@@ -1,6 +1,10 @@
 ---
 title: "Logo & icône officielle pour « Chauffage Électrique Fil Pilote FR » – Dimensions & noms de fichiers imposés !"
+description: "L’intégration Chauffage Électrique Fil Pilote FR est maintenant stable et utilisée tous les jours Il est temps de lui donner un visage à la hauteur ! Je…"
+image: /assets/images/og-default.png
+date: 2025-12-09
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/597-logo-ic%C3%B4ne-officielle-pour-%C2%AB-chauffage-%C3%A9lectrique-fil-pilote-fr-%C2%BB-dimensions-noms-de-fichiers-impos%C3%A9s/">Lire et commenter sur Forum Domotique</a> · <a href="https://github.com/XAV59213/chauffage">Dépôt HACS : Chauffage Électrique Fil Pilote FR</a></p>
 
 # Logo & icône officielle pour « Chauffage Électrique Fil Pilote FR » – Dimensions & noms de fichiers imposés !
 

@@ -1,6 +1,10 @@
 ---
 title: "Refoss M06, remettre une pince à 0 sur HA"
+description: "Pour remettre le compteur à zéro sur le circuit actuel (la recharge de votre véhicule électrique) après avoir déplacé la pince, la solution la plus fiable…"
+image: /assets/images/og-default.png
+date: 2026-01-15
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/689-refoss-m06-remettre-une-pince-%C3%A0-0-sur-ha/">Lire et commenter sur Forum Domotique</a></p>
 
 # Refoss M06, remettre une pince à 0 sur HA
 

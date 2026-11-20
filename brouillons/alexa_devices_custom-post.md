@@ -1,7 +1,11 @@
 ---
 title: "alexa_devices_custom — PAS DE POST RECOMMANDÉ pour l’instant — décision de Xavier"
+description: "Le README le décrit comme « un clone de l’intégration native alexa devices » (« All credits to the original authors ») : ce n’est pas une création…"
+image: /assets/images/og-default.png
+date: 2026-11-20
+sitemap: false
+robots: noindex, nofollow
 ---
-
 # alexa_devices_custom — PAS DE POST RECOMMANDÉ pour l’instant — décision de Xavier
 
 **Sujet existant :** aucun sur cette intégration. Sujets Alexa liés de Xavier : [178 Intégration Amazon Alexa et Echo et Freebox Player Alexa](https://forumdomotique.com/forums/topic/178-integration-amazon-alexa-et-echo-et-freebox-player-alexa/) (Alexa Media Player ; dernière question de frler74 le 19 janv. 2026, à laquelle Xavier a répondu le 20 janv.), [247 Alerte : panne de l’intégration des appareils Alexa (alexa_device)](https://forumdomotique.com/forums/topic/247-alerte-panne-de-lint%C3%A9gration-des-appareils-alexa-alexa_device/), [488 Bug Alexa Media Player](https://forumdomotique.com/forums/topic/488-bug-alexa-media-player-solution-temporaire-en-attendant-la-mise-%C3%A0-jour-officielle/).

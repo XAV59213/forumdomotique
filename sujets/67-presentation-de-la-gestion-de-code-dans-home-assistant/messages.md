@@ -1,6 +1,10 @@
 ---
 title: "Présentation de la Gestion de Code dans Home Assistant"
+description: "Home Assistant est une plateforme puissante pour l'automatisation domestique. Pour maintenir une configuration claire et modulaire, j'organise mon code en…"
+image: /assets/images/og-default.png
+date: 2025-04-26
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/67-pr%C3%A9sentation-de-la-gestion-de-code-dans-home-assistant/">Lire et commenter sur Forum Domotique</a></p>
 
 # Présentation de la Gestion de Code dans Home Assistant
 

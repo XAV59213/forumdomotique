@@ -1,6 +1,10 @@
 ---
 title: "Avis avant commande ?"
+description: "Merci pour ton message détaillé et bravo pour ton projet ! C'est effectivement le bon moment pour câbler une maison en pensant domotique dès le départ, ça…"
+image: /assets/images/og-default.png
+date: 2026-01-18
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/692-avis-avant-commande/">Lire et commenter sur Forum Domotique</a></p>
 
 # Avis avant commande ?
 

@@ -1,6 +1,10 @@
 ---
 title: "Hello"
+description: "Hello. Publication de XAV59213 sur Forum Domotique, à propos de Home Assistant et de la domotique."
+image: /assets/images/og-default.png
+date: 2025-12-30
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/637-hello/">Lire et commenter sur Forum Domotique</a></p>
 
 # Hello
 

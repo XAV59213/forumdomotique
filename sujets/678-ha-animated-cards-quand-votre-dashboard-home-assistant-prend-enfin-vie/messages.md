@@ -1,6 +1,10 @@
 ---
 title: "HA-Animated-cards : quand votre dashboard Home Assistant prend enfin vie"
+description: "Il y a des projets qui arrivent au bon moment. Vous savez, ces moments où on regarde son dashboard Home Assistant, on voit qu’il fait parfaitement le job…"
+image: /sujets/678-ha-animated-cards-quand-votre-dashboard-home-assistant-prend-enfin-vie/images/523000371-65ba4a4e-bed4-4ee1-8735-03e2bfd67db6.gif
+date: 2026-01-11
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/678-ha-animated-cards-quand-votre-dashboard-home-assistant-prend-enfin-vie/">Lire et commenter sur Forum Domotique</a></p>
 
 # HA-Animated-cards : quand votre dashboard Home Assistant prend enfin vie
 

@@ -1,0 +1,32 @@
+---
+layout: null
+permalink: /feed.xml
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
+  <title>{{ site.title | xml_escape }}</title>
+  <subtitle>{{ site.description | xml_escape }}</subtitle>
+  <link href="{{ '/feed.xml' | absolute_url }}" rel="self" type="application/atom+xml"/>
+  <link href="{{ '/' | absolute_url }}" rel="alternate" type="text/html"/>
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <id>{{ '/' | absolute_url }}</id>
+  <author>
+    <name>{{ site.author.name | xml_escape }}</name>
+    <uri>{{ site.author.url }}</uri>
+  </author>
+  {% assign dated = site.pages | where_exp: "p", "p.date" %}
+  {% assign dated = dated | where_exp: "p", "p.sitemap != false" %}
+  {% assign dated = dated | sort: "date" | reverse %}
+  {% for p in dated limit: 40 %}
+    {% if p.title and p.url != "/feed.xml" and p.url != "/404.html" %}
+  <entry>
+    <title>{{ p.title | xml_escape }}</title>
+    <link href="{{ p.url | absolute_url }}" rel="alternate" type="text/html"/>
+    <id>{{ p.url | absolute_url }}</id>
+    <updated>{{ p.date | date_to_xmlschema }}</updated>
+    <published>{{ p.date | date_to_xmlschema }}</published>
+    <summary>{{ p.description | default: p.title | xml_escape }}</summary>
+  </entry>
+    {% endif %}
+  {% endfor %}
+</feed>

@@ -1,6 +1,10 @@
 ---
 title: "Blueprint ou script pour remplacer la Tywell Pro bioclimatique de Delta Dore et piloter les volets selon luminosité et température"
+description: "Oui, il est tout à fait possible de reproduire les fonctionnalités bioclimatiques de la box Tywell Pro dans Home Assistant sans avoir à l’acheter, en…"
+image: /assets/images/og-default.png
+date: 2026-01-24
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/709-blueprint-ou-script-pour-remplacer-la-tywell-pro-bioclimatique-de-delta-dore-et-piloter-les-volets-selon-luminosit%C3%A9-et-temp%C3%A9rature/">Lire et commenter sur Forum Domotique</a></p>
 
 # Blueprint ou script pour remplacer la Tywell Pro bioclimatique de Delta Dore et piloter les volets selon luminosité et température
 

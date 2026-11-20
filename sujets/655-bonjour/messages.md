@@ -1,6 +1,10 @@
 ---
 title: "Bonjour"
+description: "Pense à passer des RJ45 pour smligth PoE et par la suite pour tes caméras Si tu fais des va-et-vient, n’hésite pas à ajouter des dérivations pour pouvoir…"
+image: /assets/images/og-default.png
+date: 2026-01-05
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/655-bonjour/">Lire et commenter sur Forum Domotique</a></p>
 
 # Bonjour
 

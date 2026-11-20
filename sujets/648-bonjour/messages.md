@@ -1,6 +1,10 @@
 ---
 title: "Bonjour"
+description: "Bonjour — sujet dans Présentez-vous — ouvert le 3 janvier 2026"
+image: /assets/images/og-default.png
+date: 2026-01-03
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/648-bonjour/">Lire et commenter sur Forum Domotique</a></p>
 
 # Bonjour
 

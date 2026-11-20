@@ -1,7 +1,11 @@
 ---
 title: "Brouillon — grok_automation_suggester — RÉPONSE dans le sujet 192 — ne rien publier ni modifier sans le OK de Xavier"
+description: "Action recommandée : publier la réponse complète ci-dessous (premier message non modifiable). Priorité basse : depuis juin 2025, uniquement de la…"
+image: /assets/images/og-default.png
+date: 2026-11-20
+sitemap: false
+robots: noindex, nofollow
 ---
-
 # Brouillon — grok_automation_suggester — RÉPONSE dans le sujet 192 — ne rien publier ni modifier sans le OK de Xavier
 
 **Sujet existant :** [🧠 Grok Automation Suggester – Des idées d’automatisations IA directement dans Home Assistant !](https://forumdomotique.com/forums/topic/192-%F0%9F%A7%A0-grok-automation-suggester-des-id%C3%A9es-dautomatisations-ia-directement-dans-home-assistant/) — Projets et Personnalisations — ouvert le 7 juin 2025 (v1.0.4/1.0.5), 1 seul message, aucune réponse.

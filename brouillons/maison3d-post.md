@@ -1,7 +1,11 @@
 ---
 title: "Brouillon — maison3d — NOUVEAU SUJET — ne rien publier ni modifier sans le OK de Xavier"
+description: "Action recommandée : nouveau sujet dans Projets et Personnalisations Titre proposé : 🏡 [Projet en cours] Maison 3D – Votre maison qui vit au rythme de la…"
+image: /assets/images/og-default.png
+date: 2026-11-20
+sitemap: false
+robots: noindex, nofollow
 ---
-
 # Brouillon — maison3d — NOUVEAU SUJET — ne rien publier ni modifier sans le OK de Xavier
 
 **Sujet existant :** aucun trouvé (profil XAV59213, recherche « maison 3d »). Le sujet 542 « Home Assistant nous réserve de la neige » (Café Domotique) parle du Winter Mode de HA, pas de Maison 3D.

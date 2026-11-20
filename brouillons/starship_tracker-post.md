@@ -1,7 +1,11 @@
 ---
 title: "Brouillon — starship_tracker — NOUVEAU SUJET — ne rien publier ni modifier sans le OK de Xavier"
+description: "Action recommandée : nouveau sujet dans Projets et Personnalisations Titre proposé : 🚀 Starship Tracker – Suivez les lancements Starship de SpaceX dans…"
+image: /assets/images/og-default.png
+date: 2026-11-20
+sitemap: false
+robots: noindex, nofollow
 ---
-
 {% raw %}
 # Brouillon — starship_tracker — NOUVEAU SUJET — ne rien publier ni modifier sans le OK de Xavier
 

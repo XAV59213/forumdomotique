@@ -1,6 +1,10 @@
 ---
 title: "Eleve NUL novice en domotique."
+description: "Félicitations te voilà dans le monde de la domotique ! Pas de souci, je vais t’expliquer pas à pas comment mettre en route ton hub Zigbee Tuya filaire…"
+image: /assets/images/og-default.png
+date: 2025-12-31
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/644-eleve-nul-novice-en-domotique/">Lire et commenter sur Forum Domotique</a></p>
 
 # Eleve NUL novice en domotique.
 

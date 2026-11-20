@@ -1,8 +1,12 @@
 ---
 title: "Migration sans douleur : dire adieu aux templates legacy Home Assistant"
+description: "J’ai remarqué que beaucoup de personnes galèrent un peu avec la nouvelle façon d’utiliser les templates dans Home Assistant Entre l’ancienne syntaxe…"
+image: /sujets/590-migration-sans-douleur-dire-adieu-aux-templates-legacy-home-assistant/images/Capturedcrandu2025-12-0612-35-42.png
+date: 2025-12-06
 ---
-
 {% raw %}
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/590-migration-sans-douleur-dire-adieu-aux-templates-legacy-home-assistant/">Lire et commenter sur Forum Domotique</a></p>
+
 # Migration sans douleur : dire adieu aux templates legacy Home Assistant
 
 - **Catégorie :** [Dépannage et Support Technique](https://forumdomotique.com/forums/19-d%C3%A9pannage-et-support-technique/)

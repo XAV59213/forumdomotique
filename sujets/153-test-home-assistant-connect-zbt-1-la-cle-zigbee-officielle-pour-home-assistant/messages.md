@@ -1,6 +1,10 @@
 ---
 title: "[TEST] Home Assistant Connect ZBT-1 : la clé Zigbee officielle pour Home Assistant"
+description: "Salut ! La différence entre ZHA (Zigbee Home Automation) et Z2M (Zigbee2MQTT) réside dans leur approche, leur intégration, leur compatibilité et leur…"
+image: /assets/images/og-default.png
+date: 2025-05-22
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/153-test-home-assistant-connect-zbt-1-la-cl%C3%A9-zigbee-officielle-pour-home-assistant/">Lire et commenter sur Forum Domotique</a></p>
 
 # [TEST] Home Assistant Connect ZBT-1 : la clé Zigbee officielle pour Home Assistant
 

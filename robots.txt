@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /brouillons/
+
+Sitemap: https://xav59213.github.io/forumdomotique/sitemap.xml

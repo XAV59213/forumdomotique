@@ -1,6 +1,10 @@
 ---
 title: "Je me présente brièvement!"
+description: "Je me présente brièvement!. Publication de XAV59213 sur Forum Domotique, à propos de Home Assistant et de la domotique."
+image: /assets/images/og-default.png
+date: 2026-01-31
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/723-je-me-pr%C3%A9sente-bri%C3%A8vement/">Lire et commenter sur Forum Domotique</a></p>
 
 # Je me présente brièvement!
 

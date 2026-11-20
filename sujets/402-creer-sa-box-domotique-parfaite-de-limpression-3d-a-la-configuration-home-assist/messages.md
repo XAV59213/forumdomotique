@@ -1,6 +1,10 @@
 ---
 title: "Créer sa box domotique parfaite : de l'impression 3D à la configuration Home Assistant !"
+description: "Je suis un débutant en la matière sur la 3D, mais grâce à un tuto ultra clair d'Abrégé sur YouTube (lien en bas), j'ai réussi à monter ma propre box…"
+image: /sujets/402-creer-sa-box-domotique-parfaite-de-limpression-3d-a-la-configuration-home-assist/images/Capturedcrandu2025-09-2015-02-01.png
+date: 2025-09-20
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/402-cr%C3%A9er-sa-box-domotique-parfaite-de-limpression-3d-%C3%A0-la-configuration-home-assistant/">Lire et commenter sur Forum Domotique</a></p>
 
 # Créer sa box domotique parfaite : de l'impression 3D à la configuration Home Assistant !
 

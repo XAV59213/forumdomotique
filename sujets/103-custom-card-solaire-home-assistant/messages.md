@@ -1,6 +1,10 @@
 ---
 title: "Custom card Solaire home assistant"
+description: "Custom card Solaire home assistant. Publication de XAV59213 sur Forum Domotique, à propos de Home Assistant et de la domotique."
+image: /sujets/103-custom-card-solaire-home-assistant/images/Chat-GPT-Image-12-avr-2025-14-00-29-1.png
+date: 2025-04-29
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/103-custom-card-solaire-home-assistant/">Lire et commenter sur Forum Domotique</a></p>
 
 # Custom card Solaire home assistant
 

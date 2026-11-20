@@ -1,6 +1,10 @@
 ---
 title: "Accès https home assistant + Z2M sur proxmox via freebox revolution"
+description: "Je suis moi même sur freebox dès ce week-end je t’aiderai à mettre en place pour moi passe par duckdns tu peux aussi passer par domaine freebox ou…"
+image: /assets/images/og-default.png
+date: 2025-07-24
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/277-acc%C3%A8s-https-home-assistant-z2m-sur-proxmox-via-freebox-revolution/">Lire et commenter sur Forum Domotique</a></p>
 
 # Accès https home assistant + Z2M sur proxmox via freebox revolution
 

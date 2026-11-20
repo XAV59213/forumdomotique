@@ -1,6 +1,10 @@
 ---
 title: "Nouveau dans la domo"
+description: "Nouveau dans la domo. Publication de XAV59213 sur Forum Domotique, à propos de Home Assistant et de la domotique."
+image: /assets/images/og-default.png
+date: 2026-02-22
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/779-nouveau-dans-la-domo/">Lire et commenter sur Forum Domotique</a></p>
 
 # Nouveau dans la domo
 

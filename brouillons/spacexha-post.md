@@ -1,7 +1,11 @@
 ---
 title: "spacexha (Lancements de SpaceX et Starman) — PAS DE POST RECOMMANDÉ — décision de Xavier"
+description: "Le README du dépôt indique lui-même (texte repris de l’intégration d’origine de djtimca, « Update Jan 1 2023 ») que l’API qui fournissait les données ne…"
+image: /assets/images/og-default.png
+date: 2026-11-20
+sitemap: false
+robots: noindex, nofollow
 ---
-
 # spacexha (Lancements de SpaceX et Starman) — PAS DE POST RECOMMANDÉ — décision de Xavier
 
 **Sujet existant :** aucun (profil XAV59213, recherche « spacex »).

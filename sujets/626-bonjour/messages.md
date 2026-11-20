@@ -1,6 +1,10 @@
 ---
 title: "Bonjour !"
+description: "Bonjour ! — Avec plaisir, n’hésite pas à créer des posts sur le forum.✌️"
+image: /assets/images/og-default.png
+date: 2025-12-22
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/626-bonjour/">Lire et commenter sur Forum Domotique</a></p>
 
 # Bonjour !
 

@@ -1,6 +1,10 @@
 ---
 title: "bonjour du 41"
+description: "Bienvenue dans la communauté, vieux geek du sud-ouest À 77 balais, ton setup connecté avec 40 devices, solaire et tout fait maison, c’est impressionnant…"
+image: /assets/images/og-default.png
+date: 2025-11-26
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/541-bonjour-du-41/">Lire et commenter sur Forum Domotique</a></p>
 
 # bonjour du 41
 

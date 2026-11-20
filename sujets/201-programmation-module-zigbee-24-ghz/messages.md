@@ -1,6 +1,10 @@
 ---
 title: "Programmation module ZigBee 2,4 GHZ"
+description: "Oui, ce que tu veux faire est tout à fait possible dans la plupart des cas, mais ça dépend exactement de quel microcontrôleur et de quelle puce Zigbee est…"
+image: /sujets/201-programmation-module-zigbee-24-ghz/images/IMG_20251201_124039.jpg.f9eaf8cb7175f309fdb89e8f9e893359.jpg
+date: 2025-11-30
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/201-programmation-module-zigbee-24-ghz/">Lire et commenter sur Forum Domotique</a></p>
 
 # Programmation module ZigBee 2,4 GHZ
 

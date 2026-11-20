@@ -1,6 +1,10 @@
 ---
 title: "Spam"
+description: "Désolé pour le troll indonésien qui nous a spammé notre forum en début d’après-midi, l’administrateur est au courant Oui, l’administrateur a bloqué…"
+image: /assets/images/og-default.png
+date: 2025-11-25
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/535-spam/">Lire et commenter sur Forum Domotique</a></p>
 
 # Spam
 

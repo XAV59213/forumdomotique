@@ -1,6 +1,10 @@
 ---
 title: "Automatisation de présence"
+description: "Automatisation de présence — Voici un bout de code que tu peux adapter"
+image: /sujets/243-automatisation-de-presence/images/IMG_5624.png
+date: 2025-07-03
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/243-automatisation-de-pr%C3%A9sence/">Lire et commenter sur Forum Domotique</a></p>
 
 # Automatisation de présence
 

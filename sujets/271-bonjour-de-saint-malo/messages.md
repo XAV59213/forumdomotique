@@ -1,6 +1,10 @@
 ---
 title: "Bonjour de Saint Malo"
+description: "Bonjour de Saint Malo. Publication de XAV59213 sur Forum Domotique, à propos de Home Assistant et de la domotique."
+image: /assets/images/og-default.png
+date: 2025-08-07
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/271-bonjour-de-saint-malo/">Lire et commenter sur Forum Domotique</a></p>
 
 # Bonjour de Saint Malo
 

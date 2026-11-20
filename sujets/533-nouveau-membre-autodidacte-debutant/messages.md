@@ -1,6 +1,10 @@
 ---
 title: "Nouveau membre autodidacte débutant"
+description: "C’est super que tu suives ces chaînes YouTube, elles sont vraiment top pour s’inspirer en domotique Moi-même, je tourne avec Home Assistant sur un…"
+image: /assets/images/og-default.png
+date: 2025-11-25
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/533-nouveau-membre-autodidacte-d%C3%A9butant/">Lire et commenter sur Forum Domotique</a></p>
 
 # Nouveau membre autodidacte débutant
 

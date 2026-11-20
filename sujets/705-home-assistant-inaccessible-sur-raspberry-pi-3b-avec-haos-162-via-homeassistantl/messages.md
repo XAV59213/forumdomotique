@@ -1,6 +1,10 @@
 ---
 title: "Home Assistant inaccessible sur Raspberry Pi 3B+ avec HAOS 16.2 via homeassistant.local:8123/4357, LED RJ45 ne clignote pas"
+description: "Home Assistant inaccessible sur Raspberry Pi 3B+ avec HAOS 16.2 via homeassistant.local:8123/4357, LED RJ45 ne clignote pas. Publication de XAV59213 sur…"
+image: /assets/images/og-default.png
+date: 2026-01-22
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/705-home-assistant-inaccessible-sur-raspberry-pi-3b-avec-haos-162-via-homeassistantlocal81234357-led-rj45-ne-clignote-pas/">Lire et commenter sur Forum Domotique</a></p>
 
 # Home Assistant inaccessible sur Raspberry Pi 3B+ avec HAOS 16.2 via homeassistant.local:8123/4357, LED RJ45 ne clignote pas
 

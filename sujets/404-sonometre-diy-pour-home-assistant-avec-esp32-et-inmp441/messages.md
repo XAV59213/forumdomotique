@@ -1,6 +1,10 @@
 ---
 title: "Sonomètre DIY pour Home Assistant avec ESP32 et INMP441"
+description: "Montre-moi ton fichier YAML complet (surtout les parties i2s audio:, microphone:, sound level:). Sans ça, c’est dur de pointer exactement le problème"
+image: /assets/images/og-default.png
+date: 2026-03-18
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/404-sonom%C3%A8tre-diy-pour-home-assistant-avec-esp32-et-inmp441/">Lire et commenter sur Forum Domotique</a></p>
 
 # Sonomètre DIY pour Home Assistant avec ESP32 et INMP441
 

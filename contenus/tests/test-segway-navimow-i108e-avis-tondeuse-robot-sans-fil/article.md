@@ -1,6 +1,10 @@
 ---
 title: "Test Segway Navimow i108E : un mois avec la tondeuse robot sans câble périmétrique"
+description: "La tondeuse robot sans fil périmétrique est l'une des évolutions les plus intéressantes de ces dernières années pour qui veut automatiser l'entretien du…"
+image: /contenus/tests/test-segway-navimow-i108e-avis-tondeuse-robot-sans-fil/images/logo_amazon.png
+date: 2026-03-29
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/tests/accessoires/test-segway-navimow-i108e-avis-tondeuse-robot-sans-fil/">Lire et commenter sur Forum Domotique</a></p>
 
 # Test Segway Navimow i108E : un mois avec la tondeuse robot sans câble périmétrique
 

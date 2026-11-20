@@ -1,6 +1,10 @@
 ---
 title: "Installer et configurer le SONOFF ZBMINIL2 ZigBee sur Home Assistant : guide complet (poussoir, va-et-vient, interrupteur simple)"
+description: "Dans le monde de la domotique, les modules ZigBee comme le SONOFF ZBMINIL2 offrent une flexibilité incroyable pour moderniser vos interrupteurs existants…"
+image: /contenus/guides/installer-sonoff-zbminil2-home-assistant-zigbee-sans-neutre/images/Designsanstitre.png
+date: 2025-10-12
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/guides-tutoriels/home-assistant/installer-sonoff-zbminil2-home-assistant-zigbee-sans-neutre/">Lire et commenter sur Forum Domotique</a></p>
 
 # Installer et configurer le SONOFF ZBMINIL2 ZigBee sur Home Assistant : guide complet (poussoir, va-et-vient, interrupteur simple)
 

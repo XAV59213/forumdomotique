@@ -1,6 +1,10 @@
 ---
 title: "Problème interrupteurs sans fil Legrand avec module 0648 88: plus d'allumage, LED rouge, piles ou appairage perdu ?"
+description: "Vos description correspond à un système Legrand Céliane with Netatmo, incluant un micromodule d’éclairage (réf. 0648 88) et des interrupteurs sans fil…"
+image: /assets/images/og-default.png
+date: 2025-12-02
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/374-probl%C3%A8me-interrupteurs-sans-fil-legrand-avec-module-0648-88-plus-dallumage-led-rouge-piles-ou-appairage-perdu/">Lire et commenter sur Forum Domotique</a></p>
 
 # Problème interrupteurs sans fil Legrand avec module 0648 88: plus d'allumage, LED rouge, piles ou appairage perdu ?
 

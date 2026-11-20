@@ -1,6 +1,10 @@
 ---
 title: "Bug Alexa Media Player : Solution temporaire en attendant la mise à jour officielle"
+description: "Un bug récent affecté le custom component Alexa Media Player dans Home Assistant, empêchant une authentification correcte avec les services Amazon Alexa…"
+image: /sujets/488-bug-alexa-media-player-solution-temporaire-en-attendant-la-mise-a-jour-officiell/images/IMG_6225.png
+date: 2025-11-08
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/488-bug-alexa-media-player-solution-temporaire-en-attendant-la-mise-%C3%A0-jour-officielle/">Lire et commenter sur Forum Domotique</a></p>
 
 # Bug Alexa Media Player : Solution temporaire en attendant la mise à jour officielle
 

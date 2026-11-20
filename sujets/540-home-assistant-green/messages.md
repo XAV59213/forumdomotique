@@ -1,6 +1,10 @@
 ---
 title: "home assistant green"
+description: "Il n’y a pas de limite pour les protocoles : soit tu passes par des dongles USB directement sur ton Green (tu peux utiliser un hub USB pour en ajouter…"
+image: /assets/images/og-default.png
+date: 2025-11-26
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/540-home-assistant-green/">Lire et commenter sur Forum Domotique</a></p>
 
 # home assistant green
 

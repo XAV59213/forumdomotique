@@ -1,7 +1,11 @@
 ---
 title: "Brouillon — freebox_homexa — RÉPONSE dans le sujet 4074 — ne rien publier ni modifier sans le OK de Xavier"
+description: "Action recommandée : publier la réponse complète ci-dessous dans le sujet 4074 (le plus récent, où sont les lecteurs des nouveautés ; les premiers…"
+image: /assets/images/og-default.png
+date: 2026-11-20
+sitemap: false
+robots: noindex, nofollow
 ---
-
 # Brouillon — freebox_homexa — RÉPONSE dans le sujet 4074 — ne rien publier ni modifier sans le OK de Xavier
 
 **Sujet existant :** 4 sujets : [101 Présentation du projet freebox_homexa](https://forumdomotique.com/forums/topic/101-pr%C3%A9sentation-du-projet-freebox_homexa/) (Projets et Personnalisations, 28 avr. 2025, simple présentation d’intention, 2 messages, dernier Jack le 29 avr. 2025) ; [4008 Guide utilisateur (v28.8.24)](https://forumdomotique.com/forums/topic/4008-guide-utilisateur-freebox-homexa-de-linstallation-%C3%A0-lutilisation-v28824/) (27 sept. 2026) ; [4063 « passe en 28.8.64 »](https://forumdomotique.com/forums/topic/4063-%F0%9F%8F%A0-freebox-homexa-passe-en-28864/) (Intégrations et Add-ons, 25 oct. 2026) ; [4074 « est dans HACS par défaut »](https://forumdomotique.com/forums/topic/4074-freebox-homexa-est-dans-hacs-par-d%C3%A9faut-%F0%9F%8E%89-et-pas-mal-de-nouveaut%C3%A9s/) (Intégrations et Add-ons, 2 nov. 2026, nouveautés jusqu’à la 28.8.74).

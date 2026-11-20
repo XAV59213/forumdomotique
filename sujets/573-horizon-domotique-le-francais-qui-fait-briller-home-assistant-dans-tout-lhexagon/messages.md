@@ -1,6 +1,10 @@
 ---
 title: "Horizon Domotique : le Français qui fait briller Home Assistant dans tout l’Hexagone (et au-delà !)"
+description: "Jenova70 (JLo) : de la passion du dimanche à salarié chez Nabu Casa, l’histoire d’un maker qui rend la domotique open-source accessible aux francophones…"
+image: /assets/images/og-default.png
+date: 2025-12-01
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/573-horizon-domotique-le-fran%C3%A7ais-qui-fait-briller-home-assistant-dans-tout-lhexagone-et-au-del%C3%A0/">Lire et commenter sur Forum Domotique</a></p>
 
 # Horizon Domotique : le Français qui fait briller Home Assistant dans tout l’Hexagone (et au-delà !)
 

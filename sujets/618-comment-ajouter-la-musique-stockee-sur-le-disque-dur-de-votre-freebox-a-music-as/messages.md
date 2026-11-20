@@ -1,6 +1,10 @@
 ---
 title: "Comment ajouter la musique stockée sur le disque dur de votre Freebox à Music Assistant via partage SMB"
+description: "Music Assistant est un excellent add-on pour Home Assistant qui permet de gérer et diffuser une bibliothèque musicale unifiée, y compris vos fichiers…"
+image: /sujets/618-comment-ajouter-la-musique-stockee-sur-le-disque-dur-de-votre-freebox-a-music-as/images/Capturedcrandu2025-12-2113-19-55.png
+date: 2025-12-21
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/618-comment-ajouter-la-musique-stock%C3%A9e-sur-le-disque-dur-de-votre-freebox-%C3%A0-music-assistant-via-partage-smb/">Lire et commenter sur Forum Domotique</a></p>
 
 # Comment ajouter la musique stockée sur le disque dur de votre Freebox à Music Assistant via partage SMB
 

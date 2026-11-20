@@ -1,8 +1,12 @@
 ---
 title: "Intégrer un poêle à granulés Brisach dans Home Assistant : possible ?"
+description: "D’après mes recherches, intégrer un poêle à granulés Brisach dans Home Assistant est tout à fait possible, mais ça dépend du modèle et de la configuration…"
+image: /sujets/734-integrer-un-poele-a-granules-brisach-dans-home-assistant-possible/images/maestro_mcz.png
+date: 2026-02-01
 ---
-
 {% raw %}
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/734-int%C3%A9grer-un-po%C3%AAle-%C3%A0-granul%C3%A9s-brisach-dans-home-assistant-possible/">Lire et commenter sur Forum Domotique</a></p>
+
 # Intégrer un poêle à granulés Brisach dans Home Assistant : possible ?
 
 - **Catégorie :** [Tutoriels, Guides & Astuces des Membres](https://forumdomotique.com/forums/87-tutoriels-guides-astuces-des-membres/)

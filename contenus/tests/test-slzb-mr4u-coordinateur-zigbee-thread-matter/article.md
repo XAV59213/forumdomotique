@@ -1,6 +1,10 @@
 ---
 title: "Test du SMLight SLZB-MR4U : un coordinateur Zigbee + Thread/Matter qui simplifie vraiment la vie"
+description: "J’ai installé pas mal de dongles Zigbee au fil des années, souvent en jonglant entre les limites de portée, les conflits radio et les essais plus ou moins…"
+image: /contenus/tests/test-slzb-mr4u-coordinateur-zigbee-thread-matter/images/logo_domadoo.png
+date: 2025-11-17
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/tests/dongles-passerelles/test-slzb-mr4u-coordinateur-zigbee-thread-matter/">Lire et commenter sur Forum Domotique</a></p>
 
 # Test du SMLight SLZB-MR4U : un coordinateur Zigbee + Thread/Matter qui simplifie vraiment la vie
 

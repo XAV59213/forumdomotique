@@ -1,6 +1,10 @@
 ---
 title: "Mon projet domotique : caddies 3D pour sécuriser les disques de mon HP  Gen8"
+description: "Depuis 3 jours , j’ai subi des coupures Internet à répétition à cause d’un vrai déluge dans ma région Internet est revenu ce matin seulement 😅 j’ai…"
+image: /sujets/460-mon-projet-domotique-caddies-3d-pour-securiser-les-disques-de-mon-hp-gen8/images/Capturedcrandu2025-10-2514-07-15.png
+date: 2025-10-25
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/460-mon-projet-domotique-caddies-3d-pour-s%C3%A9curiser-les-disques-de-mon-hp-gen8/">Lire et commenter sur Forum Domotique</a></p>
 
 # Mon projet domotique : caddies 3D pour sécuriser les disques de mon HP  Gen8
 

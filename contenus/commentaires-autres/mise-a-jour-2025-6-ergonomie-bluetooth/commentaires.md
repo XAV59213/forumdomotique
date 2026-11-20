@@ -1,6 +1,10 @@
 ---
 title: "Commentaires de XAV59213 — Home Assistant 2025.6 : la mise à jour de juin 2025 améliore encore l’ergonomie et la gestion Bluetooth"
+description: "Premier commentaire : 8 octobre 2025 à 12:28 (Europe/Paris) (Article rédigé par un autre auteur ; seuls les commentaires de XAV59213 sont sauvegardés ici.)"
+image: /assets/images/og-default.png
+date: 2025-10-08
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/actualites/home-assistant/mise-a-jour-2025-6-ergonomie-bluetooth/?do=findComment&comment=19">Lire et commenter sur Forum Domotique</a></p>
 
 # Commentaires de XAV59213 — Home Assistant 2025.6 : la mise à jour de juin 2025 améliore encore l’ergonomie et la gestion Bluetooth
 

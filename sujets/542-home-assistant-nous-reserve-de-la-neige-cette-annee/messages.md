@@ -1,8 +1,12 @@
 ---
 title: "Home Assistant nous réserve de la neige cette année !"
+description: "Plus de détails sur le Winter Mode dans Home Assistant 2025.12 Le Winter Mode ❄️ est la toute première fonctionnalité preview introduite dans Home…"
+image: /sujets/542-home-assistant-nous-reserve-de-la-neige-cette-annee/images/IMG_6335.png
+date: 2025-11-27
 ---
-
 {% raw %}
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/542-home-assistant-nous-r%C3%A9serve-de-la-neige-cette-ann%C3%A9e/">Lire et commenter sur Forum Domotique</a></p>
+
 # Home Assistant nous réserve de la neige cette année !
 
 - **Catégorie :** [Café Domotique](https://forumdomotique.com/forums/85-caf%C3%A9-domotique/)

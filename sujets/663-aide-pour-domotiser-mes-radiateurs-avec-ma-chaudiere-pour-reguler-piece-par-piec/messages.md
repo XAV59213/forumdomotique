@@ -1,6 +1,10 @@
 ---
 title: "Aide pour domotiser mes radiateurs avec ma chaudière pour réguler pièce par pièce sans se brancher directement à la chaudière (TRV Sonoff et Vitodens 100-W OpenTherm)"
+description: "Je ne suis pas un pro du chauffage (et pour des raisons de sécurité, je te conseille vivement de ne pas bricoler seul si tu n'es pas qualifié), mais voici…"
+image: /assets/images/og-default.png
+date: 2026-01-10
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/663-aide-pour-domotiser-mes-radiateurs-avec-ma-chaudi%C3%A8re-pour-r%C3%A9guler-pi%C3%A8ce-par-pi%C3%A8ce-sans-se-brancher-directement-%C3%A0-la-chaudi%C3%A8re-trv-sonoff-et-vitodens-100-w-opentherm/">Lire et commenter sur Forum Domotique</a></p>
 
 # Aide pour domotiser mes radiateurs avec ma chaudière pour réguler pièce par pièce sans se brancher directement à la chaudière (TRV Sonoff et Vitodens 100-W OpenTherm)
 

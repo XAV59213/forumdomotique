@@ -1,6 +1,10 @@
 ---
 title: "Pas encore retraité mais j'ai l'âge d'y être."
+description: "Bienvenue dans le monde de la domotique avec Home Assistant, c'est un super choix pour une maison ancienne (et c'est souvent plus fun que de rester sur…"
+image: /sujets/675-pas-encore-retraite-mais-jai-lage-dy-etre/images/image.png
+date: 2026-01-11
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/675-pas-encore-retrait%C3%A9-mais-jai-l%C3%A2ge-dy-%C3%AAtre/">Lire et commenter sur Forum Domotique</a></p>
 
 # Pas encore retraité mais j'ai l'âge d'y être.
 

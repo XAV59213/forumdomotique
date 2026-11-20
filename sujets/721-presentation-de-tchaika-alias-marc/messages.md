@@ -1,6 +1,10 @@
 ---
 title: "Présentation de Tchaïka, alias Marc"
+description: "Et prévois un Raspberry Pi 4 pour Home Assistant au minimum, tu verras la différence Oui, effectivement, les prix des Raspberry Pi sont un peu élevés…"
+image: /assets/images/og-default.png
+date: 2026-01-30
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/721-pr%C3%A9sentation-de-tcha%C3%AFka-alias-marc/">Lire et commenter sur Forum Domotique</a></p>
 
 # Présentation de Tchaïka, alias Marc
 

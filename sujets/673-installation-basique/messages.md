@@ -1,6 +1,10 @@
 ---
 title: "Installation basique"
+description: "Voici les solutions réalistes pour ton besoin : suivre la température intérieure à distance en 4G (sans WiFi/box allumée) et piloter la pompe de…"
+image: /assets/images/og-default.png
+date: 2026-01-10
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/673-installation-basique/">Lire et commenter sur Forum Domotique</a></p>
 
 # Installation basique
 

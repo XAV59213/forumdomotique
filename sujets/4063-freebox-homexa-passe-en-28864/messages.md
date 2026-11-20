@@ -1,6 +1,10 @@
 ---
 title: "🏠 Freebox Homexa passe en 28.8.64 !"
+description: "🏠 Freebox Homexa passe en 28.8.64 !. Publication de XAV59213 sur Forum Domotique, à propos de Home Assistant et de la domotique."
+image: /sujets/4063-freebox-homexa-passe-en-28864/images/Capturedcrandu2026-10-2519-17-13.png
+date: 2026-10-25
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/4063-%F0%9F%8F%A0-freebox-homexa-passe-en-28864/">Lire et commenter sur Forum Domotique</a> · <a href="https://github.com/XAV59213/freebox_homexa">Dépôt HACS : Freebox Homexa</a></p>
 
 # 🏠 Freebox Homexa passe en 28.8.64 !
 

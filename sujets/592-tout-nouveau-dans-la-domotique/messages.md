@@ -1,6 +1,10 @@
 ---
 title: "Tout nouveau dans la domotique ."
+description: "Tout nouveau dans la domotique. Publication de XAV59213 sur Forum Domotique, à propos de Home Assistant et de la domotique."
+image: /assets/images/og-default.png
+date: 2025-12-08
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/592-tout-nouveau-dans-la-domotique/">Lire et commenter sur Forum Domotique</a></p>
 
 # Tout nouveau dans la domotique .
 

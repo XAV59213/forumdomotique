@@ -1,6 +1,10 @@
 ---
 title: "Kikou le forum"
+description: "Passionné d’informatique depuis plus de 30 ans, j’ai vécu les débuts d’Internet et je n’ai jamais lâché l’affaire ! ✌️ Depuis 4 ans, je suis plongé dans…"
+image: /assets/images/og-default.png
+date: 2025-04-26
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/66-kikou-le-forum/">Lire et commenter sur Forum Domotique</a></p>
 
 # Kikou le forum
 

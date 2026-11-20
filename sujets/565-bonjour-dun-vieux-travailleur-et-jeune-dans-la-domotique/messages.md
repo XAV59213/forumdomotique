@@ -1,6 +1,10 @@
 ---
 title: "Bonjour, d'un vieux travailleur, et jeune dans la domotique"
+description: "Je vois que tu es en train de te lancer dans Home Assistant (HA) et le Zigbee, et que tu te sens un peu submergé par toutes les options. Pas de panique…"
+image: /assets/images/og-default.png
+date: 2025-11-30
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/565-bonjour-dun-vieux-travailleur-et-jeune-dans-la-domotique/">Lire et commenter sur Forum Domotique</a></p>
 
 # Bonjour, d'un vieux travailleur, et jeune dans la domotique
 

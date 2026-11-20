@@ -1,6 +1,10 @@
 ---
 title: "Visiophone qui voit, entend mais refuse l'ouverture"
+description: "Pourriez-vous m'aider à préciser les points suivants concernant votre installation Un schéma simple (même à main levée) indiquant les composants…"
+image: /sujets/27-visiophone-qui-voit-entend-mais-refuse-louverture/images/Capturedcrandu2025-05-2214-43-10.png
+date: 2025-04-26
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/27-visiophone-qui-voit-entend-mais-refuse-louverture/">Lire et commenter sur Forum Domotique</a></p>
 
 # Visiophone qui voit, entend mais refuse l'ouverture
 

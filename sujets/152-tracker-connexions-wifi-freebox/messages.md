@@ -1,6 +1,10 @@
 ---
 title: "Tracker connexions Wifi Freebox"
+description: "Concernant la détection de présence avec l'intégration Freebox dans Home Assistant, il semble que la fonctionnalité de suivi des appareils connectés au…"
+image: /sujets/152-tracker-connexions-wifi-freebox/images/default-social.png
+date: 2025-05-30
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/152-tracker-connexions-wifi-freebox/">Lire et commenter sur Forum Domotique</a></p>
 
 # Tracker connexions Wifi Freebox
 

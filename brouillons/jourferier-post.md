@@ -1,7 +1,11 @@
 ---
 title: "Brouillon — jourferier — RÉPONSE dans le sujet 194 — ne rien publier ni modifier sans le OK de Xavier"
+description: "Action recommandée : publier la réponse complète ci-dessous dans le sujet existant. Le forum ne permet plus de modifier le premier message (délai de…"
+image: /assets/images/og-default.png
+date: 2026-11-20
+sitemap: false
+robots: noindex, nofollow
 ---
-
 # Brouillon — jourferier — RÉPONSE dans le sujet 194 — ne rien publier ni modifier sans le OK de Xavier
 
 **Sujet existant :** [## 🇫🇷 [Intégration HA] Jour Férié – Capteur de jours fériés](https://forumdomotique.com/forums/topic/194-%F0%9F%87%AB%F0%9F%87%B7-int%C3%A9gration-ha-jour-f%C3%A9ri%C3%A9-capteur-de-jours-f%C3%A9ri%C3%A9s/) — Projets et Personnalisations — ouvert le 7 juin 2025 (v1.0.x : `sensor.jour_ferie` + service `create_card`, dépôt perso), 13 messages ; dernier : Xavier le 4 mai 2026 (réponse à thierryha54 sur l’Alsace-Moselle).

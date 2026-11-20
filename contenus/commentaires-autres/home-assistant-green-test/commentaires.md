@@ -1,6 +1,10 @@
 ---
 title: "Commentaires de XAV59213 — Home Assistant Green : test complet de la box domotique officielle, simple, efficace… et enfin accessible à tous"
+description: "Premier commentaire : 11 octobre 2025 à 17:09 (Europe/Paris) (Article rédigé par un autre auteur ; seuls les commentaires de XAV59213 sont sauvegardés…"
+image: /assets/images/og-default.png
+date: 2025-10-11
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/tests/box-domotiques/home-assistant-green-test/?do=findComment&comment=20">Lire et commenter sur Forum Domotique</a></p>
 
 # Commentaires de XAV59213 — Home Assistant Green : test complet de la box domotique officielle, simple, efficace… et enfin accessible à tous
 

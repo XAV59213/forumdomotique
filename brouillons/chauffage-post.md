@@ -1,7 +1,11 @@
 ---
 title: "Brouillon — chauffage — RÉPONSE dans le sujet 596 — ne rien publier ni modifier sans le OK de Xavier"
+description: "Action recommandée : publier la réponse complète ci-dessous dans le sujet existant. Le forum ne permet plus de modifier le premier message (délai de…"
+image: /assets/images/og-default.png
+date: 2026-11-20
+sitemap: false
+robots: noindex, nofollow
 ---
-
 # Brouillon — chauffage — RÉPONSE dans le sujet 596 — ne rien publier ni modifier sans le OK de Xavier
 
 **Sujet existant :** [Chauffage Électrique Fil Pilote FR – Enfin une intégration qui parle français !](https://forumdomotique.com/forums/topic/596-chauffage-%C3%A9lectrique-fil-pilote-fr-enfin-une-int%C3%A9gration-qui-parle-fran%C3%A7ais/) — Projets et Personnalisations — ouvert le 9 déc. 2025 (« utiliser la v.1.0.8 stable »), 3 messages ; dernier : wibip le 14 mai 2026, **question restée sans réponse** (comment créer le thermostat central). Sujet lié : [597 Logo & icône](https://forumdomotique.com/forums/topic/597-logo-ic%C3%B4ne-officielle-pour-%C2%AB-chauffage-%C3%A9lectrique-fil-pilote-fr-%C2%BB-dimensions-noms-de-fichiers-impos%C3%A9s/) (Café Domotique), rien à faire.

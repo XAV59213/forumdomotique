@@ -1,6 +1,10 @@
 ---
 title: "Dems nouvel utilisateur d'HA !"
+description: "Dems nouvel utilisateur d'HA !. Publication de XAV59213 sur Forum Domotique, à propos de Home Assistant et de la domotique."
+image: /assets/images/og-default.png
+date: 2025-10-11
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/437-dems-nouvel-utilisateur-dha/">Lire et commenter sur Forum Domotique</a></p>
 
 # Dems nouvel utilisateur d'HA !
 

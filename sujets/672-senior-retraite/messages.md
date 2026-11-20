@@ -1,6 +1,10 @@
 ---
 title: "Senior retraité"
+description: "Senior retraité. Publication de XAV59213 sur Forum Domotique, à propos de Home Assistant et de la domotique."
+image: /assets/images/og-default.png
+date: 2026-01-10
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/672-senior-retrait%C3%A9/">Lire et commenter sur Forum Domotique</a></p>
 
 # Senior retraité
 

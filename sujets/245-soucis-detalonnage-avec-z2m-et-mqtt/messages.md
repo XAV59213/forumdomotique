@@ -1,6 +1,10 @@
 ---
 title: "soucis d'étalonnage avec Z2M et MQTT"
+description: "https://www.productinfo.schneider-electric.com/wiser home/mureva-evlink wiser home device-user-guide/French/Mureva%20EVLink Socket Wiser Home…"
+image: /assets/images/og-default.png
+date: 2025-07-04
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/245-soucis-d%C3%A9talonnage-avec-z2m-et-mqtt/">Lire et commenter sur Forum Domotique</a></p>
 
 # soucis d'étalonnage avec Z2M et MQTT
 

@@ -1,6 +1,10 @@
 ---
 title: "Comment démonter la clé Sonoff PMG24 et la mettre en mode appairage Zigbee ?"
+description: "Je ferai un tutoriel plus approfondi pour passer les clés USB en mode routeur J’en ai actuellement une à l’extérieur pour étendre mon réseau à l’extérieur…"
+image: /assets/images/og-default.png
+date: 2026-02-01
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/732-comment-d%C3%A9monter-la-cl%C3%A9-sonoff-pmg24-et-la-mettre-en-mode-appairage-zigbee/">Lire et commenter sur Forum Domotique</a></p>
 
 # Comment démonter la clé Sonoff PMG24 et la mettre en mode appairage Zigbee ?
 

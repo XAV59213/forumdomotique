@@ -1,6 +1,10 @@
 ---
 title: "SMART LIFE conditions d'automatisme"
+description: "Merci pour ton message détaillé. Ton scénario semble bien pensé pour couper la clim quand une baie vitrée s’ouvre, et la remettre en marche quand toutes…"
+image: /assets/images/og-default.png
+date: 2025-11-26
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/492-smart-life-conditions-dautomatisme/">Lire et commenter sur Forum Domotique</a></p>
 
 # SMART LIFE conditions d'automatisme
 

@@ -1,6 +1,10 @@
 ---
 title: "vieux nouveau qui envisage de connecter ses climatiseurs"
+description: "À 80 ans et avec une maîtrise en informatique de gestion, vous êtes clairement un pionnier dans le domaine respect ! Je vais essayer de vous aider avec…"
+image: /assets/images/og-default.png
+date: 2025-11-25
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/511-vieux-nouveau-qui-envisage-de-connecter-ses-climatiseurs/">Lire et commenter sur Forum Domotique</a></p>
 
 # vieux nouveau qui envisage de connecter ses climatiseurs
 

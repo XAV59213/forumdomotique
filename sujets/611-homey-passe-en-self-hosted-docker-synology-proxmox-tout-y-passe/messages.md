@@ -1,6 +1,10 @@
 ---
 title: "Homey passe en self-hosted : Docker, Synology, Proxmox… tout y passe"
+description: "J’avais un vieux Raspberry Pi qui traînait sans rien faire, je vais enfin pouvoir le recycler pour tester Homey Self-Hosted Server direct dessus Merci…"
+image: /assets/images/og-default.png
+date: 2025-12-18
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/611-homey-passe-en-self-hosted-docker-synology-proxmox-tout-y-passe/">Lire et commenter sur Forum Domotique</a></p>
 
 # Homey passe en self-hosted : Docker, Synology, Proxmox… tout y passe
 

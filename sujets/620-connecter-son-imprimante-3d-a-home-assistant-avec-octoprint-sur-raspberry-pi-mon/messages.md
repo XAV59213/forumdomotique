@@ -1,6 +1,10 @@
 ---
 title: "Connecter son imprimante 3D à Home Assistant avec OctoPrint sur Raspberry Pi : mon retour d'expérience"
+description: "Depuis que j'ai plongé plus sérieusement dans l'impression 3D il y a quelques mois , avec une Artilery Genuis qui trône dans mon atelier, je cherchais une…"
+image: /sujets/620-connecter-son-imprimante-3d-a-home-assistant-avec-octoprint-sur-raspberry-pi-mon/images/Capturedcrandu2025-12-2114-39-36.png
+date: 2025-12-21
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/620-connecter-son-imprimante-3d-%C3%A0-home-assistant-avec-octoprint-sur-raspberry-pi-mon-retour-dexp%C3%A9rience/">Lire et commenter sur Forum Domotique</a></p>
 
 # Connecter son imprimante 3D à Home Assistant avec OctoPrint sur Raspberry Pi : mon retour d'expérience
 

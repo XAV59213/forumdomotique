@@ -1,6 +1,10 @@
 ---
 title: "domotiser un appartement"
+description: "@Ellywick a tout à fait raison : si vous voulez débuter à moindre coût, Zigbee est actuellement la meilleure solution Home Assistant est un logiciel…"
+image: /assets/images/og-default.png
+date: 2025-06-22
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/205-domotiser-un-appartement/">Lire et commenter sur Forum Domotique</a></p>
 
 # domotiser un appartement
 

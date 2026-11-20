@@ -1,6 +1,10 @@
 ---
 title: "Modèle pour Vos Demandes d'Aide sur Home Assistant"
+description: "Merci de remplir ce modèle (2-4 min maxi) ! Ça change énormément la rapidité et la qualité des réponses Avec ces infos on voit tout de suite…"
+image: /sujets/730-modele-pour-vos-demandes-daide-sur-home-assistant/images/2caebf6b-03da-4291-8154-b32f2da42c67.jpg
+date: 2026-01-31
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/730-mod%C3%A8le-pour-vos-demandes-daide-sur-home-assistant/">Lire et commenter sur Forum Domotique</a></p>
 
 # Modèle pour Vos Demandes d'Aide sur Home Assistant
 

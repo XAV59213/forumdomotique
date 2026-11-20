@@ -1,8 +1,12 @@
 ---
 title: "## 🇫🇷 [Intégration HA] Jour Férié – Capteur de jours fériés"
+description: "Je vous propose une intégration Home Assistant permettant d'afficher si aujourd’hui est un jour férié en France , et d’indiquer le prochain jour férié…"
+image: /sujets/194-integration-ha-jour-ferie-capteur-de-jours-feries/images/Capturedcrandu2025-06-0809-22-23.png
+date: 2025-06-07
 ---
-
 {% raw %}
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/194-%F0%9F%87%AB%F0%9F%87%B7-int%C3%A9gration-ha-jour-f%C3%A9ri%C3%A9-capteur-de-jours-f%C3%A9ri%C3%A9s/">Lire et commenter sur Forum Domotique</a> · <a href="https://github.com/XAV59213/jourferier">Dépôt HACS : Jour Férié</a></p>
+
 # ## 🇫🇷 [Intégration HA] Jour Férié – Capteur de jours fériés
 
 - **Catégorie :** [Projets et Personnalisations](https://forumdomotique.com/forums/12-projets-et-personnalisations/)

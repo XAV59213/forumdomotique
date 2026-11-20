@@ -1,6 +1,10 @@
 ---
 title: "La Domotique sans Internet"
+description: "Je suis curieux à tu une intégration sur home assistant quel protocole utilise tu et peux tu mettre des infos supplémentaires à tu un github concernant…"
+image: /assets/images/og-default.png
+date: 2025-07-24
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/276-la-domotique-sans-internet/">Lire et commenter sur Forum Domotique</a></p>
 
 # La Domotique sans Internet
 

@@ -1,6 +1,10 @@
 ---
 title: "Moderniser vieux radiateur électrique"
+description: "Oui, tu as parfaitement compris le principe, et bravo pour ton avancée ! Sur tes Thermor Amadeus de début 2000, il y a bien un fil pilote 6 ordres (c’est…"
+image: /assets/images/og-default.png
+date: 2025-12-03
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/579-moderniser-vieux-radiateur-%C3%A9lectrique/">Lire et commenter sur Forum Domotique</a></p>
 
 # Moderniser vieux radiateur électrique
 

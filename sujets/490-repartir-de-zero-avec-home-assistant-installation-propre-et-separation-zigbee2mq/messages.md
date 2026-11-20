@@ -1,6 +1,10 @@
 ---
 title: "Repartir de zéro avec Home Assistant : installation propre et séparation Zigbee2MQTT/MQTT sur Raspberry Pi pour migrer 45 appareils"
+description: "Ton retour d’expérience est top, j’ai connu la même galère avec une setup HA qui grossit et devient lourd Ton idée de séparer Zigbee2MQTT sur un RPi dédié…"
+image: /sujets/490-repartir-de-zero-avec-home-assistant-installation-propre-et-separation-zigbee2mq/images/IMG_6232.png
+date: 2025-11-09
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/490-repartir-de-z%C3%A9ro-avec-home-assistant-installation-propre-et-s%C3%A9paration-zigbee2mqttmqtt-sur-raspberry-pi-pour-migrer-45-appareils/">Lire et commenter sur Forum Domotique</a></p>
 
 # Repartir de zéro avec Home Assistant : installation propre et séparation Zigbee2MQTT/MQTT sur Raspberry Pi pour migrer 45 appareils
 

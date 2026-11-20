@@ -1,7 +1,11 @@
 ---
 title: "Brouillon — freesmsxa — RÉPONSE dans le sujet 110 — ne rien publier ni modifier sans le OK de Xavier"
+description: "Action recommandée : publier la réponse complète ci-dessous dans le sujet existant. Le forum ne permet plus de modifier le premier message (délai de…"
+image: /assets/images/og-default.png
+date: 2026-11-20
+sitemap: false
+robots: noindex, nofollow
 ---
-
 # Brouillon — freesmsxa — RÉPONSE dans le sujet 110 — ne rien publier ni modifier sans le OK de Xavier
 
 **Sujet existant :** [📨 Free Mobile SMS XA – Intégration Home Assistant](https://forumdomotique.com/forums/topic/110-%F0%9F%93%A8-free-mobile-sms-xa-int%C3%A9gration-home-assistant/) — Projets et Personnalisations — ouvert le 3 mai 2025 (v. V.4/V.6.5.2025, dépôt perso, `notify.papa_sms`, journal de 10 messages), 8 messages ; dernier : cc2i le 26 sept. 2026 (carte « Envoyer un SMS » absente chez lui). Xavier a fait un point le 25 sept. 2026 (≥ 6.12.2). Sujets tutoriels liés : [353](https://forumdomotique.com/forums/topic/353-envoyer-des-sms-depuis-le-dashboard-home-assistant-avec-lint%C3%A9gration-free-mobile-sms-xa/) et [354](https://forumdomotique.com/forums/topic/354-configurer-lenvoi-de-notifications-sms-dans-vos-automatisations-home-assistant-via-free-mobile-sms-xa/) (24 août 2025), à laisser tels quels ou à compléter d’une ligne « installation désormais via HACS par défaut ».

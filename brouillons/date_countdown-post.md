@@ -1,7 +1,11 @@
 ---
 title: "Brouillon — date_countdown (Souvenirs et Célébrations) — RÉPONSE dans le sujet 196 — ne rien publier sans le OK de Xavier"
+description: "Action : publier la réponse complète ci-dessous dans le sujet 196. Le premier message ne peut plus être modifié (erreur 2F173/E, délai dépassé), la…"
+image: /assets/images/og-default.png
+date: 2026-11-20
+sitemap: false
+robots: noindex, nofollow
 ---
-
 > ⚠️ OBSOLÈTE — non utilisé : Souvenirs et Célébrations a été publié comme NOUVEAU sujet 4093 (https://forumdomotique.com/forums/topic/4093-%F0%9F%8E%82-int%C3%A9gration-home-assistant-souvenirs-et-c%C3%A9l%C3%A9brations/). Conservé pour mémoire.
 
 # Brouillon — date_countdown (Souvenirs et Célébrations) — RÉPONSE dans le sujet 196 — ne rien publier sans le OK de Xavier

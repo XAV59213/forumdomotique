@@ -1,6 +1,10 @@
 ---
 title: "CHOIX BOX DOMOTIQUE"
+description: "Merci pour ton message détaillé ! Je vais te conseiller sur une box domotique multiprotocole qui corresponde à tes besoins : une interface graphique…"
+image: /assets/images/og-default.png
+date: 2025-11-27
 ---
+<p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/543-choix-box-domotique/">Lire et commenter sur Forum Domotique</a></p>
 
 # CHOIX BOX DOMOTIQUE
 

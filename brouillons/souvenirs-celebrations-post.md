@@ -1,7 +1,11 @@
 ---
 title: "Brouillon — ne pas publier sans validation de Xavier"
+description: "Section recommandée : Projets et Personnalisations (catégorie Les Box Domotiques → Home Assistant ) Pourquoi cette section : c’est là que Xavier présente…"
+image: /assets/images/og-default.png
+date: 2026-11-20
+sitemap: false
+robots: noindex, nofollow
 ---
-
 # Brouillon — ne pas publier sans validation de Xavier
 
 **Section recommandée :** [Projets et Personnalisations](https://forumdomotique.com/forums/12-projets-et-personnalisations/)  
