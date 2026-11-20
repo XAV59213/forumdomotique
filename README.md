@@ -3,6 +3,7 @@ title: "Sauvegarde des publications de XAV59213 sur Forum Domotique"
 description: "Sauvegarde et vitrine des articles, guides, tests et intégrations Home Assistant (HACS) de XAV59213 sur Forum Domotique."
 image: /assets/images/og-default.png
 date: 2026-11-20
+sitemap: false
 ---
 # Sauvegarde des publications de XAV59213 sur Forum Domotique
 
