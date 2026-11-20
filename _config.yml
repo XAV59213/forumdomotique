@@ -19,16 +19,12 @@ kramdown:
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-feed
   - jekyll-relative-links
 relative_links:
   enabled: true
   collections: true
-# jekyll-feed n’indexe que les fichiers de _posts/ ; le flux Atom
-# complet des articles est généré dans feed.xml (voir ci-dessous).
-feed:
-  path: /feed-posts.xml
-  title: XAV59213 — Forum Domotique
+# Le flux Atom complet est généré par feed.xml (jekyll-feed n’est pas
+# utilisé : il produisait un /feed-posts.xml vide, faute de dossier _posts/).
 author:
   name: Xavier Descamps (XAV59213)
   url: https://forumdomotique.com/profile/106-xav59213/
