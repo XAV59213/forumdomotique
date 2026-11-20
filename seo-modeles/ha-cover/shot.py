@@ -23,8 +23,14 @@ try:
             await call('Page.enable')
             await call('Page.navigate', url=url)
             await asyncio.sleep(float(sys.argv[5]) if len(sys.argv)>5 else 3)
+            y = 0
+            if len(sys.argv)>6:   # expression JS facultative ; si elle renvoie un nombre, la capture commence à cette ordonnée
+                ev = await call('Runtime.evaluate', expression=sys.argv[6], awaitPromise=True, returnByValue=True)
+                v = ev.get('result', {}).get('value')
+                if isinstance(v, (int, float)): y = max(0, int(v))
+                await asyncio.sleep(2)
             r = await call('Page.captureScreenshot', format='png', captureBeyondViewport=True,
-                           clip={'x':0,'y':0,'width':w,'height':h,'scale':1})
+                           clip={'x':0,'y':y,'width':w,'height':h,'scale':1})
             open(out,'wb').write(base64.b64decode(r['data']))
     asyncio.run(asyncio.wait_for(run(), 60))
     print('ok', out)

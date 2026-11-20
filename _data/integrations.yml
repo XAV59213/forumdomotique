@@ -83,9 +83,3 @@
   related:
   - title: Tableau de bord de gestion de piscine
     url: /sujets/90-creer-un-tableau-de-bord-de-gestion-de-piscine-dans-home-assistant/messages.html
-- name: SpaceX et Starman
-  repo: spacexha
-  official: false
-  blurb: L’univers SpaceX dans Home Assistant (dépôt personnalisé).
-  image: /assets/images/covers/cover-spacex-starman.png
-  page: null

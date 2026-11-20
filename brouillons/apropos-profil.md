@@ -25,7 +25,6 @@ Passionné de domotique, je développe sur mon temps libre des intégrations Hom
 - 🎂 [Souvenirs et Célébrations](https://github.com/XAV59213/date_countdown) : anniversaires et dates qui comptent
 - 🏡 [Maison 3D](https://github.com/XAV59213/maison3d) : votre maison animée dans le tableau de bord
 - 🏊 [Piscinexa](https://github.com/XAV59213/piscinexa) : la gestion de votre piscine
-- 🛰️ [SpaceX et Starman](https://github.com/XAV59213/spacexha) : l'univers SpaceX dans Home Assistant
 - 🧠 [Grok Automation Suggester](https://github.com/XAV59213/grok_automation_suggester) : des idées d'automatisations par l'IA
 
 Tous mes projets : https://github.com/XAV59213. Les retours, idées et rapports de bugs sont les bienvenus, ici en message privé ou sur GitHub 😉
