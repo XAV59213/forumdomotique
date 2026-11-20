@@ -1,0 +1,28 @@
+{% comment %} Cartes des versions Home Assistant. Paramètres : items, carousel (true/false), label {% endcomment %}
+{% assign items = include.items %}
+{% if items and items.size > 0 %}
+{% if include.carousel %}
+<section class="carousel card-carousel ha-cards" data-carousel aria-roledescription="carrousel" aria-label="{{ include.label }}" tabindex="0">
+<div class="carousel-track" data-track>
+{% else %}
+<div class="feature-grid ha-grid">
+{% endif %}
+{% for p in items %}
+  <a class="feature-card ha-card" href="{{ p.url | relative_url }}"{% if include.carousel %} data-slide{% endif %}>
+    <img class="card-thumb" src="{{ p.image | relative_url }}" alt="" loading="lazy" width="280" height="147">
+    <div class="tag">Version {{ p.version }} · {{ p.month }}</div>
+    <h3>{{ p.short_title | default: p.title }}</h3>
+    <p>{{ p.excerpt_fr | default: p.description }}</p>
+    <p class="card-date">Sortie le {{ p.release_date | default: p.date | date: "%d/%m/%Y" }}</p>
+  </a>
+{% endfor %}
+{% if include.carousel %}
+</div>
+<button type="button" class="carousel-nav" data-prev aria-label="Faire défiler vers la gauche">‹</button>
+<button type="button" class="carousel-nav" data-next aria-label="Faire défiler vers la droite">›</button>
+<p class="carousel-hint">Faites défiler horizontalement pour voir toutes les versions.</p>
+</section>
+{% else %}
+</div>
+{% endif %}
+{% endif %}

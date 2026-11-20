@@ -1,5 +1,5 @@
 ---
-title: "Home Assistant 2026.3 : Un \\\\\\\\\\\\\\\"grand nettoyage\\\\\\\\\\\\\\\" bienvenu et plein de pépites communautaires"
+title: "Home Assistant 2026.3 : Un « grand nettoyage » bienvenu et plein de pépites communautaires"
 description: "Franck Nijhof (Frenck) l'annonce clairement dans le billet officiel : « On a pris le temps de reviewer, polir et merger un nombre impressionnant de PRs…"
 image: /assets/images/og-default.png
 date: 2026-03-21

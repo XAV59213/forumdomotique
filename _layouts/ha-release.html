@@ -1,0 +1,37 @@
+---
+layout: default
+---
+{% assign rel = site.pages | where: "section", "actualite-ha" | sort: "date" %}
+{% for p in rel %}{% if p.url == page.url %}{% assign idx = forloop.index0 %}{% endif %}{% endfor %}
+<article class="ha-article">
+  <p class="ha-breadcrumb"><a href="{{ '/actualite-home-assistant/' | relative_url }}">Actualité Home Assistant</a> › Version {{ page.version }}</p>
+  <header class="ha-article-head">
+    <p class="ha-kicker">Notes de version · {{ page.month }}</p>
+    <h1>{{ page.title }}</h1>
+    <p class="ha-meta">
+      <span>Version sortie le {{ page.release_date | default: page.date | date: "%d/%m/%Y" }}</span>
+      <span>Version {{ page.version }}</span>
+      <span><a href="{{ page.release_url }}">Notes officielles (en anglais)</a></span>
+    </p>
+  </header>
+
+  {% include ha-gallery.html %}
+
+  <div class="ha-body">
+  {{ content }}
+  </div>
+
+  <aside class="ha-sources">
+    <p><strong>Sources :</strong> <a href="{{ page.release_url }}">billet officiel « {{ page.official_title }} »</a> sur home-assistant.io{% if page.changelog_url %} · <a href="{{ page.changelog_url }}">journal complet des changements</a>{% endif %} · <a href="https://github.com/home-assistant/core/releases">versions sur GitHub</a>.</p>
+    <p>Captures d’écran : <a href="{{ page.release_url }}">Home Assistant / Nabu Casa</a> (Open Home Foundation), reproduites avec mention de la source. Couverture : XAV59213.</p>
+  </aside>
+
+  <nav class="ha-prevnext" aria-label="Autres versions">
+    {% if idx > 0 %}{% assign pi = idx | minus: 1 %}{% assign prev = rel[pi] %}
+    <a class="ha-prev" href="{{ prev.url | relative_url }}"><span>‹ Version précédente</span>{{ prev.version }} — {{ prev.month }}</a>
+    {% else %}<span></span>{% endif %}
+    {% assign nidx = idx | plus: 1 %}{% if nidx < rel.size %}{% assign nxt = rel[nidx] %}
+    <a class="ha-next" href="{{ nxt.url | relative_url }}"><span>Version suivante ›</span>{{ nxt.version }} — {{ nxt.month }}</a>
+    {% endif %}
+  </nav>
+</article>

@@ -130,6 +130,15 @@ Les dépôts GitHub / HACS de Xavier, clairement séparés des réponses dans le
 <p class="carousel-hint">Faites défiler horizontalement pour voir toute la sélection.</p>
 </section>
 
+## Actualité Home Assistant
+
+Chaque mise à jour mensuelle de Home Assistant expliquée en français : nouveautés, intégrations, breaking changes et conseils.
+
+{% assign ha_releases = site.pages | where: "section", "actualite-ha" | sort: "date" | reverse %}
+{% include ha-cards.html items=ha_releases label="Actualité Home Assistant" carousel=true %}
+
+<p class="ha-more"><a class="hero-btn" href="{{ '/actualite-home-assistant/' | relative_url }}">Toutes les versions de Home Assistant →</a></p>
+
 {% assign tests = site.pages | where: "section", "tests" | sort: "date" | reverse %}
 {% assign tests_feat = tests | where: "featured", true %}
 {% if tests_feat.size > 0 %}

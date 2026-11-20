@@ -1,0 +1,27 @@
+{% if page.gallery and page.gallery.size > 0 %}
+{% assign n = page.gallery.size | plus: 1 %}
+<section class="carousel photo-carousel ha-gallery" data-carousel data-lightbox aria-roledescription="carrousel" aria-label="Images de l’article ({{ n }})" tabindex="0">
+<div class="carousel-track" data-track>
+<figure class="photo-slide" data-slide>
+  <a href="{{ page.image | relative_url }}" data-full="{{ page.image | relative_url }}" data-alt="Couverture — Home Assistant {{ page.version }}" aria-label="Agrandir la couverture">
+    <img src="{{ page.image | relative_url }}" alt="{{ page.cover_alt | default: page.title | escape }}" loading="eager" width="1200" height="630">
+  </a>
+  <figcaption>Home Assistant {{ page.version }} — {{ page.month }}</figcaption>
+</figure>
+{% for g in page.gallery %}
+{% assign gsrc = page.dir | append: g.src | relative_url %}
+<figure class="photo-slide" data-slide>
+  <a href="{{ gsrc }}" data-full="{{ gsrc }}" data-alt="{{ g.caption | escape }} (Image : Home Assistant / Nabu Casa)" aria-label="Agrandir l’image {{ forloop.index | plus: 1 }} : {{ g.caption | escape }}">
+    <img src="{{ gsrc }}" alt="{{ g.caption | escape }}" loading="lazy">
+  </a>
+  <figcaption>{{ g.caption }} <span class="credit">Image : <a href="{{ page.release_url }}">Home Assistant / Nabu Casa</a></span></figcaption>
+</figure>
+{% endfor %}
+</div>
+<button type="button" class="carousel-nav" data-prev aria-label="Image précédente">‹</button>
+<button type="button" class="carousel-nav" data-next aria-label="Image suivante">›</button>
+<div class="carousel-dots" data-dots></div>
+<div class="carousel-live" data-live aria-live="polite"></div>
+<p class="carousel-hint">Faites défiler horizontalement pour voir les autres images.</p>
+</section>
+{% endif %}
