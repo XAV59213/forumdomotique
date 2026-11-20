@@ -61,8 +61,9 @@
   page: /sujets/4095-starship-tracker-suivez-les-lancements-starship-de-spacex-dans-home-assistant/messages.html
 - name: Souvenirs et Célébrations
   repo: date_countdown
-  official: false
-  blurb: Anniversaires, noces et dates qui comptent, avec des cartes Lovelace dédiées.
+  official: true
+  blurb: Anniversaires, noces et dates qui comptent, désormais dans la bibliothèque
+    officielle de HACS.
   image: /sujets/4093-integration-home-assistant-souvenirs-et-celebrations/images/banner-date_countdown.png
   page: /sujets/4093-integration-home-assistant-souvenirs-et-celebrations/messages.html
   related:

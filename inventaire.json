@@ -1,14 +1,14 @@
 {
-  "generated": "2026-11-20T13:38:02.384326+01:00",
+  "generated": "2026-11-20T16:10:18+01:00",
   "author": "XAV59213",
   "profile": "https://forumdomotique.com/profile/106-xav59213/",
-  "forum_posts": 384,
+  "forum_posts": 385,
   "forum_topics": 214,
   "topics_started": 50,
   "cms_articles": 10,
   "other_commented_articles": 2,
   "cms_comments": 37,
-  "images_cached": 476,
+  "images_cached": 481,
   "image_failures": [
     {
       "url": "https://litter.catbox.moe/hx4wox.jpg",
@@ -151,11 +151,11 @@
       "topic_id": "4093",
       "title": "🎂 Intégration Home Assistant – Souvenirs et Célébrations",
       "category": "Projets et Personnalisations",
-      "n_posts": 1,
+      "n_posts": 2,
       "first_date": "2026-11-20T08:52:33Z",
       "url": "https://forumdomotique.com/forums/topic/4093-%F0%9F%8E%82-int%C3%A9gration-home-assistant-souvenirs-et-c%C3%A9l%C3%A9brations/",
       "folder": "sujets/4093-integration-home-assistant-souvenirs-et-celebrations",
-      "n_images": 8,
+      "n_images": 9,
       "started_by_xavier": true
     },
     {
