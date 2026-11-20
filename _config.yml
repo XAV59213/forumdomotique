@@ -2,10 +2,10 @@ theme: jekyll-theme-cayman
 lang: fr
 locale: fr_FR
 title: XAV59213 — Forum Domotique
-tagline: Intégrations et tests HA
+tagline: Mes intégrations et tests HA
 description: >-
-  Intégrations Home Assistant (HACS), tests produits, guides et actualités
-  de Xavier Descamps (XAV59213) sur Forum Domotique : Freebox, chauffage,
+  Moi c’est XAV59213. Je partage mes intégrations Home Assistant (HACS),
+  tests, guides et actualités sur Forum Domotique : Freebox, chauffage,
   SMS, piscine.
 url: https://xav59213.github.io
 baseurl: /forumdomotique

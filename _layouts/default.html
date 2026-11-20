@@ -53,11 +53,11 @@
     {% if page.home %}
     <section class="home-tagline">
       <div class="home-tagline-inner">
-        <h1>Les articles de Xavier Descamps</h1>
-        <p class="home-hook">Xavier, développeur d’intégrations Home Assistant et testeur sur Forum Domotique.</p>
+        <h1>Bienvenue, moi c’est XAV59213</h1>
+        <p class="home-hook">Je développe des intégrations Home Assistant et je partage mes tests et mes guides sur Forum Domotique.</p>
         <div class="home-cta">
-          <a class="home-cta-primary" href="{{ '/mes-integrations/' | relative_url }}">Découvrir les intégrations</a>
-          <a class="home-cta-secondary" href="{{ '/tests-produits/' | relative_url }}">Lire les tests</a>
+          <a class="home-cta-primary" href="{{ '/mes-integrations/' | relative_url }}">Découvrir mes intégrations</a>
+          <a class="home-cta-secondary" href="{{ '/tests-produits/' | relative_url }}">Lire mes tests</a>
         </div>
         {% assign home_integrations = site.data.integrations | size %}
         {% assign home_tests = site.pages | where: "section", "tests" | size %}

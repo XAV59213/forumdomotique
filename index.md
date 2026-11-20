@@ -1,14 +1,14 @@
 ---
 title: "XAV59213 — Forum Domotique"
-description: "Intégrations Home Assistant (HACS), tests produits, guides et actualités de Xavier Descamps (XAV59213) sur Forum Domotique : Freebox, chauffage, SMS, piscine."
+description: "Moi c’est XAV59213. Je partage mes intégrations Home Assistant (HACS), tests, guides et actualités sur Forum Domotique : Freebox, chauffage, SMS, piscine."
 image: /assets/images/og-default.png
 date: 2026-11-20
 home: true
 ---
 
-Passionné de domotique, **Xavier Descamps** (XAV59213) développe sur son temps libre des **intégrations Home Assistant** pensées pour la France : elles sont gratuites, open source, et la plupart s’installent en quelques clics avec **HACS**. Il partage aussi des **tests produits**, des **guides** et ses retours d’expérience sur [Forum Domotique](https://forumdomotique.com/profile/106-xav59213/).
+Passionné de domotique, moi c’est **XAV59213**. Je développe sur mon temps libre des **intégrations Home Assistant** pensées pour la France : elles sont gratuites, open source, et la plupart s’installent en quelques clics avec **HACS**. Je partage aussi mes **tests produits**, mes **guides** et mes retours d’expérience sur [Forum Domotique](https://forumdomotique.com/profile/106-xav59213/).
 
-Cette vitrine rassemble ses publications pour les lire confortablement, et renvoie vers le forum pour continuer la discussion.
+Ici, je rassemble mes publications pour les lire confortablement, et je renvoie vers le forum pour continuer la discussion.
 
 ## À la une
 
@@ -98,7 +98,7 @@ Cette vitrine rassemble ses publications pour les lire confortablement, et renvo
 
 ## Mes intégrations
 
-Les dépôts GitHub / HACS de Xavier, clairement séparés des réponses dans les sujets d’autres membres. <a href="{{ '/mes-integrations/' | relative_url }}">Voir toutes les intégrations</a>.
+Mes dépôts GitHub / HACS, clairement séparés des réponses dans les sujets d’autres membres. <a href="{{ '/mes-integrations/' | relative_url }}">Voir toutes mes intégrations</a>.
 
 <section class="carousel card-carousel" data-carousel aria-roledescription="carrousel" aria-label="Mes intégrations" tabindex="0">
 <div class="carousel-track" data-track>
@@ -159,7 +159,7 @@ Les {{ site.data.site_stats.forum_topics }} sujets et les articles sont listés 
 
 Les réponses laissées dans les sujets d’<em>autres</em> membres sont à part, dans une rubrique plus discrète : [Réponses aux utilisateurs]({{ '/reponses-utilisateurs/' | relative_url }}).
 
-## Suivre XAV59213
+## Me suivre
 
 - [Profil Forum Domotique](https://forumdomotique.com/profile/106-xav59213/)
 - [GitHub : XAV59213](https://github.com/XAV59213)
