@@ -29,7 +29,7 @@ try:
                 v = ev.get('result', {}).get('value')
                 if isinstance(v, (int, float)): y = max(0, int(v))
                 await asyncio.sleep(2)
-            r = await call('Page.captureScreenshot', format='png', captureBeyondViewport=True,
+            r = await call('Page.captureScreenshot', format='png', captureBeyondViewport=(y > 0 or len(sys.argv) <= 6),
                            clip={'x':0,'y':y,'width':w,'height':h,'scale':1})
             open(out,'wb').write(base64.b64decode(r['data']))
     asyncio.run(asyncio.wait_for(run(), 60))

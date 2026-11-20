@@ -439,7 +439,7 @@
   .hero-carousel .carousel-nav {
     width: 2.35rem;
     height: 2.35rem;
-    top: 100px; /* milieu de l’image, pas du texte */
+    top: 200px; /* à la jonction image / légende : ne masque ni le titre des couvertures ni le texte */
     transform: translateY(-50%);
   }
   .hero-carousel .carousel-nav[data-prev] { left: 0.45rem; }
