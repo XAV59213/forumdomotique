@@ -704,6 +704,16 @@ body.lightbox-open { overflow: hidden; }
 }
 .forum-cta a { font-weight: 600; }
 
+.media-fallback {
+  margin: 1rem 0;
+  padding: 0.75rem 1rem;
+  background: #f4f8fb;
+  border-left: 4px solid #155799;
+  border-radius: 0 8px 8px 0;
+  color: #0d3550;
+}
+.media-fallback a { font-weight: 600; }
+
 .product-meta {
   display: flex;
   flex-wrap: wrap;

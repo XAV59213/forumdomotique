@@ -21,15 +21,16 @@ date: 2026-09-27
 - **Identifiant :** `5447`
 - **Lien :** https://forumdomotique.com/forums/topic/4008-guide-utilisateur-freebox-homexa-de-linstallation-%C3%A0-lutilisation-v28824/#findComment-5447
 
-![Freebox Homexa](https://litter.catbox.moe/hx4wox.jpg)
-<!-- source : https://litter.catbox.moe/hx4wox.jpg -->
+<!-- source : https://litter.catbox.moe/hx4wox.jpg — fichier d’origine introuvable (hébergeur temporaire, lien mort). -->
+<p class="media-fallback">L’illustration d’origine n’est plus disponible. Voir le <a href="https://github.com/XAV59213/freebox_homexa/blob/main/docs/guide-utilisateur.md">guide utilisateur dans le dépôt Freebox Homexa</a>.</p>
 
 Suite à la mise à jour **28.8.24**, guide complet : de l’installation HACS jusqu’à l’usage quotidien.
 
 **Projet indépendant, non affilié à Free.**  
 Dépôt : [github.com/XAV59213/freebox_homexa](https://github.com/XAV59213/freebox_homexa)  
 Sujet d’origine : [Présentation du projet](https://forumdomotique.com/forums/topic/101-pr%C3%A9sentation-du-projet-freebox_homexa/)  
-PDF : [Guide_Freebox_Homexa.pdf](https://litter.catbox.moe/ugx9jt.pdf)
+<!-- source : https://litter.catbox.moe/ugx9jt.pdf — fichier d’origine introuvable (hébergeur temporaire, lien mort). -->
+PDF : le fichier d’origine n’est plus disponible ; le guide à jour se trouve dans le [dépôt Freebox Homexa](https://github.com/XAV59213/freebox_homexa/blob/main/docs/guide-utilisateur.md).
 
 **Sommaire**
 
@@ -90,8 +91,8 @@ Host : `mafreebox.freebox.fr` / IP LAN / `xxx.fbxos.fr`. Pas de token dans confi
 
 Popup HA « Lier le routeur Freebox ». Clique **Valider**, puis sur le Server la **flèche droite = Oui**.
 
-![Appairage Server Revolution](https://litter.catbox.moe/7jykrx.png)
-<!-- source : https://litter.catbox.moe/7jykrx.png -->
+<!-- source : https://litter.catbox.moe/7jykrx.png — fichier d’origine introuvable (hébergeur temporaire, lien mort). -->
+<p class="media-fallback">L’illustration d’origine n’est plus disponible. Voir le <a href="https://github.com/XAV59213/freebox_homexa/blob/main/docs/guide-utilisateur.md">guide utilisateur dans le dépôt Freebox Homexa</a>.</p>
 
 *Écran Server : Autoriser l’application ? Non < > Oui.*
 
@@ -99,8 +100,8 @@ Popup HA « Lier le routeur Freebox ». Clique **Valider**, puis sur le Server l
 
 Sur la façade Devialet, choisir **oui** avec les **boutons tactiles clignotants** (ce n’est pas le même geste que les flèches du Server).
 
-![Appairage Delta Devialet AUTORIZ](https://litter.catbox.moe/jd2672.png)
-<!-- source : https://litter.catbox.moe/jd2672.png -->
+<!-- source : https://litter.catbox.moe/jd2672.png — fichier d’origine introuvable (hébergeur temporaire, lien mort). -->
+<p class="media-fallback">L’illustration d’origine n’est plus disponible. Voir le <a href="https://github.com/XAV59213/freebox_homexa/blob/main/docs/guide-utilisateur.md">guide utilisateur dans le dépôt Freebox Homexa</a>.</p>
 
 *Façade Delta / Devialet : message AUTORIZ + boutons tactiles.*
 
@@ -118,8 +119,8 @@ Ensuite dans Freebox OS → Applications : droits **Home, Player, LAN, Wi-Fi**.
 
 ## 5. Dans Home Assistant
 
-![Dashboard Lovelace Homexa](https://litter.catbox.moe/msv8d9.jpg)
-<!-- source : https://litter.catbox.moe/msv8d9.jpg -->
+<!-- source : https://litter.catbox.moe/msv8d9.jpg — fichier d’origine introuvable (hébergeur temporaire, lien mort). -->
+<p class="media-fallback">L’illustration d’origine n’est plus disponible. Voir le <a href="https://github.com/XAV59213/freebox_homexa/blob/main/docs/guide-utilisateur.md">guide utilisateur dans le dépôt Freebox Homexa</a>.</p>
 
 **Alarme — mapping app Free**
 
