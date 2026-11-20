@@ -8,6 +8,13 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700&display=swap">
     {% seo %}
+    {% assign robots_content = page.robots %}
+    {% if page.url contains '/brouillons/' %}
+      {% assign robots_content = page.robots | default: 'noindex, nofollow' %}
+    {% endif %}
+    {% if robots_content %}
+    <meta name="robots" content="{{ robots_content }}">
+    {% endif %}
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
   </head>
@@ -17,7 +24,7 @@
     <header class="site-header" role="banner">
       <div class="site-header-inner">
         <a class="site-brand" href="{{ '/' | relative_url }}">
-          <img class="site-logo" src="{{ '/assets/images/logo-xav.png' | relative_url }}" width="40" height="40" alt="">
+          <img class="site-logo" src="{{ '/assets/images/logo-xav.png' | relative_url }}" width="40" height="40" alt="Logo de XAV59213">
           <span class="site-brand-text">
             <span class="site-brand-name">XAV59213</span>
             <span class="site-brand-sub">Forum Domotique</span>
@@ -45,10 +52,25 @@
           <a class="home-cta-primary" href="{{ '/mes-integrations/' | relative_url }}">Découvrir les intégrations</a>
           <a class="home-cta-secondary" href="{{ '/tests-produits/' | relative_url }}">Lire les tests</a>
         </div>
+        {% assign home_integrations = site.data.integrations | size %}
+        {% assign home_tests = site.pages | where: "section", "tests" | size %}
+        {% assign home_guides = site.pages | where: "section", "guides" | size %}
+        {% assign home_ha = site.pages | where: "section", "actualite-ha" | size %}
+        {% assign home_articles = home_tests | plus: home_guides | plus: home_ha %}
+        {% assign home_news = site.pages | where: "section", "actualites" %}
+        {% for p in home_news %}
+          {% assign home_skip_news = false %}
+          {% if p.url contains 'home-assistant-20261' %}{% assign home_skip_news = true %}{% endif %}
+          {% if p.url contains 'home-assistant-20262' %}{% assign home_skip_news = true %}{% endif %}
+          {% if p.url contains 'home-assistant-20263' %}{% assign home_skip_news = true %}{% endif %}
+          {% unless home_skip_news %}
+            {% assign home_articles = home_articles | plus: 1 %}
+          {% endunless %}
+        {% endfor %}
         <ul class="home-stats" aria-label="Chiffres de la vitrine">
-          <li><span class="home-stat-value">10</span><span class="home-stat-label">intégrations</span></li>
-          <li><span class="home-stat-value">21</span><span class="home-stat-label">articles</span></li>
-          <li><span class="home-stat-value">385</span><span class="home-stat-label">messages</span></li>
+          <li><span class="home-stat-value">{{ home_integrations }}</span><span class="home-stat-label">intégrations</span></li>
+          <li><span class="home-stat-value">{{ home_articles }}</span><span class="home-stat-label">articles</span></li>
+          <li><span class="home-stat-value">{{ site.data.site_stats.forum_posts }}</span><span class="home-stat-label">messages</span></li>
         </ul>
       </div>
     </section>
