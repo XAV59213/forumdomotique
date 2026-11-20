@@ -23,5 +23,4 @@ permalink: /actualites/
 
 ## Dernières actualités
 
-{% assign news_rest = news | where_exp: "p", "p.url != news_une.url" %}
-{% include item-cards.html items=news_rest label="Dernières actualités" filters=true %}
+{% include item-cards.html items=news label="Dernières actualités" filters=true %}

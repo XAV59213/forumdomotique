@@ -25,5 +25,4 @@ permalink: /tests-produits/
 
 ## Derniers tests
 
-{% assign tests_rest = tests | where_exp: "p", "p.url != test_une.url" %}
-{% include item-cards.html items=tests_rest label="Derniers tests" filters=true %}
+{% include item-cards.html items=tests label="Derniers tests" filters=true %}

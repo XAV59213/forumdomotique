@@ -23,8 +23,7 @@ permalink: /guides/
 
 ## Derniers guides
 
-{% assign guides_rest = guides | where_exp: "p", "p.url != guide_une.url" %}
-{% include item-cards.html items=guides_rest label="Derniers guides" filters=true %}
+{% include item-cards.html items=guides label="Derniers guides" filters=true %}
 
 ## Autres guides publiés sur le forum
 
