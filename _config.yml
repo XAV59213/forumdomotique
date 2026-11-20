@@ -1,11 +1,12 @@
 theme: jekyll-theme-cayman
 lang: fr
 locale: fr_FR
-title: Les articles de XAV59213 sur Forum Domotique
+title: XAV59213 — Forum Domotique
+tagline: Intégrations et tests HA
 description: >-
-  Articles, guides, tests produits et intégrations Home Assistant (HACS)
-  de XAV59213 : Freebox Homexa, chauffage fil pilote, SMS Free, piscine,
-  jours fériés, Saints du Jour et retours d’expérience sur Forum Domotique.
+  Intégrations Home Assistant (HACS), tests produits, guides et actualités
+  de Xavier Descamps (XAV59213) sur Forum Domotique : Freebox, chauffage,
+  SMS, piscine.
 url: https://xav59213.github.io
 baseurl: /forumdomotique
 show_downloads: false
@@ -27,7 +28,7 @@ relative_links:
 # complet des articles est généré dans feed.xml (voir ci-dessous).
 feed:
   path: /feed-posts.xml
-  title: Les articles de XAV59213 sur Forum Domotique
+  title: XAV59213 — Forum Domotique
 author:
   name: Xavier Descamps (XAV59213)
   url: https://forumdomotique.com/profile/106-xav59213/
@@ -37,8 +38,8 @@ social:
     - https://github.com/XAV59213
     - https://forumdomotique.com/profile/106-xav59213/
 logo: /assets/images/og-default.png
-twitter:
-  card: summary_large_image
+# Pas de compte X renseigné : on n’émet pas twitter.username
+# (un username vide produisait twitter:site="@" et un créateur incorrect).
 # Après vérification Search Console / Bing, décommenter et coller les codes :
 # webmaster_verifications:
 #   google: "COLLEZ_ICI_LE_CODE_GOOGLE"
@@ -56,5 +57,9 @@ defaults:
     values:
       layout: default
       image: /assets/images/og-default.png
-      author: Xavier Descamps (XAV59213)
       lang: fr_FR
+  - scope:
+      path: brouillons
+    values:
+      sitemap: false
+      robots: noindex, nofollow

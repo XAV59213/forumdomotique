@@ -1,5 +1,5 @@
 ---
-title: "Les articles de XAV59213 sur Forum Domotique"
+title: "XAV59213 — Forum Domotique"
 description: "Intégrations Home Assistant (HACS), tests produits, guides et actualités de Xavier Descamps (XAV59213) sur Forum Domotique : Freebox, chauffage, SMS, piscine."
 image: /assets/images/og-default.png
 date: 2026-11-20
@@ -155,7 +155,7 @@ Chaque mise à jour mensuelle de Home Assistant expliquée en français : nouvea
 
 ## Toute l’archive
 
-Les 214 sujets et les articles sont listés dans [tous les sujets](tous-les-sujets.html), classés par rubrique. Pour échanger, chaque article propose un lien **Lire et commenter sur Forum Domotique**.
+Les {{ site.data.site_stats.forum_topics }} sujets et les articles sont listés dans [tous les sujets](tous-les-sujets.html), classés par rubrique. Pour échanger, chaque article propose un lien **Lire et commenter sur Forum Domotique**.
 
 Les réponses laissées dans les sujets d’<em>autres</em> membres sont à part, dans une rubrique plus discrète : [Réponses aux utilisateurs]({{ '/reponses-utilisateurs/' | relative_url }}).
 
