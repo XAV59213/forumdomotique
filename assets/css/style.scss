@@ -889,6 +889,25 @@ $ha-navy: #0b3a57;
 .ha-meta .page-views {
   margin: 0;
 }
+.site-footer-views {
+  margin: 0.7rem 0 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 1rem;
+  font-size: 0.86rem;
+  line-height: 1.45;
+  color: #6a7a74;
+}
+.site-footer-views[hidden] { display: none !important; }
+.site-footer-views .page-views,
+.site-footer-views .site-views {
+  margin: 0;
+  font-size: inherit;
+  line-height: inherit;
+  color: inherit;
+  font-weight: 600;
+}
 @media (max-width: 42em) {
   .page-views { font-size: 0.95rem; }
+  .site-footer-views { font-size: 0.95rem; }
 }

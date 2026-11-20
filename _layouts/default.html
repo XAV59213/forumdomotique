@@ -88,12 +88,11 @@
     {% include site-footer.html %}
     {% assign skip_goatcounter = false %}
     {% if page.url contains "/brouillons/" %}{% assign skip_goatcounter = true %}{% endif %}
+    {% if page.url contains "/404" %}{% assign skip_goatcounter = true %}{% endif %}
     {% if robots_content contains "noindex" %}{% assign skip_goatcounter = true %}{% endif %}
     {% unless skip_goatcounter %}
     <script data-goatcounter="https://forumdomotique.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
-    {% endunless %}
-    {% if is_article %}
     <script src="{{ '/assets/js/page-views.js' | relative_url }}" defer></script>
-    {% endif %}
+    {% endunless %}
   </body>
 </html>
