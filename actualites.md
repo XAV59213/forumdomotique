@@ -6,8 +6,6 @@ date: 2026-11-20
 permalink: /actualites/
 ---
 
-{% include site-nav.html %}
-
 # Actualités
 
 <p class="section-lead">Les notes de version et actualités Home Assistant publiées sur Forum Domotique. L’<strong>actualité à la une</strong> est la plus récente, sauf si un article porte <code>featured: true</code> dans son entête.</p>

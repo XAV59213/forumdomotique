@@ -6,8 +6,6 @@ date: 2026-11-20
 permalink: /tests-produits/
 ---
 
-{% include site-nav.html %}
-
 # Tests produits
 
 <p class="section-lead">Retours d’usage, photos à l’appui, pour choisir un matériel compatible Home Assistant. Chaque test indique le <strong>produit</strong>, la <strong>marque</strong>, un carrousel de photos, et un lien vers l’article d’origine sur Forum Domotique. Les commentaires sont regroupés <strong>sous</strong> le test.</p>

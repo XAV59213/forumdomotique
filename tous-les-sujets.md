@@ -5,8 +5,6 @@ image: /assets/images/og-default.png
 date: 2026-11-20
 ---
 
-{% include site-nav.html %}
-
 # Tous les sujets et articles
 
 Les publications sont classées pour bien séparer **les dépôts GitHub**, **les tests produits**, **les guides et actualités**, et **les réponses dans les sujets d’autres membres**.

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'fr' }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#155799">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700&display=swap">
+    {% seo %}
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    {% include head-custom.html %}
+  </head>
+  <body{% if page.home %} class="is-home"{% endif %}>
+    <a class="skip-link" href="#content">Aller au contenu</a>
+
+    <header class="site-header" role="banner">
+      <div class="site-header-inner">
+        <a class="site-brand" href="{{ '/' | relative_url }}">
+          <img class="site-logo" src="{{ '/assets/images/logo-xav.png' | relative_url }}" width="40" height="40" alt="">
+          <span class="site-brand-text">
+            <span class="site-brand-name">XAV59213</span>
+            <span class="site-brand-sub">Forum Domotique</span>
+          </span>
+        </a>
+        <button type="button" class="nav-toggle" aria-expanded="false" aria-controls="site-menu" aria-label="Ouvrir le menu">
+          <span></span><span></span><span></span>
+        </button>
+        <div class="site-header-end" id="site-menu">
+          {% include site-nav.html %}
+          <a class="btn-github" href="https://github.com/XAV59213/forumdomotique">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" aria-hidden="true"><path fill="currentColor" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82A7.7 7.7 0 0 1 8 4.77a7.7 7.7 0 0 1 2.01.27c1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0 0 16 8c0-4.42-3.58-8-8-8"/></svg>
+            Voir sur GitHub
+          </a>
+        </div>
+      </div>
+    </header>
+
+    {% if page.home %}
+    <section class="home-tagline">
+      <div class="home-tagline-inner">
+        <h1>Les articles de XAV59213 sur Forum Domotique</h1>
+        <p>Intégrations Home Assistant (HACS), tests produits et guides — par Xavier Descamps.</p>
+      </div>
+    </section>
+    {% endif %}
+
+    <main id="content" class="main-content" role="main">
+      {{ content }}
+      <footer class="site-footer">
+        <span class="site-footer-credits">Vitrine des publications de <a href="https://forumdomotique.com/profile/106-xav59213/">XAV59213</a> sur Forum Domotique · <a href="https://github.com/XAV59213/forumdomotique">Code source sur GitHub</a></span>
+      </footer>
+    </main>
+  </body>
+</html>

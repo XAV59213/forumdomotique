@@ -256,3 +256,24 @@
     });
   }
   setupFilters();
+
+
+(function () {
+  var header = document.querySelector(".site-header");
+  var toggle = document.querySelector(".nav-toggle");
+  if (!header || !toggle) return;
+  function setOpen(open) {
+    header.classList.toggle("is-open", open);
+    toggle.setAttribute("aria-expanded", open ? "true" : "false");
+    toggle.setAttribute("aria-label", open ? "Fermer le menu" : "Ouvrir le menu");
+  }
+  toggle.addEventListener("click", function () {
+    setOpen(!header.classList.contains("is-open"));
+  });
+  header.querySelectorAll(".site-header-end a").forEach(function (a) {
+    a.addEventListener("click", function () { setOpen(false); });
+  });
+  document.addEventListener("keydown", function (e) {
+    if (e.key === "Escape") setOpen(false);
+  });
+})();

@@ -6,8 +6,6 @@ date: 2026-11-20
 permalink: /mes-integrations/
 ---
 
-{% include site-nav.html %}
-
 # Mes intégrations GitHub / HACS
 
 <p class="section-lead">Ici se trouvent uniquement les <strong>dépôts et présentations d’intégrations</strong> développées par Xavier (XAV59213). Les tests produits, les guides et les réponses dans les sujets d’autres membres sont dans des rubriques à part.</p>

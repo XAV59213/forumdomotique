@@ -6,8 +6,6 @@ date: 2026-11-20
 permalink: /reponses-utilisateurs/
 ---
 
-{% include site-nav.html %}
-
 # Réponses aux utilisateurs
 
 <p class="replies-note">Cette rubrique rassemble uniquement les <strong>réponses laissées dans des sujets ouverts par d’autres membres</strong> (et quelques commentaires sur des articles d’autres auteurs). Ce ne sont <strong>pas</strong> les présentations des dépôts GitHub / HACS, ni les tests produits, ni les guides.</p>

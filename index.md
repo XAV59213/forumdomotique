@@ -3,13 +3,12 @@ title: "Les articles de XAV59213 sur Forum Domotique"
 description: "Intégrations Home Assistant (HACS), tests produits, guides et actualités de Xavier Descamps (XAV59213) sur Forum Domotique : Freebox, chauffage, SMS, piscine."
 image: /assets/images/og-default.png
 date: 2026-11-20
+home: true
 ---
 
 Passionné de domotique, **Xavier Descamps** (XAV59213) développe sur son temps libre des **intégrations Home Assistant** pensées pour la France : elles sont gratuites, open source, et la plupart s’installent en quelques clics avec **HACS**. Il partage aussi des **tests produits**, des **guides** et ses retours d’expérience sur [Forum Domotique](https://forumdomotique.com/profile/106-xav59213/).
 
 Cette vitrine rassemble ses publications pour les lire confortablement, et renvoie vers le forum pour continuer la discussion.
-
-{% include site-nav.html %}
 
 <p class="intro-actions">
   <a href="apropos-de-moi.html">À propos</a>

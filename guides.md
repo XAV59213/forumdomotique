@@ -6,8 +6,6 @@ date: 2026-11-20
 permalink: /guides/
 ---
 
-{% include site-nav.html %}
-
 # Guides
 
 <p class="section-lead">Des pas à pas pour installer, configurer et sauvegarder sa maison connectée. Le <strong>guide à la une</strong> est le plus récent, sauf si un article porte <code>featured: true</code> dans son entête.</p>
