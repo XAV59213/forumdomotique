@@ -39,17 +39,24 @@
     {% if page.home %}
     <section class="home-tagline">
       <div class="home-tagline-inner">
-        <h1>Les articles de XAV59213 sur Forum Domotique</h1>
-        <p>Intégrations Home Assistant (HACS), tests produits et guides — par&nbsp;Xavier&nbsp;Descamps.</p>
+        <h1>Les articles de Xavier Descamps</h1>
+        <p class="home-hook">Xavier, développeur d’intégrations Home Assistant et testeur sur Forum Domotique.</p>
+        <div class="home-cta">
+          <a class="home-cta-primary" href="{{ '/mes-integrations/' | relative_url }}">Découvrir les intégrations</a>
+          <a class="home-cta-secondary" href="{{ '/tests-produits/' | relative_url }}">Lire les tests</a>
+        </div>
+        <ul class="home-stats" aria-label="Chiffres de la vitrine">
+          <li><span class="home-stat-value">10</span><span class="home-stat-label">intégrations</span></li>
+          <li><span class="home-stat-value">21</span><span class="home-stat-label">articles</span></li>
+          <li><span class="home-stat-value">385</span><span class="home-stat-label">messages</span></li>
+        </ul>
       </div>
     </section>
     {% endif %}
 
     <main id="content" class="main-content" role="main">
       {{ content }}
-      <footer class="site-footer">
-        <span class="site-footer-credits">Vitrine des publications de <a href="https://forumdomotique.com/profile/106-xav59213/">XAV59213</a> sur Forum Domotique · <a href="https://github.com/XAV59213/forumdomotique">Code source sur GitHub</a></span>
-      </footer>
     </main>
+    {% include site-footer.html %}
   </body>
 </html>

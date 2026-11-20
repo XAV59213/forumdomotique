@@ -32,6 +32,16 @@ Chaque sujet se trouve dans un dossier, avec un fichier Markdown (`messages.md`)
 
 Profil source : [https://forumdomotique.com/profile/106-xav59213/](https://forumdomotique.com/profile/106-xav59213/)
 
+## Droits d’auteur
+
+© Xavier Descamps (XAV59213), tous droits réservés.
+
+Les textes, photos et pages de cette vitrine (articles, tests, guides, actualités et archives) ne peuvent être réutilisés, sauf par [Forum Domotique](https://forumdomotique.com/) et par les fabricants ou fournisseurs des marques de produits testés, à condition d’en citer la source. Toute autre reproduction ou utilisation, totale ou partielle, sans accord écrit préalable, est interdite.
+
+Pour demander une autorisation : [ouvrir une demande](https://github.com/XAV59213/forumdomotique/issues/new?template=demande-autorisation.yml). Le détail figure sur la page [Droits et autorisations](https://xav59213.github.io/forumdomotique/droits-et-autorisations/).
+
+Cette réserve ne s’applique pas au code source des intégrations Home Assistant, qui reste soumis à la licence de leur propre dépôt.
+
 ## Comment ajouter un futur article ou un nouveau message
 
 L’archive est organisée **un dossier par sujet** (ou par article) sous `sujets/`.

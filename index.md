@@ -10,23 +10,13 @@ Passionné de domotique, **Xavier Descamps** (XAV59213) développe sur son temps
 
 Cette vitrine rassemble ses publications pour les lire confortablement, et renvoie vers le forum pour continuer la discussion.
 
-<p class="intro-actions">
-  <a href="apropos-de-moi.html">À propos</a>
-  <a href="https://forumdomotique.com/profile/106-xav59213/">Profil Forum Domotique</a>
-  <a href="https://github.com/XAV59213">Dépôts GitHub</a>
-  <a href="tous-les-sujets.html">Tous les sujets</a>
-  <a href="feed.xml">Flux Atom</a>
-</p>
-
-<p class="stats-line"><strong>384 messages</strong> dans <strong>214 sujets</strong> (dont 50 ouverts par XAV59213) · <strong>10 articles</strong> (actualités, guides et tests)</p>
-
 ## À la une
 
 <section class="carousel hero-carousel" data-carousel data-autoplay="6000" aria-roledescription="carrousel" aria-label="Articles à la une" tabindex="0">
 <div class="hero-frame">
 <div class="carousel-track" data-track>
 <article class="hero-slide" data-slide>
-  <img src="{{ '/sujets/4074-freebox-homexa-est-dans-hacs-par-defaut-et-pas-mal-de-nouveautes/images/IMG_7808.png' | relative_url }}" alt="Carte Freebox Homexa dans un tableau de bord Home Assistant" width="1200" height="675" loading="eager">
+  <img src="{{ '/sujets/4074-freebox-homexa-est-dans-hacs-par-defaut-et-pas-mal-de-nouveautes/images/IMG_7808.png' | relative_url }}" alt="Carte Freebox Homexa dans un tableau de bord Home Assistant" width="1200" height="630" loading="eager">
   <div class="hero-caption">
     <div class="tag">HACS officiel</div>
     <h2><a href="sujets/4074-freebox-homexa-est-dans-hacs-par-defaut-et-pas-mal-de-nouveautes/messages.html">Freebox Homexa</a></h2>
@@ -35,7 +25,7 @@ Cette vitrine rassemble ses publications pour les lire confortablement, et renvo
   </div>
 </article>
 <article class="hero-slide" data-slide>
-  <img src="{{ '/contenus/tests/test-segway-navimow-i108e-avis-tondeuse-robot-sans-fil/images/IMG_6753.jpeg' | relative_url }}" alt="Tondeuse robot Segway Navimow i108E dans un jardin" width="1200" height="675" loading="eager">
+  <img src="{{ '/contenus/tests/test-segway-navimow-i108e-avis-tondeuse-robot-sans-fil/images/cover-navimow-i108e.jpg' | relative_url }}" alt="Tondeuse robot Segway Navimow i108, vue rapprochée" width="1200" height="630" loading="eager">
   <div class="hero-caption">
     <div class="tag">Test produit</div>
     <h2><a href="contenus/tests/test-segway-navimow-i108e-avis-tondeuse-robot-sans-fil/article.html">Test Segway Navimow i108E</a></h2>
@@ -44,7 +34,7 @@ Cette vitrine rassemble ses publications pour les lire confortablement, et renvo
   </div>
 </article>
 <article class="hero-slide" data-slide>
-  <img src="{{ '/sujets/596-chauffage-electrique-fil-pilote-fr-enfin-une-integration-qui-parle-francais/images/IMG_6431.jpeg' | relative_url }}" alt="Radiateurs électriques à fil pilote pilotés dans Home Assistant" width="1200" height="675" loading="eager">
+  <img src="{{ '/sujets/596-chauffage-electrique-fil-pilote-fr-enfin-une-integration-qui-parle-francais/images/IMG_6431.jpeg' | relative_url }}" alt="Radiateurs électriques à fil pilote pilotés dans Home Assistant" width="1200" height="630" loading="eager">
   <div class="hero-caption">
     <div class="tag">HACS officiel</div>
     <h2><a href="sujets/596-chauffage-electrique-fil-pilote-fr-enfin-une-integration-qui-parle-francais/messages.html">Chauffage fil pilote FR</a></h2>
@@ -53,7 +43,7 @@ Cette vitrine rassemble ses publications pour les lire confortablement, et renvo
   </div>
 </article>
 <article class="hero-slide" data-slide>
-  <img src="{{ '/contenus/tests/test-avis-aqara-u200-serrure-connectee-matter-thread/images/x-l6LUTj.jpeg' | relative_url }}" alt="Serrure connectée Aqara U200 installée sur une porte" width="1200" height="675" loading="eager">
+  <img src="{{ '/contenus/tests/test-avis-aqara-u200-serrure-connectee-matter-thread/images/cover-aqara-u200.jpg' | relative_url }}" alt="Boîtes de la serrure Aqara Smart Lock U200 et du cylindre, avec le bandeau Forum Domotique" width="1200" height="630" loading="eager">
   <div class="hero-caption">
     <div class="tag">Test produit</div>
     <h2><a href="contenus/tests/test-avis-aqara-u200-serrure-connectee-matter-thread/article.html">Test Aqara U200</a></h2>
@@ -71,7 +61,7 @@ Cette vitrine rassemble ses publications pour les lire confortablement, et renvo
   </div>
 </article>
 <article class="hero-slide" data-slide>
-  <img src="{{ '/contenus/tests/test-slzb-mr4u-coordinateur-zigbee-thread-matter/images/Designsanstitre_3_.png' | relative_url }}" alt="Coordinateur SMLight SLZB-MR4U et son interface" width="1200" height="675" loading="eager">
+  <img src="{{ '/contenus/tests/test-slzb-mr4u-coordinateur-zigbee-thread-matter/images/cover-slzb-mr4u.jpg' | relative_url }}" alt="Coordinateur SMLight SLZB-MR4U et son interface" width="1200" height="630" loading="eager">
   <div class="hero-caption">
     <div class="tag">Test produit</div>
     <h2><a href="contenus/tests/test-slzb-mr4u-coordinateur-zigbee-thread-matter/article.html">Test SMLight SLZB-MR4U</a></h2>
@@ -80,7 +70,7 @@ Cette vitrine rassemble ses publications pour les lire confortablement, et renvo
   </div>
 </article>
 <article class="hero-slide" data-slide>
-  <img src="{{ '/sujets/133-projet-piscine-besoin-de-testeur/images/banner-piscinexa.png' | relative_url }}" alt="Bannière de Piscinexa, gestion de piscine pour Home Assistant" width="1200" height="630" loading="eager">
+  <img src="{{ '/sujets/133-projet-piscine-besoin-de-testeur/images/banner-piscinexa.jpg' | relative_url }}" alt="Bannière de Piscinexa, gestion de piscine pour Home Assistant" width="1200" height="630" loading="eager">
   <div class="hero-caption">
     <div class="tag">Intégration</div>
     <h2><a href="sujets/133-projet-piscine-besoin-de-testeur/messages.html">Piscinexa</a></h2>
@@ -89,7 +79,7 @@ Cette vitrine rassemble ses publications pour les lire confortablement, et renvo
   </div>
 </article>
 <article class="hero-slide" data-slide>
-  <img src="{{ '/sujets/4096-projet-en-cours-maison-3d-votre-maison-qui-vit-au-rythme-de-la-meteo-dans-home-a/images/maison3d-reference.webp' | relative_url }}" alt="Rendu Maison 3D d’une maison qui change avec la météo" width="1200" height="675" loading="eager">
+  <img src="{{ '/sujets/4096-projet-en-cours-maison-3d-votre-maison-qui-vit-au-rythme-de-la-meteo-dans-home-a/images/maison3d-reference.webp' | relative_url }}" alt="Rendu Maison 3D d’une maison qui change avec la météo" width="1200" height="630" loading="eager">
   <div class="hero-caption">
     <div class="tag">Intégration</div>
     <h2><a href="sujets/4096-projet-en-cours-maison-3d-votre-maison-qui-vit-au-rythme-de-la-meteo-dans-home-a/messages.html">Maison 3D</a></h2>

@@ -9,6 +9,7 @@ description: >-
 url: https://xav59213.github.io
 baseurl: /forumdomotique
 show_downloads: false
+license: Tous droits réservés
 markdown: kramdown
 kramdown:
   input: GFM

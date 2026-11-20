@@ -1,0 +1,63 @@
+name: Demande d’autorisation
+description: Demander l’autorisation de réutiliser un article, une photo ou un contenu de cette vitrine.
+title: "[Autorisation] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Ce formulaire sert à demander l’autorisation d’utiliser un contenu de la vitrine (article, test, photo, etc.).
+        Forum Domotique et les fabricants ou fournisseurs des marques testées peuvent déjà réutiliser les articles, à condition de citer la source.
+        Pour tout autre usage, merci de remplir les champs ci-dessous. Aucune adresse électronique n’est exigée : indiquez un profil GitHub, un site ou une page de contact.
+  - type: input
+    id: identite
+    attributes:
+      label: Nom ou société
+      placeholder: Nom, prénom ou raison sociale
+    validations:
+      required: true
+  - type: input
+    id: contact
+    attributes:
+      label: Contact
+      description: Profil GitHub, site web ou page de contact (pas d’adresse électronique dans ce champ).
+      placeholder: https://github.com/votre-profil ou https://votre-site.exemple
+    validations:
+      required: true
+  - type: textarea
+    id: urls
+    attributes:
+      label: Adresse de l’article ou des articles concernés
+      description: Collez le ou les liens de la vitrine (ou du forum) que vous souhaitez utiliser.
+      placeholder: https://xav59213.github.io/forumdomotique/...
+    validations:
+      required: true
+  - type: textarea
+    id: usage
+    attributes:
+      label: Usage envisagé
+      description: Décrivez précisément ce que vous souhaitez faire du contenu.
+    validations:
+      required: true
+  - type: input
+    id: support
+    attributes:
+      label: Support
+      description: Par exemple site web, revue, réseau social, documentation produit, présentation.
+      placeholder: Site web, revue, documentation…
+    validations:
+      required: true
+  - type: input
+    id: duree
+    attributes:
+      label: Durée
+      description: Durée d’utilisation souhaitée, ou « indéterminée ».
+      placeholder: 12 mois, indéterminée…
+    validations:
+      required: true
+  - type: checkboxes
+    id: citation
+    attributes:
+      label: Citation de la source
+      options:
+        - label: Je m’engage à citer la source si l’autorisation m’est accordée.
+          required: true
