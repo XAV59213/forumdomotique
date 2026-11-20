@@ -62,7 +62,7 @@ Cette vitrine rassemble ses publications pour les lire confortablement, et renvo
   </div>
 </article>
 <article class="hero-slide" data-slide>
-  <img src="{{ '/sujets/194-integration-ha-jour-ferie-capteur-de-jours-feries/images/cover-jour-ferie.png' | relative_url }}" alt="Couverture de l’intégration Jour Férié pour Home Assistant" width="1200" height="630" loading="eager">
+  <img src="{{ '/sujets/194-integration-ha-jour-ferie-capteur-de-jours-feries/images/banner-jourferier.png' | relative_url }}" alt="Bannière de l’intégration Jour Férié pour Home Assistant" width="1200" height="630" loading="eager">
   <div class="hero-caption">
     <div class="tag">HACS officiel</div>
     <h2><a href="sujets/194-integration-ha-jour-ferie-capteur-de-jours-feries/messages.html">Jour Férié</a></h2>
@@ -80,7 +80,7 @@ Cette vitrine rassemble ses publications pour les lire confortablement, et renvo
   </div>
 </article>
 <article class="hero-slide" data-slide>
-  <img src="{{ '/sujets/133-projet-piscine-besoin-de-testeur/images/cover-piscinexa.png' | relative_url }}" alt="Couverture de Piscinexa, gestion de piscine pour Home Assistant" width="1200" height="630" loading="eager">
+  <img src="{{ '/sujets/133-projet-piscine-besoin-de-testeur/images/banner-piscinexa.png' | relative_url }}" alt="Bannière de Piscinexa, gestion de piscine pour Home Assistant" width="1200" height="630" loading="eager">
   <div class="hero-caption">
     <div class="tag">Intégration</div>
     <h2><a href="sujets/133-projet-piscine-besoin-de-testeur/messages.html">Piscinexa</a></h2>

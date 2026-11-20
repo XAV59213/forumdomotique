@@ -25,7 +25,7 @@
   repo: freesmsxa
   official: true
   blurb: Recevez les alertes de la maison par SMS, gratuitement, avec l’option Free.
-  image: /sujets/110-free-mobile-sms-xa-integration-home-assistant/images/cover-free-sms-xa.png
+  image: /sujets/110-free-mobile-sms-xa-integration-home-assistant/images/banner-freesmsxa.png
   page: /sujets/110-free-mobile-sms-xa-integration-home-assistant/messages.html
   related:
   - title: Envoyer des SMS depuis le dashboard
@@ -37,13 +37,13 @@
   official: true
   blurb: Savoir si aujourd’hui est férié, demain aussi, et calculer les ponts — y
     compris en Alsace-Moselle.
-  image: /sujets/194-integration-ha-jour-ferie-capteur-de-jours-feries/images/cover-jour-ferie.png
+  image: /sujets/194-integration-ha-jour-ferie-capteur-de-jours-feries/images/banner-jourferier.png
   page: /sujets/194-integration-ha-jour-ferie-capteur-de-jours-feries/messages.html
 - name: Saints du Jour
   repo: saintdujour
   official: true
   blurb: Le ou les saints fêtés aujourd’hui et demain, selon le calendrier français.
-  image: /sujets/193-integration-home-assistant-saints-du-jour/images/cover-saints-du-jour.png
+  image: /sujets/193-integration-home-assistant-saints-du-jour/images/banner-saintdujour.png
   page: /sujets/193-integration-home-assistant-saints-du-jour/messages.html
 - name: Phase de la Lune
   repo: phase_lune
@@ -63,7 +63,7 @@
   repo: date_countdown
   official: false
   blurb: Anniversaires, noces et dates qui comptent, avec des cartes Lovelace dédiées.
-  image: /sujets/4093-integration-home-assistant-souvenirs-et-celebrations/images/cover-souvenirs.png
+  image: /sujets/4093-integration-home-assistant-souvenirs-et-celebrations/images/banner-date_countdown.png
   page: /sujets/4093-integration-home-assistant-souvenirs-et-celebrations/messages.html
   related:
   - title: Date Countdown (première version)
@@ -78,7 +78,7 @@
   repo: piscinexa
   official: false
   blurb: Calculs de pH, de chlore et de temps de filtration pour entretenir sa piscine.
-  image: /sujets/133-projet-piscine-besoin-de-testeur/images/cover-piscinexa.png
+  image: /sujets/133-projet-piscine-besoin-de-testeur/images/banner-piscinexa.png
   page: /sujets/133-projet-piscine-besoin-de-testeur/messages.html
   related:
   - title: Tableau de bord de gestion de piscine

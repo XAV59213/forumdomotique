@@ -1,7 +1,7 @@
 ---
 title: "## 🇫🇷 [Intégration HA] Jour Férié – Capteur de jours fériés"
 description: "Je vous propose une intégration Home Assistant permettant d'afficher si aujourd’hui est un jour férié en France , et d’indiquer le prochain jour férié…"
-image: /sujets/194-integration-ha-jour-ferie-capteur-de-jours-feries/images/cover-jour-ferie.png
+image: /sujets/194-integration-ha-jour-ferie-capteur-de-jours-feries/images/banner-jourferier.png
 date: 2025-06-07
 ---
 {% raw %}
@@ -11,8 +11,8 @@ date: 2025-06-07
 <section class="carousel photo-carousel" data-carousel data-lightbox aria-roledescription="carrousel" aria-label="Photos de l’article (9)" tabindex="0">
 <div class="carousel-track" data-track>
 <figure class="photo-slide" data-slide>
-  <a href="images/cover-jour-ferie.png" data-full="images/cover-jour-ferie.png" data-alt="Couverture — Jour Férié, intégration HACS officielle pour Home Assistant" aria-label="Agrandir la couverture">
-    <img src="images/cover-jour-ferie.png" alt="Couverture — Jour Férié, intégration HACS officielle pour Home Assistant" loading="eager" width="1200" height="630">
+  <a href="images/banner-jourferier.png" data-full="images/banner-jourferier.png" data-alt="Bannière — Jour Férié, intégration HACS officielle pour Home Assistant" aria-label="Agrandir la bannière">
+    <img src="images/banner-jourferier.png" alt="Bannière — Jour Férié, intégration HACS officielle pour Home Assistant" loading="eager" width="1200" height="630">
   </a>
 </figure>
 <figure class="photo-slide" data-slide>
