@@ -6,7 +6,7 @@ date: 2026-11-20
 home: true
 ---
 
-Passionné de domotique, moi c’est **XAV59213**. Je développe sur mon temps libre des **intégrations Home Assistant** pensées pour la France : elles sont gratuites, open source, et la plupart s’installent en quelques clics avec **HACS**. Je partage aussi mes **tests produits**, mes **guides** et mes retours d’expérience sur [Forum Domotique](https://forumdomotique.com/profile/106-xav59213/).
+Passionné de domotique, moi c’est **XAV59213**. Je développe sur mon temps libre des **intégrations Home Assistant** pensées pour la France : elles sont gratuites, open source, et la plupart s’installent en quelques clics avec **HACS**. Je partage aussi mes **tests produits**, mes **guides**, mes **créations de A à Z** et mes retours d’expérience sur [Forum Domotique](https://forumdomotique.com/profile/106-xav59213/).
 
 Ici, je rassemble mes publications pour les lire confortablement, et je renvoie vers le forum pour continuer la discussion.
 
@@ -154,6 +154,21 @@ Chaque mise à jour mensuelle de Home Assistant expliquée en français : nouvea
 {% include item-cards.html items=guides label="Derniers guides" carousel=true %}
 
 <p><a href="{{ '/guides/' | relative_url }}">Tous les guides</a> · <a href="{{ '/actualites/' | relative_url }}">Actualités</a></p>
+
+## Mes créations
+
+<p class="section-lead creations-lead">Mes projets fabriqués de A à Z : impression 3D, montage, configuration Home Assistant.</p>
+
+{% assign creations = site.pages | where: "section", "creations" | sort: "date" | reverse %}
+{% assign creations_feat = creations | where: "featured", true %}
+{% if creations_feat.size > 0 %}
+  {% assign crea_une = creations_feat | first %}
+{% else %}
+  {% assign crea_une = creations | first %}
+{% endif %}
+{% include featured-une.html une=crea_une label="Création à la une" button="Voir la création" %}
+
+<p><a href="{{ '/creations/' | relative_url }}">Toutes mes créations</a></p>
 
 ## Toute l’archive
 

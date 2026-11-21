@@ -1,0 +1,24 @@
+---
+title: "Mes créations"
+description: "Mes projets fabriqués de A à Z : impression 3D, montage, configuration Home Assistant."
+image: /creations/box-domotique-impression-3d-home-assistant/images/TYtqE1G2.jpeg
+date: 2026-11-21
+permalink: /creations/
+---
+
+# Mes créations <span class="az-badge">A à Z</span>
+
+<p class="section-lead">Voici mes projets fabriqués de A à Z : impression 3D, montage, configuration Home Assistant. Ce ne sont pas des guides repris d’ailleurs : je les ai conçus, imprimés et mis en service moi-même, et je raconte le parcours complet, du premier fichier STL jusqu’à la box qui tourne.</p>
+
+{% assign creations = site.pages | where: "section", "creations" | sort: "date" | reverse %}
+{% assign creations_feat = creations | where: "featured", true %}
+{% if creations_feat.size > 0 %}
+  {% assign crea_une = creations_feat | first %}
+{% else %}
+  {% assign crea_une = creations | first %}
+{% endif %}
+{% include featured-une.html une=crea_une label="Création à la une" button="Voir la création" %}
+
+## Dernières créations
+
+{% include item-cards.html items=creations label="Dernières créations" %}

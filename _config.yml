@@ -70,6 +70,10 @@ defaults:
       path: contenus/guides
     values:
       forum_comments: false
+  - scope:
+      path: creations
+    values:
+      forum_comments: false
 # Commentaires du site via giscus (GitHub Discussions). Laisser à false
 # tant que Discussions et l’application giscus ne sont pas configurés
 # (voir _includes/giscus.html).

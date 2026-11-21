@@ -1,5 +1,5 @@
 {% if include.une %}
-<section class="featured-block">
+<section class="featured-block{% if include.une.section == 'creations' %} featured-creations{% endif %}">
   <p class="kicker">{{ include.label }}</p>
   <div class="featured-inner">
     <a class="featured-media" href="{{ include.une.url | relative_url }}">
@@ -9,6 +9,7 @@
       {% if include.une.brand or include.une.product %}
       <p class="brand">{% if include.une.brand %}{{ include.une.brand }}{% endif %}{% if include.une.brand and include.une.product %} · {% endif %}{% if include.une.product %}{{ include.une.product }}{% endif %}</p>
       {% endif %}
+      {% if include.une.section == "creations" %}<p class="az-kicker"><span class="az-badge">A à Z</span></p>{% endif %}
       <h2><a href="{{ include.une.url | relative_url }}">{{ include.une.title }}</a></h2>
       <p>{{ include.une.description }}</p>
       {% if include.une.date %}<p class="featured-date">{{ include.une.date | date: "%d/%m/%Y" }}</p>{% endif %}

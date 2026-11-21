@@ -1029,3 +1029,53 @@ $ha-navy: #0b3a57;
     transform: translateY(-50%);
   }
 }
+
+
+/* Mes créations — A à Z */
+.feature-card-az { border-color: #ead5c8; }
+.feature-card-az:hover { border-color: #c45c26; }
+.feature-card-az h3 { color: #9a3f16; }
+.feature-card .tag-az,
+.tag-az {
+  color: #c45c26;
+  background: #f8efe8;
+}
+.az-badge {
+  display: inline-block;
+  margin-left: 0.15rem;
+  padding: 0.15rem 0.55rem;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: #fff;
+  background: #c45c26;
+  border-radius: 999px;
+  vertical-align: middle;
+}
+.az-kicker {
+  margin: 0 0 1rem;
+  color: #6a3a1e;
+  font-size: 0.95rem;
+}
+.az-kicker .az-badge { margin: 0 0.35rem 0 0; }
+.featured-creations {
+  background: #f8efe8;
+  border: 1px solid #ead5c8;
+  border-radius: 12px;
+  padding: 1.1rem 1.2rem 1.3rem;
+}
+.featured-creations .kicker { color: #c45c26; }
+.featured-creations .hero-btn { background: #c45c26; }
+.featured-creations .hero-btn:hover { background: #9a3f16; }
+.featured-creations .featured-copy h2 a { color: #9a3f16; }
+.creation-video {
+  display: block;
+  width: 100%;
+  max-width: 900px;
+  height: auto;
+  margin: 0 0 1.4rem;
+  border-radius: 8px;
+  background: #111;
+}
+.creations-lead { margin-bottom: 1.2rem; }
