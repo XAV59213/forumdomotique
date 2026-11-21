@@ -1,6 +1,6 @@
 ---
 title: "Mes créations"
-description: "Mes projets fabriqués de A à Z : impression 3D, montage, configuration Home Assistant."
+description: "Mes projets fabriqués de A à Z : impression 3D, capteurs, montage, configuration Home Assistant."
 image: /creations/box-domotique-impression-3d-home-assistant/images/box-domotique-a-z-couverture.jpg
 date: 2026-11-21
 permalink: /creations/
@@ -8,7 +8,7 @@ permalink: /creations/
 
 # Mes créations <span class="az-badge">A à Z</span>
 
-<p class="section-lead">Voici mes projets fabriqués de A à Z : impression 3D, montage, configuration Home Assistant. Ce ne sont pas des guides repris d’ailleurs : je les ai conçus, imprimés et mis en service moi-même, et je raconte le parcours complet, du premier fichier STL jusqu’à la box qui tourne.</p>
+<p class="section-lead">Voici mes projets fabriqués de A à Z : impression 3D, capteurs, montage, configuration Home Assistant. Ce ne sont pas des guides repris d’ailleurs : je les ai conçus, assemblés et mis en service moi-même, et je raconte le parcours complet, du premier prototype jusqu’à l’installation qui tourne.</p>
 
 {% assign creations = site.pages | where: "section", "creations" | sort: "date" | reverse %}
 {% assign creations_feat = creations | where: "featured", true %}
@@ -19,6 +19,9 @@ permalink: /creations/
 {% endif %}
 {% include featured-une.html une=crea_une label="Création à la une" button="Voir la création" %}
 
-## Dernières créations
+{% assign creations_rest = creations | where_exp: "p", "p.url != crea_une.url" %}
+{% if creations_rest.size > 0 %}
+## Autres créations
 
-{% include item-cards.html items=creations label="Dernières créations" %}
+{% include item-cards.html items=creations_rest label="Autres créations" %}
+{% endif %}

@@ -5,7 +5,6 @@ image: /creations/box-domotique-impression-3d-home-assistant/images/box-domotiqu
 date: 2025-09-20
 section: creations
 forum_comments: false
-featured: true
 tags:
   - Impression 3D
   - Home Assistant
