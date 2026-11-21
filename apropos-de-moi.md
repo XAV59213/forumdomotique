@@ -38,3 +38,6 @@ Passionné de domotique, je développe sur mon temps libre des intégrations Hom
 - 🧠 [Grok Automation Suggester](https://github.com/XAV59213/grok_automation_suggester) : des idées d'automatisations par l'IA
 
 Tous mes projets : <https://github.com/XAV59213>. Les retours, idées et rapports de bugs sont les bienvenus, ici en message privé ou sur GitHub 😉
+
+Les dons servent uniquement à acheter du matériel pour réaliser mes tutoriels, guides et tests. Je ne fais aucun profit avec les dons, et si un jour ils dépassent ce besoin, je désactive le bouton. Pour contribuer : <a href="https://www.buymeacoffee.com/xav59213" target="_blank" rel="noopener">Faire un don sur Buy Me a Coffee</a>.
+

@@ -4,6 +4,7 @@ description: "Copyright des articles, photos et pages de la vitrine Forum Domoti
 permalink: /droits-et-autorisations/
 image: /assets/images/og-default.png
 date: 2026-11-20
+don: false
 ---
 
 # Droits et autorisations
@@ -33,3 +34,8 @@ Aucune adresse électronique n’est publiée sur cette page. La demande transit
 ## Confidentialité
 
 Cette vitrine utilise [GoatCounter](https://www.goatcounter.com/) pour compter les visites des pages. Cet outil ne dépose pas de cookie et ne suit pas les visiteurs d’un site à l’autre. Les statistiques servent uniquement à savoir quels articles sont lus ; elles ne sont pas utilisées à des fins publicitaires.
+
+## Soutenir mes tests et guides
+
+Les dons servent uniquement à acheter du matériel pour réaliser mes tutoriels, guides et tests. Je ne fais aucun profit avec les dons, et si un jour ils dépassent ce besoin, je désactive le bouton. Pour contribuer : <a href="https://www.buymeacoffee.com/xav59213" target="_blank" rel="noopener">Faire un don sur Buy Me a Coffee</a>.
+

@@ -89,7 +89,34 @@
         {% assign page_body = page_body | split: '<section class="article-comments"' | first %}
         {% assign page_body = page_body | split: '<h2 id="commentaires-de-xav59213' | first %}
       {% endif %}
-      {{ page_body }}
+      {% assign don_before = page_body %}
+      {% assign don_after = "" %}
+      {% assign don_marker = "" %}
+      {% if page.layout != "ha-release" %}
+        {% assign parts = page_body | split: '<h2 id="guides-complémentaires"' %}
+        {% if parts.size > 1 %}
+          {% assign don_marker = '<h2 id="guides-complémentaires"' %}
+        {% else %}
+          {% assign parts = page_body | split: '<h2 id="guides-complementaires"' %}
+          {% if parts.size > 1 %}
+            {% assign don_marker = '<h2 id="guides-complementaires"' %}
+          {% else %}
+            {% assign parts = page_body | split: '<section class="article-comments"' %}
+            {% if parts.size > 1 %}
+              {% assign don_marker = '<section class="article-comments"' %}
+            {% endif %}
+          {% endif %}
+        {% endif %}
+        {% if don_marker != "" %}
+          {% assign don_before = parts.first %}
+          {% assign don_after = parts | slice: 1, 1000 | join: don_marker %}
+        {% endif %}
+      {% endif %}
+      {{ don_before }}
+      {% if page.layout != "ha-release" %}
+        {% include don.html %}
+      {% endif %}
+      {% if don_marker != "" %}{{ don_marker }}{{ don_after }}{% endif %}
       {% if is_article and page.section %}
         {% include giscus.html %}
       {% endif %}

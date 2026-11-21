@@ -54,6 +54,7 @@ defaults:
       layout: default
       image: /assets/images/og-default.png
       lang: fr_FR
+      don: false
   - scope:
       path: brouillons
     values:
@@ -66,14 +67,38 @@ defaults:
       path: contenus/tests
     values:
       forum_comments: false
+      don: true
   - scope:
       path: contenus/guides
     values:
       forum_comments: false
+      don: true
   - scope:
       path: creations
     values:
       forum_comments: false
+      don: true
+  - scope:
+      path: contenus/actualites
+    values:
+      don: true
+  - scope:
+      path: contenus/commentaires-autres
+    values:
+      don: true
+  - scope:
+      path: actualite-home-assistant
+    values:
+      don: true
+  - scope:
+      path: sujets
+    values:
+      don: true
+# Bouton « Faire un don » (Buy Me a Coffee) sous les articles.
+# Passer enabled à false pour le masquer partout d’un seul coup.
+don:
+  enabled: true
+  url: https://www.buymeacoffee.com/xav59213
 # Commentaires du site via giscus (GitHub Discussions). Laisser à false
 # tant que Discussions et l’application giscus ne sont pas configurés
 # (voir _includes/giscus.html).
