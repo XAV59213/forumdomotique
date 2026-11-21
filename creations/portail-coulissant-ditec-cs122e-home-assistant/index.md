@@ -1,6 +1,6 @@
 ---
 title: "Mon portail coulissant Ditec sur Home Assistant : carte universelle, cellules et Sonoff Zigbee"
-description: "J’ai fabriqué mon portail en 2012, puis en 2026 j’ai repris le moteur Ditec CS122E, ajouté une carte universelle BLX-2, des photocellules, et un Sonoff MINI-ZBD pour le piloter depuis Home Assistant."
+description: "J’ai fabriqué mon portail en 2012. En 2026, j’ai enfin concrétisé sa motorisation : grâce au Ditec CS122E que Sam m’a donné cet été, j’ai ajouté une carte universelle BLX-2, des photocellules, et un Sonoff MINI-ZBD pour le piloter depuis Home Assistant."
 image: /creations/portail-coulissant-ditec-cs122e-home-assistant/images/portail-couverture.jpg
 date: 2026-11-21
 section: creations
@@ -19,11 +19,13 @@ tags:
 
 <p class="az-kicker"><span class="az-badge">A à Z</span> Une création de XAV59213 — fabrication du portail, motorisation et Home Assistant.</p>
 
+J’ai enfin concrétisé un projet qui était là depuis 2012 : motoriser le portail que j’avais fabriqué moi-même, et le piloter depuis Home Assistant. Merci à Sam, qui m’a donné le moteur Ditec CS122E cet été.
+
 ### J’ai fabriqué le portail moi-même en 2012
 
-En 2012, j’ai fabriqué mon portail coulissant moi-même. J’ai coulé la longrine et posé le rail en béton, soudé le cadre dans le garage, puis posé le portail en septembre 2012, avec ses tôles. La motorisation, un moteur Ditec, est venue ensuite.
+En 2012, j’ai fabriqué mon portail coulissant moi-même. J’ai coulé la longrine et posé le rail en béton, soudé le cadre dans le garage, puis posé le portail en septembre 2012, avec ses tôles.
 
-En 2026, la carte de commande d’origine n’était plus là. J’ai repris le moteur, ajouté une carte universelle, des photocellules, et un module Zigbee pour le piloter depuis Home Assistant. C’est cette suite que je raconte ici.
+En 2026, j’ai pu aller au bout : le moteur que Sam m’a donné n’avait plus sa carte de commande d’origine. J’ai ajouté une carte universelle, des photocellules, et un module Zigbee pour le piloter depuis Home Assistant. C’est cette suite que je raconte ici.
 
 <section class="carousel photo-carousel ha-gallery" data-carousel data-lightbox aria-roledescription="carrousel" aria-label="Fabrication du portail en 2012" tabindex="0">
 <div class="carousel-track" data-track>
@@ -69,15 +71,15 @@ En 2026, la carte de commande d’origine n’était plus là. J’ai repris le 
 <p class="carousel-hint">Faites défiler horizontalement pour voir les photos de la fabrication, en 2012.</p>
 </section>
 
-### J’ai remis le moteur en service en 2026
+### J’ai mis le moteur en service en 2026
 
-J’avais toujours le moteur de portail coulissant, mais plus sa carte de commande d’origine. Les fils étaient là, le réducteur et le pignon aussi, mais rien pour le piloter proprement. Je voulais une solution locale, avec des photocellules de sécurité, et surtout pouvoir l’ouvrir depuis Home Assistant.
+Cet été, Sam m’a donné le moteur Ditec CS122E. Il n’avait plus sa carte de commande d’origine. Les fils étaient là, le réducteur et le pignon aussi, mais rien pour le piloter proprement. Je voulais une solution locale, avec des photocellules de sécurité, et surtout pouvoir l’ouvrir depuis Home Assistant.
 
 Le projet s’est déroulé de juin à août 2026 : j’ai identifié le moteur, choisi une carte universelle, câblé le tout, installé les cellules, puis ajouté un module Zigbee à contact sec. Aujourd’hui, ça fonctionne au quotidien : la carte referme le portail toute seule, et Home Assistant s’occupe de l’ouverture à l’arrivée et de l’éclairage.
 
 ### L’état de départ
 
-Le moteur était encore là, avec son capot d’origine et son pignon. Sans la carte, les fils attendaient dans le boîtier blanc.
+Le moteur était là, avec son capot d’origine et son pignon. Sans la carte, les fils attendaient dans le boîtier blanc.
 
 <figure class="ha-figure">
   <a href="images/moteur-depose-capot.jpg" data-full="images/moteur-depose-capot.jpg" data-alt="Moteur Ditec déposé, avec son capot vert d’origine et le pignon, vu depuis le dessous" aria-label="Agrandir : Le moteur déposé, avec son capot d’origine et le pignon.">
