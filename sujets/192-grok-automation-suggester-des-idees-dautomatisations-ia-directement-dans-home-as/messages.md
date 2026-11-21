@@ -35,19 +35,6 @@ date: 2025-06-07
 
 # 🧠 Grok Automation Suggester – Des idées d’automatisations IA directement dans Home Assistant !
 
-- **Catégorie :** [Projets et Personnalisations](https://forumdomotique.com/forums/12-projets-et-personnalisations/)
-- **Sujet :** https://forumdomotique.com/forums/topic/192-%F0%9F%A7%A0-grok-automation-suggester-des-id%C3%A9es-dautomatisations-ia-directement-dans-home-assistant/
-- **Auteur du premier message du sujet :** XAV59213
-- **Messages de XAV59213 dans ce sujet :** 1
-- **Premier message de XAV59213 :** 7 juin 2025 à 11:29 (Europe/Paris)
-
----
-
-## Message 1 — 7 juin 2025 à 11:29 (Europe/Paris)
-
-- **Identifiant :** `411`
-- **Lien :** https://forumdomotique.com/forums/topic/192-%F0%9F%A7%A0-grok-automation-suggester-des-id%C3%A9es-dautomatisations-ia-directement-dans-home-assistant/#findComment-411
-
 ### 🔥 Une intégration fun, utile et inspirée par JARVIS & Le Guide du voyageur galactique !
 
 ---
