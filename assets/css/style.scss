@@ -1102,22 +1102,31 @@ $ha-navy: #0b3a57;
 }
 .don-block .don-cta { margin: 0; }
 .don-block .don-cta a {
-  display: inline-block;
-  line-height: 0;
-  border-radius: 10px;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.55rem;
+  padding: 0.6rem 1.1rem;
+  background: #5F7FFF;
+  color: #fff;
+  border-radius: 12px;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 1.05rem;
+  line-height: 1.2;
+  box-shadow: 0 2px 6px rgba(40, 60, 160, 0.25);
+  transition: transform 0.15s ease, background 0.15s ease;
 }
+.don-block .don-cta a:hover { background: #4d6ef5; transform: translateY(-1px); }
 .don-block .don-cta a:focus-visible {
   outline: 3px solid #5F7FFF;
   outline-offset: 3px;
 }
-.don-block .don-cta img {
-  display: block;
-  width: 172px;
-  height: auto;
-  max-width: 100%;
-  margin: 0 !important;
-  border: 0;
-  border-radius: 10px;
+.don-block .don-cup { font-size: 1.3rem; }
+.don-block .don-name {
+  font-weight: 600;
+  opacity: 0.9;
+  padding-left: 0.55rem;
+  border-left: 1px solid rgba(255, 255, 255, 0.45);
 }
 @media (max-width: 700px) {
   .don-block { padding: 1rem 1rem 1.15rem; }
