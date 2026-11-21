@@ -11,3 +11,13 @@
   image_alt: "Nuki Smart Lock Pro de 5e génération et Keypad 2 NFC blanc, visuel officiel"
   credit: "© Nuki"
   # pas de champ url : la carte n’est pas un lien
+- id: netatmo-station-meteo
+  title: "Station météo Netatmo Original, bientôt en test"
+  tag: "Bientôt"
+  brand: Netatmo
+  product: "Station Météo Original"
+  excerpt: "Je m’apprête aussi à tester la Station Météo Original de Netatmo : le module intérieur et le module extérieur, avec l’anémomètre et le pluviomètre. Je regarderai les mesures au quotidien, puis l’intégration officielle dans Home Assistant. Bientôt."
+  image: /assets/images/prochains-tests/netatmo-station-meteo-original-anemometre-pluviometre.jpg
+  image_alt: "Station Météo Original Netatmo, modules intérieur et extérieur, pluviomètre, anémomètre et abri, visuel officiel"
+  credit: "© Netatmo"
+  # pas de champ url : la carte n’est pas un lien
