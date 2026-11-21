@@ -1,14 +1,14 @@
 {
-  "generated": "2026-11-21T13:02:02.967216+01:00",
+  "generated": "2026-11-21T13:25:22.625562+01:00",
   "author": "XAV59213",
   "profile": "https://forumdomotique.com/profile/106-xav59213/",
-  "forum_posts": 386,
-  "forum_topics": 215,
-  "topics_started": 51,
+  "forum_posts": 387,
+  "forum_topics": 216,
+  "topics_started": 52,
   "cms_articles": 10,
   "other_commented_articles": 2,
   "cms_comments": 37,
-  "images_cached": 502,
+  "images_cached": 504,
   "image_failures": [
     {
       "url": "https://litter.catbox.moe/hx4wox.jpg",
@@ -2411,6 +2411,17 @@
       "url": "https://forumdomotique.com/forums/topic/4097-merci-%C3%A0-vous-vos-installations-le-forum-et-la-suite/",
       "folder": "sujets/4097-merci-a-vous-vos-installations-le-forum-et-la-suite",
       "n_images": 21,
+      "started_by_xavier": true
+    },
+    {
+      "topic_id": "4098",
+      "title": "🔐🌦️ Deux tests à venir : Nuki Smart Lock Pro et Station Météo Netatmo",
+      "category": "Vos Tests & Retours d’expérience",
+      "n_posts": 1,
+      "first_date": "2026-11-21T12:23:00Z",
+      "url": "https://forumdomotique.com/forums/topic/4098-%F0%9F%94%90%F0%9F%8C%A6%EF%B8%8F-deux-tests-%C3%A0-venir-nuki-smart-lock-pro-et-station-m%C3%A9t%C3%A9o-netatmo/",
+      "folder": "sujets/4098-deux-tests-a-venir-nuki-smart-lock-pro-et-station-meteo-netatmo",
+      "n_images": 2,
       "started_by_xavier": true
     }
   ],
