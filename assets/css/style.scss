@@ -670,6 +670,7 @@ body.lightbox-open { overflow: hidden; }
 @media (min-width: 701px) {
   .featured-media,
   .featured-media img { height: 100%; }
+  .featured-creations .featured-media img { object-position: left center; }
 }
 @media (max-width: 700px) {
   .featured-inner { grid-template-columns: 1fr; }
