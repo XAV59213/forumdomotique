@@ -1,7 +1,7 @@
 ---
 title: "Créer sa box domotique parfaite : de l'impression 3D à la configuration Home Assistant !"
 description: "Mes projets fabriqués de A à Z : j’ai imprimé le boîtier, monté le Raspberry Pi, câblé les LEDs WLED et configuré Home Assistant."
-image: /creations/box-domotique-impression-3d-home-assistant/images/TYtqE1G2.jpeg
+image: /creations/box-domotique-impression-3d-home-assistant/images/box-domotique-a-z-couverture.jpg
 date: 2025-09-20
 section: creations
 forum_comments: false

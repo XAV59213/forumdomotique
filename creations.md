@@ -1,7 +1,7 @@
 ---
 title: "Mes créations"
 description: "Mes projets fabriqués de A à Z : impression 3D, montage, configuration Home Assistant."
-image: /creations/box-domotique-impression-3d-home-assistant/images/TYtqE1G2.jpeg
+image: /creations/box-domotique-impression-3d-home-assistant/images/box-domotique-a-z-couverture.jpg
 date: 2026-11-21
 permalink: /creations/
 ---
