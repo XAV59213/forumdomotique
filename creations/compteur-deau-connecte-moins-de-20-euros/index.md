@@ -5,7 +5,7 @@ image: /creations/compteur-deau-connecte-moins-de-20-euros/images/compteur-eau-c
 date: 2025-11-30
 section: creations
 forum_comments: false
-featured: true
+featured: false
 tags:
   - ESPHome
   - Home Assistant

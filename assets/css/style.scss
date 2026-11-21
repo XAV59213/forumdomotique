@@ -1131,3 +1131,36 @@ $ha-navy: #0b3a57;
 @media (max-width: 700px) {
   .don-block { padding: 1rem 1rem 1.15rem; }
 }
+
+/* Blocs de code dans les articles : défilement horizontal si ça déborde, sans couper le texte. */
+.main-content pre,
+.main-content .highlight,
+.main-content .highlight pre {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  max-width: 100%;
+}
+
+/* Vidéo d’article (portrait inclus) : ne déborde pas, largeur fluide. */
+figure.creation-video-figure {
+  margin: 1.1rem 0 1.5rem;
+  max-width: min(100%, 420px);
+  width: 100%;
+}
+figure.creation-video-figure .creation-video {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  margin: 0;
+  border-radius: 8px;
+  background: #111;
+}
+figure.creation-video-figure figcaption {
+  font-size: 0.86rem;
+  line-height: 1.4;
+  color: #3c4f5a;
+  text-align: center;
+  padding: 0.5rem 0.2rem 0;
+}
+.ha-figure.ha-figure-result img { max-height: 640px; }
