@@ -1,7 +1,7 @@
 ---
 title: "À propos de moi — XAV59213"
 description: "À propos de XAV59213 : intégrations Home Assistant pour la France, disponibles dans HACS ou en dépôt personnalisé."
-image: /images-profil/Sanstitre.jpeg
+image: /images-profil/xav59213-starter-pack-og.jpg
 date: 2026-11-20
 ---
 # À propos de moi — XAV59213
@@ -13,7 +13,7 @@ date: 2026-11-20
 
 « On a deux vies, et la deuxième commence quand on se rend compte qu’on en a qu’une. »
 
-![Sans titre.jpeg](images-profil/Sanstitre.jpeg)
+![Figurine « Starter Pack » de XAV59213](images-profil/Sanstitre.jpeg)
 <!-- source : https://cdn.forumdomotique.com/monthly_2025_04/Sanstitre.jpeg.1876e2cf4324cd6e84898fd269316dcd.jpeg -->
 
 ### 🏠 Mes intégrations Home Assistant

@@ -2,7 +2,8 @@
 layout: ha-release
 title: "Home Assistant 2026.4 : l’infrarouge devient natif, les automatisations pensent « portes, fenêtres et mouvement »"
 short_title: "2026.4 : l’infrarouge fait son retour"
-description: "Home Assistant 2026.4 (1er avril 2026) en français : infrarouge natif avec les proxys ESPHome, déclencheurs et conditions multi-domaines, couleurs de fond des sections, gestion des codes des serrures Matter, nouvelle jauge et breaking changes."
+description: "Home Assistant 2026.4 (1er avril 2026) en français : infrarouge natif via ESPHome, déclencheurs multi-domaines et serrures Matter."
+
 excerpt_fr: "L’infrarouge devient un citoyen de première classe grâce aux proxys ESPHome, les automatisations raisonnent en portes, fenêtres et mouvement, et les serrures Matter se gèrent enfin depuis Home Assistant."
 image: /actualite-home-assistant/home-assistant-2026-4/images/cover.png
 cover_alt: "Couverture : nouveautés de Home Assistant 2026.4, avril 2026"

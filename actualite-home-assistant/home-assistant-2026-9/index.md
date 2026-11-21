@@ -2,7 +2,8 @@
 layout: ha-release
 title: "Home Assistant 2026.9 : Modbus se modernise, l’Activité explique le « pourquoi » et la carte du réseau Matter arrive"
 short_title: "2026.9 : Modbus, Matter et le pourquoi des choses"
-description: "Home Assistant 2026.9 (2 septembre 2026) en français : Modbus configurable par intégration, nouvelle reconnaissance vocale Cloud à tester, alertes et favoris du tableau Sécurité, panneau Sources, détails « pourquoi » dans l’Activité, carte du réseau Matter, heure dorée et heure bleue, et breaking changes."
+description: "Home Assistant 2026.9 (2 septembre 2026) en français : Modbus par intégration, alertes du tableau Sécurité et carte du réseau Matter. Notes par XAV59213."
+
 excerpt_fr: "Les appareils Modbus se choisissent enfin dans l’interface, l’Activité raconte pourquoi une lumière s’est allumée, Matter affiche sa carte réseau et le soleil gagne l’heure dorée et l’heure bleue."
 image: /actualite-home-assistant/home-assistant-2026-9/images/cover.png
 cover_alt: "Couverture : nouveautés de Home Assistant 2026.9, septembre 2026"

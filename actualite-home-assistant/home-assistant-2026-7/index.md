@@ -2,7 +2,8 @@
 layout: ha-release
 title: "Home Assistant 2026.7 : les déclencheurs « par usage » sortent de Labs et deviennent la norme"
 short_title: "2026.7 : des automatisations qui parlent votre langue"
-description: "Home Assistant 2026.7 (1er juillet 2026) en français : déclencheurs et conditions par usage activés pour tous, automatisations par pièce, journal Activité en frise chronologique, bouton Tout mettre à jour, panneaux infrarouge et radiofréquence, firmware Raspberry Pi et breaking changes."
+description: "Home Assistant 2026.7 (1er juillet 2026) en français : déclencheurs par usage, automatisations par pièce et journal Activité en frise."
+
 excerpt_fr: "Huit mois de travail aboutissent : on décrit ce que la maison doit faire, par pièce, sans pièges techniques. Le journal Activité devient une frise et un bouton « Update all » met tout à jour d’un geste."
 image: /actualite-home-assistant/home-assistant-2026-7/images/cover.png
 cover_alt: "Couverture : nouveautés de Home Assistant 2026.7, juillet 2026"

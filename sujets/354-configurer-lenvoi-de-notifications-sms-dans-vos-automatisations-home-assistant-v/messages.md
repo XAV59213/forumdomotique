@@ -1,7 +1,7 @@
 ---
 title: "Configurer l’envoi de notifications SMS dans vos automatisations Home Assistant via Free Mobile SMS XA"
 description: "1. Installe et configure l’intégration Free Mobile SMS XA (HACS → Dépôts personnalisés → ajouter le dépôt → installer → redémarrer → Paramètres →…"
-image: /sujets/354-configurer-lenvoi-de-notifications-sms-dans-vos-automatisations-home-assistant-v/images/Capturedcrandu2025-08-2417-30-36.png
+image: /sujets/354-configurer-lenvoi-de-notifications-sms-dans-vos-automatisations-home-assistant-v/images/og-partage.jpg
 date: 2025-08-24
 github_repo: freesmsxa
 ---

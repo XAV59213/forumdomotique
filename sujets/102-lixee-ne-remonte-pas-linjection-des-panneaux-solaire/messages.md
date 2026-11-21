@@ -1,7 +1,7 @@
 ---
 title: "Lixee ne remonte pas l’injection des panneaux solaire"
 description: "La conversion de la puissance apparente (VA) en watts (W) avec LiXee ZLinky dans Homeassitant il faut créer un capteur sensor template dans Home Assistant…"
-image: /sujets/102-lixee-ne-remonte-pas-linjection-des-panneaux-solaire/images/Capturedcrandu2025-04-2918-42-07.png
+image: /sujets/102-lixee-ne-remonte-pas-linjection-des-panneaux-solaire/images/og-partage.jpg
 date: 2025-04-29
 ---
 {% raw %}

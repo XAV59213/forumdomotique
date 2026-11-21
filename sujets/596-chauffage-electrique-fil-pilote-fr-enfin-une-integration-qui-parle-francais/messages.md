@@ -1,7 +1,7 @@
 ---
 title: "Chauffage Électrique Fil Pilote FR – Enfin une intégration qui parle français !"
 description: "Je vous présente Chauffage Électrique Fil Pilote FR , une intégration Home Assistant 100 % locale spécialement conçue pour les radiateurs à fil pilote 6…"
-image: /sujets/596-chauffage-electrique-fil-pilote-fr-enfin-une-integration-qui-parle-francais/images/IMG_6431.jpeg
+image: /sujets/596-chauffage-electrique-fil-pilote-fr-enfin-une-integration-qui-parle-francais/images/og-partage.jpg
 date: 2025-12-09
 github_repo: chauffage
 ---

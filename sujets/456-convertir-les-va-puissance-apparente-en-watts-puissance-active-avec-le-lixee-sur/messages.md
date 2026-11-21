@@ -1,7 +1,7 @@
 ---
 title: "Convertir les VA (Puissance apparente) en Watts (Puissance active) avec le Lixee sur Home Assistant"
 description: "Le module Lixee (via le capteur sensor.linky papp) te donne la puissance apparente en VA Mais dans les dashboards Énergie, on veut des Watts (puissance…"
-image: /sujets/456-convertir-les-va-puissance-apparente-en-watts-puissance-active-avec-le-lixee-sur/images/Capturedcrandu2025-10-2115-15-02.png
+image: /sujets/456-convertir-les-va-puissance-apparente-en-watts-puissance-active-avec-le-lixee-sur/images/og-partage.jpg
 date: 2025-10-21
 ---
 {% raw %}

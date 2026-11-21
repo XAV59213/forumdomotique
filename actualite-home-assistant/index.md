@@ -1,6 +1,7 @@
 ---
 title: "Actualité Home Assistant : toutes les mises à jour 2026 expliquées en français"
-description: "Chaque version mensuelle de Home Assistant décortiquée en français par XAV59213 : nouveautés phares pas à pas, nouvelles intégrations, breaking changes et conseils de mise à jour."
+description: "Chaque version mensuelle de Home Assistant expliquée en français par XAV59213 : nouveautés, intégrations, breaking changes et conseils de mise à jour."
+
 image: /actualite-home-assistant/home-assistant-2026-11/images/cover.png
 date: 2026-11-20
 permalink: /actualite-home-assistant/

@@ -1,7 +1,7 @@
 ---
 title: "Interrupteur netatmo"
 description: "Il faut sélectionner un point de terminaison source pour lier l’appareil que vous souhaitez contrôler. 🤓 Il faut réveiller l’appareil avant de faire la…"
-image: /sujets/146-interrupteur-netatmo/images/IMG_6227.png
+image: /sujets/146-interrupteur-netatmo/images/og-partage.jpg
 date: 2025-11-09
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/146-interrupteur-netatmo/">Lire et commenter sur Forum Domotique</a></p>

@@ -1,6 +1,7 @@
 ---
 title: "Installer Music Assistant dans Home Assistant et lire ses MP3 sur les Echo Dot et Echo Show"
-description: "Comment j’ai installé Music Assistant dans Home Assistant, ajouté ma musique, puis réussi à la faire jouer sur mes Echo Dot et Echo Show, après quelques galères de proxy et de skill Alexa."
+description: "Comment j’ai installé Music Assistant dans Home Assistant, ajouté ma musique, puis réussi à la faire jouer sur mes Echo Dot et Echo Show."
+
 image: /contenus/guides/music-assistant-echo/images/music-assistant-echo-couverture.jpg
 image_alt: "Couverture du guide Music Assistant + Echo : salon le soir, Echo Dot et Home Assistant"
 date: 2026-11-21

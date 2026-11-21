@@ -33,7 +33,7 @@ social:
   links:
     - https://github.com/XAV59213
     - https://forumdomotique.com/profile/106-xav59213/
-logo: /assets/images/og-default.png
+logo: /assets/images/logo-xav.png
 # Pas de compte X renseigné : on n’émet pas twitter.username
 # (un username vide produisait twitter:site="@" et un créateur incorrect).
 # Après vérification Search Console / Bing, décommenter et coller les codes :
@@ -53,13 +53,22 @@ defaults:
     values:
       layout: default
       image: /assets/images/og-default.png
-      lang: fr_FR
+      lang: fr
       don: false
   - scope:
       path: brouillons
     values:
       sitemap: false
       robots: noindex, nofollow
+  - scope:
+      path: google2b70f4b4787d43c1.html
+    values:
+      sitemap: false
+      robots: noindex, nofollow
+  - scope:
+      path: BingSiteAuth.xml
+    values:
+      sitemap: false
   # Ne pas afficher les commentaires repris du forum sous les tests et les guides.
   # Une régénération du bot Forum Domotique peut les réécrire dans l’article :
   # le layout les masque tant que cette valeur reste false.

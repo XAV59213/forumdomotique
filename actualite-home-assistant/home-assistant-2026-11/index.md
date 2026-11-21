@@ -2,7 +2,8 @@
 layout: ha-release
 title: "Home Assistant 2026.11 : HACS devient le Marketplace officiel, et c’est la plus grosse version jamais publiée"
 short_title: "2026.11 : HACS devient le Marketplace"
-description: "Home Assistant 2026.11 (4 novembre 2026) en français : HACS intégré comme Marketplace officiel, exclusions dans les cibles, sections automatiques, nouveau nommage des entités, outils « pourquoi est-ce arrivé ? », caméras Matter, LoRaWAN, Zigbee Green Power, 38 nouvelles intégrations et breaking changes."
+description: "Home Assistant 2026.11 (4 novembre 2026) en français : HACS devient le Marketplace officiel, exclusions dans les cibles et 38 nouvelles intégrations."
+
 excerpt_fr: "HACS entre dans Home Assistant sous le nom de Marketplace, on peut exclure une pièce d’une cible, les sections de dashboard se remplissent seules et les noms d’entités sont repensés. La plus grosse version de l’histoire."
 image: /actualite-home-assistant/home-assistant-2026-11/images/cover.png
 cover_alt: "Couverture : nouveautés de Home Assistant 2026.11, novembre 2026"

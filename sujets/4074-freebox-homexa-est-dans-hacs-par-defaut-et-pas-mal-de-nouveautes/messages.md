@@ -124,7 +124,7 @@ C’est l’étape qui surprend la première fois, alors je détaille :
 
 1. À l’étape 5, indiquez l’adresse de la Freebox : le plus souvent `mafreebox.freebox.fr` (ou votre adresse `xxx.fbxos.fr`)
 2. **Validez l’appairage sur l’écran de la Freebox** (l’écran LCD du Server, avec les flèches). Vous avez un petit moment pour le faire
-3. Ouvrez **Freebox OS > Paramètres > Gestion des accès > Applications** ([http://mafreebox.freebox.fr)](/) et donnez les droits nécessaires à l’application Home Assistant : Home, Player, LAN, Téléphonie… selon ce que vous voulez piloter
+3. Ouvrez **Freebox OS > Paramètres > Gestion des accès > Applications** [http://mafreebox.freebox.fr](http://mafreebox.freebox.fr) et donnez les droits nécessaires à l’application Home Assistant : Home, Player, LAN, Téléphonie… selon ce que vous voulez piloter
 
 Pas de jeton à copier dans `configuration.yaml` : tout passe par l’interface. Si vous utilisez aussi l’intégration Freebox officielle de Home Assistant, mieux vaut la désactiver : les deux en parallèle saturent l’API.
 

@@ -8,6 +8,7 @@ canonical_url: https://xav59213.github.io/forumdomotique/actualite-home-assistan
 tags:
   - domotique
   - home-assistant
+sitemap: false
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/actualites/home-assistant/home-assistant-20261-la-mise-%C3%A0-jour-de-janvier-2026-am%C3%A9liore-le-tableau-de-bord-et-les-automatisations-r11/">Lire et commenter sur Forum Domotique</a></p>
 

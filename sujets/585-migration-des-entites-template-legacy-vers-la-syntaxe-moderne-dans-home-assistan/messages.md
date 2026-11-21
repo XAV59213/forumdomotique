@@ -1,7 +1,7 @@
 ---
 title: "Migration des Entités Template Legacy vers la Syntaxe Moderne dans Home Assistant : Résoudre l’Avertissement pour la Version 2026.6"
 description: "Home Assistant, la plateforme open-source populaire pour la domotique, évolue constamment pour améliorer la stabilité, la cohérence et les fonctionnalités…"
-image: /sujets/585-migration-des-entites-template-legacy-vers-la-syntaxe-moderne-dans-home-assistan/images/IMG_6359.png
+image: /sujets/585-migration-des-entites-template-legacy-vers-la-syntaxe-moderne-dans-home-assistan/images/og-partage.jpg
 date: 2025-12-04
 ---
 {% raw %}

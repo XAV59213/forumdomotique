@@ -1,7 +1,7 @@
 ---
 title: "Intégrer ResMed myAir CPAP dans Home Assistant"
 description: "L’ apnée du sommeil touche 1 personne sur 5 après 50 ans . Ton appareil ResMed CPAP (AirSense 10, 11, AirCurve…) envoie déjà ses données à myAir…"
-image: /sujets/489-integrer-resmed-myair-cpap-dans-home-assistant/images/MatterServer_8_.png
+image: /sujets/489-integrer-resmed-myair-cpap-dans-home-assistant/images/og-partage.jpg
 date: 2025-11-08
 ---
 {% raw %}

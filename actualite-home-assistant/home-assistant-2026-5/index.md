@@ -2,7 +2,8 @@
 layout: ha-release
 title: "Home Assistant 2026.5 : la radiofréquence arrive, Téléinfo lit votre Linky et un tableau Maintenance surveille vos piles"
 short_title: "2026.5 : radiofréquence et Téléinfo Linky"
-description: "Home Assistant 2026.5 (6 mai 2026) en français : plateforme radiofréquence (RF), ports série via ESPHome, tableau Maintenance des batteries, carte Raccourci, durées dans les déclencheurs, intégration Teleinfo pour le Linky et breaking changes."
+description: "Home Assistant 2026.5 (6 mai 2026) en français : plateforme radiofréquence, ports série ESPHome, carte Raccourci et Téléinfo Linky."
+
 excerpt_fr: "Volets, portails et prises RF entrent dans Home Assistant, les ports série passent par le réseau, un tableau Maintenance traque les piles faibles… et l’intégration Teleinfo lit enfin le Linky en local."
 image: /actualite-home-assistant/home-assistant-2026-5/images/cover.png
 cover_alt: "Couverture : nouveautés de Home Assistant 2026.5, mai 2026"

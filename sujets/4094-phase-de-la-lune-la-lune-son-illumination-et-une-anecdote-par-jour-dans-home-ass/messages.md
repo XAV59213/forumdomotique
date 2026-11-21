@@ -1,7 +1,7 @@
 ---
 title: "🌙 Phase de la Lune – La lune, son illumination et une anecdote par jour dans Home Assistant"
 description: "Après Saints du Jour et Jour Férié, voici une nouvelle petite intégration « culture et calendrier » pour Home Assistant : Phase de la Lune 🌙. Elle calcule…"
-image: /sujets/4094-phase-de-la-lune-la-lune-son-illumination-et-une-anecdote-par-jour-dans-home-ass/images/card-preview.jpg
+image: /sujets/4094-phase-de-la-lune-la-lune-son-illumination-et-une-anecdote-par-jour-dans-home-ass/images/og-partage.jpg
 date: 2026-11-20
 github_repo: phase_lune
 ---

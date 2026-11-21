@@ -1,7 +1,7 @@
 ---
 title: "Double \\\\\\\\\\\\\\\"va et vient\\\\\\\\\\\\\\\" avec une petite anomalie"
 description: "Salut, peux-tu partager ton automatisation qui gère les deux interrupteurs ? Je tiens à te prévenir : si tu déménages un jour, ton système risque de ne…"
-image: /sujets/86-double-va-et-vient-avec-une-petite-anomalie/images/sonoffzm.png
+image: /sujets/86-double-va-et-vient-avec-une-petite-anomalie/images/og-partage.jpg
 date: 2025-04-28
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/86-double-va-et-vient-avec-une-petite-anomalie/">Lire et commenter sur Forum Domotique</a></p>

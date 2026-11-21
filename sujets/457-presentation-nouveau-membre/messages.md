@@ -1,7 +1,7 @@
 ---
 title: "Présentation nouveau membre"
 description: "Voici la procédure pour Réinitialiser l'énergie d'un module ZHA Tu dois obtenir l'appareil IEEE au lieu de son nom et l'utiliser pour exécuter un appel de…"
-image: /sujets/457-presentation-nouveau-membre/images/reset-device-energy-meter-zha-getting-IEEE-address-768x768.jpg
+image: /sujets/457-presentation-nouveau-membre/images/og-partage.jpg
 date: 2025-10-21
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/457-pr%C3%A9sentation-nouveau-membre/">Lire et commenter sur Forum Domotique</a></p>

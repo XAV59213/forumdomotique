@@ -1,7 +1,7 @@
 ---
 title: "Avis sur configuration"
 description: "Home Assistant Green est un excellent choix pour une installation clé en main, simple et fiable. Si tu cherches plus de performances et de réactivité…"
-image: /sujets/711-avis-sur-configuration/images/No_image_preview.png
+image: /sujets/711-avis-sur-configuration/images/og-partage.jpg
 date: 2026-01-25
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/711-avis-sur-configuration/">Lire et commenter sur Forum Domotique</a></p>

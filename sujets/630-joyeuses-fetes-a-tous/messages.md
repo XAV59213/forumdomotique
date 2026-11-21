@@ -1,7 +1,7 @@
 ---
 title: "🎄 Joyeuses Fêtes à tous ! 🎅✨"
 description: "Chers membres de la communauté forumdomotique et chers visiteurs En cette période magique de fin d'année, je tiens à vous souhaiter à toutes et à tous un…"
-image: /sujets/630-joyeuses-fetes-a-tous/images/ChatGPTImage24dc.202517_02_33.png
+image: /sujets/630-joyeuses-fetes-a-tous/images/og-partage.jpg
 date: 2025-12-24
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/630-%F0%9F%8E%84-joyeuses-f%C3%AAtes-%C3%A0-tous-%F0%9F%8E%85%E2%9C%A8/">Lire et commenter sur Forum Domotique</a></p>

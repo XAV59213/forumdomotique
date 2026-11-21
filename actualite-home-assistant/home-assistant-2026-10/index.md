@@ -2,7 +2,8 @@
 layout: ha-release
 title: "Home Assistant 2026.10 : une carte toute neuve, la condition « Déclenché par » enfin simple et l’IA connectée en un clic"
 short_title: "2026.10 : vous êtes ici 📍"
-description: "Home Assistant 2026.10 (7 octobre 2026) en français : Home Assistant Cloud bientôt renommé Link, nouvelle carte vectorielle OpenStreetMap, profil utilisateur réorganisé, condition Triggered by sans identifiants, serveur MCP en un clic, panneau Modbus, minuteurs sur les tuiles et breaking changes."
+description: "Home Assistant 2026.10 (7 octobre 2026) en français : Cloud bientôt renommé Link, carte OpenStreetMap et profil utilisateur réorganisé."
+
 excerpt_fr: "Les cartes passent aux tuiles vectorielles d’OpenStreetMap, la condition « Triggered by » se coche sans identifiants, l’IA se branche en un clic via MCP… et Home Assistant Cloud annonce son nouveau nom : Link."
 image: /actualite-home-assistant/home-assistant-2026-10/images/cover.png
 cover_alt: "Couverture : nouveautés de Home Assistant 2026.10, octobre 2026"

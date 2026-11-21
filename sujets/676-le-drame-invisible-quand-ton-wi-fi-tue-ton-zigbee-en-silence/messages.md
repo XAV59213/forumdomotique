@@ -1,7 +1,7 @@
 ---
 title: "Le drame invisible : quand ton Wi-Fi tue ton Zigbee en silence"
 description: "Bande de fréquences commune : Le Wi-Fi (normes IEEE 802.11b/g/n/ac/ax dans la bande 2.4 GHz) et le Zigbee (norme IEEE 802.15.4, souvent utilisé pour les…"
-image: /sujets/676-le-drame-invisible-quand-ton-wi-fi-tue-ton-zigbee-en-silence/images/n7qxmyl73ea91.webp
+image: /sujets/676-le-drame-invisible-quand-ton-wi-fi-tue-ton-zigbee-en-silence/images/og-partage.jpg
 date: 2026-01-11
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/676-le-drame-invisible-quand-ton-wi-fi-tue-ton-zigbee-en-silence/">Lire et commenter sur Forum Domotique</a></p>

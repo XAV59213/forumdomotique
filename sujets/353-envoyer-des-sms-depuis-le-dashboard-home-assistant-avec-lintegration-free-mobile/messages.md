@@ -1,7 +1,7 @@
 ---
 title: "Envoyer des SMS depuis le dashboard Home Assistant (avec l’intégration Free Mobile SMS XA)"
 description: "Mettre un formulaire simple sur Lovelace pour choisir un destinataire (Papa, Maman, …) avoir une confirmation d’envoi et vider le champ Optionnel…"
-image: /sujets/353-envoyer-des-sms-depuis-le-dashboard-home-assistant-avec-lintegration-free-mobile/images/Capturedcrandu2025-08-2416-46-25.png
+image: /sujets/353-envoyer-des-sms-depuis-le-dashboard-home-assistant-avec-lintegration-free-mobile/images/og-partage.jpg
 date: 2025-08-24
 github_repo: freesmsxa
 ---

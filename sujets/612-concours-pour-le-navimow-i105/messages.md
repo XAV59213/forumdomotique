@@ -1,7 +1,7 @@
 ---
 title: "Concours pour le Navimow i105"
 description: "Je viens juste de participer au concours pour le Navimow i105, en remplissant le formulaire et en faisant un max d’actions pour cumuler les points 😄 Même…"
-image: /sujets/612-concours-pour-le-navimow-i105/images/concours-noel-navimow.jpg
+image: /sujets/612-concours-pour-le-navimow-i105/images/og-partage.jpg
 date: 2025-12-18
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/612-concours-pour-le-navimow-i105/">Lire et commenter sur Forum Domotique</a></p>

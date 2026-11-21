@@ -1,7 +1,7 @@
 ---
 title: "Demande d’info sur utilisation Raspberry pi"
 description: "“J’ai commencé ce projet gaming cet hiver Je partagerai bientôt ma config et le matériel utilisé sur mon github Je me suis un peu tapé la honte au café en…"
-image: /sujets/234-demande-dinfo-sur-utilisation-raspberry-pi/images/IMG_4701.jpeg
+image: /sujets/234-demande-dinfo-sur-utilisation-raspberry-pi/images/og-partage.jpg
 date: 2025-06-27
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/234-demande-dinfo-sur-utilisation-raspberry-pi/">Lire et commenter sur Forum Domotique</a></p>

@@ -3,6 +3,8 @@ title: "Présentation"
 description: "Présentation — sujet dans Présentez-vous — ouvert le 14 janvier 2026"
 image: /assets/images/og-default.png
 date: 2026-01-14
+seo:
+  title: "Présentation (sujet 684) | XAV59213"
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/684-pr%C3%A9sentation/">Lire et commenter sur Forum Domotique</a></p>
 

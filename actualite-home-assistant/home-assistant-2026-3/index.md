@@ -2,7 +2,8 @@
 layout: ha-release
 title: "Home Assistant 2026.3 : aspirateurs par pièce, « Continuer en cas d’erreur » et mot d’activation sur Android"
 short_title: "2026.3 : le grand nettoyage"
-description: "Home Assistant 2026.3 (4 mars 2026) en français : nettoyage par pièce pour les robots aspirateurs, option Continuer en cas d’erreur dans l’éditeur, wake word local sur Android, tableau Énergie amélioré, Python 3.14 et breaking changes."
+description: "Home Assistant 2026.3 (4 mars 2026) en français : nettoyage par pièce pour les aspirateurs, wake word local sur Android et Python 3.14."
+
 excerpt_fr: "Une version « grand nettoyage » : envoyez votre robot dans une pièce précise, laissez une automatisation continuer malgré une erreur, et réveillez Assist à la voix sur Android, en local."
 image: /actualite-home-assistant/home-assistant-2026-3/images/cover.png
 cover_alt: "Couverture : nouveautés de Home Assistant 2026.3, mars 2026"

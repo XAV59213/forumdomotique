@@ -7,14 +7,35 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700&display=swap">
-    {% seo %}
+    {% seo title=false %}
+    {% if page.seo.title %}
+      {% assign doc_title = page.seo.title %}
+    {% elsif page.title == site.title %}
+      {% assign doc_title = page.title | append: " | " | append: site.tagline %}
+    {% else %}
+      {% assign tlen = page.title | size %}
+      {% if tlen > 55 %}
+        {% assign doc_title = page.title %}
+      {% else %}
+        {% assign doc_title = page.title | append: " | XAV59213" %}
+      {% endif %}
+    {% endif %}
+    <title>{{ doc_title | escape }}</title>
     {% assign robots_content = page.robots %}
     {% if page.url contains '/brouillons/' %}
       {% assign robots_content = page.robots | default: 'noindex, nofollow' %}
     {% endif %}
+    {% unless robots_content contains 'noindex' %}
+      {% if robots_content and robots_content != '' %}
+        {% assign robots_content = robots_content | append: ', max-image-preview:large' %}
+      {% else %}
+        {% assign robots_content = 'max-image-preview:large' %}
+      {% endif %}
+    {% endunless %}
     {% if robots_content %}
     <meta name="robots" content="{{ robots_content }}">
     {% endif %}
+    <meta property="og:image:alt" content="{{ page.cover_alt | default: page.title | escape }}">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
   </head>

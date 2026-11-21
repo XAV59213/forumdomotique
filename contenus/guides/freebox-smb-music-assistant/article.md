@@ -1,6 +1,7 @@
 ---
 title: "Comment ajouter la musique stockée sur le disque dur de votre Freebox à Music Assistant via partage SMB"
-description: "Comment j’ai branché la musique de mon disque Freebox Delta sur Music Assistant, en montant le partage Windows (SMB) dans Home Assistant, puis en ajoutant le fournisseur Filesystem local."
+description: "Comment j’ai branché la musique de mon disque Freebox Delta sur Music Assistant, en montant le partage Windows (SMB) dans Home Assistant."
+
 image: /contenus/guides/freebox-smb-music-assistant/images/freebox-smb-music-assistant-couverture.jpg
 image_alt: "Couverture du guide Musique Freebox + Music Assistant : partage SMB"
 date: 2026-11-21

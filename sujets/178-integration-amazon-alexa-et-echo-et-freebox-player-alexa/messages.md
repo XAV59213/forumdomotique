@@ -1,7 +1,7 @@
 ---
 title: "Integration Amazon Alexa et Echo et freebox player alexa"
 description: "Je vais vous expliquer comment j'ai intégré Alexa à Home Assistant pour créer une automatisation qui m'avertit quand il y a du courrier dans ma boîte aux…"
-image: /sujets/178-integration-amazon-alexa-et-echo-et-freebox-player-alexa/images/Capturedcrandu2025-05-3013-08-05.png
+image: /sujets/178-integration-amazon-alexa-et-echo-et-freebox-player-alexa/images/og-partage.jpg
 date: 2025-05-30
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/178-integration-amazon-alexa-et-echo-et-freebox-player-alexa/">Lire et commenter sur Forum Domotique</a></p>

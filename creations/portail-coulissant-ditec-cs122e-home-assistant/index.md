@@ -1,7 +1,10 @@
 ---
 title: "Mon portail coulissant Ditec sur Home Assistant : carte universelle, cellules et Sonoff Zigbee"
-description: "J’ai fabriqué mon portail en 2012. En 2026, j’ai enfin concrétisé sa motorisation : grâce au Ditec CS122E que Sam m’a donné cet été, j’ai ajouté une carte universelle BLX-2, des photocellules, et un Sonoff MINI-ZBD pour le piloter depuis Home Assistant."
-image: /creations/portail-coulissant-ditec-cs122e-home-assistant/images/portail-couverture.jpg
+description: "Portail coulissant fabriqué en 2012, motorisé en 2026 avec un Ditec CS122E donné par Sam, une carte BLX-2 et un Sonoff Zigbee dans Home Assistant."
+
+image: /creations/portail-coulissant-ditec-cs122e-home-assistant/images/portail-couverture-og.jpg
+cover_alt: "Portail coulissant en tôle de XAV59213, motorisé avec gyrophare, devant la maison"
+
 date: 2026-11-21
 section: creations
 don: true

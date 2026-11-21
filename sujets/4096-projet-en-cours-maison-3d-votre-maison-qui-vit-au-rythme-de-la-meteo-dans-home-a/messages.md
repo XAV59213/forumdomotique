@@ -1,7 +1,7 @@
 ---
 title: "🏡 [Projet en cours] Maison 3D – Votre maison qui vit au rythme de la météo dans Home Assistant"
 description: "Aujourd’hui, je vous présente un projet un peu à part, plus visuel que les autres : Maison 3D 🏡. C’est une intégration Home Assistant qui affiche une…"
-image: /sujets/4096-projet-en-cours-maison-3d-votre-maison-qui-vit-au-rythme-de-la-meteo-dans-home-a/images/maison3d-reference.webp
+image: /sujets/4096-projet-en-cours-maison-3d-votre-maison-qui-vit-au-rythme-de-la-meteo-dans-home-a/images/og-partage.jpg
 date: 2026-11-20
 github_repo: maison3d
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Installation Z2M avec SLZB-06M"
 description: "Peux-Tu nous transmettre les logs pour pouvoir répondre à ta demande ? Instructions pour accéder aux logs de Zigbee2MQTT 1. Ouvre l’interface de Home…"
-image: /sujets/572-installation-z2m-avec-slzb-06m/images/IMG_6343.png
+image: /sujets/572-installation-z2m-avec-slzb-06m/images/og-partage.jpg
 date: 2025-12-01
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/572-installation-z2m-avec-slzb-06m/">Lire et commenter sur Forum Domotique</a></p>

@@ -1,7 +1,7 @@
 ---
 title: "Compteur d’eau connecté à moins de 20 € : ma consommation enfin sous contrôle (et les fuites plus jamais une surprise)"
 description: "Cela faisait des années que je regardais ma facture d’eau arriver tous les six mois avec une petite boule au ventre. Maison des années 80, plomberie…"
-image: /sujets/567-compteur-deau-connecte-a-moins-de-20-ma-consommation-enfin-sous-controle-et-les/images/Capturedcrandu2025-11-3014-11-10.png
+image: /sujets/567-compteur-deau-connecte-a-moins-de-20-ma-consommation-enfin-sous-controle-et-les/images/og-partage.jpg
 date: 2025-11-30
 canonical_url: https://xav59213.github.io/forumdomotique/creations/compteur-deau-connecte-moins-de-20-euros/
 sitemap: false

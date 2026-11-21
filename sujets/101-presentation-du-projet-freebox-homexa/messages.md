@@ -1,7 +1,7 @@
 ---
 title: "Présentation du projet freebox_homexa"
 description: "Je suis ravi de vous présenter freebox homexa , un projet open-source disponible sur GitHub L'objectif principal de ce projet est de réunifier et…"
-image: /sujets/101-presentation-du-projet-freebox-homexa/images/Capturedcrandu2025-04-2816-05-26.png
+image: /sujets/101-presentation-du-projet-freebox-homexa/images/og-partage.jpg
 date: 2025-04-28
 github_repo: freebox_homexa
 ---

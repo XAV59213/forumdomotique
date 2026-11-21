@@ -1,5 +1,7 @@
 User-agent: *
 Allow: /
+Disallow: /forumdomotique/brouillons/
 Disallow: /brouillons/
 
 Sitemap: https://xav59213.github.io/forumdomotique/sitemap.xml
+Sitemap: https://xav59213.github.io/forumdomotique/sitemap-images.xml

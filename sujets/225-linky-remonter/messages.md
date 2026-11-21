@@ -1,7 +1,7 @@
 ---
 title: "Linky remonter"
 description: "As-tu bien paramétré ta clé Zlinky dans Zigbee2MQTT ? Es-tu en mode historique ou standard ? Logiquement, pour un contrat Tempo, c'est du mode standard…"
-image: /sujets/225-linky-remonter/images/Capturedcrandu2025-06-2210-41-25.png
+image: /sujets/225-linky-remonter/images/og-partage.jpg
 date: 2025-06-22
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/225-linky-remonter/">Lire et commenter sur Forum Domotique</a></p>

@@ -1,7 +1,7 @@
 ---
 title: "Installation et configuration de mon tableau de bord Home Assistant avec le thème Transparent Blue et HACS"
 description: "Suite à plusieurs demandes, voici les étapes pour installer et configurer un tableau de bord Home Assistant (HA) similaire à celui que j’ai partagé, avec…"
-image: /sujets/176-installation-et-configuration-de-mon-tableau-de-bord-home-assistant-avec-le-them/images/Capturedcrandu2025-05-3008-54-30.png
+image: /sujets/176-installation-et-configuration-de-mon-tableau-de-bord-home-assistant-avec-le-them/images/og-partage.jpg
 date: 2025-05-30
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/176-installation-et-configuration-de-mon-tableau-de-bord-home-assistant-avec-le-th%C3%A8me-transparent-blue-et-hacs/">Lire et commenter sur Forum Domotique</a></p>

@@ -2,7 +2,8 @@
 layout: ha-release
 title: "Home Assistant 2026.2 : le dashboard Home devient la vue par défaut, les add-ons deviennent des Apps"
 short_title: "2026.2 : Home par défaut, add-ons → Apps"
-description: "Home Assistant 2026.2 (4 février 2026) en français : dashboard Home par défaut, base de données d’appareils de l’Open Home Foundation, add-ons renommés Apps, nouvelle recherche rapide Ctrl+K, carte Distribution et breaking changes."
+description: "Home Assistant 2026.2 (4 février 2026) en français : dashboard Home par défaut, base d’appareils Open Home Foundation et add-ons devenus Apps."
+
 excerpt_fr: "Le dashboard Home devient « Overview », la Device Database de l’Open Home Foundation arrive dans Labs, les add-ons s’appellent désormais Apps et la recherche rapide Ctrl+K est entièrement repensée."
 image: /actualite-home-assistant/home-assistant-2026-2/images/cover.png
 cover_alt: "Couverture : nouveautés de Home Assistant 2026.2, février 2026"

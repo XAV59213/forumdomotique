@@ -1,7 +1,7 @@
 ---
 title: "Migration sans douleur : dire adieu aux templates legacy Home Assistant"
 description: "J’ai remarqué que beaucoup de personnes galèrent un peu avec la nouvelle façon d’utiliser les templates dans Home Assistant Entre l’ancienne syntaxe…"
-image: /sujets/590-migration-sans-douleur-dire-adieu-aux-templates-legacy-home-assistant/images/Capturedcrandu2025-12-0612-35-42.png
+image: /sujets/590-migration-sans-douleur-dire-adieu-aux-templates-legacy-home-assistant/images/og-partage.jpg
 date: 2025-12-06
 ---
 {% raw %}

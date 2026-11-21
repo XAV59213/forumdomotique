@@ -1,7 +1,7 @@
 ---
 title: "Failover Pi — Système de bascule automatique entre Freebox & 4G"
 description: "Surveille en temps réel la connexion Freebox Basculent automatiquement sur une connexion 4G (SIM7600) en cas de coupure M’envoie une alerte SMS pour me…"
-image: /sujets/497-failover-pi-systeme-de-bascule-automatique-entre-freebox-4g/images/04FD12FC-8851-42DB-9D91-926B73F43914.png
+image: /sujets/497-failover-pi-systeme-de-bascule-automatique-entre-freebox-4g/images/og-partage.jpg
 date: 2025-11-15
 github_repo: failover-pi
 ---

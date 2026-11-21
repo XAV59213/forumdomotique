@@ -2,7 +2,8 @@
 layout: ha-release
 title: "Home Assistant 2026.8 : adieu le « :8123 », bonjour les Outils pour tous et le déclencheur Lune"
 short_title: "2026.8 : plus accessible que jamais"
-description: "Home Assistant 2026.8 (5 août 2026) en français : adresse sans :8123 pour les nouvelles installations, réglages du serveur web dans l’interface, fin du vocabulaire « avancé », Developer Tools devient Tools, Cloud repensé, identifiants d’entité personnalisables, déclencheur Lune et breaking changes."
+description: "Home Assistant 2026.8 (5 août 2026) en français : adresse sans :8123, réglages du serveur web dans l’interface et Tools à la place de Developer Tools."
+
 excerpt_fr: "Une version placée sous le signe de l’accessibilité : plus de :8123 à retenir pour les nouvelles installations, plus de « mode expert », un Cloud guidé pas à pas… et un déclencheur sur les phases de la Lune."
 image: /actualite-home-assistant/home-assistant-2026-8/images/cover.png
 cover_alt: "Couverture : nouveautés de Home Assistant 2026.8, août 2026"

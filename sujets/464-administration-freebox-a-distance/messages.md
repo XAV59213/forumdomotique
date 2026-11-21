@@ -1,7 +1,7 @@
 ---
 title: "Administration Freebox à distance"
 description: "Oui depuis home assistant tu peux faire cela Voici le git à installé pour activer la fonction player de la freebox dans home assistant et aussi le…"
-image: /sujets/464-administration-freebox-a-distance/images/IMG_6149.png
+image: /sujets/464-administration-freebox-a-distance/images/og-partage.jpg
 date: 2025-10-28
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/464-administration-freebox-%C3%A0-distance/">Lire et commenter sur Forum Domotique</a></p>

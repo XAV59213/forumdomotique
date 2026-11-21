@@ -1,7 +1,7 @@
 ---
 title: "Merci à vous : vos installations, le forum, et la suite"
 description: "Aujourd’hui, j’avais simplement envie de vous dire merci. Merci à celles et ceux qui ont installé l’une de mes intégrations, qui la font vivre au…"
-image: /sujets/4097-merci-a-vous-vos-installations-le-forum-et-la-suite/images/maison-cover.jpg
+image: /sujets/4097-merci-a-vous-vos-installations-le-forum-et-la-suite/images/og-partage.jpg
 date: 2026-11-21
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/4097-merci-%C3%A0-vous-vos-installations-le-forum-et-la-suite/">Lire et commenter sur Forum Domotique</a></p>

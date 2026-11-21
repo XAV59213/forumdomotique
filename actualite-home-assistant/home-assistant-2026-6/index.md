@@ -2,7 +2,8 @@
 layout: ha-release
 title: "Home Assistant 2026.6 : un sélecteur de cartes qui part de vos appareils et un éditeur d’automatisations qui teste en direct"
 short_title: "2026.6 : choisissez un appareil, pas une carte"
-description: "Home Assistant 2026.6 (3 juin 2026) en français : nouveau sélecteur de cartes « par entité », infrarouge en réception, conditions testées en direct, notes dans les automatisations, prévisions météo sur les tuiles, codes des serrures Z-Wave, page Apps repensée et breaking changes."
+description: "Home Assistant 2026.6 (3 juin 2026) en français : sélecteur de cartes par entité, infrarouge en réception et conditions testées en direct. Notes par XAV59213."
+
 excerpt_fr: "On ajoute une carte en partant de l’appareil, l’éditeur d’automatisations montre en direct quelles conditions passent, l’infrarouge apprend à écouter et les serrures Z-Wave se gèrent comme les Matter."
 image: /actualite-home-assistant/home-assistant-2026-6/images/cover.png
 cover_alt: "Couverture : nouveautés de Home Assistant 2026.6, juin 2026"

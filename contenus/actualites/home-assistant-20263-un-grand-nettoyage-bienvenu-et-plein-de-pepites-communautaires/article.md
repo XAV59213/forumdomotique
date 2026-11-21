@@ -8,6 +8,7 @@ canonical_url: https://xav59213.github.io/forumdomotique/actualite-home-assistan
 tags:
   - domotique
   - home-assistant
+sitemap: false
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/actualites/home-assistant/home-assistant-20263-un-grand-nettoyage-bienvenu-et-plein-de-p%C3%A9pites-communautaires-r13/">Lire et commenter sur Forum Domotique</a></p>
 

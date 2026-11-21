@@ -1,7 +1,7 @@
 ---
 title: "Alerte : Panne de l'intégration des appareils Alexa  (alexa_device)"
 description: "Actuellement, l'intégration des appareils Alexa est en panne en raison d'une maintenance en cours sur l'API d'Amazon Une issue a été ouverte pour suivre…"
-image: /sujets/247-alerte-panne-de-lintegration-des-appareils-alexa-alexa-device/images/Capturedcrandu2025-07-0612-22-55.png
+image: /sujets/247-alerte-panne-de-lintegration-des-appareils-alexa-alexa-device/images/og-partage.jpg
 date: 2025-07-06
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/247-alerte-panne-de-lint%C3%A9gration-des-appareils-alexa-alexa_device/">Lire et commenter sur Forum Domotique</a></p>

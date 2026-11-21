@@ -1,7 +1,7 @@
 ---
 title: "Problème de débutant..."
 description: "Si tu est chez free tu peux les ajouter sur freebox home et reconnu via mon intégration"
-image: /sujets/56-probleme-de-debutant/images/Capturedcrandu2025-05-2317-18-15.png
+image: /sujets/56-probleme-de-debutant/images/og-partage.jpg
 date: 2025-05-23
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/56-probl%C3%A8me-de-d%C3%A9butant/">Lire et commenter sur Forum Domotique</a></p>

@@ -1,7 +1,7 @@
 ---
 title: "Portée limitée du Zigbee"
 description: "En z2mqtt il y a 2 mode router et coordinateur pour étendre ton maillage je suis plus de 30 mètre et de mon coté c est ok"
-image: /sujets/215-portee-limitee-du-zigbee/images/IMG_5538.png
+image: /sujets/215-portee-limitee-du-zigbee/images/og-partage.jpg
 date: 2025-06-14
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/215-port%C3%A9e-limit%C3%A9e-du-zigbee/">Lire et commenter sur Forum Domotique</a></p>

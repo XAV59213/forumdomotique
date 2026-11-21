@@ -1,7 +1,7 @@
 ---
 title: "Home Assistant nous réserve de la neige cette année !"
 description: "Plus de détails sur le Winter Mode dans Home Assistant 2025.12 Le Winter Mode ❄️ est la toute première fonctionnalité preview introduite dans Home…"
-image: /sujets/542-home-assistant-nous-reserve-de-la-neige-cette-annee/images/IMG_6335.png
+image: /sujets/542-home-assistant-nous-reserve-de-la-neige-cette-annee/images/og-partage.jpg
 date: 2025-11-27
 ---
 {% raw %}

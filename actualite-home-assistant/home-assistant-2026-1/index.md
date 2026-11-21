@@ -2,7 +2,8 @@
 layout: ha-release
 title: "Home Assistant 2026.1 : le dashboard Home s’adapte au mobile et les automatisations parlent votre langue"
 short_title: "2026.1 : le dashboard Home passe au mobile"
-description: "Home Assistant 2026.1 (7 janvier 2026) en français : dashboard Home repensé sur mobile, page Appareils, nouveaux déclencheurs « métier » dans Labs, protocoles mis en avant, 8 nouvelles intégrations et breaking changes."
+description: "Home Assistant 2026.1 (7 janvier 2026) en français : dashboard Home mobile, page Appareils et nouveaux déclencheurs. Notes par XAV59213."
+
 excerpt_fr: "Une version de rentrée plus calme mais utile : résumés en haut du dashboard Home sur mobile, page « Appareils » pour les orphelins, et une pluie de déclencheurs lisibles dans Labs."
 image: /actualite-home-assistant/home-assistant-2026-1/images/cover.png
 cover_alt: "Couverture : nouveautés de Home Assistant 2026.1, janvier 2026"

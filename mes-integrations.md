@@ -1,6 +1,7 @@
 ---
 title: "Mes intégrations GitHub / HACS"
-description: "Les intégrations Home Assistant de XAV59213 : Freebox Homexa, chauffage fil pilote, SMS Free, jours fériés, piscine et d’autres dépôts HACS, avec le lien GitHub et le badge HACS."
+description: "Les intégrations Home Assistant de XAV59213 : Freebox Homexa, chauffage fil pilote, SMS Free, jours fériés, piscine et d’autres dépôts HACS."
+
 image: /assets/images/og-default.png
 date: 2026-11-20
 permalink: /mes-integrations/

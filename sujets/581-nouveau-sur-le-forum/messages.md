@@ -3,6 +3,8 @@ title: "Nouveau sur le forum"
 description: "Ton setup a l’air sympa et bien parti, avec un mélange de marques qui fonctionne déjà pas mal. Pour ton problème de boucle avec la caméra Tuya et le…"
 image: /assets/images/og-default.png
 date: 2025-12-03
+seo:
+  title: "Nouveau sur le forum (sujet 581) | XAV59213"
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/581-nouveau-sur-le-forum/">Lire et commenter sur Forum Domotique</a></p>
 

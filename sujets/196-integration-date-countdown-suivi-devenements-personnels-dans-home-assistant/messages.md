@@ -1,7 +1,7 @@
 ---
 title: "📆 [Intégration] Date Countdown – Suivi d’événements personnels dans Home Assistant"
 description: "Date Countdown est une intégration personnalisée pour Home Assistant qui permet de suivre les jours restants avant des événements personnels tels que…"
-image: /sujets/196-integration-date-countdown-suivi-devenements-personnels-dans-home-assistant/images/Capturedcrandu2025-06-0718-23-28.png
+image: /sujets/196-integration-date-countdown-suivi-devenements-personnels-dans-home-assistant/images/og-partage.jpg
 date: 2025-06-07
 github_repo: date_countdown
 ---

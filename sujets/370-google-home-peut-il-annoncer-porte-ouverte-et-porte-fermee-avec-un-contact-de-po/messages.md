@@ -1,7 +1,7 @@
 ---
 title: "Google Home peut-il annoncer porte ouverte et porte fermée avec un contact de porte wifi ?"
 description: "Moi J'utilise Alexa, et je suppose que le principe est similaire pour créer une automatisation"
-image: /sujets/370-google-home-peut-il-annoncer-porte-ouverte-et-porte-fermee-avec-un-contact-de-po/images/Capturedcrandu2025-10-1213-07-30.png
+image: /sujets/370-google-home-peut-il-annoncer-porte-ouverte-et-porte-fermee-avec-un-contact-de-po/images/og-partage.jpg
 date: 2025-10-12
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/370-google-home-peut-il-annoncer-porte-ouverte-et-porte-ferm%C3%A9e-avec-un-contact-de-porte-wifi/">Lire et commenter sur Forum Domotique</a></p>

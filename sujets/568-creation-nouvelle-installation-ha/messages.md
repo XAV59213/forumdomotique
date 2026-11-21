@@ -1,7 +1,7 @@
 ---
 title: "creation nouvelle installation HA"
 description: "Oui, ton projet va très bien fonctionner en HAOS natif (sans Proxmox), et c’est même largement la meilleure solution dans ton cas avec seulement 8 Go de…"
-image: /sujets/568-creation-nouvelle-installation-ha/images/Capturedcran2025-12-0122_42_29.png
+image: /sujets/568-creation-nouvelle-installation-ha/images/og-partage.jpg
 date: 2025-11-30
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/568-creation-nouvelle-installation-ha/">Lire et commenter sur Forum Domotique</a></p>
