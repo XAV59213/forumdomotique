@@ -83,7 +83,15 @@
       {% if page.section == "actualites" and page.canonical_url %}
       <p class="ha-note">Cette page conserve l’archive du message publié sur le forum. <a href="{{ page.canonical_url }}">Voir l’article détaillé</a> dans la section Actualité Home Assistant.</p>
       {% endif %}
-      {{ content }}
+      {% assign page_body = content %}
+      {% if page.forum_comments == false %}
+        {% assign page_body = page_body | split: '<section class="article-comments"' | first %}
+        {% assign page_body = page_body | split: '<h2 id="commentaires-de-xav59213' | first %}
+      {% endif %}
+      {{ page_body }}
+      {% if is_article and page.section %}
+        {% include giscus.html %}
+      {% endif %}
     </main>
     {% include site-footer.html %}
     {% assign skip_goatcounter = false %}

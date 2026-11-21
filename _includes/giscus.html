@@ -1,0 +1,38 @@
+{% comment %}
+  Commentaires du site via giscus (GitHub Discussions), sans cookies.
+  Désactivé tant que Discussions n’est pas activé sur le dépôt
+  et que l’application giscus n’est pas installée.
+
+  Pour activer plus tard, Xavier doit :
+  1. Sur le dépôt XAV59213/forumdomotique, ouvrir Settings → General
+     → Features et activer Discussions.
+  2. Créer une catégorie de discussions, par exemple « Commentaires »
+     (Discussions → catégorie, ou Settings → Discussions).
+  3. Installer l’application GitHub « giscus » sur ce dépôt :
+     https://github.com/apps/giscus
+  4. Ouvrir https://giscus.app, choisir le dépôt, la catégorie, la langue
+     française, et copier data-repo-id et data-category-id ci-dessous.
+  5. Passer giscus.enabled à true dans _config.yml.
+
+  Ne pas y afficher les commentaires archivés de Forum Domotique.
+{% endcomment %}
+{% if site.giscus.enabled %}
+<div class="giscus-comments" id="commentaires">
+  <script src="https://giscus.app/client.js"
+          data-repo="XAV59213/forumdomotique"
+          data-repo-id=""
+          data-category="Commentaires"
+          data-category-id=""
+          data-mapping="pathname"
+          data-strict="0"
+          data-reactions-enabled="1"
+          data-emit-metadata="0"
+          data-input-position="bottom"
+          data-theme="preferred_color_scheme"
+          data-lang="fr"
+          data-loading="lazy"
+          crossorigin="anonymous"
+          async>
+  </script>
+</div>
+{% endif %}

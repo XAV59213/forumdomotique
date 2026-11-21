@@ -322,32 +322,3 @@ Quelle que soit la version choisie, on retrouve la même base technique solide, 
 Et vous, avez-vous déjà franchi le pas avec la Aqara U200 ou une autre serrure connectée Thread ?  
 Quelles automatisations avez-vous mises en place chez vous ? Les retours de la communauté sont toujours précieux, alors n’hésitez pas à partager votre expérience en commentaires.
 
----
-
-<section class="article-comments" id="commentaires">
-
-## Commentaires de XAV59213 sur cet article (2)
-
-### Commentaire 1 — 30 décembre 2025 à 16:08 (Europe/Paris)
-
-- **Identifiant :** `90`
-- **Lien :** https://forumdomotique.com/tests/securite-surveillance/test-avis-aqara-u200-serrure-connectee-matter-thread/?do=findComment&comment=90
-
-Bonjour Lokasso,
-
-Concernant ton problème sur la U200, ça doit être quand tu quittes ton logement : est-ce que tu remontes correctement ta poignée ?
-
-Souvent ça arrive si ce n’est pas une crémaillère à verrouillage automatique.
-
-En gros, la U200 tente de se verrouiller toute seule, mais elle ne peut pas le faire tant que tu n’as pas remonté la poignée complètement à fond
-
-Voici un petit tuto qui explique le verrouillage auto: <https://monbatiment.fr/cremone-automatique-ou-a-relevage/>
-
-### Commentaire 2 — 30 décembre 2025 à 16:43 (Europe/Paris)
-
-- **Identifiant :** `92`
-- **Lien :** https://forumdomotique.com/tests/securite-surveillance/test-avis-aqara-u200-serrure-connectee-matter-thread/?do=findComment&comment=92
-
-💯
-
-</section>

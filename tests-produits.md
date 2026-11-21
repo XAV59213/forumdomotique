@@ -8,7 +8,7 @@ permalink: /tests-produits/
 
 # Tests produits
 
-<p class="section-lead">Retours d’usage, photos à l’appui, pour choisir un matériel compatible Home Assistant. Chaque test indique le <strong>produit</strong>, la <strong>marque</strong>, un carrousel de photos, et un lien vers l’article d’origine sur Forum Domotique. Les commentaires sont regroupés <strong>sous</strong> le test.</p>
+<p class="section-lead">Retours d’usage, photos à l’appui, pour choisir un matériel compatible Home Assistant. Chaque test indique le <strong>produit</strong>, la <strong>marque</strong>, un carrousel de photos, et un lien vers l’article d’origine sur Forum Domotique.</p>
 
 <p class="section-lead">Le <strong>test à la une</strong> est le plus récent, sauf choix contraire dans l’entête de l’article.</p>
 

@@ -59,3 +59,19 @@ defaults:
     values:
       sitemap: false
       robots: noindex, nofollow
+  # Ne pas afficher les commentaires repris du forum sous les tests et les guides.
+  # Une régénération du bot Forum Domotique peut les réécrire dans l’article :
+  # le layout les masque tant que cette valeur reste false.
+  - scope:
+      path: contenus/tests
+    values:
+      forum_comments: false
+  - scope:
+      path: contenus/guides
+    values:
+      forum_comments: false
+# Commentaires du site via giscus (GitHub Discussions). Laisser à false
+# tant que Discussions et l’application giscus ne sont pas configurés
+# (voir _includes/giscus.html).
+giscus:
+  enabled: false
