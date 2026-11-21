@@ -8,7 +8,7 @@
   "cms_articles": 10,
   "other_commented_articles": 2,
   "cms_comments": 37,
-  "images_cached": 504,
+  "images_cached": 532,
   "image_failures": [
     {
       "url": "https://litter.catbox.moe/hx4wox.jpg",
@@ -232,7 +232,7 @@
       "first_date": "2026-03-18T05:47:54Z",
       "url": "https://forumdomotique.com/forums/topic/404-sonom%C3%A8tre-diy-pour-home-assistant-avec-esp32-et-inmp441/",
       "folder": "sujets/404-sonometre-diy-pour-home-assistant-avec-esp32-et-inmp441",
-      "n_images": 0,
+      "n_images": 8,
       "started_by_xavier": false
     },
     {
@@ -353,7 +353,7 @@
       "first_date": "2026-02-01T08:52:14Z",
       "url": "https://forumdomotique.com/forums/topic/732-comment-d%C3%A9monter-la-cl%C3%A9-sonoff-pmg24-et-la-mettre-en-mode-appairage-zigbee/",
       "folder": "sujets/732-comment-demonter-la-cle-sonoff-pmg24-et-la-mettre-en-mode-appairage-zigbee",
-      "n_images": 0,
+      "n_images": 1,
       "started_by_xavier": false
     },
     {
@@ -485,7 +485,7 @@
       "first_date": "2025-12-31T15:32:31Z",
       "url": "https://forumdomotique.com/forums/topic/644-eleve-nul-novice-en-domotique/",
       "folder": "sujets/644-eleve-nul-novice-en-domotique",
-      "n_images": 0,
+      "n_images": 6,
       "started_by_xavier": false
     },
     {
@@ -650,7 +650,7 @@
       "first_date": "2025-12-11T19:25:23Z",
       "url": "https://forumdomotique.com/forums/topic/600-s%C3%A9nior-qui-d%C3%A9couvre-la-domotique-et-ses-al%C3%A9as/",
       "folder": "sujets/600-senior-qui-decouvre-la-domotique-et-ses-aleas",
-      "n_images": 0,
+      "n_images": 2,
       "started_by_xavier": false
     },
     {
@@ -694,7 +694,7 @@
       "first_date": "2026-01-10T15:02:16Z",
       "url": "https://forumdomotique.com/forums/topic/670-robots-tondeuses-les-nouveaut%C3%A9s-navimow-au-ces-2026-%C3%A7a-devient-vraiment-s%C3%A9rieux/",
       "folder": "sujets/670-robots-tondeuses-les-nouveautes-navimow-au-ces-2026-ca-devient-vraiment-serieux",
-      "n_images": 0,
+      "n_images": 1,
       "started_by_xavier": false
     },
     {
@@ -947,7 +947,7 @@
       "first_date": "2025-12-21T08:31:48Z",
       "url": "https://forumdomotique.com/forums/topic/616-consulta/",
       "folder": "sujets/616-consulta",
-      "n_images": 0,
+      "n_images": 1,
       "started_by_xavier": false
     },
     {
@@ -980,7 +980,7 @@
       "first_date": "2025-12-18T08:45:53Z",
       "url": "https://forumdomotique.com/forums/topic/611-homey-passe-en-self-hosted-docker-synology-proxmox-tout-y-passe/",
       "folder": "sujets/611-homey-passe-en-self-hosted-docker-synology-proxmox-tout-y-passe",
-      "n_images": 0,
+      "n_images": 1,
       "started_by_xavier": false
     },
     {
@@ -1002,7 +1002,7 @@
       "first_date": "2025-12-17T09:12:26Z",
       "url": "https://forumdomotique.com/forums/topic/610-energa%C3%AFa-marstek-d%C3%A9voile-venus-g-et-venus-d-ac-stockage-solaire-compatibles-home-assistant/",
       "folder": "sujets/610-energaia-marstek-devoile-venus-g-et-venus-d-ac-stockage-solaire-compatibles-home",
-      "n_images": 0,
+      "n_images": 1,
       "started_by_xavier": false
     },
     {
@@ -1552,7 +1552,7 @@
       "first_date": "2025-10-19T10:17:06Z",
       "url": "https://forumdomotique.com/forums/topic/451-votre-premi%C3%A8re-automatisation-domotique-qui-a-tout-chang%C3%A9-%C3%A0-la-maison/",
       "folder": "sujets/451-votre-premiere-automatisation-domotique-qui-a-tout-change-a-la-maison",
-      "n_images": 0,
+      "n_images": 1,
       "started_by_xavier": false
     },
     {
@@ -1607,7 +1607,7 @@
       "first_date": "2025-11-05T08:08:04Z",
       "url": "https://forumdomotique.com/forums/topic/484-pas-encore-pr%C3%AAt-pour-le-serveur-essayez-home%E2%80%AFassistant-gratuitement-en-3s/",
       "folder": "sujets/484-pas-encore-pret-pour-le-serveur-essayez-home-assistant-gratuitement-en-3s",
-      "n_images": 0,
+      "n_images": 1,
       "started_by_xavier": false
     },
     {
@@ -1662,7 +1662,7 @@
       "first_date": "2025-11-04T14:35:49Z",
       "url": "https://forumdomotique.com/forums/topic/481-aide-c%C3%A2blage-relais-ajax-contact-sec-pour-porte-de-garage-double-appui-et-choix-nonc/",
       "folder": "sujets/481-aide-cablage-relais-ajax-contact-sec-pour-porte-de-garage-double-appui-et-choix",
-      "n_images": 0,
+      "n_images": 1,
       "started_by_xavier": false
     },
     {
@@ -1783,7 +1783,7 @@
       "first_date": "2025-10-21T16:18:43Z",
       "url": "https://forumdomotique.com/forums/topic/37-passer-du-raspberry-pi-4-%C3%A0-la-home-assistant-yellow/",
       "folder": "sujets/37-passer-du-raspberry-pi-4-a-la-home-assistant-yellow",
-      "n_images": 0,
+      "n_images": 2,
       "started_by_xavier": false
     },
     {
@@ -2047,7 +2047,7 @@
       "first_date": "2025-07-24T16:20:57Z",
       "url": "https://forumdomotique.com/forums/topic/276-la-domotique-sans-internet/",
       "folder": "sujets/276-la-domotique-sans-internet",
-      "n_images": 0,
+      "n_images": 1,
       "started_by_xavier": false
     },
     {
@@ -2201,7 +2201,7 @@
       "first_date": "2025-05-22T15:08:41Z",
       "url": "https://forumdomotique.com/forums/topic/153-test-home-assistant-connect-zbt-1-la-cl%C3%A9-zigbee-officielle-pour-home-assistant/",
       "folder": "sujets/153-test-home-assistant-connect-zbt-1-la-cle-zigbee-officielle-pour-home-assistant",
-      "n_images": 0,
+      "n_images": 1,
       "started_by_xavier": false
     },
     {
