@@ -1,14 +1,14 @@
 {
-  "generated": "2026-11-20T16:10:18+01:00",
+  "generated": "2026-11-21T13:02:02.967216+01:00",
   "author": "XAV59213",
   "profile": "https://forumdomotique.com/profile/106-xav59213/",
-  "forum_posts": 385,
-  "forum_topics": 214,
-  "topics_started": 50,
+  "forum_posts": 386,
+  "forum_topics": 215,
+  "topics_started": 51,
   "cms_articles": 10,
   "other_commented_articles": 2,
   "cms_comments": 37,
-  "images_cached": 481,
+  "images_cached": 502,
   "image_failures": [
     {
       "url": "https://litter.catbox.moe/hx4wox.jpg",
@@ -2400,6 +2400,17 @@
       "url": "https://forumdomotique.com/forums/topic/66-kikou-le-forum/",
       "folder": "sujets/66-kikou-le-forum",
       "n_images": 0,
+      "started_by_xavier": true
+    },
+    {
+      "topic_id": "4097",
+      "title": "Merci à vous : vos installations, le forum, et la suite",
+      "category": "Projets et Personnalisations",
+      "n_posts": 1,
+      "first_date": "2026-11-21T11:57:03Z",
+      "url": "https://forumdomotique.com/forums/topic/4097-merci-%C3%A0-vous-vos-installations-le-forum-et-la-suite/",
+      "folder": "sujets/4097-merci-a-vous-vos-installations-le-forum-et-la-suite",
+      "n_images": 21,
       "started_by_xavier": true
     }
   ],
