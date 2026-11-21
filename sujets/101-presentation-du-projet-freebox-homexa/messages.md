@@ -8,19 +8,6 @@ date: 2025-04-28
 
 # Présentation du projet freebox_homexa
 
-- **Catégorie :** [Projets et Personnalisations](https://forumdomotique.com/forums/12-projets-et-personnalisations/)
-- **Sujet :** https://forumdomotique.com/forums/topic/101-pr%C3%A9sentation-du-projet-freebox_homexa/
-- **Auteur du premier message du sujet :** XAV59213
-- **Messages de XAV59213 dans ce sujet :** 1
-- **Premier message de XAV59213 :** 28 avril 2025 à 16:08 (Europe/Paris)
-
----
-
-## Message 1 — 28 avril 2025 à 16:08 (Europe/Paris)
-
-- **Identifiant :** `175`
-- **Lien :** https://forumdomotique.com/forums/topic/101-pr%C3%A9sentation-du-projet-freebox_homexa/#findComment-175
-
 Bonjour à tous,
 
 Je suis ravi de vous présenter **freebox_homexa**, un projet open-source disponible sur [GitHub](https://github.com/XAV59213/freebox_homexa).
@@ -58,5 +45,3 @@ Merci à tous pour votre attention, et à bientôt sur le forum ou sur GitHub !
 
 ![Capture d’écran du 2025-04-28 16-05-26.png](images/Capturedcrandu2025-04-2816-05-26.png)
 <!-- source : https://cdn.forumdomotique.com/monthly_2025_04/Capturedcrandu2025-04-2816-05-26.png.1b8c82f6242ca5e5d4b556664f578b07.png -->
-
----

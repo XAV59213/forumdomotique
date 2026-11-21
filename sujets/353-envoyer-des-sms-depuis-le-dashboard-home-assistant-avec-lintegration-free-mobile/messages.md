@@ -60,20 +60,6 @@ date: 2025-08-24
 
 # Envoyer des SMS depuis le dashboard Home Assistant (avec l’intégration Free Mobile SMS XA)
 
-- **Catégorie :** [Automatisations et Scénarios](https://forumdomotique.com/forums/9-automatisations-et-sc%C3%A9narios/)
-- **Sujet :** https://forumdomotique.com/forums/topic/353-envoyer-des-sms-depuis-le-dashboard-home-assistant-avec-lint%C3%A9gration-free-mobile-sms-xa/
-- **Auteur du premier message du sujet :** XAV59213
-- **Messages de XAV59213 dans ce sujet :** 3
-- **Premier message de XAV59213 :** 24 août 2025 à 17:15 (Europe/Paris)
-- **Dernier message de XAV59213 :** 25 mai 2026 à 11:31 (Europe/Paris)
-
----
-
-## Message 1 — 24 août 2025 à 17:15 (Europe/Paris)
-
-- **Identifiant :** `779`
-- **Lien :** https://forumdomotique.com/forums/topic/353-envoyer-des-sms-depuis-le-dashboard-home-assistant-avec-lint%C3%A9gration-free-mobile-sms-xa/#findComment-779
-
 > **Important** : ce guide fonctionne **uniquement** avec l’intégration personnalisée **Free Mobile SMS XA** développée ici : `https://github.com/XAV59213/freesmsxa`  
 > Elle expose des services `notify.*` et un service `freesmsxa.send_sms` pour envoyer des SMS via l’API Free Mobile.
 
@@ -375,57 +361,4 @@ En quelques minutes, vous avez :
 - une **confirmation** d’envoi et un champ **réinitialisé**,
 - et, si vous voulez, un **suivi de l’historique** des SMS.
 
----
-
-## Message 2 — 10 septembre 2025 à 18:04 (Europe/Paris)
-
-- **Identifiant :** `843`
-- **Lien :** https://forumdomotique.com/forums/topic/353-envoyer-des-sms-depuis-le-dashboard-home-assistant-avec-lint%C3%A9gration-free-mobile-sms-xa/#findComment-843
-
-Merci ☺️
-
----
-
-## Message 3 — 25 mai 2026 à 11:31 (Europe/Paris)
-
-- **Identifiant :** `2304`
-- **Lien :** https://forumdomotique.com/forums/topic/353-envoyer-des-sms-depuis-le-dashboard-home-assistant-avec-lint%C3%A9gration-free-mobile-sms-xa/#findComment-2304
-
-**Salut !**
-
-Merci pour ton retour et pour l’utilisation du script 👍
-
-**Oui, il y a bien un moyen de faire des SMS multi-destinataires !**
-
-### Comment ça marche :
-
-L’intégration **Free Mobile SMS XA** est conçue exactement pour ça :
-
-- Tu configures **une ligne par personne** (Papa, Maman, Xavier, Naomie, etc.) avec son propre **Identifiant utilisateur + Clé API**.
-- Chaque ligne configurée crée automatiquement un service notify. distinct (notify.papa, notify.maman, notify.xavier…).
-
-Pour envoyer **un même SMS à plusieurs personnes en même temps**, tu utilises simplement **un seul appel** au service notify.send_message en mettant plusieurs entity_id dans la cible :
-
-```yaml
-action: notify.send_message
-data:
-message: " Alarme activée !"
-target:
-entity_id:
-- notify.maman
-- notify.papa
-- notify.xavier
-- notify.naomie
-- notify.anais
-```
-
-C’est exactement l’exemple que je mets dans le README pour les alarmes.
-
-### Point important :
-
-Chaque envoi va **uniquement vers le numéro de la ligne** liée à la clé API de cette configuration. C’est une limitation de l’API gratuite de Free Mobile (elle n’autorise pas l’envoi vers un numéro arbitraire, seulement vers « ta » ligne).
-
-Donc pour notifier toute la famille, il suffit de configurer **une intégration par membre** → c’est rapide et propre.
-
----
 {% endraw %}

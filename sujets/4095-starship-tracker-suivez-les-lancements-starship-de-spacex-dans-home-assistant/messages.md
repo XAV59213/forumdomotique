@@ -45,19 +45,6 @@ date: 2026-11-20
 
 # 🚀 Starship Tracker – Suivez les lancements Starship de SpaceX dans Home Assistant
 
-- **Catégorie :** [Projets et Personnalisations](https://forumdomotique.com/forums/12-projets-et-personnalisations/)
-- **Sujet :** https://forumdomotique.com/forums/topic/4095-%F0%9F%9A%80-starship-tracker-suivez-les-lancements-starship-de-spacex-dans-home-assistant/
-- **Auteur du premier message du sujet :** XAV59213
-- **Messages de XAV59213 dans ce sujet :** 1
-- **Premier message de XAV59213 :** 20 novembre 2026 à 10:32 (Europe/Paris)
-
----
-
-## Message 1 — 20 novembre 2026 à 10:32 (Europe/Paris)
-
-- **Identifiant :** `5583`
-- **Lien :** https://forumdomotique.com/forums/topic/4095-%F0%9F%9A%80-starship-tracker-suivez-les-lancements-starship-de-spacex-dans-home-assistant/#findComment-5583
-
 Bonjour à tous 👋
 
 Les fans d’espace vont aimer 🚀 Je vous présente **Starship Tracker**, une intégration Home Assistant qui suit le programme **Starship de SpaceX** : la prochaine mission, le compte à rebours, le direct quand il commence, les dernières actualités et les vidéos des chaînes YouTube spécialisées, le tout dans une carte Lovelace dédiée.
@@ -184,5 +171,4 @@ Xavier (XAV59213)
 
 Projet personnel, sans lien avec SpaceX. Les données viennent des pages publiques de spacex.com, de NewsAPI, de Launch Library 2 et de YouTube.
 
----
 {% endraw %}

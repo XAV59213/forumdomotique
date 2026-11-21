@@ -39,19 +39,6 @@ date: 2026-11-20
 
 # 🌙 Phase de la Lune – La lune, son illumination et une anecdote par jour dans Home Assistant
 
-- **Catégorie :** [Projets et Personnalisations](https://forumdomotique.com/forums/12-projets-et-personnalisations/)
-- **Sujet :** https://forumdomotique.com/forums/topic/4094-%F0%9F%8C%99-phase-de-la-lune-la-lune-son-illumination-et-une-anecdote-par-jour-dans-home-assistant/
-- **Auteur du premier message du sujet :** XAV59213
-- **Messages de XAV59213 dans ce sujet :** 1
-- **Premier message de XAV59213 :** 20 novembre 2026 à 10:15 (Europe/Paris)
-
----
-
-## Message 1 — 20 novembre 2026 à 10:15 (Europe/Paris)
-
-- **Identifiant :** `5582`
-- **Lien :** https://forumdomotique.com/forums/topic/4094-%F0%9F%8C%99-phase-de-la-lune-la-lune-son-illumination-et-une-anecdote-par-jour-dans-home-assistant/#findComment-5582
-
 Bonjour à tous 👋
 
 Après Saints du Jour et Jour Férié, voici une nouvelle petite intégration « culture et calendrier » pour Home Assistant : **Phase de la Lune** 🌙. Elle calcule chaque jour la phase de la lune, son pourcentage d’illumination, et l’accompagne d’un petit texte poétique et d’une **anecdote du jour**.
@@ -163,5 +150,3 @@ Vos retours, idées et remontées de bugs sont les bienvenus, ici ou sur GitHub 
 
 Bonne domotique ! 🏠  
 Xavier (XAV59213)
-
----

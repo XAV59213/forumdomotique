@@ -34,19 +34,6 @@ date: 2026-11-20
 
 # 🏡 [Projet en cours] Maison 3D – Votre maison qui vit au rythme de la météo dans Home Assistant
 
-- **Catégorie :** [Projets et Personnalisations](https://forumdomotique.com/forums/12-projets-et-personnalisations/)
-- **Sujet :** https://forumdomotique.com/forums/topic/4096-%F0%9F%8F%A1-projet-en-cours-maison-3d-votre-maison-qui-vit-au-rythme-de-la-m%C3%A9t%C3%A9o-dans-home-assistant/
-- **Auteur du premier message du sujet :** XAV59213
-- **Messages de XAV59213 dans ce sujet :** 1
-- **Premier message de XAV59213 :** 20 novembre 2026 à 10:34 (Europe/Paris)
-
----
-
-## Message 1 — 20 novembre 2026 à 10:34 (Europe/Paris)
-
-- **Identifiant :** `5584`
-- **Lien :** https://forumdomotique.com/forums/topic/4096-%F0%9F%8F%A1-projet-en-cours-maison-3d-votre-maison-qui-vit-au-rythme-de-la-m%C3%A9t%C3%A9o-dans-home-assistant/#findComment-5584
-
 Bonjour à tous 👋
 
 Aujourd’hui, je vous présente un projet un peu à part, plus visuel que les autres : **Maison 3D** 🏡. C’est une intégration Home Assistant qui affiche **une photo de votre maison qui vit au rythme de la météo** : la pluie tombe quand il pleut chez vous, la neige s’installe en hiver, la lune apparaît la nuit avec sa vraie phase, et les lumières extérieures s’allument sur la photo quand elles s’allument dans la réalité.
@@ -164,5 +151,3 @@ Comme c’est un projet en cours, n’hésitez surtout pas : vos retours, idées
 
 Bonne domotique ! 🏠  
 Xavier (XAV59213)
-
----

@@ -9,19 +9,6 @@ date: 2025-04-27
 
 # Créer un tableau de bord de gestion de piscine dans Home Assistant
 
-- **Catégorie :** [Tutoriels, Guides & Astuces des Membres](https://forumdomotique.com/forums/87-tutoriels-guides-astuces-des-membres/)
-- **Sujet :** https://forumdomotique.com/forums/topic/90-cr%C3%A9er-un-tableau-de-bord-de-gestion-de-piscine-dans-home-assistant/
-- **Auteur du premier message du sujet :** XAV59213
-- **Messages de XAV59213 dans ce sujet :** 1
-- **Premier message de XAV59213 :** 27 avril 2025 à 10:08 (Europe/Paris)
-
----
-
-## Message 1 — 27 avril 2025 à 10:08 (Europe/Paris)
-
-- **Identifiant :** `154`
-- **Lien :** https://forumdomotique.com/forums/topic/90-cr%C3%A9er-un-tableau-de-bord-de-gestion-de-piscine-dans-home-assistant/#findComment-154
-
 Dans ce tutoriel, nous allons créer un tableau de bord interactif pour gérer une piscine dans **Home Assistant**. Ce tableau de bord permet de surveiller la qualité de l’eau (pH, chlore, température), planifier le pompage, suivre la filtration, et afficher des recommandations d’entretien. Voici comment j’ai construit ce tableau de bord, étape par étape, en utilisant YAML, des capteurs, des entrées numériques, et des cartes personnalisées.
 
 ---
@@ -379,5 +366,4 @@ Pour référence, voici le code YAML complet du tableau de bord (voir le code in
 ![Capture d’écran du 2025-04-27 10-21-38.png](images/Capturedcrandu2025-04-2710-21-38.png)
 <!-- source : https://cdn.forumdomotique.com/monthly_2025_04/Capturedcrandu2025-04-2710-21-38.png.646c3fa348eff35afd2412abb7f0df90.png -->
 
----
 {% endraw %}

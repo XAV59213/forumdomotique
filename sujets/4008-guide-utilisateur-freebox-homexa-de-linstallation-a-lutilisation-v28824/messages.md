@@ -8,19 +8,6 @@ date: 2026-09-27
 
 # Guide utilisateur Freebox Homexa — de l’installation à l’utilisation (v28.8.24)
 
-- **Catégorie :** [Projets et Personnalisations](https://forumdomotique.com/forums/12-projets-et-personnalisations/)
-- **Sujet :** https://forumdomotique.com/forums/topic/4008-guide-utilisateur-freebox-homexa-de-linstallation-%C3%A0-lutilisation-v28824/
-- **Auteur du premier message du sujet :** XAV59213
-- **Messages de XAV59213 dans ce sujet :** 1
-- **Premier message de XAV59213 :** 27 septembre 2026 à 11:30 (Europe/Paris)
-
----
-
-## Message 1 — 27 septembre 2026 à 11:30 (Europe/Paris)
-
-- **Identifiant :** `5447`
-- **Lien :** https://forumdomotique.com/forums/topic/4008-guide-utilisateur-freebox-homexa-de-linstallation-%C3%A0-lutilisation-v28824/#findComment-5447
-
 <!-- source : https://litter.catbox.moe/hx4wox.jpg — fichier d’origine introuvable (hébergeur temporaire, lien mort). -->
 <p class="media-fallback">L’illustration d’origine n’est plus disponible. Voir le <a href="https://github.com/XAV59213/freebox_homexa/blob/main/docs/guide-utilisateur.md">guide utilisateur dans le dépôt Freebox Homexa</a>.</p>
 
@@ -173,5 +160,3 @@ Exemples concrets :
 Logs : Paramètres → Système → Journaux, filtre `freebox_homexa`.
 
 Licence MIT. Vos retours (modèle de box, Player, nombre de répéteurs) font avancer la suite.
-
----

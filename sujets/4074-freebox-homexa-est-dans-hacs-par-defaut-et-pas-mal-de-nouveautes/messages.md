@@ -39,56 +39,6 @@ date: 2026-11-02
 
 # **Freebox Homexa est dans HACS par défaut 🎉 (et pas mal de nouveautés)**
 
-- **Catégorie :** [Intégrations et Add-ons](https://forumdomotique.com/forums/11-int%C3%A9grations-et-add-ons/)
-- **Sujet :** https://forumdomotique.com/forums/topic/4074-freebox-homexa-est-dans-hacs-par-d%C3%A9faut-%F0%9F%8E%89-et-pas-mal-de-nouveaut%C3%A9s/
-- **Auteur du premier message du sujet :** XAV59213
-- **Messages de XAV59213 dans ce sujet :** 2
-- **Premier message de XAV59213 :** 2 novembre 2026 à 19:49 (Europe/Paris)
-- **Dernier message de XAV59213 :** 20 novembre 2026 à 10:14 (Europe/Paris)
-
----
-
-## Message 1 — 2 novembre 2026 à 19:49 (Europe/Paris)
-
-- **Identifiant :** `5540`
-- **Lien :** https://forumdomotique.com/forums/topic/4074-freebox-homexa-est-dans-hacs-par-d%C3%A9faut-%F0%9F%8E%89-et-pas-mal-de-nouveaut%C3%A9s/#findComment-5540
-
-![IMG_7808.png](images/IMG_7808.png)
-<!-- source : https://cdn.forumdomotique.com/monthly_2026_11/IMG_7808.png.4ebd08d1cd1fff4802eb024826a261c4.png -->
-
-Salut à tous,  
-  
-Bonne nouvelle : Freebox Homexa est enfin dans la bibliothèque HACS officielle ! frenck a fait une revue complète du code, il m'a demandé quelques corrections, et c'est validé depuis aujourd'hui. Merci à lui, ses retours ont vraiment amélioré l'intégration.  
-  
-Concrètement, plus besoin d'ajouter le dépôt personnalisé : vous cherchez « Freebox Homexa » dans HACS, vous téléchargez, vous redémarrez, et c'est tout. Ceux qui l'avaient déjà en dépôt perso n'ont rien à faire, tout continue de marcher.  
-Lien direct : https://my.home-assistant.io/redirect/hacs_repository/?owner=XAV59213&repository=freebox_homexa&category=integration  
-  
-Côté nouveautés depuis la dernière fois :  
-  
-**La carte Freebox Homexa** se règle maintenant depuis l'éditeur visuel. Vous pouvez mettre plusieurs volets (et aussi plusieurs alarmes, détecteurs ou Players), masquer les sections qui ne vous servent pas et ajouter un titre. Vos cartes actuelles ne bougent pas.  
-  
-**Le guide TV TNT** ne fait plus ramer Home Assistant au moment de sa mise à jour. Sur un HA Green, ça pouvait bloquer une dizaine de secondes, ZHA compris. Les textes de l'éditeur de la carte sont aussi revenus. Encore merci à cyclope205, dont le projet Programme TNT FR a servi de base à la carte.  
-  
-**Nouvelle carte « Homexa Appels »** : elle affiche le journal d'appels de la Freebox, avec les manqués, reçus et émis, l'heure, la durée et les appels non lus. Petite précision : pour la vie privée, les noms et numéros ne sont plus dans les attributs des capteurs. Si vous aviez une carte Markdown qui lisait les attributs de « Appels manqués Freebox », il faut passer à cette nouvelle carte.  
-  
-Enfin, Homexa ne touche plus aux appareils des autres intégrations (Shelly, ESPHome…), même s'ils ont la même adresse MAC.  
-  
-Tout est dans la 28.8.74 : https://github.com/XAV59213/freebox_homexa/releases/tag/28.8.74  
-Le dépôt : https://github.com/XAV59213/freebox_homexa  
-  
-N'hésitez pas si vous avez des retours ou des bugs, ici ou sur GitHub 😉  
-(Pour rappel, c'est un projet perso, sans aucun lien avec Free.)  
-  
-Bonne domotique !  
-XAV59213
-
----
-
-## Message 2 — 20 novembre 2026 à 10:14 (Europe/Paris)
-
-- **Identifiant :** `5581`
-- **Lien :** https://forumdomotique.com/forums/topic/4074-freebox-homexa-est-dans-hacs-par-d%C3%A9faut-%F0%9F%8E%89-et-pas-mal-de-nouveaut%C3%A9s/#findComment-5581
-
 Bonjour à tous 👋
 
 Quand j’ai présenté le projet en avril 2025, **Freebox Homexa** n’était qu’un projet : rassembler en une seule intégration Home Assistant tous les bouts de code éparpillés pour la Freebox. Un an et demi plus tard, le projet a bien grandi : il est dans la **bibliothèque officielle de HACS** depuis le 2 novembre 2026, et la version actuelle est la [**28.8.93**](https://github.com/XAV59213/freebox_homexa/releases/tag/28.8.93).
@@ -197,5 +147,3 @@ Bonne domotique ! 🏠
 Xavier (XAV59213)
 
 Rappel : Freebox Homexa utilise uniquement l’API officielle de Freebox OS, et n’est ni affilié ni soutenu par Free / Iliad.
-
----

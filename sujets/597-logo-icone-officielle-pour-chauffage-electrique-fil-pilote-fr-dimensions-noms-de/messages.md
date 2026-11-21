@@ -8,19 +8,6 @@ date: 2025-12-09
 
 # Logo & icône officielle pour « Chauffage Électrique Fil Pilote FR » – Dimensions & noms de fichiers imposés !
 
-- **Catégorie :** [Café Domotique](https://forumdomotique.com/forums/85-caf%C3%A9-domotique/)
-- **Sujet :** https://forumdomotique.com/forums/topic/597-logo-ic%C3%B4ne-officielle-pour-%C2%AB-chauffage-%C3%A9lectrique-fil-pilote-fr-%C2%BB-dimensions-noms-de-fichiers-impos%C3%A9s/
-- **Auteur du premier message du sujet :** XAV59213
-- **Messages de XAV59213 dans ce sujet :** 1
-- **Premier message de XAV59213 :** 9 décembre 2025 à 14:44 (Europe/Paris)
-
----
-
-## Message 1 — 9 décembre 2025 à 14:44 (Europe/Paris)
-
-- **Identifiant :** `1508`
-- **Lien :** https://forumdomotique.com/forums/topic/597-logo-ic%C3%B4ne-officielle-pour-%C2%AB-chauffage-%C3%A9lectrique-fil-pilote-fr-%C2%BB-dimensions-noms-de-fichiers-impos%C3%A9s/#findComment-1508
-
 Salut la communauté !
 
 L’intégration **Chauffage Électrique Fil Pilote FR** est maintenant stable et utilisée tous les jours.
@@ -88,5 +75,3 @@ On a besoin du meilleur d’entre vous pour que cette intégration devienne **LA
 XAV59213
 
 (Le mec qui a viré sa box à 300 € + abonnement grâce à vous)
-
----

@@ -9,20 +9,6 @@ date: 2025-06-07
 
 # 📆 [Intégration] Date Countdown – Suivi d’événements personnels dans Home Assistant
 
-- **Catégorie :** [Projets et Personnalisations](https://forumdomotique.com/forums/12-projets-et-personnalisations/)
-- **Sujet :** https://forumdomotique.com/forums/topic/196-%F0%9F%93%86-int%C3%A9gration-date-countdown-suivi-d%C3%A9v%C3%A9nements-personnels-dans-home-assistant/
-- **Auteur du premier message du sujet :** XAV59213
-- **Messages de XAV59213 dans ce sujet :** 3
-- **Premier message de XAV59213 :** 7 juin 2025 à 18:31 (Europe/Paris)
-- **Dernier message de XAV59213 :** 10 juin 2025 à 10:14 (Europe/Paris)
-
----
-
-## Message 1 — 7 juin 2025 à 18:31 (Europe/Paris)
-
-- **Identifiant :** `417`
-- **Lien :** https://forumdomotique.com/forums/topic/196-%F0%9F%93%86-int%C3%A9gration-date-countdown-suivi-d%C3%A9v%C3%A9nements-personnels-dans-home-assistant/#findComment-417
-
 # 📆 Date Countdown
 
 **Date Countdown** est une intégration personnalisée pour [Home Assistant](https://www.home-assistant.io) qui permet de suivre les jours restants avant des événements personnels tels que : anniversaires, anniversaires de mariage, promotions, mémoriaux ou événements spéciaux.
@@ -212,31 +198,4 @@ logger:
 💬 Pour toute question, bug ou suggestion :  
 ➡️ [Créer une issue sur GitHub](https://github.com/XAV59213/date-countdown/issues)
 
----
-
-## Message 2 — 9 juin 2025 à 18:47 (Europe/Paris)
-
-- **Identifiant :** `424`
-- **Lien :** https://forumdomotique.com/forums/topic/196-%F0%9F%93%86-int%C3%A9gration-date-countdown-suivi-d%C3%A9v%C3%A9nements-personnels-dans-home-assistant/#findComment-424
-
-![Capture d’écran du 2025-06-09 18-46-02.png](images/Capturedcrandu2025-06-0918-46-02.png)
-<!-- source : https://cdn.forumdomotique.com/monthly_2025_06/Capturedcrandu2025-06-0918-46-02.png.b53584ad37c1801709889bed89538887.png -->
-
----
-
-## Message 3 — 10 juin 2025 à 10:14 (Europe/Paris)
-
-- **Identifiant :** `432`
-- **Lien :** https://forumdomotique.com/forums/topic/196-%F0%9F%93%86-int%C3%A9gration-date-countdown-suivi-d%C3%A9v%C3%A9nements-personnels-dans-home-assistant/#findComment-432
-
-> **Il y a 2 heures, Arubinu a dit :**
-> Salut, je pense que c'est une carte Markdown (comme utilisé pour le style appliqué au texte sur Discord). Il y a une méthode donnée par Home Assistant pour y ajouter des entités.
-
-Oui [@Arubinu](https://forumdomotique.com/profile/124-arubinu/) c'est une carte Markdown j'ai mis le code complet
-
-salut [@zerocool38](https://forumdomotique.com/profile/178-zerocool38/) quand tu est dans ton dashabord en mode Edition tu fait ajouter une carte puis en haut a droite trois petit point tu va dessus et tu clic sur modifier en yaml puis tu colle tous le code
-
-[dashabord.yam](https://forumdomotique.com/applications/core/interface/file/attachment.php?id=192&key=4f6efa3264ca4d444e56c3d860facea5)
-
----
 {% endraw %}

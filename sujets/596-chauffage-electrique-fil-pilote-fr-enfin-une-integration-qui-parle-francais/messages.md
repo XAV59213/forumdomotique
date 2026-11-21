@@ -54,75 +54,6 @@ date: 2025-12-09
 
 # Chauffage Électrique Fil Pilote FR – Enfin une intégration qui parle français !
 
-- **Catégorie :** [Projets et Personnalisations](https://forumdomotique.com/forums/12-projets-et-personnalisations/)
-- **Sujet :** https://forumdomotique.com/forums/topic/596-chauffage-%C3%A9lectrique-fil-pilote-fr-enfin-une-int%C3%A9gration-qui-parle-fran%C3%A7ais/
-- **Auteur du premier message du sujet :** XAV59213
-- **Messages de XAV59213 dans ce sujet :** 2
-- **Premier message de XAV59213 :** 9 décembre 2025 à 14:10 (Europe/Paris)
-- **Dernier message de XAV59213 :** 20 novembre 2026 à 10:04 (Europe/Paris)
-
----
-
-## Message 1 — 9 décembre 2025 à 14:10 (Europe/Paris)
-
-- **Identifiant :** `1507`
-- **Lien :** https://forumdomotique.com/forums/topic/596-chauffage-%C3%A9lectrique-fil-pilote-fr-enfin-une-int%C3%A9gration-qui-parle-fran%C3%A7ais/#findComment-1507
-
-Salut la communauté !
-
-Je vous présente **Chauffage Électrique Fil Pilote FR**, une intégration Home Assistant **100 % locale** spécialement conçue pour les radiateurs à **fil pilote 6 ordres** (NodOn SIN-4-FP-21, Legrand, Delta Dore, etc.).
-
-Attention ⚠️ utiliser la version
-
-v.1.0.8 stable
-
-![IMG_6431.jpeg](images/IMG_6431.jpeg)
-
-Pourquoi j’ai créé ça ?
-
-Parce que Versatile Thermostat est génial (énorme respect à jmcollin78), mais il ne gère **pas nativement** les vrais ordres fil pilote français : Confort –1 °C, Confort –2 °C, etc.
-
-Du coup j’ai fait une intégration **taillée pour la France** :
-
-- 1 seul thermostat central virtuel (molette + 6 vrais modes)
-
-- Envoi des **vrais ordres fil pilote** via Zigbee2MQTT
-
-- Sécurité fenêtre ouverte par pièce
-
-- Calendrier chauffage global (input_boolean ou calendar)
-
-- Présence : 0 personne → Hors-gel / 1+ personne → mode demandé
-
-- Températures personnalisables (Confort, Éco, Hors-gel)
-
-- Sélecteurs d’entités partout (plus de copier-coller d’ID)
-
-- Installation HACS en 1 clic
-
-- **Zéro cloud, zéro abonnement**
-
-Ça tourne **24/7 chez moi** (5 pièces) sans aucun souci.
-
-Lien GitHub : <https://github.com/XAV59213/chauffage>
-
-HACS : `https://github.com/XAV59213/chauffage` (catégorie Integration)
-
-Le projet est **en cours de finalisation**.
-
-Si vous avez du fil pilote, vos retours / tests / idées sont les bienvenus !
-
-Merci à la communauté et à jmcollin78 pour son travail incroyable
-
-XAV59213
-
----
-
-## Message 2 — 20 novembre 2026 à 10:04 (Europe/Paris)
-
-- **Identifiant :** `5577`
-- **Lien :** https://forumdomotique.com/forums/topic/596-chauffage-%C3%A9lectrique-fil-pilote-fr-enfin-une-int%C3%A9gration-qui-parle-fran%C3%A7ais/#findComment-5577
-
 Salut la communauté 👋
 
 Grosse mise à jour pour ce sujet ! Voici une présentation complète et à jour de **Chauffage Électrique Fil Pilote FR** 🔥, une intégration Home Assistant **100 % locale** pensée pour nos radiateurs électriques français à **fil pilote** : modules NodOn SIN-4-FP-21, Legrand, Delta Dore… avec des sondes de température Zigbee, via Zigbee2MQTT ou ZHA. Aucun cloud, aucun abonnement.
@@ -244,5 +175,3 @@ Vos retours, idées et remontées de bugs sont les bienvenus, ici ou sur GitHub 
 
 Bonne domotique ! 🏠  
 Xavier (XAV59213)
-
----
