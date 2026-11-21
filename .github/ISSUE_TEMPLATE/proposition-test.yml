@@ -1,0 +1,55 @@
+name: Proposition de test produit
+description: Proposer un produit à XAV59213 pour un test en conditions réelles, avec intégration Home Assistant.
+title: "[Test] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Merci de votre proposition. Décrivez le produit et le contexte du test.
+        Aucune adresse électronique ni aucun numéro de téléphone n’est exigé : indiquez un profil GitHub, un profil Forum Domotique ou une page de contact.
+  - type: input
+    id: marque
+    attributes:
+      label: Marque
+      placeholder: Nom de la marque
+    validations:
+      required: true
+  - type: input
+    id: produit
+    attributes:
+      label: Produit
+      placeholder: Nom et, si possible, référence du modèle
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Présentation du produit
+      description: En quelques lignes, ce que fait le produit et ce que vous souhaiteriez voir tester.
+    validations:
+      required: true
+  - type: input
+    id: lien
+    attributes:
+      label: Page du produit
+      description: Lien public vers la fiche ou le site du produit, s’il existe.
+      placeholder: https://
+  - type: input
+    id: compatibilite
+    attributes:
+      label: Compatibilité
+      description: Par exemple Home Assistant, Zigbee, Matter, Thread, ou une autre intégration.
+      placeholder: Home Assistant, Matter, Zigbee…
+  - type: textarea
+    id: contexte
+    attributes:
+      label: Contexte de la proposition
+      description: Précisez, si vous le souhaitez, le cadre (marque, distributeur, attaché de presse, particulier).
+  - type: input
+    id: contact
+    attributes:
+      label: Contact
+      description: Profil GitHub, profil Forum Domotique ou page de contact (pas d’adresse électronique ni de numéro de téléphone dans ce champ).
+      placeholder: https://github.com/votre-profil ou https://forumdomotique.com/profile/…
+    validations:
+      required: true
