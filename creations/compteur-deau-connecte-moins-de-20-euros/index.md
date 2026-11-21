@@ -1,7 +1,7 @@
 ---
 title: "Compteur d’eau connecté à moins de 20 € : ma consommation enfin sous contrôle (et les fuites plus jamais une surprise)"
 description: "Avec un débitmètre à une dizaine d’euros et un ESP32, je suis enfin ma consommation d’eau dans Home Assistant, et les fuites ne sont plus une surprise."
-image: /creations/compteur-deau-connecte-moins-de-20-euros/images/Capturedcrandu2025-11-3013-44-36.png
+image: /creations/compteur-deau-connecte-moins-de-20-euros/images/compteur-eau-couverture.jpg
 date: 2025-11-30
 section: creations
 forum_comments: false
