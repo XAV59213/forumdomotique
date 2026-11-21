@@ -187,13 +187,12 @@ don:
   enabled: true
   url: https://www.buymeacoffee.com/xav59213
 # Commentaires du site via giscus (GitHub Discussions).
-# enabled reste false tant que l’app giscus n’est pas installée
-# et que category_id n’est pas renseigné (voir _includes/giscus.html).
-# repo_id est l’identifiant public du dépôt (pas un secret).
+# repo_id et category_id sont des identifiants publics (pas des secrets).
+# Catégorie Announcements (format Annonce), créée par défaut à l’activation.
 giscus:
-  enabled: false
+  enabled: true
   repo: XAV59213/forumdomotique
   repo_id: R_kgDOV1iQfA
-  category: Commentaires
-  category_id: ""
+  category: Announcements
+  category_id: DIC_kwDOV1iQfM4DLpo3
   theme: light

@@ -1,20 +1,7 @@
 {% comment %}
   Commentaires du site via giscus (GitHub Discussions), sans cookies ni secret.
-  Discussions est activé sur XAV59213/forumdomotique (21 novembre 2026).
-  L’application giscus n’est pas encore installée : ne pas afficher le
-  widget tant que giscus.enabled n’est pas true ET que repo_id et
-  category_id sont renseignés dans _config.yml.
-
-  Il reste à Xavier :
-  1. Installer l’application GitHub giscus sur ce dépôt uniquement :
-     https://github.com/apps/giscus
-     → Install → choisir « Only select repositories » → forumdomotique.
-  2. Créer la catégorie « Commentaires » au format Annonce :
-     https://github.com/XAV59213/forumdomotique/discussions
-     → icône d’engrenage « Edit categories » (ou « New category »)
-     → Name: Commentaires, Format: Announcement / Annonce.
-  3. Le dire, pour remplir category_id et passer giscus.enabled à true.
-
+  Discussions est activé, l’app giscus est installée sur le dépôt.
+  Catégorie utilisée : Announcements (format Annonce, id public).
   Ne pas y afficher les commentaires archivés de Forum Domotique.
 {% endcomment %}
 {% if site.giscus.enabled and site.giscus.repo_id != blank and site.giscus.category_id != blank and site.giscus.category_id != "" %}
@@ -24,7 +11,7 @@
   <script src="https://giscus.app/client.js"
           data-repo="{{ site.giscus.repo | default: 'XAV59213/forumdomotique' }}"
           data-repo-id="{{ site.giscus.repo_id }}"
-          data-category="{{ site.giscus.category | default: 'Commentaires' }}"
+          data-category="{{ site.giscus.category | default: 'Announcements' }}"
           data-category-id="{{ site.giscus.category_id }}"
           data-mapping="pathname"
           data-strict="0"
