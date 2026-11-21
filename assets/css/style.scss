@@ -1021,6 +1021,11 @@ $ha-navy: #0b3a57;
 }
 @media (max-width: 700px) {
   .upcoming-card { grid-template-columns: 1fr; }
-  .upcoming-media img { min-height: 200px; }
+  .upcoming-media img { min-height: 200px; height: 200px; }
   .upcoming-copy { padding: 1.1rem 1.15rem 1.25rem; }
+  /* Flèches à la jonction photo / texte, pour ne pas masquer le titre */
+  .upcoming-carousel .carousel-nav {
+    top: 200px;
+    transform: translateY(-50%);
+  }
 }
