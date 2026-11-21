@@ -12,6 +12,8 @@ permalink: /tests-produits/
 
 <p class="section-lead">Le <strong>test à la une</strong> est le plus récent, sauf choix contraire dans l’entête de l’article.</p>
 
+{% include prochains-tests.html lead="Voici ce que je prépare, avant de publier le test complet." %}
+
 {% assign tests = site.pages | where: "section", "tests" | sort: "date" | reverse %}
 {% assign tests_feat = tests | where: "featured", true %}
 {% if tests_feat.size > 0 %}

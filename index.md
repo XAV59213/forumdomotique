@@ -129,6 +129,8 @@ Chaque mise à jour mensuelle de Home Assistant expliquée en français : nouvea
 
 <p class="ha-more"><a class="hero-btn" href="{{ '/actualite-home-assistant/' | relative_url }}">Toutes les versions de Home Assistant →</a></p>
 
+{% include prochains-tests.html lead="Les essais que je prépare en ce moment, avant leur publication." %}
+
 {% assign tests = site.pages | where: "section", "tests" | sort: "date" | reverse %}
 {% assign tests_feat = tests | where: "featured", true %}
 {% if tests_feat.size > 0 %}

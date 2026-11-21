@@ -1,0 +1,35 @@
+{% if site.data.prochains-tests and site.data.prochains-tests.size > 0 %}
+<section class="upcoming-block" aria-labelledby="prochains-tests-titre">
+  <p class="kicker">À venir</p>
+  <h2 id="prochains-tests-titre">{{ include.title | default: "Prochains tests à venir" }}</h2>
+  {% if include.lead %}
+  <p class="section-lead">{{ include.lead }}</p>
+  {% endif %}
+  <section class="carousel upcoming-carousel{% if site.data.prochains-tests.size == 1 %} is-single{% endif %}" {% if site.data.prochains-tests.size > 1 %}data-carousel{% endif %} aria-roledescription="carrousel" aria-label="Prochains tests à venir" {% if site.data.prochains-tests.size > 1 %}tabindex="0"{% endif %}>
+    <div class="carousel-track" data-track>
+      {% for t in site.data.prochains-tests %}
+      <article class="upcoming-card" data-slide>
+        <div class="upcoming-media">
+          <img src="{{ t.image | relative_url }}" alt="{{ t.image_alt | default: t.title | escape }}" width="1600" height="900" loading="lazy">
+          {% if t.credit %}<p class="photo-credit">{{ t.credit }}</p>{% endif %}
+        </div>
+        <div class="upcoming-copy">
+          {% if t.brand or t.product %}
+          <p class="brand">{% if t.brand %}{{ t.brand }}{% endif %}{% if t.brand and t.product %} · {% endif %}{% if t.product %}{{ t.product }}{% endif %}</p>
+          {% endif %}
+          {% if t.tag %}<div class="tag">{{ t.tag }}</div>{% endif %}
+          <h3>{{ t.title }}</h3>
+          <p>{{ t.excerpt }}</p>
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+    {% if site.data.prochains-tests.size > 1 %}
+    <button type="button" class="carousel-nav" data-prev aria-label="Test précédent">‹</button>
+    <button type="button" class="carousel-nav" data-next aria-label="Test suivant">›</button>
+    <div class="carousel-dots" data-dots></div>
+    <p class="carousel-hint">Faites défiler horizontalement pour voir les autres tests à venir.</p>
+    {% endif %}
+  </section>
+</section>
+{% endif %}
