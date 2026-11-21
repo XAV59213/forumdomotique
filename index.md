@@ -160,18 +160,7 @@ Chaque mise à jour mensuelle de Home Assistant expliquée en français : nouvea
 <p class="section-lead creations-lead">Mes projets fabriqués de A à Z : impression 3D, capteurs, montage, configuration Home Assistant.</p>
 
 {% assign creations = site.pages | where: "section", "creations" | sort: "date" | reverse %}
-{% assign creations_feat = creations | where: "featured", true %}
-{% if creations_feat.size > 0 %}
-  {% assign crea_une = creations_feat | first %}
-{% else %}
-  {% assign crea_une = creations | first %}
-{% endif %}
-{% include featured-une.html une=crea_une label="Création à la une" button="Voir la création" %}
-
-{% assign creations_rest = creations | where_exp: "p", "p.url != crea_une.url" %}
-{% if creations_rest.size > 0 %}
-{% include item-cards.html items=creations_rest label="Autres créations" %}
-{% endif %}
+{% include item-cards.html items=creations label="Mes créations" carousel=true %}
 
 <p><a href="{{ '/creations/' | relative_url }}">Toutes mes créations</a></p>
 
