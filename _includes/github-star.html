@@ -1,0 +1,21 @@
+{% assign star_repo = include.repo | default: page.github_repo %}
+{% if star_repo %}
+{% assign star_compact = include.compact %}
+{% if star_compact %}
+<p class="github-star-cta github-star-cta-compact">
+  <a href="https://github.com/XAV59213/{{ star_repo }}" target="_blank" rel="noopener noreferrer" aria-label="Mettre une étoile sur le dépôt GitHub XAV59213/{{ star_repo }}">
+    <span class="github-star-icon" aria-hidden="true">⭐</span><span class="github-star-label">Mettre une étoile sur GitHub</span><span class="github-star-count" data-github-repo="{{ star_repo }}" hidden></span>
+  </a>
+</p>
+{% else %}
+<aside class="github-star-block" aria-labelledby="github-star-title">
+  <h2 id="github-star-title">Étoile sur GitHub</h2>
+  <p>Ce projet est open source. Une étoile sur le dépôt aide à le faire connaître et encourage la suite du travail.</p>
+  <p class="github-star-cta">
+    <a href="https://github.com/XAV59213/{{ star_repo }}" target="_blank" rel="noopener noreferrer" aria-label="Mettre une étoile sur le dépôt GitHub XAV59213/{{ star_repo }}">
+      <span class="github-star-icon" aria-hidden="true">⭐</span><span class="github-star-label">Mettre une étoile sur GitHub</span><span class="github-star-count" data-github-repo="{{ star_repo }}" hidden></span>
+    </a>
+  </p>
+</aside>
+{% endif %}
+{% endif %}

@@ -3,6 +3,7 @@ title: "Guide utilisateur Freebox Homexa — de l’installation à l’utilisat
 description: "Suite à la mise à jour 28.8.24 , guide complet : de l’installation HACS jusqu’à l’usage quotidien Dépôt : github.com/XAV59213/freebox homexa Intégration…"
 image: /assets/images/og-default.png
 date: 2026-09-27
+github_repo: freebox_homexa
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/4008-guide-utilisateur-freebox-homexa-de-linstallation-%C3%A0-lutilisation-v28824/">Lire et commenter sur Forum Domotique</a> · <a href="https://github.com/XAV59213/freebox_homexa">Dépôt HACS : Freebox Homexa</a></p>
 

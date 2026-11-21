@@ -94,13 +94,106 @@ defaults:
       path: sujets
     values:
       don: true
+  # Bouton « Mettre une étoile sur GitHub » (github_repo) sur les pages
+  # d’intégrations et articles liés. Les défauts par dossier survivent
+  # à une régénération du front matter par le script d’archivage.
+  - scope:
+      path: sujets/4074-freebox-homexa-est-dans-hacs-par-defaut-et-pas-mal-de-nouveautes
+    values:
+      github_repo: freebox_homexa
+  - scope:
+      path: sujets/101-presentation-du-projet-freebox-homexa
+    values:
+      github_repo: freebox_homexa
+  - scope:
+      path: sujets/4008-guide-utilisateur-freebox-homexa-de-linstallation-a-lutilisation-v28824
+    values:
+      github_repo: freebox_homexa
+  - scope:
+      path: sujets/4063-freebox-homexa-passe-en-28864
+    values:
+      github_repo: freebox_homexa
+  - scope:
+      path: sujets/596-chauffage-electrique-fil-pilote-fr-enfin-une-integration-qui-parle-francais
+    values:
+      github_repo: chauffage
+  - scope:
+      path: sujets/597-logo-icone-officielle-pour-chauffage-electrique-fil-pilote-fr-dimensions-noms-de
+    values:
+      github_repo: chauffage
+  - scope:
+      path: sujets/110-free-mobile-sms-xa-integration-home-assistant
+    values:
+      github_repo: freesmsxa
+  - scope:
+      path: sujets/353-envoyer-des-sms-depuis-le-dashboard-home-assistant-avec-lintegration-free-mobile
+    values:
+      github_repo: freesmsxa
+  - scope:
+      path: sujets/354-configurer-lenvoi-de-notifications-sms-dans-vos-automatisations-home-assistant-v
+    values:
+      github_repo: freesmsxa
+  - scope:
+      path: sujets/194-integration-ha-jour-ferie-capteur-de-jours-feries
+    values:
+      github_repo: jourferier
+  - scope:
+      path: sujets/193-integration-home-assistant-saints-du-jour
+    values:
+      github_repo: saintdujour
+  - scope:
+      path: sujets/4094-phase-de-la-lune-la-lune-son-illumination-et-une-anecdote-par-jour-dans-home-ass
+    values:
+      github_repo: phase_lune
+  - scope:
+      path: sujets/4095-starship-tracker-suivez-les-lancements-starship-de-spacex-dans-home-assistant
+    values:
+      github_repo: starship_tracker
+  - scope:
+      path: sujets/4093-integration-home-assistant-souvenirs-et-celebrations
+    values:
+      github_repo: date_countdown
+  - scope:
+      path: sujets/196-integration-date-countdown-suivi-devenements-personnels-dans-home-assistant
+    values:
+      github_repo: date_countdown
+  - scope:
+      path: sujets/4096-projet-en-cours-maison-3d-votre-maison-qui-vit-au-rythme-de-la-meteo-dans-home-a
+    values:
+      github_repo: maison3d
+  - scope:
+      path: sujets/133-projet-piscine-besoin-de-testeur
+    values:
+      github_repo: piscinexa
+  - scope:
+      path: sujets/90-creer-un-tableau-de-bord-de-gestion-de-piscine-dans-home-assistant
+    values:
+      github_repo: piscinexa
+  - scope:
+      path: sujets/134-domotiser-la-pompe-et-leclairage-de-piscine-avec-home-assistant-possible-et-comm
+    values:
+      github_repo: piscinexa
+  - scope:
+      path: sujets/192-grok-automation-suggester-des-idees-dautomatisations-ia-directement-dans-home-as
+    values:
+      github_repo: grok_automation_suggester
+  - scope:
+      path: sujets/497-failover-pi-systeme-de-bascule-automatique-entre-freebox-4g
+    values:
+      github_repo: failover-pi
 # Bouton « Faire un don » (Buy Me a Coffee) sous les articles.
 # Passer enabled à false pour le masquer partout d’un seul coup.
 don:
   enabled: true
   url: https://www.buymeacoffee.com/xav59213
-# Commentaires du site via giscus (GitHub Discussions). Laisser à false
-# tant que Discussions et l’application giscus ne sont pas configurés
-# (voir _includes/giscus.html).
+# Commentaires du site via giscus (GitHub Discussions).
+# enabled reste false tant que l’app giscus n’est pas installée
+# et que category_id n’est pas renseigné (voir _includes/giscus.html).
+# repo_id est l’identifiant public du dépôt (pas un secret).
 giscus:
   enabled: false
+  repo: XAV59213/forumdomotique
+  repo_id: R_kgDOV1iQfA
+  category: Commentaires
+  category_id: ""
+  theme: light

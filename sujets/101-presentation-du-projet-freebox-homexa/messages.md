@@ -3,6 +3,7 @@ title: "Présentation du projet freebox_homexa"
 description: "Je suis ravi de vous présenter freebox homexa , un projet open-source disponible sur GitHub L'objectif principal de ce projet est de réunifier et…"
 image: /sujets/101-presentation-du-projet-freebox-homexa/images/Capturedcrandu2025-04-2816-05-26.png
 date: 2025-04-28
+github_repo: freebox_homexa
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/101-pr%C3%A9sentation-du-projet-freebox_homexa/">Lire et commenter sur Forum Domotique</a> · <a href="https://github.com/XAV59213/freebox_homexa">Dépôt HACS : Freebox Homexa</a></p>
 

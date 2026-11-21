@@ -3,6 +3,7 @@ title: "Domotiser la pompe et l’éclairage de piscine avec Home Assistant : po
 description: "Je suis actuellement en train de déployer une intégration personnalisée pour Home Assistant appelée Piscinexa , qui permet de gérer la qualité de l'eau de…"
 image: /sujets/134-domotiser-la-pompe-et-leclairage-de-piscine-avec-home-assistant-possible-et-comm/images/Capturedcrandu2025-05-1416-43-20.png
 date: 2025-05-14
+github_repo: piscinexa
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/134-domotiser-la-pompe-et-l%C3%A9clairage-de-piscine-avec-home-assistant-possible-et-comment-faire/">Lire et commenter sur Forum Domotique</a></p>
 

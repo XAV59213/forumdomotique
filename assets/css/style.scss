@@ -1132,6 +1132,66 @@ $ha-navy: #0b3a57;
   .don-block { padding: 1rem 1rem 1.15rem; }
 }
 
+.github-star-block {
+  margin: 2rem 0 1.6rem;
+  padding: 1.15rem 1.2rem 1.3rem;
+  background: #f5f7fc;
+  border: 1px solid #e3e8f3;
+  border-radius: 12px;
+}
+.github-star-block h2 {
+  margin: 0 0 0.5rem;
+  font-size: 1.25rem;
+  color: #1a2a4a;
+}
+.github-star-block p { margin: 0 0 0.9rem; color: #2c3a4d; }
+.github-star-cta { margin: 0; }
+.github-star-cta a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.55rem;
+  padding: 0.6rem 1.1rem;
+  background: #24292f;
+  color: #fff;
+  border-radius: 12px;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 1.05rem;
+  line-height: 1.2;
+  box-shadow: 0 2px 6px rgba(20, 24, 32, 0.25);
+  transition: transform 0.15s ease, background 0.15s ease;
+}
+.github-star-cta a:hover { background: #1b1f24; transform: translateY(-1px); color: #fff; }
+.github-star-cta a:focus-visible {
+  outline: 3px solid #24292f;
+  outline-offset: 3px;
+}
+.github-star-icon { font-size: 1.15rem; }
+.github-star-count {
+  font-weight: 600;
+  opacity: 0.95;
+  padding-left: 0.55rem;
+  border-left: 1px solid rgba(255, 255, 255, 0.45);
+  font-variant-numeric: tabular-nums;
+}
+.github-star-cta-compact { margin: 0.55rem 0 0; }
+.github-star-cta-compact a {
+  padding: 0.42rem 0.8rem;
+  font-size: 0.92rem;
+  border-radius: 10px;
+}
+@media (max-width: 700px) {
+  .github-star-block { padding: 1rem 1rem 1.15rem; }
+  .github-star-cta a { font-size: 0.98rem; }
+}
+
+.giscus-comments h2 {
+  margin: 0 0 0.45rem;
+  font-size: 1.25rem;
+  color: #155799;
+}
+.giscus-intro { margin: 0 0 1rem; color: #444; }
+
 /* Blocs de code dans les articles : défilement horizontal si ça déborde, sans couper le texte. */
 .main-content pre,
 .main-content .highlight,

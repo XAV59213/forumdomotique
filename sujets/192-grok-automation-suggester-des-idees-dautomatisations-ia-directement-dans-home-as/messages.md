@@ -3,6 +3,7 @@ title: "🧠 Grok Automation Suggester – Des idées d’automatisations IA dir
 description: "Grok Automation Suggester est une intégration personnalisée pour Home Assistant qui utilise l'intelligence artificielle Grok de xAI pour vous suggérer des…"
 image: /sujets/192-grok-automation-suggester-des-idees-dautomatisations-ia-directement-dans-home-as/images/Capturedcrandu2025-06-0711-23-20.png
 date: 2025-06-07
+github_repo: grok_automation_suggester
 ---
 {% raw %}
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/192-%F0%9F%A7%A0-grok-automation-suggester-des-id%C3%A9es-dautomatisations-ia-directement-dans-home-assistant/">Lire et commenter sur Forum Domotique</a> · <a href="https://github.com/XAV59213/grok_automation_suggester">Dépôt HACS : Grok Automation Suggester</a></p>

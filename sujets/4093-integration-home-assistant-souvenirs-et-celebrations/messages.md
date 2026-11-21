@@ -3,6 +3,7 @@ title: "🎂 Intégration Home Assistant – Souvenirs et Célébrations"
 description: "Souvenirs et Célébrations est désormais dans la bibliothèque officielle de HACS : anniversaires, noces et dates qui comptent, avec des cartes Lovelace dédiées."
 image: /sujets/4093-integration-home-assistant-souvenirs-et-celebrations/images/banner-date_countdown.png
 date: 2026-11-20
+github_repo: date_countdown
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/4093-%F0%9F%8E%82-int%C3%A9gration-home-assistant-souvenirs-et-c%C3%A9l%C3%A9brations/">Lire et commenter sur Forum Domotique</a> · <a href="https://github.com/XAV59213/date_countdown">Dépôt HACS : Souvenirs et Célébrations</a></p>
 

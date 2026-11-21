@@ -1,38 +1,41 @@
 {% comment %}
-  Commentaires du site via giscus (GitHub Discussions), sans cookies.
-  Désactivé tant que Discussions n’est pas activé sur le dépôt
-  et que l’application giscus n’est pas installée.
+  Commentaires du site via giscus (GitHub Discussions), sans cookies ni secret.
+  Discussions est activé sur XAV59213/forumdomotique (21 novembre 2026).
+  L’application giscus n’est pas encore installée : ne pas afficher le
+  widget tant que giscus.enabled n’est pas true ET que repo_id et
+  category_id sont renseignés dans _config.yml.
 
-  Pour activer plus tard, Xavier doit :
-  1. Sur le dépôt XAV59213/forumdomotique, ouvrir Settings → General
-     → Features et activer Discussions.
-  2. Créer une catégorie de discussions, par exemple « Commentaires »
-     (Discussions → catégorie, ou Settings → Discussions).
-  3. Installer l’application GitHub « giscus » sur ce dépôt :
+  Il reste à Xavier :
+  1. Installer l’application GitHub giscus sur ce dépôt uniquement :
      https://github.com/apps/giscus
-  4. Ouvrir https://giscus.app, choisir le dépôt, la catégorie, la langue
-     française, et copier data-repo-id et data-category-id ci-dessous.
-  5. Passer giscus.enabled à true dans _config.yml.
+     → Install → choisir « Only select repositories » → forumdomotique.
+  2. Créer la catégorie « Commentaires » au format Annonce :
+     https://github.com/XAV59213/forumdomotique/discussions
+     → icône d’engrenage « Edit categories » (ou « New category »)
+     → Name: Commentaires, Format: Announcement / Annonce.
+  3. Le dire, pour remplir category_id et passer giscus.enabled à true.
 
   Ne pas y afficher les commentaires archivés de Forum Domotique.
 {% endcomment %}
-{% if site.giscus.enabled %}
-<div class="giscus-comments" id="commentaires">
+{% if site.giscus.enabled and site.giscus.repo_id != blank and site.giscus.category_id != blank and site.giscus.category_id != "" %}
+<aside class="giscus-comments" id="commentaires" aria-labelledby="giscus-title">
+  <h2 id="giscus-title">Laisser un commentaire (compte GitHub)</h2>
+  <p class="giscus-intro">Les commentaires passent par GitHub Discussions, sans cookie ajouté par le site. Un compte GitHub est nécessaire pour écrire.</p>
   <script src="https://giscus.app/client.js"
-          data-repo="XAV59213/forumdomotique"
-          data-repo-id=""
-          data-category="Commentaires"
-          data-category-id=""
+          data-repo="{{ site.giscus.repo | default: 'XAV59213/forumdomotique' }}"
+          data-repo-id="{{ site.giscus.repo_id }}"
+          data-category="{{ site.giscus.category | default: 'Commentaires' }}"
+          data-category-id="{{ site.giscus.category_id }}"
           data-mapping="pathname"
           data-strict="0"
           data-reactions-enabled="1"
           data-emit-metadata="0"
           data-input-position="bottom"
-          data-theme="preferred_color_scheme"
+          data-theme="{{ site.giscus.theme | default: 'light' }}"
           data-lang="fr"
           data-loading="lazy"
           crossorigin="anonymous"
           async>
   </script>
-</div>
+</aside>
 {% endif %}
