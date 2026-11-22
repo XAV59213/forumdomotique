@@ -1,8 +1,10 @@
 ---
 title: "smart switch  4ch"
 description: "D’abord, merci pour ta question, et oui, tu es au bon endroit pour discuter de ça on va essayer de trouver une solution pour ton setup avec Google Home et…"
-image: /assets/images/og-default.png
+image: /assets/images/vignettes-themes/presentation.jpg
+
 date: 2025-11-19
+cover_alt: "Vignette de rubrique Présentation / Communauté — XAV59213, Forum Domotique"
 ---
 {% raw %}
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/506-smart-switch-4ch/">Lire et commenter sur Forum Domotique</a></p>

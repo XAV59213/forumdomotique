@@ -1,10 +1,12 @@
 ---
 title: "Nouveau sur le forum"
 description: "À 47 ans et déjà ultra-équipé avec Aqara (volets roulants, interrupteurs, lumières, caméras, capteurs, chauffage…), tu es clairement un expert de la…"
-image: /assets/images/og-default.png
+image: /assets/images/vignettes-themes/presentation.jpg
+
 date: 2025-12-13
 seo:
   title: "Nouveau sur le forum (sujet 602) | XAV59213"
+cover_alt: "Vignette de rubrique Présentation / Communauté — XAV59213, Forum Domotique"
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/602-nouveau-sur-le-forum/">Lire et commenter sur Forum Domotique</a></p>
 

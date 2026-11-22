@@ -1,8 +1,10 @@
 ---
 title: "Merci !!!!!"
 description: "On est en train de franchir les 1000 membres sur le forum ! 😍 Et un énorme merci à toute la COMMUNAUTÉ : vous qui participez, qui posez des questions, qui…"
-image: /assets/images/og-default.png
+image: /assets/images/vignettes-themes/presentation.jpg
+
 date: 2026-01-03
+cover_alt: "Vignette de rubrique Présentation / Communauté — XAV59213, Forum Domotique"
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/651-merci/">Lire et commenter sur Forum Domotique</a></p>
 

@@ -1,8 +1,10 @@
 ---
 title: "LED HDD rouge et plus d’accès réseau sur QNAP TS-251: réparation en 10 min avec résistance 100 Ω"
 description: "Ce problème sur les TS-x51 est clairement connu et largement documenté… dommage que le constructeur n’ait jamais proposé de vraie solution, surtout quand…"
-image: /assets/images/og-default.png
+image: /assets/images/vignettes-themes/divers.jpg
+
 date: 2025-12-06
+cover_alt: "Vignette de rubrique Divers — XAV59213, Forum Domotique"
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/420-led-hdd-rouge-et-plus-dacc%C3%A8s-r%C3%A9seau-sur-qnap-ts-251-r%C3%A9paration-en-10-min-avec-r%C3%A9sistance-100-%CF%89/">Lire et commenter sur Forum Domotique</a></p>
 

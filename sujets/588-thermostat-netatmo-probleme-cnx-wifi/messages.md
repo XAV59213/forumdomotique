@@ -1,8 +1,10 @@
 ---
 title: "Thermostat Netatmo & problème cnx wifi"
 description: "Suite à un changement de box Internet (nouvel opérateur / nouveau Wi-Fi), il est fréquent que les équipements domotiques ne parviennent plus à se…"
-image: /assets/images/og-default.png
+image: /assets/images/vignettes-themes/chauffage.jpg
+
 date: 2025-12-06
+cover_alt: "Vignette de rubrique Chauffage — XAV59213, Forum Domotique"
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/588-thermostat-netatmo-probl%C3%A8me-cnx-wifi/">Lire et commenter sur Forum Domotique</a></p>
 

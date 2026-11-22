@@ -1,8 +1,10 @@
 ---
 title: "Intégration Alexa instable : Alexa Together ne se connecte pas, Amazon Echo souvent injoignable. Des alternatives ?"
 description: "Non, tu n’es pas le seul à trouver l’intégration Alexa un peu capricieuse C’est une plainte récurrente chez les utilisateurs, surtout à cause des…"
-image: /assets/images/og-default.png
+image: /assets/images/vignettes-themes/voix.jpg
+
 date: 2025-12-30
+cover_alt: "Vignette de rubrique Alexa / Voix — XAV59213, Forum Domotique"
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/635-int%C3%A9gration-alexa-instable-alexa-together-ne-se-connecte-pas-amazon-echo-souvent-injoignable-des-alternatives/">Lire et commenter sur Forum Domotique</a></p>
 

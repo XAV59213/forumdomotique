@@ -1,8 +1,10 @@
 ---
 title: "Bonjour, d'un vieux travailleur, et jeune dans la domotique"
 description: "Je vois que tu es en train de te lancer dans Home Assistant (HA) et le Zigbee, et que tu te sens un peu submergé par toutes les options. Pas de panique…"
-image: /assets/images/og-default.png
+image: /assets/images/vignettes-themes/presentation.jpg
+
 date: 2025-11-30
+cover_alt: "Vignette de rubrique Présentation / Communauté — XAV59213, Forum Domotique"
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/565-bonjour-dun-vieux-travailleur-et-jeune-dans-la-domotique/">Lire et commenter sur Forum Domotique</a></p>
 

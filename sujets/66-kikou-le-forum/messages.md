@@ -1,8 +1,10 @@
 ---
 title: "Kikou le forum"
 description: "Passionné d’informatique depuis plus de 30 ans, j’ai vécu les débuts d’Internet et je n’ai jamais lâché l’affaire ! ✌️ Depuis 4 ans, je suis plongé dans…"
-image: /assets/images/og-default.png
+image: /assets/images/vignettes-themes/presentation.jpg
+
 date: 2025-04-26
+cover_alt: "Vignette de rubrique Présentation / Communauté — XAV59213, Forum Domotique"
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/66-kikou-le-forum/">Lire et commenter sur Forum Domotique</a></p>
 

@@ -1,8 +1,10 @@
 ---
 title: "Bonjour et bonne année à tous"
 description: "Ton situation actuelle (WiFi/Tuya/Smart Life) Avantages : C’est simple, ça marche bien pour des usages basiques (allumer/éteindre, scénarios simples via…"
-image: /assets/images/og-default.png
+image: /assets/images/vignettes-themes/presentation.jpg
+
 date: 2026-01-03
+cover_alt: "Vignette de rubrique Présentation / Communauté — XAV59213, Forum Domotique"
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/650-bonjour-et-bonne-ann%C3%A9e-%C3%A0-tous/">Lire et commenter sur Forum Domotique</a></p>
 

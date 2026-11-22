@@ -1,8 +1,10 @@
 ---
 title: "Présentation de Laurent59"
 description: "Présentation de Laurent59. Publication de XAV59213 sur Forum Domotique, à propos de Home Assistant et de la domotique."
-image: /assets/images/og-default.png
+image: /assets/images/vignettes-themes/presentation.jpg
+
 date: 2026-01-30
+cover_alt: "Vignette de rubrique Présentation / Communauté — XAV59213, Forum Domotique"
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/722-pr%C3%A9sentation-de-laurent59/">Lire et commenter sur Forum Domotique</a></p>
 

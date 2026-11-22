@@ -1,8 +1,10 @@
 ---
 title: "Alerte SMS en cas de coupure de courant sur le congélateur: SIM ou onduleur ?"
 description: "D'abord, oui, tu es au bon endroit pour ce genre de question technique. Ton besoin est clair : alerter ton client par SMS en cas de coupure de courant…"
-image: /assets/images/og-default.png
+image: /assets/images/vignettes-themes/divers.jpg
+
 date: 2025-10-11
+cover_alt: "Vignette de rubrique Divers — XAV59213, Forum Domotique"
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/441-alerte-sms-en-cas-de-coupure-de-courant-sur-le-cong%C3%A9lateur-sim-ou-onduleur/">Lire et commenter sur Forum Domotique</a></p>
 

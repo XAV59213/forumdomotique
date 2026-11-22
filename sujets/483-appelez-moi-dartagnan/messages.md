@@ -1,8 +1,10 @@
 ---
 title: "Appelez-moi DARTAGNAN"
 description: "J’ai bien rigolé 🤣en lisant ton post, que de péripéties ! OK, donne-moi le modèle de ton double flux J’ai besoin de récupérer le fonctionnement pour…"
-image: /assets/images/og-default.png
+image: /assets/images/vignettes-themes/presentation.jpg
+
 date: 2025-11-04
+cover_alt: "Vignette de rubrique Présentation / Communauté — XAV59213, Forum Domotique"
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/483-appelez-moi-dartagnan/">Lire et commenter sur Forum Domotique</a></p>
 

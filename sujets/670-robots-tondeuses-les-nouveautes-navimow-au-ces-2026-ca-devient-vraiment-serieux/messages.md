@@ -1,8 +1,10 @@
 ---
 title: "Robots tondeuses : les nouveautés Navimow au CES 2026, ça devient vraiment sérieux"
 description: "J’ai hâte de le tester le Navimow i105 , il ne devrait plus tarder à arriver grâce au jeu-concours que tu as organisé 😊 Je réponds sans hésitation : oui…"
-image: /assets/images/og-default.png
+image: /sujets/670-robots-tondeuses-les-nouveautes-navimow-au-ces-2026-ca-devient-vraiment-serieux/images/og-partage.jpg
+
 date: 2026-01-10
+cover_alt: "Gamme de robots tondeuses Navimow présentés sur un stand au CES 2026"
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/670-robots-tondeuses-les-nouveaut%C3%A9s-navimow-au-ces-2026-%C3%A7a-devient-vraiment-s%C3%A9rieux/">Lire et commenter sur Forum Domotique</a></p>
 

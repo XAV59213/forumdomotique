@@ -1,8 +1,10 @@
 ---
 title: "Nouvelle chtite nordiste!"
 description: "Ravi de voir une Nordiste dans le coin ! 🕺 N’hésite pas à partager tes questions ou les problèmes que tu rencontres, on sera ravis de t’aider à optimiser…"
-image: /assets/images/og-default.png
+image: /assets/images/vignettes-themes/presentation.jpg
+
 date: 2025-10-14
+cover_alt: "Vignette de rubrique Présentation / Communauté — XAV59213, Forum Domotique"
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/445-nouvelle-chtite-nordiste/">Lire et commenter sur Forum Domotique</a></p>
 

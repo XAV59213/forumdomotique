@@ -1,8 +1,10 @@
 ---
 title: "Un ptit nouveau"
 description: "Ravi de te voir rejoindre la communauté Home Assistant c’est clair que t’es déjà bien parti avec ton setup sur VM QNAP et l’orientation Zigbee MQTT via le…"
-image: /assets/images/og-default.png
+image: /assets/images/vignettes-themes/presentation.jpg
+
 date: 2025-11-19
+cover_alt: "Vignette de rubrique Présentation / Communauté — XAV59213, Forum Domotique"
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/491-un-ptit-nouveau/">Lire et commenter sur Forum Domotique</a></p>
 

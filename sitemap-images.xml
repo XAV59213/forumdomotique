@@ -11,6 +11,7 @@ permalink: /sitemap-images.xml
   {% if p.canonical_url %}{% assign skip = true %}{% endif %}
   {% if p.image == nil or p.image == "" %}{% assign skip = true %}{% endif %}
   {% if p.image contains "og-default.png" %}{% assign skip = true %}{% endif %}
+  {% if p.image contains "vignettes-themes" %}{% assign skip = true %}{% endif %}
   {% if p.url contains "/brouillons/" %}{% assign skip = true %}{% endif %}
   {% if p.url contains "google2b70f4b4787d43c1" %}{% assign skip = true %}{% endif %}
   {% if p.url == "/sitemap.xml" or p.url == "/sitemap-images.xml" or p.url == "/feed.xml" or p.url == "/404.html" %}{% assign skip = true %}{% endif %}

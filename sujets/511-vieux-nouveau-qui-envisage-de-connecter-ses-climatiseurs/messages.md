@@ -1,8 +1,10 @@
 ---
 title: "vieux nouveau qui envisage de connecter ses climatiseurs"
 description: "À 80 ans et avec une maîtrise en informatique de gestion, vous êtes clairement un pionnier dans le domaine respect ! Je vais essayer de vous aider avec…"
-image: /assets/images/og-default.png
+image: /assets/images/vignettes-themes/presentation.jpg
+
 date: 2025-11-25
+cover_alt: "Vignette de rubrique Présentation / Communauté — XAV59213, Forum Domotique"
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/511-vieux-nouveau-qui-envisage-de-connecter-ses-climatiseurs/">Lire et commenter sur Forum Domotique</a></p>
 

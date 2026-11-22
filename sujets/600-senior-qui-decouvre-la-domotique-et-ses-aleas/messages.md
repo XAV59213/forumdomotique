@@ -1,8 +1,10 @@
 ---
 title: "Sénior qui découvre la domotique et ses aléas"
 description: "Bonjour @Rajac11 et surtout bienvenue sur le forum ! Pas de souci pour le côté « bavard », au contraire : ton message est très clair et détaillé, ça aide…"
-image: /assets/images/og-default.png
+image: /sujets/600-senior-qui-decouvre-la-domotique-et-ses-aleas/images/og-partage.jpg
+
 date: 2025-12-11
+cover_alt: "Module relais Zigbee NodOn, boîtier blanc et rouge avec bornier"
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/600-s%C3%A9nior-qui-d%C3%A9couvre-la-domotique-et-ses-al%C3%A9as/">Lire et commenter sur Forum Domotique</a></p>
 

@@ -1,8 +1,10 @@
 ---
 title: "Quel module Zigbee et câblage pour piloter des volets roulants télécommandés avec Home Assistant"
 description: "Vos volets roulants sont commandés par télécommande radio (probablement RF, comme Somfy ou similaire), donc ils sont radio et non filaires. Il n’est pas…"
-image: /assets/images/og-default.png
+image: /assets/images/vignettes-themes/zigbee.jpg
+
 date: 2026-01-03
+cover_alt: "Vignette de rubrique Zigbee — XAV59213, Forum Domotique"
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/646-quel-module-zigbee-et-c%C3%A2blage-pour-piloter-des-volets-roulants-t%C3%A9l%C3%A9command%C3%A9s-avec-home-assistant/">Lire et commenter sur Forum Domotique</a></p>
 

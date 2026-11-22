@@ -1,8 +1,10 @@
 ---
 title: "Shema de principe"
 description: "kikou @romantho bienvenue a toi et désoler pour le retard il y a tellement de post ! Voici une solution simple, fiable et peu chère pour ton étendoir…"
-image: /assets/images/og-default.png
+image: /assets/images/vignettes-themes/divers.jpg
+
 date: 2025-11-30
+cover_alt: "Vignette de rubrique Divers — XAV59213, Forum Domotique"
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/289-shema-de-principe/">Lire et commenter sur Forum Domotique</a></p>
 

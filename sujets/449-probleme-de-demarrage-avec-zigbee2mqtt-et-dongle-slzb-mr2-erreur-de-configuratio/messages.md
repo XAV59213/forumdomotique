@@ -1,8 +1,10 @@
 ---
 title: "Problème de démarrage avec Zigbee2MQTT et dongle SLZB MR2 (erreur de configuration)"
 description: "Merci pour ton message et bienvenue dans la domotique ! 😊 SLZB MR2 est un excellent choix, surtout en Ethernet Je prépare un test complet avec…"
-image: /assets/images/og-default.png
+image: /assets/images/vignettes-themes/zigbee.jpg
+
 date: 2025-10-21
+cover_alt: "Vignette de rubrique Zigbee — XAV59213, Forum Domotique"
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/449-probl%C3%A8me-de-d%C3%A9marrage-avec-zigbee2mqtt-et-dongle-slzb-mr2-erreur-de-configuration/">Lire et commenter sur Forum Domotique</a></p>
 

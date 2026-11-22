@@ -1,8 +1,10 @@
 ---
 title: "SMLight SLZB-06Mg26U ne démarre pas avec Zigbee2MQTT sur Home Assistant (erreur zigbee-herdsman)"
 description: "Le problème que tu rencontre semble provenir d’une incompatibilité entre le fichier de sauvegarde du coordinateur Zigbee2MQTT et la nouvelle stack…"
-image: /assets/images/og-default.png
+image: /assets/images/vignettes-themes/zigbee.jpg
+
 date: 2026-01-30
+cover_alt: "Vignette de rubrique Zigbee — XAV59213, Forum Domotique"
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/726-smlight-slzb-06mg26u-ne-d%C3%A9marre-pas-avec-zigbee2mqtt-sur-home-assistant-erreur-zigbee-herdsman/">Lire et commenter sur Forum Domotique</a></p>
 

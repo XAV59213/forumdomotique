@@ -1,8 +1,10 @@
 ---
 title: "Aide pour choix du matériel."
 description: "Bonjour @yvanbricard64 et bienvenue dans l’univers Home Assistant et dans le forum ! Ton projet est hyper classique et tout à fait réalisable, beaucoup…"
-image: /assets/images/og-default.png
+image: /assets/images/vignettes-themes/divers.jpg
+
 date: 2025-11-30
+cover_alt: "Vignette de rubrique Divers — XAV59213, Forum Domotique"
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/569-aide-pour-choix-du-mat%C3%A9riel/">Lire et commenter sur Forum Domotique</a></p>
 

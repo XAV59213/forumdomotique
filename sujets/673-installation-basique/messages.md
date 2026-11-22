@@ -1,8 +1,10 @@
 ---
 title: "Installation basique"
 description: "Voici les solutions réalistes pour ton besoin : suivre la température intérieure à distance en 4G (sans WiFi/box allumée) et piloter la pompe de…"
-image: /assets/images/og-default.png
+image: /assets/images/vignettes-themes/presentation.jpg
+
 date: 2026-01-10
+cover_alt: "Vignette de rubrique Présentation / Communauté — XAV59213, Forum Domotique"
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/673-installation-basique/">Lire et commenter sur Forum Domotique</a></p>
 

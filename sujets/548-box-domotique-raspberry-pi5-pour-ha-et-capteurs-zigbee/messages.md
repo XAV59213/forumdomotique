@@ -1,8 +1,10 @@
 ---
 title: "Box Domotique - Raspberry Pi5 pour HA et capteurs Zigbee"
 description: "Ta liste est super complète, t’as bien bossé Pour le HDMI : pas besoin si tu configures en headless via Ethernet/WiFi, utilise Raspberry Pi Imager pour…"
-image: /assets/images/og-default.png
+image: /assets/images/vignettes-themes/zigbee.jpg
+
 date: 2025-11-28
+cover_alt: "Vignette de rubrique Zigbee — XAV59213, Forum Domotique"
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/548-box-domotique-raspberry-pi5-pour-ha-et-capteurs-zigbee/">Lire et commenter sur Forum Domotique</a></p>
 

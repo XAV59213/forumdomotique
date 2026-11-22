@@ -1,8 +1,10 @@
 ---
 title: "Aide câblage relais Ajax contact sec pour porte de garage, double appui et choix NO/NC"
 description: "Borne 4 et Borne 2 pour valider la fonction bouton poussoir de ta porte tu le fait 2 fois ça va descendre et remonter ta porte Ça simule un appui sur le…"
-image: /assets/images/og-default.png
+image: /sujets/481-aide-cablage-relais-ajax-contact-sec-pour-porte-de-garage-double-appui-et-choix/images/og-partage.jpg
+
 date: 2025-11-04
+cover_alt: "Schéma de raccordement d’un connecteur de portail, bornes 1 à 6 (contacts et alimentation)"
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/481-aide-c%C3%A2blage-relais-ajax-contact-sec-pour-porte-de-garage-double-appui-et-choix-nonc/">Lire et commenter sur Forum Domotique</a></p>
 

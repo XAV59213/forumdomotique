@@ -1,10 +1,12 @@
 ---
 title: "Bonjour"
 description: "Bonjour — sujet dans Présentez-vous — ouvert le 21 mars 2026"
-image: /assets/images/og-default.png
+image: /assets/images/vignettes-themes/presentation.jpg
+
 date: 2026-03-21
 seo:
   title: "Bonjour (sujet 829) | XAV59213"
+cover_alt: "Vignette de rubrique Présentation / Communauté — XAV59213, Forum Domotique"
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/829-bonjour/">Lire et commenter sur Forum Domotique</a></p>
 

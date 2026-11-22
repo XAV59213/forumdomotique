@@ -1,8 +1,10 @@
 ---
 title: "Smart Life / Automatisation portail avec localisation"
 description: "Pour que ton portail s’ouvre automatiquement quand tu rentres à la maison (grâce à la localisation), il y a deux façons principales de faire selon ce que…"
-image: /assets/images/og-default.png
+image: /assets/images/vignettes-themes/divers.jpg
+
 date: 2025-12-31
+cover_alt: "Vignette de rubrique Divers — XAV59213, Forum Domotique"
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/643-smart-life-automatisation-portail-avec-localisation/">Lire et commenter sur Forum Domotique</a></p>
 

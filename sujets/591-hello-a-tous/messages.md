@@ -1,8 +1,10 @@
 ---
 title: "Hello à tous"
 description: "Hello à tous. Publication de XAV59213 sur Forum Domotique, à propos de Home Assistant et de la domotique."
-image: /assets/images/og-default.png
+image: /assets/images/vignettes-themes/presentation.jpg
+
 date: 2025-12-07
+cover_alt: "Vignette de rubrique Présentation / Communauté — XAV59213, Forum Domotique"
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/591-hello-%C3%A0-tous/">Lire et commenter sur Forum Domotique</a></p>
 

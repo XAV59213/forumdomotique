@@ -1,8 +1,10 @@
 ---
 title: "Nouvel utilisateur"
 description: "J'ai commencer cette intégration pour home assistant pour les piscines ou spa Mon contrôleur de piscine a rendu l'âme si çà t’intéresse de l installer çà…"
-image: /assets/images/og-default.png
+image: /assets/images/vignettes-themes/presentation.jpg
+
 date: 2025-09-25
+cover_alt: "Vignette de rubrique Présentation / Communauté — XAV59213, Forum Domotique"
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/412-nouvel-utilisateur/">Lire et commenter sur Forum Domotique</a></p>
 

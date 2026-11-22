@@ -1,8 +1,10 @@
 ---
 title: "CONSULTA"
 description: "Merci pour les détails sur votre installation. Je comprends bien le problème : votre barrière infrarouge déclenche la sirène localement, mais vous n’avez…"
-image: /assets/images/og-default.png
+image: /sujets/616-consulta/images/og-partage.jpg
+
 date: 2025-12-21
+cover_alt: "Schéma de câblage d’une alarme avec modules Sonoff RFR2 et RE5V1C, barrière et sirène"
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/616-consulta/">Lire et commenter sur Forum Domotique</a></p>
 

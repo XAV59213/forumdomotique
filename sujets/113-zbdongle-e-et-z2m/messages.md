@@ -1,8 +1,10 @@
 ---
 title: "ZBDongle-E et Z2M"
 description: "Sur le Home Assistant Yellow , ce message d’erreur est très courant quand on utilise le driver ember (le nouveau driver recommandé pour les puces Silicon…"
-image: /assets/images/og-default.png
+image: /assets/images/vignettes-themes/zigbee.jpg
+
 date: 2026-01-31
+cover_alt: "Vignette de rubrique Zigbee — XAV59213, Forum Domotique"
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/113-zbdongle-e-et-z2m/">Lire et commenter sur Forum Domotique</a></p>
 

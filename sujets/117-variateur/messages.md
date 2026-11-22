@@ -1,8 +1,10 @@
 ---
 title: "Variateur"
 description: "Variateur. Publication de XAV59213 sur Forum Domotique, à propos de Home Assistant et de la domotique."
-image: /assets/images/og-default.png
+image: /assets/images/vignettes-themes/divers.jpg
+
 date: 2025-07-03
+cover_alt: "Vignette de rubrique Divers — XAV59213, Forum Domotique"
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/117-variateur/">Lire et commenter sur Forum Domotique</a></p>
 

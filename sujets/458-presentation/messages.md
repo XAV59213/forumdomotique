@@ -1,10 +1,12 @@
 ---
 title: "Présentation"
 description: "Super présentation, et quel parcours déjà impressionnant ! Une Fibaro HC2 qui tourne encore à 100 % Z-Wave après 10 ans, c’est du solide – respect ! 💪 Et…"
-image: /assets/images/og-default.png
+image: /assets/images/vignettes-themes/presentation.jpg
+
 date: 2025-10-23
 seo:
   title: "Présentation (sujet 458) | XAV59213"
+cover_alt: "Vignette de rubrique Présentation / Communauté — XAV59213, Forum Domotique"
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/458-pr%C3%A9sentation/">Lire et commenter sur Forum Domotique</a></p>
 

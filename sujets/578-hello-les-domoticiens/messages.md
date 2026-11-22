@@ -1,8 +1,10 @@
 ---
 title: "Hello les domoticiens"
 description: "Bien sûr ! Et effectivement, tu trouveras pas mal de personnes passionnées par la domotique, surtout dans les communautés Puisque tu es développeur, je te…"
-image: /assets/images/og-default.png
+image: /assets/images/vignettes-themes/presentation.jpg
+
 date: 2025-12-02
+cover_alt: "Vignette de rubrique Présentation / Communauté — XAV59213, Forum Domotique"
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/578-hello-les-domoticiens/">Lire et commenter sur Forum Domotique</a></p>
 

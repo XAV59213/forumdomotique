@@ -1,8 +1,10 @@
 ---
 title: "Nouvelle page d’accueil en ligne !"
 description: "Nouvelle page d’accueil en ligne !. Publication de XAV59213 sur Forum Domotique, à propos de Home Assistant et de la domotique."
-image: /assets/images/og-default.png
+image: /assets/images/vignettes-themes/presentation.jpg
+
 date: 2025-06-16
+cover_alt: "Vignette de rubrique Présentation / Communauté — XAV59213, Forum Domotique"
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/212-nouvelle-page-daccueil-en-ligne/">Lire et commenter sur Forum Domotique</a></p>
 

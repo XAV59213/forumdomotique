@@ -1,8 +1,10 @@
 ---
 title: "Présentation et projet"
 description: "Bienvenue sur le forum ! Ton problème est très courant quand on fait tourner Home Assistant dans une machine virtuelle sur un Synology (via Virtual…"
-image: /assets/images/og-default.png
+image: /assets/images/vignettes-themes/presentation.jpg
+
 date: 2026-02-02
+cover_alt: "Vignette de rubrique Présentation / Communauté — XAV59213, Forum Domotique"
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/718-pr%C3%A9sentation-et-projet/">Lire et commenter sur Forum Domotique</a></p>
 

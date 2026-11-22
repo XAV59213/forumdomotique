@@ -1,8 +1,10 @@
 ---
 title: "Passer du Raspberry Pi 4 à la Home Assistant Yellow ?"
 description: "Non, passer à la Yellow ne sert à rien pour ton problème Tu veux juste arrêter d’avoir peur de la carte SD qui crashe → la solution : des backups…"
-image: /assets/images/og-default.png
+image: /sujets/37-passer-du-raspberry-pi-4-a-la-home-assistant-yellow/images/og-partage.jpg
+
 date: 2025-10-21
+cover_alt: "Boîtier Home Assistant Yellow translucide sur un bureau, au coucher du soleil"
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/37-passer-du-raspberry-pi-4-%C3%A0-la-home-assistant-yellow/">Lire et commenter sur Forum Domotique</a></p>
 

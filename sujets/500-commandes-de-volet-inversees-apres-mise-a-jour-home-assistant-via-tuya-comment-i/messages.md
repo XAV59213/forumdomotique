@@ -1,8 +1,10 @@
 ---
 title: "Commandes de volet inversées après mise à jour Home Assistant via Tuya, comment inverser les flèches ↑ et ↓ du tableau de bord ?"
 description: "Le problème semble assez courant avec l’intégration Tuya dans Home Assistant, surtout après des mises à jour qui peuvent introduire des changements dans…"
-image: /assets/images/og-default.png
+image: /assets/images/vignettes-themes/home-assistant.jpg
+
 date: 2025-11-18
+cover_alt: "Vignette de rubrique Home Assistant — XAV59213, Forum Domotique"
 ---
 {% raw %}
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/500-commandes-de-volet-invers%C3%A9es-apr%C3%A8s-mise-%C3%A0-jour-home-assistant-via-tuya-comment-inverser-les-fl%C3%A8ches-%E2%86%91-et-%E2%86%93-du-tableau-de-bord/">Lire et commenter sur Forum Domotique</a></p>

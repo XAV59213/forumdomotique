@@ -1,8 +1,10 @@
 ---
 title: "Nouveau"
 description: "bienvenue à toi et à toute ton expérience. Ce sera un plaisir d’échanger et de t’orienter dans tes choix"
-image: /assets/images/og-default.png
+image: /assets/images/vignettes-themes/presentation.jpg
+
 date: 2025-11-30
+cover_alt: "Vignette de rubrique Présentation / Communauté — XAV59213, Forum Domotique"
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/564-nouveau/">Lire et commenter sur Forum Domotique</a></p>
 

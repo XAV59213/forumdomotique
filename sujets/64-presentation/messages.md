@@ -1,8 +1,10 @@
 ---
 title: "presentation"
 description: "presentation — Désoler du retard je remonte le temps au fur a mesure 😅"
-image: /assets/images/og-default.png
+image: /assets/images/vignettes-themes/presentation.jpg
+
 date: 2025-11-04
+cover_alt: "Vignette de rubrique Présentation / Communauté — XAV59213, Forum Domotique"
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/64-presentation/">Lire et commenter sur Forum Domotique</a></p>
 

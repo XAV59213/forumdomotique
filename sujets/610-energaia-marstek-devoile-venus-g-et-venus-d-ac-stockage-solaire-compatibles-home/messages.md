@@ -1,8 +1,10 @@
 ---
 title: "EnerGaïa : Marstek dévoile VENUS G et VENUS D AC (stockage solaire), compatibles Home Assistant"
 description: "EnerGaïa : Marstek dévoile VENUS G et VENUS D AC (stockage solaire), compatibles Home Assistant. Publication de XAV59213 sur Forum Domotique, à propos de…"
-image: /assets/images/og-default.png
+image: /sujets/610-energaia-marstek-devoile-venus-g-et-venus-d-ac-stockage-solaire-compatibles-home/images/og-partage.jpg
+
 date: 2025-12-17
+cover_alt: "Batterie de stockage solaire Marstek Venus sur une terrasse, visuel de présentation du fabricant"
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/610-energa%C3%AFa-marstek-d%C3%A9voile-venus-g-et-venus-d-ac-stockage-solaire-compatibles-home-assistant/">Lire et commenter sur Forum Domotique</a></p>
 

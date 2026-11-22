@@ -1,8 +1,10 @@
 ---
 title: "Volet roulant"
 description: "Oui, c'est tout à fait possible et même assez classique en Home Assistant pour simuler une présence quand on est absent (anti-intrusion) Il existe…"
-image: /assets/images/og-default.png
+image: /assets/images/vignettes-themes/divers.jpg
+
 date: 2026-01-10
+cover_alt: "Vignette de rubrique Divers — XAV59213, Forum Domotique"
 ---
 {% raw %}
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/669-volet-roulant/">Lire et commenter sur Forum Domotique</a></p>

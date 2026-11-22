@@ -1,8 +1,10 @@
 ---
 title: "Home Assistant Green : 2 ans de retour d’expérience, erreurs et 6 conseils pour débutants"
 description: "Excellent retour, très complet et vraiment utile pour la communauté. Un grand merci, ça va clairement profiter à de nombreux utilisateurs !"
-image: /assets/images/og-default.png
+image: /assets/images/vignettes-themes/home-assistant.jpg
+
 date: 2026-03-21
+cover_alt: "Vignette de rubrique Home Assistant — XAV59213, Forum Domotique"
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/824-home-assistant-green-2-ans-de-retour-dexp%C3%A9rience-erreurs-et-6-conseils-pour-d%C3%A9butants/">Lire et commenter sur Forum Domotique</a></p>
 

@@ -1,8 +1,10 @@
 ---
 title: "2026 🎉🕺🫣"
 description: "2026 🎉🕺🫣. Publication de XAV59213 sur Forum Domotique, à propos de Home Assistant et de la domotique."
-image: /assets/images/og-default.png
+image: /assets/images/vignettes-themes/presentation.jpg
+
 date: 2025-12-31
+cover_alt: "Vignette de rubrique Présentation / Communauté — XAV59213, Forum Domotique"
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/645-2026-%F0%9F%8E%89%F0%9F%95%BA%F0%9F%AB%A3/">Lire et commenter sur Forum Domotique</a></p>
 

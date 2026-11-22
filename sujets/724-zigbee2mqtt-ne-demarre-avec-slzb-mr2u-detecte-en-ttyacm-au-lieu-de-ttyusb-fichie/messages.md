@@ -1,8 +1,10 @@
 ---
 title: "Zigbee2MQTT ne démarre avec SLZB-MR2U détecté en ttyACM au lieu de ttyUSB, fichier introuvable"
 description: "Puisque ton dongle est un SLZB-MR2U (version USB multi-radio similaire au MR4U du tuto que j ai partagé, mais sans Ethernet/PoE natif), je vais adapter ma…"
-image: /assets/images/og-default.png
+image: /assets/images/vignettes-themes/zigbee.jpg
+
 date: 2026-01-30
+cover_alt: "Vignette de rubrique Zigbee — XAV59213, Forum Domotique"
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/724-zigbee2mqtt-ne-d%C3%A9marre-avec-slzb-mr2u-d%C3%A9tect%C3%A9-en-ttyacm-au-lieu-de-ttyusb-fichier-introuvable/">Lire et commenter sur Forum Domotique</a></p>
 

@@ -1,8 +1,10 @@
 ---
 title: "decouverte de la domotique et de son monde"
 description: "Le RFXCOM peut prendre en charge ton problème, mais l’installation est un peu périlleuse. Il y a quelques tutoriels disponibles, mais pas beaucoup Je l’ai…"
-image: /assets/images/og-default.png
+image: /assets/images/vignettes-themes/presentation.jpg
+
 date: 2025-12-04
+cover_alt: "Vignette de rubrique Présentation / Communauté — XAV59213, Forum Domotique"
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/582-decouverte-de-la-domotique-et-de-son-monde/">Lire et commenter sur Forum Domotique</a></p>
 

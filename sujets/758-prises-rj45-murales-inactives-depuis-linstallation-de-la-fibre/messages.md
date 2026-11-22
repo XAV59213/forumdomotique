@@ -1,8 +1,10 @@
 ---
 title: "Prises RJ45 murales inactives depuis l’installation de la fibre"
 description: "C’est normal, la fibre est indépendante du réseau ADSL. Donc les RJ45 doivent être alimentés/raccordés sur un tableau DTI via ta box opérateur pour…"
-image: /assets/images/og-default.png
+image: /assets/images/vignettes-themes/divers.jpg
+
 date: 2026-02-12
+cover_alt: "Vignette de rubrique Divers — XAV59213, Forum Domotique"
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/758-prises-rj45-murales-inactives-depuis-linstallation-de-la-fibre/">Lire et commenter sur Forum Domotique</a></p>
 

@@ -1,8 +1,10 @@
 ---
 title: "Votre première automatisation domotique qui a tout changé à la maison ?"
 description: "Pour moi, le vrai déclic domotique, c’est quand j’ai mis en place un système qui me permet de ne plus sortir mon téléphone dès que j’arrive à la maison…"
-image: /assets/images/og-default.png
+image: /sujets/451-votre-premiere-automatisation-domotique-qui-a-tout-change-a-la-maison/images/og-partage.jpg
+
 date: 2025-10-19
+cover_alt: "Fenêtre beige avec volets blancs motorisés, ouverts sur une façade crépie"
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/451-votre-premi%C3%A8re-automatisation-domotique-qui-a-tout-chang%C3%A9-%C3%A0-la-maison/">Lire et commenter sur Forum Domotique</a></p>
 

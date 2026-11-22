@@ -1,8 +1,10 @@
 ---
 title: "SLZB-06 SMLight: interface Zigbee2MQTT absente après installation, problème MQTT/port série"
 description: "Voici un petit récapitulatif clair des problèmes observés dans vos logs Zigbee2MQTT • Erreur : getaddrinfo ENOTFOUND core-mosquitto • Signification…"
-image: /assets/images/og-default.png
+image: /assets/images/vignettes-themes/zigbee.jpg
+
 date: 2026-01-03
+cover_alt: "Vignette de rubrique Zigbee — XAV59213, Forum Domotique"
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/649-slzb-06-smlight-interface-zigbee2mqtt-absente-apr%C3%A8s-installation-probl%C3%A8me-mqttport-s%C3%A9rie/">Lire et commenter sur Forum Domotique</a></p>
 
