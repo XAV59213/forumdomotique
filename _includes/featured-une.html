@@ -1,5 +1,5 @@
 {% if include.une %}
-<section class="featured-block{% if include.une.section == 'creations' %} featured-creations{% endif %}">
+<section class="featured-block{% if include.une.section == 'creations' %} featured-creations{% endif %}{% if include.class %} {{ include.class }}{% endif %}">
   <p class="kicker">{{ include.label }}</p>
   <div class="featured-inner">
     <a class="featured-media" href="{{ include.une.url | relative_url }}">

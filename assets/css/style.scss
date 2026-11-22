@@ -680,6 +680,15 @@ body.lightbox-open { overflow: hidden; }
   .featured-copy { padding: 1rem 1rem 1.15rem; }
 }
 
+/* Bloc « À lire aussi », juste sous une une épinglée */
+.featured-block.featured-also { margin-top: -0.75rem; }
+.featured-also .featured-copy { padding: 1rem 1.2rem 1.15rem; }
+.featured-also .featured-copy h2 { font-size: clamp(1.05rem, 1.8vw, 1.4rem); }
+.featured-also .featured-copy p { margin: 0 0 0.4rem; }
+@media (max-width: 700px) {
+  .featured-also .featured-copy { padding: 0.9rem 1rem 1rem; }
+}
+
 .card-grid-wrap { margin: 0 0 2rem; }
 .filter-bar { display: flex; flex-wrap: wrap; gap: 0.4rem; margin: 0 0 1rem; }
 .filter-btn {
