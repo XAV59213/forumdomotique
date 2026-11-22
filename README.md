@@ -28,7 +28,7 @@ Chaque sujet se trouve dans un dossier, avec un fichier Markdown (`messages.md`)
 - **385 messages** de forum, répartis dans **214 sujets** (dont **50 sujets ouverts par XAV59213**)
 - **10 articles** rédigés par XAV59213 (actualités, guides et tests), avec ses commentaires éventuels
 - **2 articles d’autres auteurs** sur lesquels il a commenté (commentaires uniquement)
-- Le texte **[À propos de moi](apropos-de-moi.md)** du profil
+- Le texte **[À propos](apropos-de-moi.md)** (`/a-propos/`)
 - Des **brouillons** de travail dans [brouillons/](brouillons/)
 
 Profil source : [https://forumdomotique.com/profile/106-xav59213/](https://forumdomotique.com/profile/106-xav59213/)
@@ -308,5 +308,5 @@ L’archive est organisée **un dossier par sujet** (ou par article) sous `sujet
 
 ## À propos de moi et brouillons
 
-- [À propos de moi](apropos-de-moi.md)
+- [À propos](apropos-de-moi.md) (`/a-propos/`)
 - [Brouillons](brouillons/)

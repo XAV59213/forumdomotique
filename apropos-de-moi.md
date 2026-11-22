@@ -1,43 +1,22 @@
 ---
-title: "À propos de moi — XAV59213"
-description: "À propos de XAV59213 : intégrations Home Assistant pour la France, disponibles dans HACS ou en dépôt personnalisé."
+title: "À propos — XAV59213"
+description: "Xavier, alias XAV59213 : intégrations Home Assistant, tests de produits connectés en conditions réelles, et page Partenariats & presse."
 image: /images-profil/xav59213-starter-pack-og.jpg
-date: 2026-11-20
----
-# À propos de moi — XAV59213
-
-- **Profil :** https://forumdomotique.com/profile/106-xav59213/
-- **Onglet :** https://forumdomotique.com/profile/106-xav59213/tab-field_core_pfield_1/
-
+cover_alt: "Figurine « Starter Pack » de XAV59213"
+date: 2026-11-22
+permalink: /a-propos/
+don: false
 ---
 
-« On a deux vies, et la deuxième commence quand on se rend compte qu’on en a qu’une. »
+# Xavier, alias XAV59213
 
-![Figurine « Starter Pack » de XAV59213](images-profil/Sanstitre.jpeg)
-<!-- source : https://cdn.forumdomotique.com/monthly_2025_04/Sanstitre.jpeg.1876e2cf4324cd6e84898fd269316dcd.jpeg -->
+<figure class="apropos-figure">
+  <img src="{{ '/images-profil/Sanstitre.jpeg' | relative_url }}" alt="Figurine « Starter Pack » de XAV59213" width="683" height="1024">
+</figure>
 
-### 🏠 Mes intégrations Home Assistant
-
-Passionné de domotique, je développe sur mon temps libre des intégrations Home Assistant pensées pour la France, toutes gratuites, open source et installables en quelques clics avec HACS.
-
-**✅ Dans la bibliothèque officielle de HACS**
-
-- 🏠 [Freebox Homexa](https://github.com/XAV59213/freebox_homexa) : toute votre Freebox dans Home Assistant
-- 🔥 [Chauffage Électrique Fil Pilote FR](https://github.com/XAV59213/chauffage) : vos radiateurs à fil pilote pilotés en local
-- 📨 [Free Mobile SMS XA](https://github.com/XAV59213/freesmsxa) : des SMS gratuits pour vos notifications
-- 🇫🇷 [Jour Férié](https://github.com/XAV59213/jourferier) : les jours fériés français
-- 🕊️ [Saints du Jour](https://github.com/XAV59213/saintdujour) : le saint du jour et de demain
-- 🌙 [Phase de la Lune](https://github.com/XAV59213/phase_lune) : la lune, son illumination et une anecdote par jour
-- 🚀 [Starship Tracker](https://github.com/XAV59213/starship_tracker) : suivre les lancements de Starship
-
-**🧩 En dépôt personnalisé HACS**
-
-- 🎂 [Souvenirs et Célébrations](https://github.com/XAV59213/date_countdown) : anniversaires et dates qui comptent
-- 🏡 [Maison 3D](https://github.com/XAV59213/maison3d) : votre maison animée dans le tableau de bord
-- 🏊 [Piscinexa](https://github.com/XAV59213/piscinexa) : la gestion de votre piscine
-- 🧠 [Grok Automation Suggester](https://github.com/XAV59213/grok_automation_suggester) : des idées d'automatisations par l'IA
-
-Tous mes projets : <https://github.com/XAV59213>. Les retours, idées et rapports de bugs sont les bienvenus, ici en message privé ou sur GitHub 😉
-
-Les dons servent uniquement à acheter du matériel pour réaliser mes tutoriels, guides et tests. Je ne fais aucun profit avec les dons, et si un jour ils dépassent ce besoin, je désactive le bouton. Pour contribuer : <a href="https://www.buymeacoffee.com/xav59213" target="_blank" rel="noopener">Faire un don sur Buy Me a Coffee</a>.
-
+<div class="apropos-bio">
+<p>Passionné de domotique depuis plus de dix ans, je développe des intégrations pour Home Assistant que j’utilise d’abord chez moi, dans le Nord. Huit d’entre elles sont aujourd’hui dans la bibliothèque officielle HACS, dont Freebox Homexa, Free Mobile SMS XA, Chauffage fil pilote et Saints du Jour, et je vise le niveau Platinum pour chacune.</p>
+<p>Je teste chaque intégration avant sa publication, puis à chaque nouvelle version de Home Assistant, pour qu’elle reste fiable et proche des standards officiels.</p>
+<p>Sur Forum Domotique et sur ce site, je publie des tests de produits connectés, des guides pas à pas et les nouveautés de Home Assistant, toujours en conditions réelles : piscine, chauffage, caméras, volets, Zigbee, portail… Tout est installé et utilisé dans ma maison.</p>
+<p>Marques et fournisseurs : vous voulez faire tester un produit ? Passez par la page <a href="{{ '/partenariats-presse/' | relative_url }}">Partenariats &amp; presse</a>.</p>
+</div>

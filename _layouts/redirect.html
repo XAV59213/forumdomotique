@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'fr' }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="refresh" content="0;url={{ page.redirect_to | relative_url }}">
+    <link rel="canonical" href="{{ page.redirect_to | absolute_url }}">
+    <meta name="robots" content="noindex, follow">
+    <title>Redirection vers {{ page.title | default: 'la nouvelle adresse' | escape }}</title>
+  </head>
+  <body>
+    <p>Cette page a été déplacée : <a href="{{ page.redirect_to | relative_url }}">{{ page.title | default: 'continuer' | escape }}</a>.</p>
+  </body>
+</html>
