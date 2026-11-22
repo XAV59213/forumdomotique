@@ -22,6 +22,7 @@ permalink: /mes-integrations/
     <div class="tag">{% if item.official %}HACS officiel{% else %}Dépôt HACS personnalisé{% endif %}</div>
     <h3>{% if item.page %}<a href="{{ item.page | relative_url }}">{{ item.name }}</a>{% else %}{{ item.name }}{% endif %}</h3>
     <p>{{ item.blurb }}</p>
+    {% include auteur.html class="auteur-card" %}
     <p class="repo-actions">
       <a href="https://github.com/XAV59213/{{ item.repo }}">Dépôt GitHub</a>
       <a href="https://my.home-assistant.io/redirect/hacs_repository/?owner=XAV59213&amp;repository={{ item.repo }}&amp;category=integration"><img src="https://my.home-assistant.io/badges/hacs_repository.svg" alt="Ouvrir le dépôt {{ item.name }} dans HACS"></a>

@@ -114,6 +114,7 @@ Mes dépôts GitHub / HACS, clairement séparés des réponses dans les sujets d
     <div class="tag">{% if item.official %}HACS officiel{% else %}Dépôt HACS{% endif %}</div>
     <h3>{{ item.name }}</h3>
     <p>{{ item.blurb }}</p>
+    {% include auteur.html class="auteur-card" %}
   </a>
 {% endfor %}
 </div>

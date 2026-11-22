@@ -1,8 +1,8 @@
 ---
 title: "À propos — XAV59213"
 description: "Xavier, alias XAV59213 : intégrations Home Assistant, tests de produits connectés en conditions réelles, et page Partenariats & presse."
-image: /images-profil/xav59213-starter-pack-og.jpg
-cover_alt: "Figurine « Starter Pack » de XAV59213"
+image: /images-profil/xav59213-blister-collector-og.jpg
+cover_alt: "Avatar illustré de XAV59213 en figurine de collection, présentée dans un blister façon Starter Pack, avec une maison, un Raspberry Pi, une clé Zigbee et un tableau de bord."
 date: 2026-11-22
 permalink: /a-propos/
 don: false
@@ -11,7 +11,10 @@ don: false
 # Xavier, alias XAV59213
 
 <figure class="apropos-figure">
-  <img src="{{ '/images-profil/Sanstitre.jpeg' | relative_url }}" alt="Figurine « Starter Pack » de XAV59213" width="683" height="1024">
+  <picture>
+    <source type="image/webp" srcset="{{ '/images-profil/xav59213-blister-collector.webp' | relative_url }}">
+    <img src="{{ '/images-profil/xav59213-blister-collector.jpg' | relative_url }}" alt="Avatar illustré de XAV59213 en figurine de collection, présentée dans un blister façon Starter Pack, avec une maison, un Raspberry Pi, une clé Zigbee et un tableau de bord." width="864" height="1152">
+  </picture>
 </figure>
 
 <div class="apropos-bio">

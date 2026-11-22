@@ -57,9 +57,12 @@
 .site-logo {
   width: 40px;
   height: 40px;
-  border-radius: 50%;
+  border-radius: 8px;
   display: block;
   margin: 0 !important;
+  background: #fff;
+  box-shadow: 0 0 0 1px #e3ece6;
+  object-fit: contain;
 }
 .site-brand-text { display: flex; flex-direction: column; line-height: 1.15; }
 .site-brand-name { font-weight: 700; font-size: 1rem; letter-spacing: 0.02em; }
@@ -1349,6 +1352,7 @@ figure.creation-video-figure figcaption {
   margin: 0 0 1.7rem;
   max-width: 22rem;
 }
+.apropos-figure picture { display: block; }
 .apropos-figure img {
   display: block;
   width: 100%;
@@ -1529,3 +1533,45 @@ figure.creation-video-figure figcaption {
   .home-tagline .audience-bloc-home { max-width: none; }
   .audience-list li { flex-direction: column; }
 }
+
+/* Logo personnel (ruban « A ») : auteur sur les articles et les cartes */
+.auteur-byline {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  margin: 0 0 1rem;
+  font-weight: 600;
+  font-size: 0.92rem;
+  color: #1a3a5c;
+  line-height: 1;
+}
+.auteur-logo {
+  width: 24px;
+  height: 24px;
+  border-radius: 6px;
+  background: #fff;
+  box-shadow: 0 0 0 1px #e3ece6;
+  margin: 0 !important;
+  object-fit: contain;
+  flex-shrink: 0;
+}
+.auteur-article { margin: 0 0 0.85rem; }
+.feature-card .auteur-byline,
+.auteur-card {
+  margin: 0.55rem 1rem 0;
+  font-size: 0.82rem;
+  color: #5a6b64;
+}
+.feature-card .auteur-logo,
+.auteur-card .auteur-logo {
+  width: 20px;
+  height: 20px;
+  border-radius: 5px;
+}
+.featured-copy .auteur-byline,
+.auteur-featured {
+  margin: 0.55rem 0 0;
+  font-size: 0.88rem;
+  color: #5a6b64;
+}
+.ha-article-head .auteur-byline { margin: 0 0 0.85rem; }

@@ -14,6 +14,7 @@
     <h3>{{ p.short_title | default: p.title }}</h3>
     <p>{{ p.excerpt_fr | default: p.description }}</p>
     <p class="card-date">Sortie le {{ p.release_date | default: p.date | date: "%d/%m/%Y" }}</p>
+    {% include auteur.html class="auteur-card" %}
     {% include audience-mention.html page=p class="audience-card" %}
   </a>
 {% endfor %}
