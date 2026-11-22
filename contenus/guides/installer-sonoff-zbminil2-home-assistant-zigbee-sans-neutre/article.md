@@ -9,6 +9,7 @@ tags:
   - domotique
   - zigbee
 audience_key: guide-zbminil2
+pdf: /contenus/guides/installer-sonoff-zbminil2-home-assistant-zigbee-sans-neutre/installer-sonoff-zbminil2-home-assistant-zigbee-sans-neutre.pdf
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/guides-tutoriels/home-assistant/installer-sonoff-zbminil2-home-assistant-zigbee-sans-neutre/">Lire et commenter sur Forum Domotique</a></p>
 

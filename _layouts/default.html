@@ -141,6 +141,7 @@
           {% assign don_after = parts | slice: 1, 1000 | join: don_marker %}
         {% endif %}
       {% endif %}
+      {% include pdf-download.html body=don_before %}
       {{ don_before }}
       {% if page.layout != "ha-release" %}
         {% include github-star.html %}

@@ -13,6 +13,7 @@ tags:
   - freebox
   - smb
 forum_comments: false
+pdf: /contenus/guides/freebox-smb-music-assistant/freebox-smb-music-assistant.pdf
 ---
 
 # Comment ajouter la musique stockée sur le disque dur de votre Freebox à Music Assistant via partage SMB

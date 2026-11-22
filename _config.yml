@@ -47,6 +47,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - seo-modeles
+  - scripts
 defaults:
   - scope:
       path: ""

@@ -13,6 +13,7 @@ tags:
   - alexa
   - echo
 forum_comments: false
+pdf: /contenus/guides/music-assistant-echo/music-assistant-echo.pdf
 ---
 
 # Installer Music Assistant dans Home Assistant, et le faire jouer sur les Echo Dot et Echo Show

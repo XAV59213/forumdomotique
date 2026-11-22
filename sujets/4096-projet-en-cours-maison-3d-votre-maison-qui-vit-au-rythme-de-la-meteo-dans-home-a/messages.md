@@ -4,6 +4,7 @@ description: "Aujourd’hui, je vous présente un projet un peu à part, plus vi
 image: /sujets/4096-projet-en-cours-maison-3d-votre-maison-qui-vit-au-rythme-de-la-meteo-dans-home-a/images/og-partage.jpg
 date: 2026-11-20
 github_repo: maison3d
+pdf: /sujets/4096-projet-en-cours-maison-3d-votre-maison-qui-vit-au-rythme-de-la-meteo-dans-home-a/integration-maison3d.pdf
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/4096-%F0%9F%8F%A1-projet-en-cours-maison-3d-votre-maison-qui-vit-au-rythme-de-la-m%C3%A9t%C3%A9o-dans-home-assistant/">Lire et commenter sur Forum Domotique</a> · <a href="https://github.com/XAV59213/maison3d">Dépôt HACS : Maison 3D</a></p>
 

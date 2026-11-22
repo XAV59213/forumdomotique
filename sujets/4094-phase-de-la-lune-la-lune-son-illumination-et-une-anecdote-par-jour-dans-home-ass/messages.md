@@ -4,6 +4,7 @@ description: "Après Saints du Jour et Jour Férié, voici une nouvelle petite i
 image: /sujets/4094-phase-de-la-lune-la-lune-son-illumination-et-une-anecdote-par-jour-dans-home-ass/images/og-partage.jpg
 date: 2026-11-20
 github_repo: phase_lune
+pdf: /sujets/4094-phase-de-la-lune-la-lune-son-illumination-et-une-anecdote-par-jour-dans-home-ass/integration-phase_lune.pdf
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/4094-%F0%9F%8C%99-phase-de-la-lune-la-lune-son-illumination-et-une-anecdote-par-jour-dans-home-assistant/">Lire et commenter sur Forum Domotique</a> · <a href="https://github.com/XAV59213/phase_lune">Dépôt HACS : Phase de la Lune</a></p>
 

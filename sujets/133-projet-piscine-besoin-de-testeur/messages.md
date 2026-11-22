@@ -4,6 +4,7 @@ description: "Objectif : L'intégration Piscinexa est une solution personnalisé
 image: /sujets/133-projet-piscine-besoin-de-testeur/images/banner-piscinexa.jpg
 date: 2025-05-08
 github_repo: piscinexa
+pdf: /sujets/133-projet-piscine-besoin-de-testeur/integration-piscinexa.pdf
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/133-projet-piscine-besoin-de-testeur/">Lire et commenter sur Forum Domotique</a> · <a href="https://github.com/XAV59213/piscinexa">Dépôt HACS : Piscinexa</a></p>
 

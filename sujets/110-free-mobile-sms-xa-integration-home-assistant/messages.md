@@ -4,6 +4,7 @@ description: "Free Mobile SMS XA simplifie l'envoi de notifications SMS via l'AP
 image: /sujets/110-free-mobile-sms-xa-integration-home-assistant/images/banner-freesmsxa.png
 date: 2025-05-03
 github_repo: freesmsxa
+pdf: /sujets/110-free-mobile-sms-xa-integration-home-assistant/integration-freesmsxa.pdf
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/110-%F0%9F%93%A8-free-mobile-sms-xa-int%C3%A9gration-home-assistant/">Lire et commenter sur Forum Domotique</a> · <a href="https://github.com/XAV59213/freesmsxa">Dépôt HACS : Free Mobile SMS XA</a></p>
 

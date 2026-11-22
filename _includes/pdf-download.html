@@ -1,0 +1,27 @@
+{%- comment -%}
+  Lien discret « Télécharger en PDF », juste au-dessus du bandeau
+  « Lire et commenter ». Pilote par la clé de front matter `pdf:`.
+  Si le corps de la page contient déjà un lien vers le même fichier
+  (cas du guide 4008), le bouton n'est pas ajouté.
+{%- endcomment -%}
+{%- assign pdf_href = page.pdf -%}
+{%- if pdf_href == nil or pdf_href == blank -%}
+  {%- for item in site.data.pdfs -%}
+    {%- if item.url == page.url -%}
+      {%- assign pdf_href = item.pdf -%}
+    {%- endif -%}
+  {%- endfor -%}
+{%- endif -%}
+{%- if pdf_href and pdf_href != blank -%}
+  {%- assign pdf_name = pdf_href | split: '/' | last -%}
+  {%- assign pdf_already = false -%}
+  {%- if include.body contains pdf_name -%}
+    {%- assign pdf_already = true -%}
+  {%- endif -%}
+  {%- if page.content contains pdf_name -%}
+    {%- assign pdf_already = true -%}
+  {%- endif -%}
+  {%- unless pdf_already -%}
+<p class="pdf-download"><a href="{{ pdf_href | relative_url }}">Télécharger en PDF</a></p>
+  {%- endunless -%}
+{%- endif -%}

@@ -4,6 +4,7 @@ description: "Je vous présente une petite intégration personnalisée que j’a
 image: /sujets/193-integration-home-assistant-saints-du-jour/images/banner-saintdujour.png
 date: 2025-06-07
 github_repo: saintdujour
+pdf: /sujets/193-integration-home-assistant-saints-du-jour/integration-saintdujour.pdf
 ---
 {% raw %}
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/193-%F0%9F%95%8A%EF%B8%8F-int%C3%A9gration-home-assistant-saints-du-jour-%F0%9F%87%AB%F0%9F%87%B7/">Lire et commenter sur Forum Domotique</a> · <a href="https://github.com/XAV59213/saintdujour">Dépôt HACS : Saints du Jour</a></p>

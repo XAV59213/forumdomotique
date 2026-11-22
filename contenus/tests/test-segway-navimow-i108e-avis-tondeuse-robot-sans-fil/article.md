@@ -10,6 +10,7 @@ tags:
   - jardin
   - domotique
 audience_key: test-navimow
+pdf: /contenus/tests/test-segway-navimow-i108e-avis-tondeuse-robot-sans-fil/test-segway-navimow-i108e-avis-tondeuse-robot-sans-fil.pdf
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/tests/accessoires/test-segway-navimow-i108e-avis-tondeuse-robot-sans-fil/">Lire et commenter sur Forum Domotique</a></p>
 

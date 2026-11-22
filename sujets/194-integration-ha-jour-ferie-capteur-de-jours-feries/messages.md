@@ -4,6 +4,7 @@ description: "Je vous propose une intégration Home Assistant permettant d'affic
 image: /sujets/194-integration-ha-jour-ferie-capteur-de-jours-feries/images/banner-jourferier.png
 date: 2025-06-07
 github_repo: jourferier
+pdf: /sujets/194-integration-ha-jour-ferie-capteur-de-jours-feries/integration-jourferier.pdf
 ---
 {% raw %}
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/194-%F0%9F%87%AB%F0%9F%87%B7-int%C3%A9gration-ha-jour-f%C3%A9ri%C3%A9-capteur-de-jours-f%C3%A9ri%C3%A9s/">Lire et commenter sur Forum Domotique</a> · <a href="https://github.com/XAV59213/jourferier">Dépôt HACS : Jour Férié</a></p>

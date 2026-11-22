@@ -7,6 +7,7 @@ date: 2026-01-18
 section: guides
 tags:
   - domotique
+pdf: /contenus/guides/sauvegarde-home-assistant-backup-cloud/sauvegarde-home-assistant-backup-cloud.pdf
 ---
 {% raw %}
 <p class="forum-cta"><a href="https://forumdomotique.com/guides-tutoriels/home-assistant/sauvegarde-home-assistant-backup-cloud/">Lire et commenter sur Forum Domotique</a></p>
