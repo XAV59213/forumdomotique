@@ -81,10 +81,8 @@ Host : `mafreebox.freebox.fr` / IP LAN / `xxx.fbxos.fr`. Pas de token dans confi
 
 Popup HA « Lier le routeur Freebox ». Clique **Valider**, puis sur le Server la **flèche droite = Oui**.
 
-<!-- source : https://litter.catbox.moe/7jykrx.png — fichier d’origine introuvable ; illustration originale. -->
-![Illustration : écran du Server, Autoriser l’application ? Non ou Oui, flèche droite pour Oui](images/appairage-server-fleches.png)
-
-*Illustration*
+<!-- source : https://litter.catbox.moe/7jykrx.png — fichier d’origine introuvable. -->
+![Appairage Server : dialogue Lier le routeur Freebox et écran Autoriser l’application ? Non ou Oui](images/server-fleches.jpg)
 
 *Écran Server : Autoriser l’application ? Non < > Oui.*
 
@@ -92,10 +90,8 @@ Popup HA « Lier le routeur Freebox ». Clique **Valider**, puis sur le Server l
 
 Sur la façade Devialet, choisir **oui** avec les **boutons tactiles clignotants** (ce n’est pas le même geste que les flèches du Server).
 
-<!-- source : https://litter.catbox.moe/jd2672.png — fichier d’origine introuvable ; illustration originale. -->
-![Illustration : façade de la box, message AUTORISER, bouton tactile clignotant à toucher](images/appairage-delta-autoriser.png)
-
-*Illustration*
+<!-- source : https://litter.catbox.moe/jd2672.png — fichier d’origine introuvable. -->
+![Appairage Delta : texte de l’appli Freebox et façade affichant AUTORISER](images/delta-autoriser.jpg)
 
 *Façade Delta / Devialet : message AUTORIZ + boutons tactiles.*
 
