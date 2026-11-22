@@ -8,6 +8,7 @@ tags:
   - domotique
   - zigbee
   - matter
+audience_key: guide-slzb-mr4u
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/guides-tutoriels/home-assistant/guide-du-smlight-slzb-mr4u-installation-multi-radio-d%C3%A9di%C3%A9-%C3%A0-lopen-border-router-pour-matter-over-thread-r11/">Lire et commenter sur Forum Domotique</a></p>
 

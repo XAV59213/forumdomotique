@@ -38,6 +38,7 @@ gallery:
     caption: "La carte Distribution : la répartition d’une grandeur (puissance, stockage…) entre plusieurs entités."
   - src: images/heading-card-buttons.webp
     caption: "Des boutons d’action dans la carte de titre."
+audience_key: ha-2026-2
 ---
 
 <p class="forum-cta">Cet article reprend et met à jour <a href="https://forumdomotique.com/actualites/home-assistant/home-assistant-20262-la-mise-%C3%A0-jour-de-f%C3%A9vrier-2026-rend-le-dashboard-home-par-d%C3%A9faut-et-lance-la-device-database-r12/">mon actualité publiée sur Forum Domotique</a>, vérifiée point par point avec les notes officielles.</p>

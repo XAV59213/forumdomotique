@@ -9,6 +9,7 @@ brand: SMLight
 tags:
   - domotique
   - zigbee
+audience_key: test-slzb-mr4u
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/tests/dongles-passerelles/test-slzb-mr4u-coordinateur-zigbee-thread-matter/">Lire et commenter sur Forum Domotique</a></p>
 

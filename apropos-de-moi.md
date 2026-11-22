@@ -22,3 +22,5 @@ don: false
 </div>
 
 {% include telechargements-bloc.html details=true %}
+
+{% include audience-bloc.html %}

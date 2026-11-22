@@ -9,6 +9,7 @@ tags:
   - domotique
   - home-assistant
 sitemap: false
+audience_key: ha-2026-2
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/actualites/home-assistant/home-assistant-20262-la-mise-%C3%A0-jour-de-f%C3%A9vrier-2026-rend-le-dashboard-home-par-d%C3%A9faut-et-lance-la-device-database-r12/">Lire et commenter sur Forum Domotique</a></p>
 

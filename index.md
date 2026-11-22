@@ -10,6 +10,8 @@ Passionné de domotique, moi c’est **XAV59213**. Je développe sur mon temps l
 
 Ici, je rassemble mes publications pour les lire confortablement, et je renvoie vers le forum pour continuer la discussion.
 
+{% include audience-bloc.html %}
+
 ## À la une
 
 <section class="carousel hero-carousel" data-carousel data-autoplay="6000" aria-roledescription="carrousel" aria-label="Articles à la une" tabindex="0">

@@ -1,0 +1,45 @@
+# Audience des articles de XAV59213 sur Forum Domotique.
+# Captures du 22 novembre 2026 vers 08:40 (Europe/Paris).
+# Ne pas y ajouter les articles d’autres auteurs (ex. guide Tailscale, test SwitchBot S20).
+as_of: "2026-11-22"
+as_of_fr: "22 novembre 2026"
+total: 53616
+total_label: "53 616"
+items_count: 6
+items:
+  - key: test-slzb-mr4u
+    name: Test SLZB-MR4U
+    views: 19488
+    views_label: "19 488"
+    engagement: "35 commentaires"
+    url: /contenus/tests/test-slzb-mr4u-coordinateur-zigbee-thread-matter/article.html
+  - key: guide-zbminil2
+    name: Guide SONOFF ZBMINIL2
+    views: 17364
+    views_label: "17 364"
+    engagement: "27 réponses"
+    url: /contenus/guides/installer-sonoff-zbminil2-home-assistant-zigbee-sans-neutre/article.html
+  - key: guide-slzb-mr4u
+    name: Guide SLZB-MR4U (Matter over Thread)
+    views: 6589
+    views_label: "6 589"
+    engagement: "10 réponses"
+    url: /contenus/guides/guide-du-smlight-slzb-mr4u-installation-multi-radio-dedie-a-lopen-border-router-pour-matte/article.html
+  - key: test-aqara-u200
+    name: Test Aqara U200
+    views: 4586
+    views_label: "4 586"
+    engagement: "5 commentaires"
+    url: /contenus/tests/test-avis-aqara-u200-serrure-connectee-matter-thread/article.html
+  - key: test-navimow
+    name: Test Segway Navimow i108E
+    views: 2896
+    views_label: "2 896"
+    engagement: "1 réponse"
+    url: /contenus/tests/test-segway-navimow-i108e-avis-tondeuse-robot-sans-fil/article.html
+  - key: ha-2026-2
+    name: "Home Assistant 2026.2 (dashboard Home et Device Database)"
+    views: 2693
+    views_label: "2 693"
+    engagement: "1 réponse"
+    url: /actualite-home-assistant/home-assistant-2026-2/

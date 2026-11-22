@@ -98,11 +98,15 @@
           <li><span class="home-stat-value">{{ site.data.site_stats.forum_posts }}</span><span class="home-stat-label">messages</span></li>
         </ul>
         {% include telechargements-bloc.html tone="home" %}
+        {% include audience-bloc.html tone="home" compact=true %}
       </div>
     </section>
     {% endif %}
 
     <main id="content" class="main-content" role="main">
+      {% if is_article and page.audience_key and page.layout != "ha-release" %}
+        {% include audience-mention.html page=page class="audience-article" %}
+      {% endif %}
       {% if page.section == "actualites" and page.canonical_url %}
       <p class="ha-note">Cette page conserve l’archive du message publié sur le forum. <a href="{{ page.canonical_url }}">Voir l’article détaillé</a> dans la section Actualité Home Assistant.</p>
       {% endif %}
@@ -154,7 +158,6 @@
     {% endif %}
     {% unless skip_goatcounter %}
     <script data-goatcounter="https://forumdomotique.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
-    <script src="{{ '/assets/js/page-views.js' | relative_url }}" defer></script>
     {% endunless %}
   </body>
 </html>

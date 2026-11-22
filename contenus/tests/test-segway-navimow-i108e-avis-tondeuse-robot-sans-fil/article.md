@@ -9,6 +9,7 @@ brand: Segway
 tags:
   - jardin
   - domotique
+audience_key: test-navimow
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/tests/accessoires/test-segway-navimow-i108e-avis-tondeuse-robot-sans-fil/">Lire et commenter sur Forum Domotique</a></p>
 

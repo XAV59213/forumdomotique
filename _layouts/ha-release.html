@@ -13,6 +13,7 @@ layout: default
       <span>Version {{ page.version }}</span>
       <span><a href="{{ page.release_url }}">Notes officielles (en anglais)</a></span>
     </p>
+    {% include audience-mention.html page=page class="audience-article" %}
   </header>
 
   {% include ha-gallery.html %}

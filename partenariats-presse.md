@@ -14,6 +14,8 @@ permalink: /partenariats-presse/
 
 Je teste du matériel de domotique et de maison connectée, et je développe des intégrations Home Assistant, disponibles dans HACS ou en dépôt personnalisé. Je publie mes tests, mes guides et mes créations sur cette vitrine, et sur Forum Domotique.
 
+{% include audience-bloc.html %}
+
 ## Ce que je teste
 
 Je m’intéresse aux produits qui s’intègrent à une maison connectée, en particulier avec Home Assistant :

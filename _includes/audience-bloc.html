@@ -1,0 +1,19 @@
+{%- assign t = site.data.audience_forum -%}
+<aside class="audience-bloc{% if include.tone %} audience-bloc-{{ include.tone }}{% endif %}" aria-label="Audience sur Forum Domotique" id="audience-forum">
+  <h2 class="audience-title">Audience sur Forum Domotique</h2>
+  {%- if include.compact -%}
+  <p class="audience-headline"><strong>{{ t.total_label }} vues</strong> sur {{ t.items_count }} articles, au {{ t.as_of_fr }}</p>
+  <p class="audience-note">Vues sur Forum Domotique, au {{ t.as_of_fr }}.</p>
+  {%- else -%}
+  <p class="audience-headline"><strong>{{ t.total_label }} vues</strong> sur {{ t.items_count }} articles</p>
+  <ul class="audience-list">
+    {%- for a in t.items -%}
+    <li>
+      <a class="audience-name" href="{{ a.url | relative_url }}">{{ a.name }}</a>
+      <span class="audience-n">{{ a.views_label }} vues{% if a.engagement %} · {{ a.engagement }}{% endif %}</span>
+    </li>
+    {%- endfor -%}
+  </ul>
+  <p class="audience-note">Vues sur Forum Domotique, au {{ t.as_of_fr }}.</p>
+  {%- endif -%}
+</aside>

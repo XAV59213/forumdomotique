@@ -9,6 +9,7 @@ brand: Aqara
 tags:
   - domotique
   - sécurité
+audience_key: test-aqara-u200
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/tests/securite-surveillance/test-avis-aqara-u200-serrure-connectee-matter-thread/">Lire et commenter sur Forum Domotique</a></p>
 

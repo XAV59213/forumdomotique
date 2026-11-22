@@ -1,0 +1,12 @@
+{%- assign t = site.data.audience_forum -%}
+{%- assign aud = nil -%}
+{%- if include.item -%}
+  {%- assign aud = include.item -%}
+{%- elsif include.page.audience_key -%}
+  {%- for a in t.items -%}
+    {%- if a.key == include.page.audience_key -%}{%- assign aud = a -%}{%- endif -%}
+  {%- endfor -%}
+{%- endif -%}
+{%- if aud -%}
+<p class="audience-mention{% if include.class %} {{ include.class }}{% endif %}">{{ aud.views_label }} vues sur Forum Domotique, au {{ t.as_of_fr }}{% if aud.engagement %} · {{ aud.engagement }}{% endif %}</p>
+{%- endif -%}

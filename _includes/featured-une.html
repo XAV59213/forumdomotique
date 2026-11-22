@@ -13,6 +13,7 @@
       <h2><a href="{{ include.une.url | relative_url }}">{{ include.une.title }}</a></h2>
       <p>{{ include.une.description }}</p>
       {% if include.une.date %}<p class="featured-date">{{ include.une.date | date: "%d/%m/%Y" }}</p>{% endif %}
+      {% include audience-mention.html page=include.une class="audience-card" %}
       <a class="hero-btn" href="{{ include.une.url | relative_url }}">{{ include.button }}</a>
     </div>
   </div>

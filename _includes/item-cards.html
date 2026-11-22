@@ -36,6 +36,7 @@
       <h3>{{ p.product | default: p.title }}</h3>
       <p>{{ p.description }}</p>
       {% if p.date %}<p class="card-date">{{ p.date | date: "%d/%m/%Y" }}</p>{% endif %}
+      {% include audience-mention.html page=p class="audience-card" %}
     </a>
     {% endfor %}
   </div>
