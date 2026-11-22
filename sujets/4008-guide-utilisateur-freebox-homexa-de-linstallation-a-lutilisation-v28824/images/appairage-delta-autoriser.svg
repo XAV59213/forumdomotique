@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Illustration : façade tactile, message AUTORISER, bouton clignotant</title>
+  <desc id="desc">Boîtier générique à façade claire affichant « AUTORISER ». Le bouton tactile de droite est entouré. Légende : Touchez le bouton clignotant.</desc>
+  <defs>
+    <linearGradient id="pageBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#eef6f1"/>
+      <stop offset="100%" stop-color="#e4eef6"/>
+    </linearGradient>
+    <linearGradient id="shell" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="55%" stop-color="#f4f6f8"/>
+      <stop offset="100%" stop-color="#d9e0e6"/>
+    </linearGradient>
+    <linearGradient id="shellEdge" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f7fafc"/>
+      <stop offset="100%" stop-color="#b7c2cc"/>
+    </linearGradient>
+    <linearGradient id="display" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2a3238"/>
+      <stop offset="100%" stop-color="#15191d"/>
+    </linearGradient>
+    <linearGradient id="pillGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#159957"/>
+      <stop offset="100%" stop-color="#155799"/>
+    </linearGradient>
+    <radialGradient id="btnGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7CFFB2" stop-opacity="0.95"/>
+      <stop offset="45%" stop-color="#159957" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#159957" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softShadow" x="-25%" y="-25%" width="150%" height="150%">
+      <feDropShadow dx="0" dy="20" stdDeviation="24" flood-color="#1a2a32" flood-opacity="0.25"/>
+    </filter>
+    <filter id="textGlow" x="-20%" y="-40%" width="140%" height="180%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .ui { font-family: "Noto Sans", "DejaVu Sans", "Source Sans 3", sans-serif; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="720" fill="url(#pageBg)"/>
+
+  <!-- Device: original wide rounded facade, not a product copy -->
+  <g filter="url(#softShadow)" transform="translate(160,150)">
+    <!-- lower base -->
+    <ellipse cx="440" cy="300" rx="430" ry="28" fill="#c5d0d8" opacity="0.55"/>
+    <!-- body -->
+    <path d="M40 210
+             C40 90, 160 20, 440 20
+             C720 20, 840 90, 840 210
+             L800 300
+             C800 330, 680 350, 440 350
+             C200 350, 80 330, 80 300
+             Z" fill="url(#shellEdge)"/>
+    <path d="M58 208
+             C58 102, 172 38, 440 38
+             C708 38, 822 102, 822 208
+             L786 292
+             C786 318, 670 334, 440 334
+             C210 334, 94 318, 94 292
+             Z" fill="url(#shell)"/>
+    <!-- soft inner highlight -->
+    <path d="M120 70 C220 44, 660 44, 760 70 C700 88, 180 88, 120 70 Z" fill="#ffffff" opacity="0.65"/>
+
+    <!-- display window -->
+    <rect x="200" y="118" width="480" height="118" rx="16" fill="#0e1418"/>
+    <rect x="208" y="126" width="464" height="102" rx="12" fill="url(#display)"/>
+    <g filter="url(#textGlow)" class="ui">
+      <text x="438" y="196" text-anchor="middle" font-size="48" font-weight="700" fill="#F3E2A8" letter-spacing="8">AUTORISER</text>
+    </g>
+    <rect x="208" y="126" width="464" height="46" rx="12" fill="#ffffff" opacity="0.06"/>
+
+    <!-- left tactile (idle) -->
+    <circle cx="300" cy="290" r="22" fill="#e8edf1" stroke="#b8c3cc" stroke-width="3"/>
+    <circle cx="300" cy="290" r="8" fill="#c5ced4"/>
+
+    <!-- right tactile (blinking / highlighted) -->
+    <circle cx="580" cy="290" r="62" fill="url(#btnGlow)" opacity="0.85"/>
+    <circle cx="580" cy="290" r="46" fill="none" stroke="#159957" stroke-width="4" stroke-dasharray="8 7"/>
+    <circle cx="580" cy="290" r="34" fill="none" stroke="#7CFFB2" stroke-width="3" opacity="0.9"/>
+    <circle cx="580" cy="290" r="22" fill="#f7fffb" stroke="#159957" stroke-width="3"/>
+    <circle cx="580" cy="290" r="9" fill="#159957"/>
+  </g>
+
+  <!-- Caption pill -->
+  <g class="ui">
+    <rect x="260" y="560" width="680" height="86" rx="43" fill="url(#pillGrad)"/>
+    <text x="600" y="616" text-anchor="middle" font-size="34" font-weight="700" fill="#ffffff">Touchez le bouton clignotant</text>
+  </g>
+</svg>

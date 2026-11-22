@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Illustration : écran d’appairage du Server, flèche droite pour Oui</title>
+  <desc id="desc">Écran LCD d’un boîtier générique affichant « Autoriser l’application ? Non &lt; &gt; Oui ». La flèche droite est mise en évidence. Légende : Flèche droite = Oui.</desc>
+  <defs>
+    <linearGradient id="pageBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#eef6f1"/>
+      <stop offset="100%" stop-color="#e4eef6"/>
+    </linearGradient>
+    <linearGradient id="bodyGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#3a4650"/>
+      <stop offset="45%" stop-color="#2a343c"/>
+      <stop offset="100%" stop-color="#1c242a"/>
+    </linearGradient>
+    <linearGradient id="bodyEdge" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#5a6872"/>
+      <stop offset="100%" stop-color="#151b20"/>
+    </linearGradient>
+    <linearGradient id="lcdGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#16312c"/>
+      <stop offset="100%" stop-color="#0b1a18"/>
+    </linearGradient>
+    <linearGradient id="lcdGloss" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.14"/>
+      <stop offset="55%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="pillGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#159957"/>
+      <stop offset="100%" stop-color="#155799"/>
+    </linearGradient>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#1a2a32" flood-opacity="0.28"/>
+    </filter>
+    <filter id="arrowGlow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .ui { font-family: "Noto Sans", "DejaVu Sans", "Source Sans 3", sans-serif; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="720" fill="url(#pageBg)"/>
+
+  <!-- Device -->
+  <g filter="url(#softShadow)" transform="translate(150,86)">
+    <rect x="0" y="0" width="900" height="430" rx="36" fill="url(#bodyEdge)"/>
+    <rect x="10" y="10" width="880" height="410" rx="28" fill="url(#bodyGrad)"/>
+    <!-- subtle top highlight -->
+    <path d="M28 18h844c12 0 22 10 22 22v40H6V40c0-12 10-22 22-22z" fill="#ffffff" opacity="0.06"/>
+
+    <!-- LCD bezel -->
+    <rect x="48" y="48" width="804" height="334" rx="18" fill="#0e1418"/>
+    <rect x="60" y="60" width="780" height="310" rx="12" fill="url(#lcdGrad)"/>
+
+    <!-- LCD content -->
+    <g fill="#d7f0c8" class="ui">
+      <text x="450" y="150" text-anchor="middle" font-size="42" font-weight="700">Autoriser l’application ?</text>
+      <text x="200" y="268" text-anchor="middle" font-size="40" font-weight="600">Non</text>
+      <text x="700" y="268" text-anchor="middle" font-size="40" font-weight="700">Oui</text>
+    </g>
+
+    <!-- Left chevron (muted) -->
+    <polyline points="330,236 284,268 330,300" fill="none" stroke="#8fb89a" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" opacity="0.55"/>
+
+    <!-- Right chevron highlighted -->
+    <g filter="url(#arrowGlow)">
+      <circle cx="548" cy="268" r="52" fill="none" stroke="#7CFFB2" stroke-width="6" opacity="0.95"/>
+      <circle cx="548" cy="268" r="52" fill="none" stroke="#159957" stroke-width="3" stroke-dasharray="7 8" opacity="0.9"/>
+      <polyline points="522,236 568,268 522,300" fill="none" stroke="#E8FFD4" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+      <polyline points="522,236 568,268 522,300" fill="none" stroke="#7CFFB2" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+
+    <!-- LCD gloss -->
+    <rect x="60" y="60" width="780" height="310" rx="12" fill="url(#lcdGloss)"/>
+
+    <!-- status leds (generic, no brand) -->
+    <circle cx="80" cy="392" r="6" fill="#159957"/>
+    <circle cx="102" cy="392" r="6" fill="#3d4a52"/>
+    <circle cx="124" cy="392" r="6" fill="#3d4a52"/>
+  </g>
+
+  <!-- Caption pill -->
+  <g class="ui">
+    <rect x="300" y="560" width="600" height="86" rx="43" fill="url(#pillGrad)"/>
+    <text x="600" y="616" text-anchor="middle" font-size="36" font-weight="700" fill="#ffffff">Flèche droite = Oui</text>
+  </g>
+</svg>
