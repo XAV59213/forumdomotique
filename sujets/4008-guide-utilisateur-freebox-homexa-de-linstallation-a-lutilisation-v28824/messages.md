@@ -97,6 +97,16 @@ Sur la façade Devialet, choisir **oui** avec les **boutons tactiles clignotants
 
 Ensuite dans Freebox OS → Applications : droits **Home, Player, LAN, Wi-Fi**.
 
+![Accueil de Freebox OS 4.13](images/accueil-freebox-os.jpg)
+
+![Paramètres de la Freebox en mode avancé : Gestion des accès se trouve dans Divers](images/parametres-mode-avance.jpg)
+
+![Gestion des accès, onglet Applications](images/gestion-acces-applications.jpg)
+
+![Modification des droits d’accès de l’application Home Assistant (homeassistant), tous les droits cochés](images/droits-tous-coches.jpg)
+
+![Modification des droits d’accès de l’application Home Assistant (homeassistant), une partie des droits cochés](images/droits-partiels.jpg)
+
 **Options (Configurer)**
 
 - Suivre les clients LAN → device_tracker
