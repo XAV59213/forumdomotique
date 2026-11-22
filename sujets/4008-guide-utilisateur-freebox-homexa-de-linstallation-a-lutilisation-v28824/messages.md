@@ -20,7 +20,7 @@ Suite à la mise à jour **28.8.24**, guide complet : de l’installation HACS j
 Dépôt : [github.com/XAV59213/freebox_homexa](https://github.com/XAV59213/freebox_homexa)  
 Sujet d’origine : [Présentation du projet](https://forumdomotique.com/forums/topic/101-pr%C3%A9sentation-du-projet-freebox_homexa/)  
 <!-- source : https://litter.catbox.moe/ugx9jt.pdf — fichier d’origine introuvable (hébergeur temporaire, lien mort). -->
-PDF : le fichier d’origine n’est plus disponible ; le guide à jour se trouve dans le [dépôt Freebox Homexa](https://github.com/XAV59213/freebox_homexa/blob/main/docs/guide-utilisateur.md).
+PDF : [télécharger le guide (version reconstituée)](guide-freebox-homexa-v28824.pdf).
 
 **Sommaire**
 
