@@ -1,5 +1,5 @@
 {%- assign t = site.data.audience_forum -%}
-<aside class="audience-bloc{% if include.tone %} audience-bloc-{{ include.tone }}{% endif %}" aria-label="Audience sur Forum Domotique" id="audience-forum">
+<aside class="audience-bloc{% if include.tone %} audience-bloc-{{ include.tone }}{% endif %}" aria-label="Audience sur Forum Domotique"{% unless include.compact %} id="audience-forum"{% endunless %}>
   <h2 class="audience-title">Audience sur Forum Domotique</h2>
   {%- if include.compact -%}
   <p class="audience-headline"><strong>{{ t.total_label }} vues</strong> sur {{ t.items_count }} articles, au {{ t.as_of_fr }}</p>
