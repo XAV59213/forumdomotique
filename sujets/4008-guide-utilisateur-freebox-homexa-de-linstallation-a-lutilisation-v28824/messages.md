@@ -1,18 +1,18 @@
 ---
 title: "Guide utilisateur Freebox Homexa — de l’installation à l’utilisation (v28.8.24)"
 description: "Suite à la mise à jour 28.8.24 , guide complet : de l’installation HACS jusqu’à l’usage quotidien Dépôt : github.com/XAV59213/freebox homexa Intégration…"
-image: /assets/images/vignettes-themes/freebox.jpg
+image: /sujets/4008-guide-utilisateur-freebox-homexa-de-linstallation-a-lutilisation-v28824/images/entete-freebox-homexa-og.jpg
 
 date: 2026-09-27
 github_repo: freebox_homexa
-cover_alt: "Vignette de rubrique Freebox — XAV59213, Forum Domotique"
+cover_alt: "Freebox Homexa — Guide utilisateur, de l’installation à l’utilisation"
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/4008-guide-utilisateur-freebox-homexa-de-linstallation-%C3%A0-lutilisation-v28824/">Lire et commenter sur Forum Domotique</a> · <a href="https://github.com/XAV59213/freebox_homexa">Dépôt HACS : Freebox Homexa</a></p>
 
 # Guide utilisateur Freebox Homexa — de l’installation à l’utilisation (v28.8.24)
 
-<!-- source : https://litter.catbox.moe/hx4wox.jpg — fichier d’origine introuvable (hébergeur temporaire, lien mort). -->
-<p class="media-fallback">L’illustration d’origine n’est plus disponible. Voir le <a href="https://github.com/XAV59213/freebox_homexa/blob/main/docs/guide-utilisateur.md">guide utilisateur dans le dépôt Freebox Homexa</a>.</p>
+<!-- Bannière reconstituée (l’original hx4wox.jpg est introuvable) à partir des visuels du dépôt et des photos d’appairage. -->
+![Freebox Homexa — Guide utilisateur, de l’installation à l’utilisation](images/entete-freebox-homexa.jpg)
 
 Suite à la mise à jour **28.8.24**, guide complet : de l’installation HACS jusqu’à l’usage quotidien.
 
