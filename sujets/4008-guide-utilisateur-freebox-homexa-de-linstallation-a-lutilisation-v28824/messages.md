@@ -109,8 +109,8 @@ Ensuite dans Freebox OS → Applications : droits **Home, Player, LAN, Wi-Fi**.
 
 ## 5. Dans Home Assistant
 
-<!-- source : https://litter.catbox.moe/msv8d9.jpg — fichier d’origine introuvable (hébergeur temporaire, lien mort). -->
-<p class="media-fallback">L’illustration d’origine n’est plus disponible. Voir le <a href="https://github.com/XAV59213/freebox_homexa/blob/main/docs/guide-utilisateur.md">guide utilisateur dans le dépôt Freebox Homexa</a>.</p>
+<!-- source : https://litter.catbox.moe/msv8d9.jpg — fichier d’origine introuvable ; remplacé par la capture officielle du dépôt Freebox Homexa (docs/images/freebox-homexa-card.jpg), même étape (tableau de bord Lovelace Homexa). -->
+![Dashboard Lovelace Homexa](images/freebox-homexa-card.jpg)
 
 **Alarme — mapping app Free**
 
