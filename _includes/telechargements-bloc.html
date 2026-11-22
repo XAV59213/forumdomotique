@@ -1,0 +1,12 @@
+{%- assign t = site.data.telechargements -%}
+<aside class="downloads-bloc{% if include.tone %} downloads-bloc-{{ include.tone }}{% endif %}" aria-label="Téléchargements des intégrations">
+  <p class="downloads-headline"><strong>{{ t.total_label }} téléchargements</strong> · {{ t.official_hacs }} intégrations dans HACS par défaut</p>
+  {%- if include.details -%}
+  <ul class="downloads-list">
+    {%- for item in t.liste -%}
+    <li><span class="downloads-name">{{ item.name }}</span><span class="downloads-n">{{ item.label }}</span></li>
+    {%- endfor -%}
+  </ul>
+  {%- endif -%}
+  {% include telechargements-note.html %}
+</aside>

@@ -1,0 +1,47 @@
+# Téléchargements cumulés, toutes versions, d’après les badges GitHub
+# consultés le 21 novembre 2026 (Europe/Paris), publiés dans le sujet 4097.
+# Ce n’est pas un nombre d’utilisateurs : une mise à jour compte aussi.
+as_of: "2026-11-21"
+as_of_fr: "21 novembre 2026"
+official_hacs: 8
+total: 3766
+total_label: "3 766"
+topic_path: /sujets/4097-merci-a-vous-vos-installations-le-forum-et-la-suite/messages.html
+topic_title: "Merci à vous : vos installations, le forum, et la suite"
+liste:
+  - name: Freebox Homexa
+    repo: freebox_homexa
+    n: 1196
+    label: "1 196"
+  - name: Free Mobile SMS XA
+    repo: freesmsxa
+    n: 775
+    label: "775"
+  - name: Saints du Jour
+    repo: saintdujour
+    n: 759
+    label: "759"
+  - name: Chauffage fil pilote FR
+    repo: chauffage
+    n: 476
+    label: "476"
+  - name: Jour Férié
+    repo: jourferier
+    n: 244
+    label: "244"
+  - name: Starship Tracker
+    repo: starship_tracker
+    n: 111
+    label: "111"
+  - name: Phase de la Lune
+    repo: phase_lune
+    n: 101
+    label: "101"
+  - name: Souvenirs et Célébrations
+    repo: date_countdown
+    n: 76
+    label: "76"
+  - name: Piscinexa
+    repo: piscinexa
+    n: 28
+    label: "28"

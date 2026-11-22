@@ -20,3 +20,5 @@ don: false
 <p>Sur Forum Domotique et sur ce site, je publie des tests de produits connectés, des guides pas à pas et les nouveautés de Home Assistant, toujours en conditions réelles : piscine, chauffage, caméras, volets, Zigbee, portail… Tout est installé et utilisé dans ma maison.</p>
 <p>Marques et fournisseurs : vous voulez faire tester un produit ? Passez par la page <a href="{{ '/partenariats-presse/' | relative_url }}">Partenariats &amp; presse</a>.</p>
 </div>
+
+{% include telechargements-bloc.html details=true %}

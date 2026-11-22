@@ -1368,3 +1368,79 @@ figure.creation-video-figure figcaption {
 @media (max-width: 700px) {
   .apropos-figure { max-width: 18rem; margin-bottom: 1.4rem; }
 }
+
+/* Téléchargements des intégrations (sujet 4097, au 21 novembre 2026) */
+.downloads-bloc {
+  max-width: 42rem;
+  margin: 1.6rem 0 0;
+  padding: 1.05rem 1.15rem 1.1rem;
+  background: #f4f8f5;
+  border: 1px solid #dce6e0;
+  border-radius: 14px;
+}
+.downloads-headline {
+  margin: 0;
+  font-size: 1.08rem;
+  line-height: 1.45;
+  color: #123;
+}
+.downloads-headline strong {
+  font-weight: 700;
+  color: #155799;
+}
+.downloads-list {
+  list-style: none;
+  margin: 0.85rem 0 0;
+  padding: 0;
+  display: grid;
+  gap: 0.15rem;
+}
+.downloads-list li {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 0.38rem 0;
+  border-bottom: 1px solid #e3ece6;
+  font-size: 0.97rem;
+}
+.downloads-list li:last-child { border-bottom: 0; }
+.downloads-name { color: #234; }
+.downloads-n { font-weight: 700; color: #155799; font-variant-numeric: tabular-nums; }
+.downloads-note {
+  margin: 0.75rem 0 0;
+  font-size: 0.88rem;
+  color: #5a6b64;
+  line-height: 1.45;
+}
+.downloads-note a { font-weight: 700; }
+.downloads-card {
+  margin: 0.45rem 1rem 0 !important;
+  font-size: 0.88rem !important;
+  font-weight: 700;
+  color: #155799 !important;
+}
+.home-tagline .downloads-bloc-home {
+  max-width: 36rem;
+  margin: 0.85rem 0 0;
+  padding: 0.85rem 1rem 0.95rem;
+  background: rgba(255, 255, 255, 0.12);
+  border: 1px solid rgba(255, 255, 255, 0.22);
+  backdrop-filter: blur(8px);
+}
+.home-tagline .downloads-bloc-home .downloads-headline,
+.home-tagline .downloads-bloc-home .downloads-headline strong {
+  color: #fff;
+  font-size: 1.02rem;
+}
+.home-tagline .downloads-bloc-home .downloads-note {
+  color: rgba(255, 255, 255, 0.92);
+}
+.home-tagline .downloads-bloc-home .downloads-note a {
+  color: #fff;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+@media (max-width: 600px) {
+  .home-tagline .downloads-bloc-home { max-width: none; }
+  .downloads-headline { font-size: 1.02rem; }
+}

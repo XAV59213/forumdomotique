@@ -11,6 +11,8 @@ permalink: /mes-integrations/
 
 <p class="section-lead">Ici se trouvent uniquement les <strong>dépôts et présentations d’intégrations</strong> que je développe (XAV59213). Les tests produits, les guides et les réponses dans les sujets d’autres membres sont dans des rubriques à part.</p>
 
+{% include telechargements-bloc.html details=false %}
+
 <div class="feature-grid">
 {% for item in site.data.integrations %}
   <article class="feature-card">
@@ -25,6 +27,13 @@ permalink: /mes-integrations/
       <a href="https://my.home-assistant.io/redirect/hacs_repository/?owner=XAV59213&amp;repository={{ item.repo }}&amp;category=integration"><img src="https://my.home-assistant.io/badges/hacs_repository.svg" alt="Ouvrir le dépôt {{ item.name }} dans HACS"></a>
     </p>
     {% include github-star.html repo=item.repo compact=true %}
+    {% assign dl = nil %}
+    {% for d in site.data.telechargements.liste %}
+      {% if d.repo == item.repo %}{% assign dl = d %}{% endif %}
+    {% endfor %}
+    {% if dl %}
+    <p class="downloads-card">{{ dl.label }} téléchargements</p>
+    {% endif %}
     {% if item.related %}
     <ul class="integration-related">
       {% for r in item.related %}
