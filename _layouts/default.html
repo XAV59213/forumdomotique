@@ -40,7 +40,7 @@
     {% include head-custom.html %}
   </head>
   {% assign is_article = false %}
-  {% if page.section == "tests" or page.section == "guides" or page.section == "creations" or page.section == "actualites" or page.section == "actualite-ha" %}
+  {% if page.section == "tests" or page.section == "guides" or page.section == "creations" or page.section == "actualites" or page.section == "actualite-ha" or page.section == "coin-bistrot" %}
     {% assign is_article = true %}
   {% endif %}
   {% if page.url contains "/sujets/" and page.url contains "messages" %}

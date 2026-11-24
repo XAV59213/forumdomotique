@@ -12,6 +12,7 @@ Les publications sont classées pour bien séparer **les dépôts GitHub**, **le
 - [Mes intégrations]({{ '/mes-integrations/' | relative_url }})
 - [Tests produits]({{ '/tests-produits/' | relative_url }})
 - [Guides]({{ '/guides/' | relative_url }}) · [Actualités]({{ '/actualites/' | relative_url }})
+- [Coin bistrot de la domotique]({{ '/coin-bistrot-de-la-domotique/' | relative_url }})
 - [Réponses aux utilisateurs]({{ '/reponses-utilisateurs/' | relative_url }}) (rubrique plus discrète)
 
 ## Mes intégrations / dépôts GitHub

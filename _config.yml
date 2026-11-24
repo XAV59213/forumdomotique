@@ -89,6 +89,11 @@ defaults:
       forum_comments: false
       don: true
   - scope:
+      path: contenus/coin-bistrot
+    values:
+      forum_comments: false
+      don: true
+  - scope:
       path: contenus/actualites
     values:
       don: true

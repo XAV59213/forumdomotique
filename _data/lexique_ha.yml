@@ -1,0 +1,512 @@
+# Lexique Home Assistant — Coin bistrot de la domotique
+# Définitions de Xavier (origin: xavier) conservées ; termes ajoutés
+# vérifiés dans la documentation officielle home-assistant.io (et docs.frigate.video pour Frigate).
+themes:
+  - id: systeme
+    title: Le système
+    lead: |
+      Le cœur de Home Assistant, la façon de l’installer, et ce qu’il « voit » dans ta maison.
+  - id: boutiques
+    title: Les boutiques et les extensions
+    lead: |
+      Là où tu trouves et installes les ajouts : Marketplace, HACS, applications et intégrations communautaires.
+  - id: protocoles
+    title: Les protocoles
+    lead: |
+      Les langages sans fil et réseau par lesquels tes objets parlent à Home Assistant.
+  - id: outils
+    title: Les outils
+    lead: |
+      Les passerelles et programmes que tu ajoutes autour de Home Assistant pour Zigbee, l’ESP, les flux ou les caméras.
+  - id: configuration
+    title: La configuration
+    lead: |
+      Les règles, les pièces, les helpers et tout ce qui fait tourner la maison toute seule.
+  - id: interface
+    title: L’interface
+    lead: |
+      Ce que tu vois à l’écran : dashboards, cartes, voix, et l’accès à distance.
+
+termes:
+  - id: home-assistant
+    theme: systeme
+    sort: home assistant
+    title: Home Assistant (HA)
+    origin: xavier
+    text: |
+      Le cœur du système, le logiciel open-source qu’on installe sur un petit ordi (Raspberry Pi, mini-PC ou machine virtuelle) et qui va centraliser toute la domotique.
+  - id: types-installation
+    theme: systeme
+    sort: types d installation
+    title: Types d’installation
+    aka: "Home Assistant OS, Container, Supervised, Core"
+    text: |
+      Home Assistant propose aujourd’hui deux types d’installation encore pris en charge. **Home Assistant Operating System** (HA OS) est le type recommandé pour la plupart des usages : un système minimal, pensé pour tourner sur un Raspberry Pi, un mini-PC, une machine virtuelle ou le matériel officiel (comme le Home Assistant Green). Il inclut le Supervisor et permet d’installer des applications. **Home Assistant Container** fait tourner Home Assistant dans un conteneur (souvent Docker) sur un système que tu gères toi-même : tu t’occupes des mises à jour, et tu n’as pas accès aux applications.
+    note: |
+      Deux anciens types, **Home Assistant Supervised** (Supervisor sur une Debian que tu entretiens) et **Home Assistant Core** (Home Assistant installé comme paquet Python dans un environnement virtuel), ont été dépréciés en mai 2025. Leur support officiel s’est arrêté avec la version 2025.12. Ils peuvent encore fonctionner, mais ce n’est plus une voie recommandée pour une installation neuve.
+  - id: supervisor
+    theme: systeme
+    sort: supervisor
+    title: Home Assistant Supervisor
+    text: |
+      Le programme qui gère une installation Home Assistant OS : il installe et met à jour Home Assistant, les applications, le Supervisor lui-même, et, le cas échéant, le système d’exploitation. C’est lui qui te permet d’avoir les applications et les mises à jour en un clic.
+  - id: integration
+    theme: systeme
+    sort: integration
+    title: Intégration
+    origin: xavier
+    text: |
+      Le « pilote » qui permet à HA de communiquer avec un appareil ou un service (Philips Hue, Zigbee, Google Home, etc.).
+    example: Réglages → Appareils et services → Ajouter une intégration
+  - id: entite
+    theme: systeme
+    sort: entite
+    title: Entité (entity)
+    origin: xavier
+    text: |
+      Tout ce que HA « voit » et peut contrôler ou surveiller : une lampe, un capteur de température, un interrupteur, etc. Chaque entité a un identifiant unique (ex : light.salon).
+    note: |
+      La première partie de l’identifiant, avant le point, est le **domaine** : `light`, `sensor`, `switch`…
+    example: |
+      light.salon
+      sensor.temperature_cuisine
+      binary_sensor.porte_entree
+  - id: device
+    theme: systeme
+    sort: device
+    title: Device
+    aka: "Appareil"
+    origin: xavier
+    text: |
+      L’objet physique réel (une ampoule connectée par exemple), qui regroupe souvent plusieurs entités.
+    example: |
+      Appareil « Lampe du salon »
+        → light.salon
+        → sensor.salon_puissance
+  - id: domaine
+    theme: systeme
+    sort: domaine
+    title: Domaine (domain)
+    text: |
+      L’identifiant unique d’une intégration, et le préfixe de ses entités et de ses actions. Dans `light.salon`, `light` est le domaine. Dans une action comme `hue.activate_scene`, `hue` est le domaine de l’intégration Hue.
+    example: |
+      light.salon        → domaine light
+      switch.machine_a_cafe → domaine switch
+  - id: yaml
+    theme: systeme
+    sort: yaml
+    title: YAML
+    origin: xavier
+    text: |
+      Le langage de configuration historique de HA. Beaucoup de choses se font maintenant en interface graphique, mais on retombe souvent sur du YAML pour les personnalisations avancées.
+    example: |
+      light:
+        - name: Salon
+          unique_id: light_salon
+  - id: sauvegarde
+    theme: systeme
+    sort: sauvegarde
+    title: Sauvegarde (backup)
+    text: |
+      Home Assistant sait créer un fichier qui copie ta configuration. Tu peux t’en servir pour restaurer ton système, ou pour migrer vers une nouvelle machine. Cette fonction est disponible sur tous les types d’installation. Tu la trouves dans Réglages → Système → Sauvegardes.
+    links:
+      - url: /contenus/guides/sauvegarde-home-assistant-backup-cloud/article.html
+        label: Mon guide des sauvegardes Home Assistant
+  - id: controle-local
+    theme: systeme
+    sort: controle local
+    title: Contrôle local
+    text: |
+      Home Assistant parle à tes appareils directement sur ton réseau, sans passer d’abord par le cloud d’un fabricant. Ça va plus vite, tes données restent chez toi, et la maison continue de fonctionner si Internet tombe. Beaucoup d’intégrations l’utilisent d’emblée, notamment Zigbee, Z-Wave, Matter, Thread et ESPHome.
+  - id: companion
+    theme: systeme
+    sort: companion
+    title: Application Companion
+    aka: "Home Assistant Companion"
+    text: |
+      L’application officielle Home Assistant pour Android et Apple. Sur téléphone, tablette ou Mac, elle affiche ton interface, comme un navigateur. Elle peut aussi partager les capteurs de l’appareil avec Home Assistant et recevoir tes notifications. Elle fonctionne également sur certaines montres et dans la voiture (Android Auto, Android Automotive OS ou Apple CarPlay).
+  - id: device-tracker
+    theme: systeme
+    sort: device tracker
+    title: Device tracker
+    aka: "Suivi d’appareil"
+    text: |
+      Une entité qui suit la présence ou la position d’un appareil, par exemple le téléphone de quelqu’un à la maison. Tu t’en sers souvent comme condition dans une automation : n’allumer le chauffage que si quelqu’un est à la maison.
+    example: device_tracker.telephone_salon
+  - id: marketplace
+    theme: boutiques
+    sort: marketplace
+    title: Marketplace
+    text: |
+      Depuis Home Assistant 2026.11, le Marketplace est intégré à Home Assistant : tu n’as rien à installer pour l’utiliser. Tu l’ouvres dans **Réglages → Marketplace**. C’est là que tu trouves et installes les créations de la communauté : intégrations, cartes de dashboard, thèmes et modèles (templates). Le catalogue contient des milliers de projets, et le Marketplace surveille les mises à jour de ce que tu as installé.
+    note: |
+      Le Marketplace n’installe pas les applications (anciennement add-ons) : celles-ci s’installent depuis le magasin d’applications, sur Home Assistant OS, via Réglages → Applications → Installer une application. Le contenu du Marketplace est publié par la communauté, pas par le projet Home Assistant : tu l’utilises à tes propres risques, après avoir regardé l’auteur et les retours.
+    links:
+      - url: /mes-integrations/
+        label: Voir mes intégrations sur le site
+      - url: https://www.home-assistant.io/integrations/marketplace/
+        label: Documentation officielle du Marketplace
+        external: true
+  - id: hacs
+    theme: boutiques
+    sort: hacs
+    title: HACS
+    aka: "Home Assistant Community Store"
+    text: |
+      HACS, c’est l’ancien nom de la boutique communautaire. Pendant des années, on l’installait comme une intégration personnalisée pour trouver, installer et mettre à jour les projets de la communauté. À partir de Home Assistant 2026.11, HACS est intégré à Home Assistant sous le nom de **Marketplace**. Si tu utilisais déjà HACS, tes installations sont migrées automatiquement au démarrage après la mise à jour : ce que tu avais installé reste en place et continue de recevoir les mises à jour.
+    note: |
+      Les boutons et les liens conçus pour HACS ouvrent désormais le dépôt dans le Marketplace. C’est aussi par cette boutique que tu peux installer mes intégrations.
+    links:
+      - url: /mes-integrations/
+        label: Mes intégrations HACS / Marketplace
+  - id: add-on
+    theme: boutiques
+    sort: add-on
+    title: Add-on
+    origin: xavier
+    text: |
+      Des petits programmes complémentaires qu’on installe facilement si tu utilises Home Assistant OS (ex : File editor, Terminal, Node-RED, etc.).
+  - id: applications
+    theme: boutiques
+    sort: applications
+    title: Applications (apps)
+    aka: "Anciennement add-ons — magasin d’applications (App store)"
+    text: |
+      C’est le nom officiel actuel des add-ons. Une application est un programme à part, qui tourne à côté de Home Assistant sur la même machine, avec ses propres réglages et ses propres journaux. Exemples : l’éditeur de fichiers, un courtier MQTT, Samba, Node-RED ou ESPHome Device Builder. Les applications ne sont disponibles que sur **Home Assistant OS**. Tu les installes depuis le magasin d’applications : **Réglages → Applications → Installer une application**.
+    note: |
+      Le magasin d’applications propose par défaut plusieurs dépôts : applications officielles, applications communautaires, ESPHome, Music Assistant, et tes applications locales. Ce n’est pas le même endroit que le Marketplace.
+  - id: custom-integration
+    theme: boutiques
+    sort: custom integration
+    title: Intégration personnalisée
+    aka: "Custom integration"
+    text: |
+      Une intégration créée par quelqu’un de la communauté et publiée pour que d’autres puissent l’utiliser, à leurs propres risques. Tu l’installes depuis le Marketplace. Elle n’est pas examinée ni prise en charge par le projet Home Assistant. Mes intégrations, comme Freebox Homexa, sont de cette famille : tu les trouves dans le Marketplace (autrefois via HACS).
+    links:
+      - url: /mes-integrations/
+        label: Mes intégrations
+  - id: protocoles-sans-fil
+    theme: protocoles
+    sort: protocoles sans fil
+    title: Zigbee, Z-Wave, Wi-Fi, Thread / Matter
+    origin: xavier
+    text: |
+      Les principaux protocoles de communication sans fil pour les objets connectés. Zigbee et Z-Wave sont généralement plus fiables que le Wi-Fi pour la domotique.
+  - id: matter
+    theme: protocoles
+    sort: matter
+    title: Matter
+    text: |
+      Matter est une norme ouverte qui décrit comment piloter des objets connectés sur un réseau Wi-Fi, Ethernet ou Thread. L’idée, c’est que les appareils de différentes marques parlent le même langage, et que tu les contrôles en local. Dans Home Assistant, l’intégration Matter s’appuie sur une application « Matter Server » (autrefois un add-on) qui joue le rôle de contrôleur.
+    note: |
+      Chaque maison Matter s’appelle un « fabric ». Tu peux ajouter un appareil directement au fabric de Home Assistant, ou le partager depuis un autre fabric (par exemple Google ou Apple).
+  - id: thread
+    theme: protocoles
+    sort: thread
+    title: Thread
+    text: |
+      Thread est un réseau maillé sans fil, à faible consommation, pensé pour la maison connectée. Les appareils (souvent des capteurs ou des interrupteurs) communiquent entre eux. Le contrôle, lui, passe par un protocole comme Matter ou Apple HomeKit. Pour que ce réseau parle à ton réseau habituel (Wi-Fi ou Ethernet), il te faut un **border router** Thread.
+  - id: border-router
+    theme: protocoles
+    sort: border router
+    title: Border router (Thread)
+    aka: "Routeur de bordure Thread, OpenThread Border Router"
+    text: |
+      Un border router Thread fait le pont entre ton réseau local (Wi-Fi ou Ethernet) et le réseau Thread. Les objets Thread peuvent ainsi communiquer avec les appareils IPv6 de ta maison. Dans le cas de Matter, les données transitées sont chiffrées : le border router les achemine, il ne les lit pas. Des exemples connus sont un HomePod mini, un Nest Hub (2e génération), ou le matériel Home Assistant (comme le Connect ZBT-2) associé à l’application OpenThread Border Router.
+  - id: zigbee
+    theme: protocoles
+    sort: zigbee
+    title: Zigbee
+    text: |
+      Zigbee est une technologie sans fil utilisée par beaucoup d’objets : lampes, prises, interrupteurs, capteurs. Les appareils forment un réseau maillé autour d’un adaptateur Zigbee, aussi appelé **coordinateur**, branché sur la machine qui fait tourner Home Assistant. La voie recommandée dans Home Assistant, c’est l’intégration officielle **ZHA** (Zigbee Home Automation). **Zigbee2MQTT** est une alternative populaire, qui relie le réseau à Home Assistant par MQTT.
+  - id: coordinateur
+    theme: protocoles
+    sort: coordinateur zigbee
+    title: Coordinateur Zigbee
+    aka: "Adaptateur, dongle Zigbee"
+    text: |
+      Le coordinateur, ou adaptateur Zigbee, est la radio qui relie ton réseau Zigbee à Home Assistant. C’est le plus souvent une clé USB, parfois une radio intégrée (comme sur le Home Assistant Yellow). Il n’y a qu’un coordinateur par réseau Zigbee. Le matériel officiel recommandé aujourd’hui pour ZHA est le Home Assistant Connect ZBT-2 (le Connect ZBT-1 reste pris en charge s’il est déjà en place).
+  - id: routeur-zigbee
+    theme: protocoles
+    sort: routeur zigbee
+    title: Routeur Zigbee
+    text: |
+      Un appareil Zigbee généralement branché sur le secteur (prise, lampe, ventilateur) qui répète le signal et fait grandir le maillage. Plus tu as de routeurs bien placés, plus le réseau est solide, et plus tu peux ajouter d’appareils. Les appareils sur pile ne jouent généralement pas ce rôle. C’est une bonne habitude de commencer par les appareils sur secteur, avant d’ajouter les capteurs à piles.
+  - id: terminal-zigbee
+    theme: protocoles
+    sort: terminal zigbee
+    title: Terminal Zigbee (end device)
+    text: |
+      Un appareil Zigbee typiquement sur pile, comme une télécommande ou un détecteur de mouvement. Il ne répète pas le signal : il s’appuie sur le coordinateur et sur les routeurs pour communiquer. Il existe aussi des appareils Zigbee Green Power, sans pile, qui se nourrissent de l’énergie d’un appui ou de leur environnement.
+  - id: z-wave
+    theme: protocoles
+    sort: z-wave
+    title: Z-Wave
+    text: |
+      Z-Wave est une technologie sans fil pour la maison connectée : serrures, interrupteurs, capteurs, etc. Les appareils peuvent former un réseau maillé, et Z-Wave prend aussi en charge des liaisons directes Long Range. Comme pour Zigbee, tu as besoin d’un contrôleur (souvent une clé USB) relié à Home Assistant.
+  - id: wifi
+    theme: protocoles
+    sort: wifi
+    title: Wi-Fi
+    text: |
+      Le réseau sans fil de ta maison, que beaucoup d’objets connectés utilisent déjà. Home Assistant peut piloter ces appareils en local ou, selon le fabricant, via un service cloud. Le Wi-Fi est pratique, mais un objet sur pile s’en sort souvent moins bien qu’en Zigbee, Z-Wave ou Thread : d’où l’intérêt de réserver le Wi-Fi aux appareils qui restent branchés, quand tu le peux.
+  - id: bluetooth
+    theme: protocoles
+    sort: bluetooth
+    title: Bluetooth
+    text: |
+      Une technologie sans fil à courte portée. Beaucoup de capteurs, de serrures ou de moniteurs de plantes utilisent sa version basse consommation, le Bluetooth Low Energy (BLE). Home Assistant peut en parler directement, selon le matériel et l’intégration, sur une distance plus courte que Zigbee ou Thread.
+  - id: mqtt
+    theme: protocoles
+    sort: mqtt
+    title: MQTT
+    text: |
+      MQTT est un protocole léger de type « publier / s’abonner » : un appareil publie un message sur un sujet (topic), et ceux qui sont abonnés le reçoivent. Dans Home Assistant, l’intégration MQTT te permet de relier des objets, des logiciels (comme Zigbee2MQTT ou Frigate) et des automatisations autour d’un courtier (broker), souvent installé comme application sur Home Assistant OS.
+    example: |
+      Sujet : zigbee2mqtt/salon/set
+      Message : {"state": "ON"}
+  - id: zha
+    theme: outils
+    sort: zha
+    title: ZHA
+    aka: "Zigbee Home Automation"
+    text: |
+      L’intégration Zigbee officielle, déjà incluse dans Home Assistant. ZHA est un passerelle Zigbee indépendante du matériel : elle remplace, dans la plupart des cas, le pont du fabricant, et crée un seul réseau Zigbee auquel tu peux ajouter la majorité des appareils. Tu branches un coordinateur compatible, puis tu ajoutes l’intégration ZHA.
+  - id: zigbee2mqtt
+    theme: outils
+    sort: zigbee2mqtt
+    title: Zigbee2MQTT
+    text: |
+      Une alternative populaire à ZHA. Zigbee2MQTT tourne comme un programme à part (souvent une application sur Home Assistant OS) et relie ton réseau Zigbee à Home Assistant par **MQTT**. Il n’est donc pas aussi étroitement intégré que ZHA, mais il est très apprécié, notamment pour la large liste d’appareils qu’il prend en charge.
+  - id: esphome
+    theme: outils
+    sort: esphome
+    title: ESPHome
+    text: |
+      ESPHome te permet de transformer un microcontrôleur (souvent un ESP32 ou un ESP8266) en objet sur mesure pour ta maison. Tu décris le matériel dans un fichier YAML : capteurs, boutons, relais… ESPHome en compile un micrologiciel que tu flashes sur la carte. Les appareils se connectent ensuite à Home Assistant par l’API native d’ESPHome, en local.
+    example: |
+      esphome:
+        name: capteur-salon
+      
+      sensor:
+        - platform: dht
+          temperature:
+            name: "Température salon"
+  - id: node-red
+    theme: outils
+    sort: node-red
+    title: Node-RED
+    origin: xavier
+    text: |
+      Un outil visuel (add-on) très apprécié pour créer des automations complexes par « flux » en glissant-déposant des blocs.
+  - id: frigate
+    theme: outils
+    sort: frigate
+    title: Frigate
+    text: |
+      Frigate est un enregistreur vidéo (NVR) local, conçu pour fonctionner avec Home Assistant. Il analyse le flux de tes caméras IP et détecte des objets (personne, voiture, animal…) chez toi, sans envoyer la vidéo dans le cloud. Tu peux l’installer comme conteneur Docker ou comme application Home Assistant, puis ajouter son intégration officielle pour retrouver caméras, capteurs et événements dans Home Assistant. L’intégration s’appuie sur MQTT : Frigate et Home Assistant doivent parler au même courtier.
+    note: |
+      Frigate n’est pas un projet du cœur de Home Assistant : c’est un logiciel communautaire, avec sa propre documentation.
+    links:
+      - url: https://docs.frigate.video/
+        label: Documentation officielle de Frigate
+        external: true
+  - id: automation
+    theme: configuration
+    sort: automation
+    title: Automation
+    origin: xavier
+    text: |
+      Une règle « si… alors… » qu’on crée pour automatiser des actions (ex : si le soleil se couche, alors allumer la lumière du salon).
+    example: |
+      alias: Allumer le salon au coucher du soleil
+      triggers:
+        - trigger: sun
+          event: sunset
+      actions:
+        - action: light.turn_on
+          target:
+            entity_id: light.salon
+  - id: trigger
+    theme: configuration
+    sort: declencheur
+    title: Déclencheur (trigger)
+    text: |
+      C’est ce qui démarre une automation : le soleil se couche, une porte s’ouvre, une heure arrive, un capteur change d’état… Une automation peut avoir plusieurs déclencheurs. Un script, lui, n’en a pas : il ne part que lorsque quelque chose l’appelle.
+    example: |
+      triggers:
+        - trigger: state
+          entity_id: binary_sensor.porte_entree
+          to: "on"
+  - id: condition
+    theme: configuration
+    sort: condition
+    title: Condition
+    text: |
+      Une condition vérifie si quelque chose est vrai à cet instant, par exemple si une porte est fermée, ou si quelqu’un est à la maison. Tu peux en mettre dans une automation ou dans un script. Si la condition n’est pas remplie, les actions qui suivent dans la même séquence ne s’exécutent pas.
+    example: |
+      conditions:
+        - condition: state
+          entity_id: device_tracker.telephone
+          state: home
+  - id: action
+    theme: configuration
+    sort: action
+    title: Action
+    text: |
+      Une action, c’est ce que Home Assistant fait : allumer une lampe, envoyer une notification, activer une scène. Les automations et les scripts enchaînent des actions. Une carte de dashboard peut aussi en lancer une quand tu appuies dessus. À ne pas confondre avec un événement, qui signale simplement que quelque chose s’est passé.
+    example: |
+      actions:
+        - action: light.turn_on
+          target:
+            entity_id: light.salon
+          data:
+            brightness_pct: 80
+  - id: blueprint
+    theme: configuration
+    sort: blueprint
+    title: Blueprint
+    origin: xavier
+    text: |
+      Une automation pré-faite par la communauté que tu peux importer et adapter facilement, idéal pour débuter sans tout coder soi-même.
+    note: |
+      Officiellement, un blueprint peut aussi servir de modèle pour un script ou une entité basée sur un template, avec des champs à remplir. La communauté les partage notamment sur le Blueprint Exchange du forum Home Assistant.
+  - id: script
+    theme: configuration
+    sort: script
+    title: Script
+    text: |
+      Une liste d’étapes enregistrée, que tu lances toi-même : depuis un bouton du dashboard, avec Assist, ou depuis plusieurs automations. Contrairement à une automation, un script n’a pas de déclencheur : il ne part que lorsque quelque chose l’appelle. C’est pratique dès que tu veux réutiliser la même séquence à plusieurs endroits, éventuellement avec des valeurs différentes.
+    example: |
+      sequence:
+        - action: light.turn_on
+          target:
+            entity_id: light.salon
+        - delay: "00:00:30"
+        - action: light.turn_off
+          target:
+            entity_id: light.salon
+  - id: scene
+    theme: configuration
+    sort: scene
+    title: Scène
+    text: |
+      Une scène, c’est un ensemble d’états enregistrés pour plusieurs appareils, que Home Assistant applique d’un seul coup. Exemple : lumières baissées et volets fermés pour une soirée film. Ce n’est pas le bon outil si tu as besoin d’attendre, d’enchaîner des étapes ou de prendre une décision : dans ce cas, tu passes par un script ou une automation.
+    example: scene.soirée_film
+  - id: helper
+    theme: configuration
+    sort: helper
+    title: Helper (entrée)
+    aka: "Aide, entrée (input)"
+    text: |
+      Un helper est une entité que tu crées toi-même dans Home Assistant, sans appareil physique derrière. Certains stockent une valeur ou un état : un interrupteur virtuel, un curseur, une liste déroulante, un champ texte, un compteur, un minuteur, un planning. D’autres calculent une valeur à partir d’autres entités, par exemple le minimum de plusieurs capteurs, ou regroupent des entités pour les piloter comme une seule. Tu les crées dans Réglages → Appareils et services → Aides.
+    example: |
+      input_boolean.mode_invites
+      input_number.consigne_salon
+      timer.arrosage
+  - id: template
+    theme: configuration
+    sort: template
+    title: Template
+    text: |
+      Un petit morceau de code, écrit avec le moteur de templates de Home Assistant (basé sur Jinja), qui calcule une valeur à partir d’autres entités. Tu t’en sers dans des capteurs, des conditions, des messages de notification ou certains helpers. Ça permet, par exemple, d’afficher une phrase, de convertir une unité, ou de combiner plusieurs capteurs.
+    example: |
+      {{ states('sensor.temperature_salon') }} °C
+      {{ is_state('light.salon', 'on') }}
+  - id: area
+    theme: configuration
+    sort: area
+    title: Area (pièce)
+    aka: "Zone / pièce"
+    text: |
+      Une area est un regroupement logique d’appareils et d’entités, qui correspond à une pièce ou un espace de ta maison : le salon, la cuisine, le garage. Tu peux viser toute la pièce d’un seul coup, par exemple éteindre toutes les lumières du salon, et Assist comprend mieux une phrase comme « allume la lumière de la cuisine ». Les areas peuvent être rattachées à un étage (floor) et servir dans les automations, les scripts et certaines cartes, comme la carte Area.
+    example: |
+      target:
+        area_id: salon
+  - id: floor
+    theme: configuration
+    sort: floor
+    title: Floor (étage)
+    text: |
+      Un floor est un regroupement d’areas qui correspond aux étages de ta maison. Les appareils et les entités ne sont pas assignés à l’étage, mais à une pièce. Un étage a un nom, éventuellement des alias pour Assist, une icône et un numéro d’étage (qui peut être négatif pour un sous-sol). Tu peux t’en servir comme cible dans une automation ou un script, par exemple éteindre toutes les lumières du rez-de-chaussée en allant te coucher.
+    example: |
+      target:
+        floor_id: rez_de_chaussee
+  - id: label
+    theme: configuration
+    sort: label
+    title: Label (étiquette)
+    text: |
+      Les labels te permettent de regrouper des éléments sans tenir compte de leur pièce ou de leur type. Tu peux en poser sur des areas, des appareils, des entités, des automations, des scènes, des scripts et des helpers. Ensuite, tu t’en sers comme cible dans une automation ou un script, ou pour filtrer une liste. Exemple : l’étiquette « gros consommateurs » pour tout éteindre quand il n’y a plus beaucoup de soleil.
+    example: |
+      target:
+        label_id: gros_consommateurs
+  - id: groupe
+    theme: configuration
+    sort: groupe
+    title: Groupe
+    text: |
+      Un groupe rassemble plusieurs entités en une seule, pour les voir ou les piloter ensemble, par exemple toutes les lumières du rez-de-chaussée. C’est différent d’une area (qui représente une pièce) et d’un label (qui étiquette des éléments de natures diverses). Certains groupes se créent aussi comme helpers.
+    example: light.toutes_lumieres_salon
+  - id: zone
+    theme: configuration
+    sort: zone
+    title: Zone
+    text: |
+      Une zone représente un lieu sur la carte, avec un rayon : la maison, le travail, l’école. Home Assistant s’en sert surtout avec les device trackers, pour savoir si quelqu’un entre ou sort d’un endroit, et déclencher une automation en conséquence. Ce n’est pas la même chose qu’une area, qui organise les appareils dans les pièces.
+    example: zone.maison
+  - id: dashboard
+    theme: interface
+    sort: dashboard
+    title: Dashboard
+    origin: xavier
+    text: |
+      L’interface web (souvent Lovelace) où tu places tes cartes pour piloter et visualiser ta maison.
+  - id: lovelace
+    theme: interface
+    sort: lovelace
+    title: Lovelace
+    origin: xavier
+    text: |
+      Le système de création des dashboards (les « vues » avec boutons, graphiques, etc.).
+    note: |
+      Lovelace est le nom de code d’origine de l’interface. Officiellement, on parle aujourd’hui des dashboards de Home Assistant.
+  - id: carte
+    theme: interface
+    sort: carte
+    title: Carte (card)
+    text: |
+      Chaque dashboard est composé de cartes. Une carte affiche une information et te permet, souvent, de piloter un appareil : une lampe, un thermostat, un graphique, une météo, une liste, une pièce entière… Tu les disposes dans des vues, tu peux les redimensionner selon la disposition, et certaines acceptent des actions au toucher ou des conditions de visibilité.
+    example: |
+      type: light
+      entity: light.salon
+  - id: custom-card
+    theme: interface
+    sort: custom card
+    title: Carte personnalisée (custom card)
+    text: |
+      Une carte créée par la communauté, que tu ajoutes à tes dashboards en plus des cartes officielles. Tu l’installes depuis le Marketplace (cartes de dashboard), puis tu l’ajoutes à une vue. Comme toute extension communautaire, elle n’est pas examinée par le projet Home Assistant : tu regardes l’auteur et les retours avant de l’installer.
+  - id: frontend
+    theme: interface
+    sort: frontend
+    title: Frontend
+    text: |
+      Le frontend, c’est l’interface de Home Assistant dans le navigateur ou dans l’application : menus, dashboards, thèmes. C’est aussi là que tu définis l’apparence (les thèmes), que tu peux d’ailleurs installer depuis le Marketplace.
+  - id: assist
+    theme: interface
+    sort: assist
+    title: Assist
+    text: |
+      L’assistant vocal intégré à Home Assistant. Tu peux lui parler ou lui écrire depuis l’interface, depuis l’application Companion, ou à voix haute via un satellite vocal. Tu peux créer plusieurs assistants, chacun avec sa langue et son moteur de conversation. Assist s’appuie sur tes pièces et tes alias pour comprendre une phrase comme « éteins les lumières du salon ».
+  - id: nabu-casa
+    theme: interface
+    sort: nabu casa
+    title: Nabu Casa / Home Assistant Cloud
+    text: |
+      Home Assistant Cloud est un abonnement facultatif proposé par Nabu Casa, le partenaire commercial du projet. Il ajoute un accès distant sécurisé à ton Home Assistant, des liaisons avec Google Assistant et Amazon Alexa, ainsi que les moteurs de voix (reconnaissance et synthèse) utilisés par Assist. L’abonnement contribue aussi au financement du développement de Home Assistant. Home Assistant fonctionne entièrement sans ce service : le cœur de ta maison reste sur ton matériel, en local.
+    note: |
+      Un changement de nom vers **Home Assistant Link** est annoncé pour le 2 décembre 2026. Au moment où j’écris ces lignes, le service s’appelle encore Home Assistant Cloud.
+    links:
+      - url: https://www.home-assistant.io/cloud/
+        label: Présentation officielle de Home Assistant Cloud
+        external: true

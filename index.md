@@ -158,6 +158,15 @@ Chaque mise à jour mensuelle de Home Assistant expliquée en français : nouvea
 
 <p><a href="{{ '/guides/' | relative_url }}">Tous les guides</a> · <a href="{{ '/actualites/' | relative_url }}">Actualités</a></p>
 
+## Coin bistrot de la domotique
+
+<p class="section-lead">Un coin convivial pour parler domotique, commencer par le vocabulaire, et revenir boire un café entre deux automatisations.</p>
+
+{% assign bistrot = site.pages | where: "section", "coin-bistrot" | sort: "date" | reverse %}
+{% include item-cards.html items=bistrot label="Coin bistrot de la domotique" carousel=true %}
+
+<p><a href="{{ '/coin-bistrot-de-la-domotique/' | relative_url }}">Tout le coin bistrot</a></p>
+
 ## Mes créations
 
 <p class="section-lead creations-lead">Mes projets fabriqués de A à Z : impression 3D, capteurs, montage, configuration Home Assistant.</p>

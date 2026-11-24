@@ -30,6 +30,8 @@
       <div class="tag">{{ p.brand }}</div>
       {% elsif p.section == "creations" %}
       <div class="tag tag-az">A à Z</div>
+      {% elsif p.section == "coin-bistrot" %}
+      <div class="tag tag-bistrot">Coin bistrot</div>
       {% elsif p.section %}
       <div class="tag">{{ p.section }}</div>
       {% endif %}

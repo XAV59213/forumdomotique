@@ -1599,3 +1599,173 @@ figure.creation-video-figure figcaption {
   color: #5a6b64;
 }
 .ha-article-head .auteur-byline { margin: 0 0 0.85rem; }
+
+/* ——— Coin bistrot de la domotique ——— */
+.feature-card .tag-bistrot,
+.tag-bistrot {
+  color: #8a4b1f;
+}
+.bistrot-cover {
+  margin: 0 0 1.6rem;
+  background: #f7f1e8;
+  border: 1px solid #ead9c6;
+  border-radius: 14px;
+  overflow: hidden;
+}
+.bistrot-cover img {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0 !important;
+  border-radius: 0;
+}
+.bistrot-cover figcaption {
+  margin: 0;
+  padding: 0.65rem 1rem 0.8rem;
+  font-size: 0.9rem;
+  color: #5c4636;
+  text-align: center;
+}
+.lexique-toc,
+.lexique-alpha {
+  margin: 0 0 1.4rem;
+  padding: 0.9rem 1rem 0.7rem;
+  background: #f7f1e8;
+  border: 1px solid #ead9c6;
+  border-radius: 14px;
+}
+.lexique-toc-label {
+  margin: 0 0 0.5rem;
+  font-size: 0.75rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: #8a4b1f;
+}
+.lexique-toc ul,
+.lexique-alpha ol {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem 0.45rem;
+}
+.lexique-toc a,
+.lexique-alpha a {
+  display: inline-block;
+  padding: 0.28rem 0.7rem;
+  border-radius: 999px;
+  background: #fff;
+  border: 1px solid #e2d0be;
+  color: #6b3f2a;
+  text-decoration: none !important;
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+.lexique-toc a:hover,
+.lexique-alpha a:hover {
+  border-color: #c45c26;
+  color: #9a3f16;
+  background: #fff8f2;
+}
+.lexique-section,
+.lexique-card,
+.lexique-toc,
+.lexique-alpha {
+  scroll-margin-top: 5.5rem;
+}
+.lexique-section h2 {
+  color: #6b3f2a;
+}
+.lexique-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+  gap: 1.15rem;
+  margin: 0.6rem 0 2.4rem;
+}
+.lexique-card {
+  background: #fff;
+  border: 1px solid #ead9c6;
+  border-radius: 14px;
+  box-shadow: 0 2px 8px rgba(80, 40, 16, 0.06);
+  padding: 1rem 1.1rem 1.15rem;
+  overflow: hidden;
+}
+.lexique-card-xavier {
+  border-color: #e0c09a;
+  background: linear-gradient(180deg, #fffaf3 0%, #fff 2.4rem);
+}
+.lexique-badge {
+  display: inline-block;
+  margin: 0 0 0.35rem;
+  font-size: 0.7rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: #8a4b1f;
+}
+.lexique-card h3 {
+  margin: 0 0 0.25rem;
+  font-size: 1.12rem;
+  color: #6b3f2a;
+}
+.lexique-aka {
+  margin: 0 0 0.55rem;
+  font-size: 0.86rem;
+  color: #7a5b45;
+  font-style: italic;
+}
+.lexique-text,
+.lexique-note {
+  font-size: 0.98rem;
+  line-height: 1.5;
+  color: #3b2a20;
+}
+.lexique-text p,
+.lexique-note p {
+  margin: 0 0 0.7rem;
+}
+.lexique-text p:last-child,
+.lexique-note p:last-child {
+  margin-bottom: 0;
+}
+.lexique-text code,
+.lexique-note code,
+.lexique-aka code {
+  font-size: 0.86em;
+}
+.lexique-note {
+  margin-top: 0.75rem;
+  padding: 0.7rem 0.8rem;
+  background: #f7f1e8;
+  border-left: 3px solid #c45c26;
+  border-radius: 0 10px 10px 0;
+}
+.lexique-example {
+  margin: 0.85rem 0 0;
+  padding: 0.7rem 0.85rem;
+  background: #2b211c;
+  color: #f3e6d8;
+  border-radius: 10px;
+  overflow-x: auto;
+  font-size: 0.84rem;
+  line-height: 1.45;
+}
+.lexique-example code {
+  background: transparent;
+  color: inherit;
+  padding: 0;
+  font-size: inherit;
+}
+.lexique-more {
+  margin: 0.8rem 0 0;
+  font-size: 0.9rem;
+}
+.lexique-more a {
+  color: #8a4b1f;
+  font-weight: 600;
+}
+@media (max-width: 42em) {
+  .lexique-grid { grid-template-columns: 1fr; }
+}

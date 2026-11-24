@@ -1,0 +1,53 @@
+<nav class="lexique-toc" id="lexique-themes" aria-label="Sommaire par thème">
+  <p class="lexique-toc-label">Par thème</p>
+  <ul>
+    {% for theme in site.data.lexique_ha.themes %}
+    <li><a href="#{{ theme.id }}">{{ theme.title }}</a></li>
+    {% endfor %}
+  </ul>
+</nav>
+
+<nav class="lexique-alpha" id="lexique-az" aria-label="Sommaire alphabétique">
+  <p class="lexique-toc-label">De A à Z</p>
+  <ol>
+    {% assign alpha = site.data.lexique_ha.termes | sort: "sort" %}
+    {% for t in alpha %}
+    <li><a href="#{{ t.id }}">{{ t.title }}</a></li>
+    {% endfor %}
+  </ol>
+</nav>
+
+{% for theme in site.data.lexique_ha.themes %}
+<section class="lexique-section" id="{{ theme.id }}">
+  <h2>{{ theme.title }}</h2>
+  {% if theme.lead %}<p class="section-lead">{{ theme.lead | strip }}</p>{% endif %}
+  <div class="lexique-grid">
+    {% for t in site.data.lexique_ha.termes %}
+      {% if t.theme == theme.id %}
+      <article class="lexique-card{% if t.origin == 'xavier' %} lexique-card-xavier{% endif %}" id="{{ t.id }}">
+        {% if t.origin == 'xavier' %}<p class="lexique-badge">Mot de Xavier</p>{% endif %}
+        <h3>{{ t.title }}</h3>
+        {% if t.aka %}<p class="lexique-aka">{{ t.aka }}</p>{% endif %}
+        <div class="lexique-text">{{ t.text | markdownify }}</div>
+        {% if t.note %}<div class="lexique-note">{{ t.note | markdownify }}</div>{% endif %}
+        {% if t.example %}
+        <pre class="lexique-example"><code>{{ t.example | escape }}</code></pre>
+        {% endif %}
+        {% if t.links %}
+        <p class="lexique-more">
+          {% for l in t.links %}
+            {% if l.external %}
+            <a href="{{ l.url }}" rel="noopener noreferrer">{{ l.label }}</a>
+            {% else %}
+            <a href="{{ l.url | relative_url }}">{{ l.label }}</a>
+            {% endif %}
+            {% unless forloop.last %} · {% endunless %}
+          {% endfor %}
+        </p>
+        {% endif %}
+      </article>
+      {% endif %}
+    {% endfor %}
+  </div>
+</section>
+{% endfor %}
