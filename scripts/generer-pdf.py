@@ -892,24 +892,50 @@ def bullet_list(items_html: list[str], styles, numbered: bool = False):
     )
 
 
-def code_block(text: str, styles) -> Table:
-    # Keep newlines; escape for ReportLab
-    cleaned = text.replace("\t", "    ").rstrip() + "\n"
-    cleaned = esc(cleaned).replace("\n", "<br/>")
-    inner = Paragraph(cleaned, styles["code"])
+def _code_table(html: str, styles, *, first: bool, last: bool) -> Table:
+    inner = Paragraph(html, styles["code"])
     t = Table([[inner]], colWidths=[CONTENT_W])
+    # A split block keeps a continuous look: no double gap, lighter edges mid-block.
+    top = 2.5 * mm if first else 1 * mm
+    bottom = 2.5 * mm if last else 1 * mm
     t.setStyle(TableStyle([
         ("BACKGROUND", (0, 0), (-1, -1), CODE_BG),
         ("LEFTPADDING", (0, 0), (-1, -1), 3 * mm),
         ("RIGHTPADDING", (0, 0), (-1, -1), 3 * mm),
-        ("TOPPADDING", (0, 0), (-1, -1), 2.5 * mm),
-        ("BOTTOMPADDING", (0, 0), (-1, -1), 2.5 * mm),
+        ("TOPPADDING", (0, 0), (-1, -1), top),
+        ("BOTTOMPADDING", (0, 0), (-1, -1), bottom),
         ("BOX", (0, 0), (-1, -1), 0.4, LIGHT),
         ("VALIGN", (0, 0), (-1, -1), "TOP"),
     ]))
-    t.spaceBefore = 1.5 * mm
-    t.spaceAfter = 4 * mm
+    t.spaceBefore = 1.5 * mm if first else 0
+    t.spaceAfter = 4 * mm if last else 0
     return t
+
+
+def code_block(text: str, styles) -> list[Table]:
+    """Rendu d'un bloc de code, découpé si plus haut qu'une page."""
+    cleaned = text.replace("\t", "    ").rstrip() + "\n"
+    lines = cleaned.split("\n")
+    leading = styles["code"].leading or 10.6
+    padding = 5 * mm
+    # Le cadre de page fait un peu moins que PAGE_H - 2*MARGIN ; on garde une marge.
+    max_h = PAGE_H - 2 * MARGIN - 18 * mm
+    max_lines = max(8, int((max_h - padding) / leading) - 1)
+    chunks: list[str] = []
+    current: list[str] = []
+    for line in lines:
+        if len(current) >= max_lines:
+            chunks.append("\n".join(current) + "\n")
+            current = []
+        current.append(line)
+    if current:
+        chunks.append("\n".join(current) + "\n")
+    tables = []
+    n = len(chunks)
+    for i, chunk in enumerate(chunks):
+        html = esc(chunk).replace("\n", "<br/>")
+        tables.append(_code_table(html, styles, first=(i == 0), last=(i == n - 1)))
+    return tables
 
 
 def product_meta_block(article: Article, styles):
@@ -1049,7 +1075,7 @@ def convert_element(el, ctx: ConvertContext):
         return
     if name == "pre":
         code = el.get_text()
-        yield code_block(code, styles)
+        yield from code_block(code, styles)
         return
     if name == "blockquote":
         yield quote_block(inner_xml(el), styles)

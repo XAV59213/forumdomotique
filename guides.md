@@ -29,6 +29,8 @@ Le [guide utilisateur Freebox Homexa]({{ '/contenus/guides/guide-utilisateur-fre
 
 Le guide [Connecter son imprimante 3D à Home Assistant avec OctoPrint]({{ '/contenus/guides/connecter-imprimante-3d-home-assistant-octoprint/article.html' | relative_url }}) est également publié ci-dessus. L’[archive du sujet 620]({{ '/sujets/620-connecter-son-imprimante-3d-a-home-assistant-avec-octoprint-sur-raspberry-pi-mon/messages.html' | relative_url }}) reste disponible.
 
+Le guide [Intégrer ResMed myAir CPAP dans Home Assistant]({{ '/contenus/guides/integrer-resmed-myair-cpap-home-assistant/article.html' | relative_url }}) est également publié ci-dessus. L’[archive du sujet 489]({{ '/sujets/489-integrer-resmed-myair-cpap-dans-home-assistant/messages.html' | relative_url }}) reste disponible.
+
 Quelques autres tutoriels rédigés directement dans un sujet du forum :
 
 - [Ajouter la musique du disque Freebox à Music Assistant]({{ '/sujets/618-comment-ajouter-la-musique-stockee-sur-le-disque-dur-de-votre-freebox-a-music-as/messages.html' | relative_url }})

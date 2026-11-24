@@ -4,8 +4,13 @@ description: "L’ apnée du sommeil touche 1 personne sur 5 après 50 ans . Ton
 image: /sujets/489-integrer-resmed-myair-cpap-dans-home-assistant/images/og-partage.jpg
 date: 2025-11-08
 ---
-{% raw %}
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/489-int%C3%A9grer-resmed-myair-cpap-dans-home-assistant/">Lire et commenter sur Forum Domotique</a></p>
+
+<div class="ha-callout info" markdown="1">
+**Nouvelle version.** Ce guide est aussi publié dans la rubrique Guides : [Intégrer ResMed myAir CPAP dans Home Assistant]({{ '/contenus/guides/integrer-resmed-myair-cpap-home-assistant/article.html' | relative_url }}).
+</div>
+
+{% raw %}
 
 
 <section class="carousel photo-carousel" data-carousel data-lightbox aria-roledescription="carrousel" aria-label="Photos de l’article (6)" tabindex="0">
