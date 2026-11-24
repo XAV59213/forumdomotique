@@ -21,7 +21,7 @@ Rubriques de la vitrine :
 
 Le contenu a été recopié à partir des pages publiques du forum, sans modification des messages sur le site d’origine. L’objectif est de conserver une copie lisible si le forum devenait indisponible, et de la présenter sur une petite vitrine.
 
-Chaque sujet se trouve dans un dossier, avec un fichier Markdown (`messages.md`) qui reprend le titre, la catégorie, l’URL du sujet, puis chaque message de XAV59213 (date en heure de Paris, lien `findComment`, corps en Markdown). Les images embarquées sont dans un sous-dossier `images/` ; l’URL d’origine est conservée en commentaire HTML sous chaque image.
+Chaque sujet se trouve dans un dossier, avec un fichier Markdown (`messages.md`) qui reprend le titre, la catégorie, l’URL du sujet, puis chaque message de XAV59213 (date en heure de Paris, lien `findComment`, corps en Markdown). Un `index.md` (généré automatiquement) redirige l’adresse du dossier vers `messages.html`, afin que les deux URL fonctionnent. Les images embarquées sont dans un sous-dossier `images/` ; l’URL d’origine est conservée en commentaire HTML sous chaque image.
 
 ## Contenu
 
@@ -55,10 +55,11 @@ L’archive est organisée **un dossier par sujet** (ou par article) sous `sujet
        ---
 
    Puis le titre, la catégorie, l’URL du sujet, et chaque message (date, lien `findComment`, corps en Markdown). Placez les images dans `images/` à l’intérieur de ce dossier, et pointez vers elles par un chemin relatif du type `images/photo.png`.
-3. Si le texte contient des templates Home Assistant (doubles accolades ou balises pourcentage, comme dans les YAML d’automatisation), entourez le corps avec les balises Jekyll **raw** et **endraw**, afin que le site ne les interprète pas.
-4. Pour une actualité, un guide ou un test, procédez de même sous `contenus/actualites/`, `contenus/guides/` ou `contenus/tests/`, avec un fichier `article.md`.
-5. Mettez à jour la page d’accueil `index.md` (et, si vous le souhaitez, `inventaire.json`) pour que le nouveau sujet apparaisse dans les tableaux.
-6. Enregistrez et poussez sur la branche `main` : GitHub Pages reconstruit le site automatiquement.
+3. L’adresse courte `sujets/<slug>/` est servie par un fichier `index.md` qui redirige vers `messages.html` (layout `redirect`, `sitemap: false`, `noindex`). Inutile de le rédiger à la main : le script `scripts/generer-index-sujets.py` et le workflow GitHub « Index des sujets » le créent tout seuls après l’ajout d’un `messages.md`. Le texte du sujet reste uniquement dans `messages.md`.
+4. Si le texte contient des templates Home Assistant (doubles accolades ou balises pourcentage, comme dans les YAML d’automatisation), entourez le corps avec les balises Jekyll **raw** et **endraw**, afin que le site ne les interprète pas.
+5. Pour une actualité, un guide ou un test, procédez de même sous `contenus/actualites/`, `contenus/guides/` ou `contenus/tests/`, avec un fichier `article.md`.
+6. Mettez à jour la page d’accueil `index.md` (et, si vous le souhaitez, `inventaire.json`) pour que le nouveau sujet apparaisse dans les tableaux.
+7. Enregistrez et poussez sur la branche `main` : GitHub Pages reconstruit le site automatiquement.
 
 ## Sujets ouverts par XAV59213
 

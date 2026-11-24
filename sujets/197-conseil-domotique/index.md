@@ -1,0 +1,9 @@
+---
+# Redirection de l'URL du dossier vers messages.html.
+# Généré par scripts/generer-index-sujets.py — ne pas y copier le texte du sujet.
+layout: redirect
+title: Conseil domotique
+redirect_to: /sujets/197-conseil-domotique/messages.html
+sitemap: false
+robots: noindex, follow
+---
