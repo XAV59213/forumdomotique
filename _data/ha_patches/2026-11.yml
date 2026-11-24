@@ -24,7 +24,7 @@
   date: 2026-11-16
   date_fr: "16 novembre 2026"
   fixes: 48
-  summary: "Une corrective qui comporte une mise à jour de sécurité de bibliothèque, plusieurs masquages de données sensibles et des correctifs MQTT, Hue, webOS, Reolink et FRITZ!Box. C’est la version stable la plus récente au 20 novembre 2026."
+  summary: "Une corrective qui comporte une mise à jour de sécurité de bibliothèque, plusieurs masquages de données sensibles et des correctifs MQTT, Hue, webOS, Reolink et FRITZ!Box."
   security:
     - "Mise à jour de sécurité de la bibliothèque aioftp (0.28.3), utilisée par l’intégration Yi."
     - "Mot de passe Solar-Log masqué dans les diagnostics ; identifiants de compte Alexa Devices masqués ; valeurs de configuration plus journalisées quand le schéma est vide."
@@ -43,3 +43,26 @@
       t: "L’action set_value refuse les valeurs qui ne respectent pas le motif défini."
     - i: "Axis, ONVIF, Alexa Devices, Spotify, ViCare"
       t: "Authentification basique et arrêt des flux, nouvelles tentatives d’URI, commande vocale rejouée après rechargement, prise en charge du volume respectée, écarts de température en kelvins."
+- v: "2026.11.3"
+  date: 2026-11-23
+  date_fr: "23 novembre 2026"
+  fixes: 40
+  summary: "Troisième corrective de la 2026.11 : nouvelle série de correctifs FRITZ!Box Tools, des ajustements du Marketplace, de Shelly, de Tuya et de Sonos, et deux corrections touchant aux données sensibles. C’est la version stable la plus récente au 24 novembre 2026."
+  security:
+    - "RESTful Command : les valeurs des en-têtes ne sont plus écrites dans le journal."
+    - "Switcher : les identifiants sont masqués dans les diagnostics."
+  notable:
+    - i: "FRITZ!Box Tools"
+      t: "Disponibilité des interrupteurs de profils corrigée, encore moins d’appels à l’API, option SSL rétablie sur les anciennes configurations, unique_id en double supprimé lors de la migration des interrupteurs, et renvoi vers la documentation des identifiants lors de la réauthentification."
+    - i: "Marketplace"
+      t: "Le contenu résolu est conservé quand l’installation depuis le catalogue bascule sur une solution de repli ; l’archive gzip d’une carte reçoit les mêmes droits de fichier que la carte elle-même."
+    - i: "Shelly"
+      t: "La progression d’une mise à jour RPC est effacée quand l’appareil se reconnecte ; les composants virtuels sans vue sont gérés."
+    - i: "go2rtc, Stream"
+      t: "Les flux go2rtc dont l’URL contient des identifiants ne sont plus ajoutés à nouveau ; l’enregistreur de flux ignore les paquets non monotones."
+    - i: "MQTT"
+      t: "Mode HVAC initial corrigé pour les climatiseurs MQTT en mode optimiste."
+    - i: "Tuya, Sonos, Blink"
+      t: "Le thread MQ de Tuya s’arrête avec Home Assistant ; les hôtes Sonos déclarés manuellement restent interrogés si l’un d’eux est introuvable ; chaque renouvellement de jeton Blink est enregistré, pas seulement le premier."
+    - i: "Tasmota, UniFi, LG webOS, SmartThings, Midea"
+      t: "Découverte Tasmota rétablie après suppression d’un appareil, interrogation UniFi désactivée pour les points d’accès v2 indisponibles, volume conservé quand le haut-parleur de la TV est actif, climatiseurs SmartThings sans statut de demand response ajoutés, entités de climatisation Midea retirées pour les fonctions non prises en charge."

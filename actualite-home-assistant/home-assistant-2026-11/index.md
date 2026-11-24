@@ -184,7 +184,7 @@ Après chaque version mensuelle, Home Assistant publie des versions correctives 
 
 1. **Sauvegarde complète** (indispensable pour une version de cette taille).
 2. Lisez la liste des breaking changes officielle, en particulier si vous utilisez **Tailscale ou une IP publique**, **ZHA avec groupes**, **Z-Wave** ou des déclencheurs **sun** avec `offset`.
-3. Mettez à jour directement en **2026.11.2**.
+3. Mettez à jour directement en **2026.11.3**.
 4. Ouvrez ensuite **Paramètres › Marketplace** : vos projets HACS doivent tous y figurer. Vérifiez vos dashboards, où les nouveaux noms d’entités sont les plus visibles.
 
 <div class="ha-avis" markdown="1">
