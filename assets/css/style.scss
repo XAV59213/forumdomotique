@@ -1226,9 +1226,10 @@ $ha-navy: #0b3a57;
   border: 1px solid #e3e8f3;
   border-radius: 12px;
 }
-.github-activity-block h2 {
+.main-content .github-activity-block h2 {
   margin: 0 0 0.5rem;
   font-size: 1.25rem;
+  font-weight: 700;
   color: #1a2a4a;
 }
 .github-activity-intro { margin: 0 0 0.95rem; color: #2c3a4d; }
@@ -1271,10 +1272,11 @@ $ha-navy: #0b3a57;
   outline: 3px solid #155799;
   outline-offset: 2px;
 }
-.github-activity-col-title {
+.main-content .github-activity-block .github-activity-col-title {
   display: none;
   margin: 0 0 0.65rem;
   font-size: 1.02rem;
+  font-weight: 700;
   color: #1a2a4a;
 }
 .github-activity-list {
