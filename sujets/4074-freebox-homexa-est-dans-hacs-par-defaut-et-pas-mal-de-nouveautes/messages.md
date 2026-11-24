@@ -133,7 +133,7 @@ Les options (suivi des appareils connectés, signal Wi-Fi, intervalle du pack Ho
 
 ### 📚 Pour aller plus loin
 
-- [Guide utilisateur complet](https://forumdomotique.com/forums/topic/4008-guide-utilisateur-freebox-homexa-de-linstallation-%C3%A0-lutilisation-v28824/) (écrit pour la 28.8.24, toujours valable pour l’essentiel)
+- [Guide utilisateur complet]({{ site.baseurl }}/contenus/guides/guide-utilisateur-freebox-homexa/article.html) (écrit pour la 28.8.24, toujours valable pour l’essentiel)
 - [La présentation d’origine du projet (avril 2025)](https://forumdomotique.com/forums/topic/101-pr%C3%A9sentation-du-projet-freebox_homexa/)
 - Wiki du projet : <https://github.com/XAV59213/freebox_homexa/wiki>
 
