@@ -31,6 +31,8 @@ layout: default
   {% include github-star.html %}
   {% include don.html %}
 
+  {% include a-lire-aussi.html %}
+
   <nav class="ha-prevnext" aria-label="Autres versions">
     {% if idx > 0 %}{% assign pi = idx | minus: 1 %}{% assign prev = rel[pi] %}
     <a class="ha-prev" href="{{ prev.url | relative_url }}"><span>‹ Version précédente</span>{{ prev.version }} — {{ prev.month }}</a>

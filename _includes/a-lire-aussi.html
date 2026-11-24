@@ -1,0 +1,151 @@
+{%- assign related_count = 0 -%}
+{%- assign picked = "|" -%}
+{%- assign related_items = "" -%}
+
+{%- if page.related -%}
+  {%- for item in page.related -%}
+    {%- if related_count >= 3 -%}{%- break -%}{%- endif -%}
+    {%- assign want = item -%}
+    {%- if item.url -%}{%- assign want = item.url -%}{%- endif -%}
+    {%- assign want = want | append: "" | strip -%}
+    {%- if want == blank or want == "" -%}{%- continue -%}{%- endif -%}
+    {%- assign want_n = want | split: "://" | last -%}
+    {%- if want_n contains "/" -%}
+      {%- assign want_host = want_n | split: "/" | first -%}
+      {%- if want_host contains "." -%}
+        {%- assign want_n = want_n | remove_first: want_host -%}
+      {%- endif -%}
+    {%- endif -%}
+    {%- assign bu = site.baseurl | default: "" -%}
+    {%- if bu != "" -%}
+      {%- assign prefix = bu | append: "/" -%}
+      {%- if want_n == bu -%}{%- assign want_n = "/" -%}{%- endif -%}
+      {%- if want_n == prefix -%}{%- assign want_n = "/" -%}{%- endif -%}
+      {%- assign bu_slash = bu | append: "/" -%}
+      {%- if want_n contains bu_slash and want_n != bu_slash -%}
+        {%- assign want_n = want_n | replace_first: bu, "" -%}
+      {%- endif -%}
+    {%- endif -%}
+    {%- unless want_n != want_n -%}{%- endunless -%}
+    {%- unless want_n == "" -%}
+      {%- unless want_n == "/" -%}
+        {%- unless want_n contains "/" -%}{%- assign want_n = want_n | prepend: "/" -%}{%- endunless -%}
+        {%- if want_n.first != "/" -%}{%- assign want_n = want_n | prepend: "/" -%}{%- endif -%}
+      {%- endunless -%}
+    {%- endunless -%}
+    {%- assign found = false -%}
+    {%- for p in site.pages -%}
+      {%- if p.layout == "redirect" or p.sitemap == false -%}{%- continue -%}{%- endif -%}
+      {%- if p.url == want or p.url == want_n -%}
+        {%- assign found = p -%}
+        {%- break -%}
+      {%- endif -%}
+      {%- assign p_slash = p.url | append: "/" -%}
+      {%- assign want_slash = want_n | append: "/" -%}
+      {%- if p_slash == want_slash -%}
+        {%- assign found = p -%}
+        {%- break -%}
+      {%- endif -%}
+    {%- endfor -%}
+    {%- if found and found.url and picked contains found.url -%}
+      {%- continue -%}
+    {%- endif -%}
+    {%- if found and found.url -%}
+      {%- assign picked = picked | append: found.url | append: "|" -%}
+      {%- assign related_items = related_items | append: found.url | append: "§" -%}
+      {%- assign related_count = related_count | plus: 1 -%}
+    {%- endif -%}
+  {%- endfor -%}
+{%- endif -%}
+
+{%- if related_count < 3 -%}
+  {%- assign scored_list = "" -%}
+  {%- for p in site.pages -%}
+    {%- assign ok = false -%}
+    {%- if p.section == "guides" or p.section == "tests" or p.section == "creations" or p.section == "actualites" or p.section == "actualite-ha" or p.section == "coin-bistrot" -%}
+      {%- assign ok = true -%}
+    {%- endif -%}
+    {%- if p.url == page.url -%}{%- assign ok = false -%}{%- endif -%}
+    {%- if p.sitemap == false or p.layout == "redirect" -%}{%- assign ok = false -%}{%- endif -%}
+    {%- if p.robots contains "noindex" -%}{%- assign ok = false -%}{%- endif -%}
+    {%- if p.url contains "/brouillons/" -%}{%- assign ok = false -%}{%- endif -%}
+    {%- if p.section == "actualites" and p.canonical_url -%}{%- assign ok = false -%}{%- endif -%}
+    {%- unless p.title -%}{%- assign ok = false -%}{%- endunless -%}
+    {%- assign already = picked | append: "§" -%}
+    {%- assign needle = p.url | append: "|" -%}
+    {%- if picked contains needle -%}{%- assign ok = false -%}{%- endif -%}
+    {%- if ok -%}
+      {%- assign score = 1 -%}
+      {%- if p.section == page.section -%}{%- assign score = score | plus: 4 -%}{%- endif -%}
+      {%- if page.github_repo and p.github_repo and page.github_repo == p.github_repo -%}
+        {%- assign score = score | plus: 6 -%}
+      {%- endif -%}
+      {%- if page.tags -%}
+        {%- for t in page.tags -%}
+          {%- if p.tags contains t -%}{%- assign score = score | plus: 2 -%}{%- endif -%}
+        {%- endfor -%}
+      {%- endif -%}
+      {%- if page.product and p.product and page.product == p.product -%}
+        {%- assign score = score | plus: 3 -%}
+      {%- endif -%}
+      {%- assign pad = score | plus: 1000 -%}
+      {%- assign dkey = p.date | date: "%Y%m%d" | default: "00000000" -%}
+      {%- assign scored_list = scored_list | append: pad | append: "¤" | append: dkey | append: "¤" | append: p.url | append: "§" -%}
+    {%- endif -%}
+  {%- endfor -%}
+  {%- assign rows = scored_list | split: "§" | compact | sort | reverse -%}
+  {%- for row in rows -%}
+    {%- if related_count >= 3 -%}{%- break -%}{%- endif -%}
+    {%- if row == "" -%}{%- continue -%}{%- endif -%}
+    {%- assign parts = row | split: "¤" -%}
+    {%- if parts.size < 2 -%}{%- continue -%}{%- endif -%}
+    {%- if parts.size >= 3 -%}
+      {%- assign cand_url = parts[2] -%}
+    {%- else -%}
+      {%- assign cand_url = parts[1] -%}
+    {%- endif -%}
+    {%- assign needle = cand_url | append: "|" -%}
+    {%- if picked contains needle -%}{%- continue -%}{%- endif -%}
+    {%- assign picked = picked | append: cand_url | append: "|" -%}
+    {%- assign related_items = related_items | append: cand_url | append: "§" -%}
+    {%- assign related_count = related_count | plus: 1 -%}
+  {%- endfor -%}
+{%- endif -%}
+
+{%- if related_count > 0 -%}
+<section class="a-lire-aussi" aria-labelledby="a-lire-aussi-titre">
+  <h2 id="a-lire-aussi-titre">À lire aussi</h2>
+  <div class="feature-grid a-lire-aussi-grid">
+  {%- assign urls = related_items | split: "§" -%}
+  {%- for u in urls -%}
+    {%- if u == "" -%}{%- continue -%}{%- endif -%}
+    {%- assign rp = nil -%}
+    {%- for p in site.pages -%}
+      {%- if p.url == u -%}{%- assign rp = p -%}{%- break -%}{%- endif -%}
+    {%- endfor -%}
+    {%- if rp -%}
+      {%- if rp.section == "guides" -%}{%- assign rub = "Guides" -%}
+      {%- elsif rp.section == "tests" -%}{%- assign rub = "Tests" -%}
+      {%- elsif rp.section == "creations" -%}{%- assign rub = "Mes créations" -%}
+      {%- elsif rp.section == "actualites" -%}{%- assign rub = "Actualités" -%}
+      {%- elsif rp.section == "actualite-ha" -%}{%- assign rub = "Actualité HA" -%}
+      {%- elsif rp.section == "coin-bistrot" -%}{%- assign rub = "Coin bistrot" -%}
+      {%- elsif rp.github_repo -%}{%- assign rub = "Intégrations" -%}
+      {%- else -%}{%- assign rub = "Sujets" -%}
+      {%- endif -%}
+      {%- assign rtitle = rp.title | strip_html | replace: "**", "" | strip -%}
+    <a class="feature-card{% if rp.section == 'creations' %} feature-card-az{% endif %}" href="{{ rp.url | relative_url }}">
+      {%- if rp.image %}
+      <img class="card-thumb" src="{{ rp.image | relative_url }}" alt="{{ rp.cover_alt | default: rp.product | default: rtitle | escape }}" loading="lazy" width="280" height="140">
+      {%- endif %}
+      <div class="tag{% if rp.section == 'coin-bistrot' %} tag-bistrot{% endif %}{% if rp.section == 'creations' %} tag-az{% endif %}">{{ rub }}</div>
+      <h3>{{ rtitle | escape }}</h3>
+      {%- if rp.description %}
+      <p>{{ rp.description | escape }}</p>
+      {%- endif %}
+    </a>
+    {%- endif -%}
+  {%- endfor %}
+  </div>
+</section>
+{%- endif -%}

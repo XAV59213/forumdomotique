@@ -154,6 +154,9 @@
         {% include don.html %}
       {% endif %}
       {% if don_marker != "" %}{{ don_marker }}{{ don_after }}{% endif %}
+      {% if is_editorial and page.layout != "ha-release" %}
+        {% include a-lire-aussi.html %}
+      {% endif %}
       {% if is_article %}
         {% include giscus.html %}
       {% endif %}

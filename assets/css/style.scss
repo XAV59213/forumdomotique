@@ -2121,3 +2121,25 @@ figure.creation-video-figure figcaption {
   .site-search-go,
   .recherche-submit { width: 100%; }
 }
+
+
+/* ——— À lire aussi ——— */
+.a-lire-aussi {
+  margin: 2.4rem 0 0;
+  padding: 1.6rem 0 0;
+  border-top: 1px solid #e3ece6;
+}
+.a-lire-aussi h2 {
+  margin: 0 0 1rem;
+  font-size: 1.35rem;
+  color: #155799;
+}
+.a-lire-aussi-grid {
+  margin: 0;
+}
+.a-lire-aussi-grid .feature-card p {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
