@@ -1,6 +1,6 @@
 ---
 title: "Coin bistrot de la domotique"
-description: "Un coin convivial pour parler domotique : lexique Home Assistant, Marketplace, Matter, Thread et le vocabulaire du quotidien, à lire comme autour d’un café."
+description: "Un coin convivial pour parler domotique : le lexique Home Assistant, et les histoires du quotidien comme celle de l’interrupteur maudit, à lire comme autour d’un café."
 image: /contenus/coin-bistrot/lexique-home-assistant/images/cover-coin-bistrot-og.jpg
 cover_alt: "Comptoir de bistrot chaleureux, une tablette affiche un tableau de bord de maison connectée à côté d’un café et d’objets connectés."
 date: 2026-11-24

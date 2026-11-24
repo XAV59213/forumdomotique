@@ -6,6 +6,10 @@ date: 2025-12-14
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/605-quand-papa-geek-essaie-de-faire-plaisir-%C3%A0-maman-lhistoire-de-linterrupteur-maudit/">Lire et commenter sur Forum Domotique</a></p>
 
+<div class="ha-callout info" markdown="1">
+**Nouvelle version.** Cette histoire est aussi publiée dans le Coin bistrot de la domotique : [L’Histoire de l’Interrupteur Maudit]({{ '/contenus/coin-bistrot/histoire-de-linterrupteur-maudit/article.html' | relative_url }}).
+</div>
+
 
 <section class="carousel photo-carousel" data-carousel data-lightbox aria-roledescription="carrousel" aria-label="Photos de l’article (3)" tabindex="0">
 <div class="carousel-track" data-track>
