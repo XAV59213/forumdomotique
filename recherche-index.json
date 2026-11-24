@@ -1,0 +1,48 @@
+---
+layout: null
+permalink: /recherche-index.json
+sitemap: false
+robots: noindex, follow
+---
+{%- assign first = true -%}
+[
+{%- for p in site.pages -%}
+  {%- assign include_page = false -%}
+  {%- if p.section == "guides" or p.section == "tests" or p.section == "creations" or p.section == "actualites" or p.section == "actualite-ha" or p.section == "coin-bistrot" -%}
+    {%- assign include_page = true -%}
+  {%- endif -%}
+  {%- if p.url contains "/sujets/" and p.url contains "messages" -%}
+    {%- assign include_page = true -%}
+  {%- endif -%}
+  {%- if p.sitemap == false -%}{%- assign include_page = false -%}{%- endif -%}
+  {%- if p.robots contains "noindex" -%}{%- assign include_page = false -%}{%- endif -%}
+  {%- if p.layout == "redirect" -%}{%- assign include_page = false -%}{%- endif -%}
+  {%- if p.url contains "/brouillons/" -%}{%- assign include_page = false -%}{%- endif -%}
+  {%- if p.section == "actualites" and p.canonical_url -%}{%- assign include_page = false -%}{%- endif -%}
+  {%- unless p.title -%}{%- assign include_page = false -%}{%- endunless -%}
+  {%- if include_page -%}
+    {%- if p.section == "guides" -%}
+      {%- assign rubrique = "Guides" -%}
+    {%- elsif p.section == "tests" -%}
+      {%- assign rubrique = "Tests" -%}
+    {%- elsif p.section == "creations" -%}
+      {%- assign rubrique = "Mes créations" -%}
+    {%- elsif p.section == "actualites" -%}
+      {%- assign rubrique = "Actualités" -%}
+    {%- elsif p.section == "actualite-ha" -%}
+      {%- assign rubrique = "Actualité HA" -%}
+    {%- elsif p.section == "coin-bistrot" -%}
+      {%- assign rubrique = "Coin bistrot" -%}
+    {%- elsif p.github_repo -%}
+      {%- assign rubrique = "Intégrations" -%}
+    {%- else -%}
+      {%- assign rubrique = "Sujets" -%}
+    {%- endif -%}
+    {%- assign titre = p.title | strip_html | replace: "**", "" | strip -%}
+    {%- assign resume = p.description | default: p.excerpt_fr | default: "" | strip_html | strip -%}
+    {%- unless first -%},{%- endunless -%}
+    {%- assign first = false -%}
+{"titre":{{ titre | jsonify }},"rubrique":{{ rubrique | jsonify }},"url":{{ p.url | relative_url | jsonify }},"resume":{{ resume | jsonify }},"image":{% if p.image %}{{ p.image | relative_url | jsonify }}{% else %}null{% endif %}}
+  {%- endif -%}
+{%- endfor -%}
+]

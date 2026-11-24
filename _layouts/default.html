@@ -60,9 +60,6 @@
             <span class="site-brand-sub">Forum Domotique</span>
           </span>
         </a>
-        <button type="button" class="nav-toggle" aria-expanded="false" aria-controls="site-menu" aria-label="Ouvrir le menu">
-          <span></span><span></span><span></span>
-        </button>
         <div class="site-header-end" id="site-menu">
           {% include site-nav.html %}
           <a class="btn-github" href="https://github.com/XAV59213/forumdomotique">
@@ -70,6 +67,10 @@
             Voir sur GitHub
           </a>
         </div>
+        {% include site-search.html %}
+        <button type="button" class="nav-toggle" aria-expanded="false" aria-controls="site-menu" aria-label="Ouvrir le menu">
+          <span></span><span></span><span></span>
+        </button>
       </div>
     </header>
 
