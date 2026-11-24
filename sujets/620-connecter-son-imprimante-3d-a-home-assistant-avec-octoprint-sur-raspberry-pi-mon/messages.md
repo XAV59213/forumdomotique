@@ -7,6 +7,10 @@ pdf: /sujets/620-connecter-son-imprimante-3d-a-home-assistant-avec-octoprint-sur
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/620-connecter-son-imprimante-3d-%C3%A0-home-assistant-avec-octoprint-sur-raspberry-pi-mon-retour-dexp%C3%A9rience/">Lire et commenter sur Forum Domotique</a></p>
 
+<div class="ha-callout info" markdown="1">
+**Nouvelle version.** Ce guide est aussi publié dans la rubrique Guides : [Connecter son imprimante 3D à Home Assistant avec OctoPrint]({{ '/contenus/guides/connecter-imprimante-3d-home-assistant-octoprint/article.html' | relative_url }}).
+</div>
+
 
 <section class="carousel photo-carousel" data-carousel data-lightbox aria-roledescription="carrousel" aria-label="Photos de l’article (14)" tabindex="0">
 <div class="carousel-track" data-track>

@@ -27,9 +27,10 @@ permalink: /guides/
 
 Le [guide utilisateur Freebox Homexa]({{ '/contenus/guides/guide-utilisateur-freebox-homexa/article.html' | relative_url }}) est désormais dans la rubrique ci-dessus. L’[archive du sujet 4008]({{ '/sujets/4008-guide-utilisateur-freebox-homexa-de-linstallation-a-lutilisation-v28824/messages.html' | relative_url }}) reste disponible.
 
+Le guide [Connecter son imprimante 3D à Home Assistant avec OctoPrint]({{ '/contenus/guides/connecter-imprimante-3d-home-assistant-octoprint/article.html' | relative_url }}) est également publié ci-dessus. L’[archive du sujet 620]({{ '/sujets/620-connecter-son-imprimante-3d-a-home-assistant-avec-octoprint-sur-raspberry-pi-mon/messages.html' | relative_url }}) reste disponible.
+
 Quelques autres tutoriels rédigés directement dans un sujet du forum :
 
-- [OctoPrint : connecter une imprimante 3D à Home Assistant]({{ '/sujets/620-connecter-son-imprimante-3d-a-home-assistant-avec-octoprint-sur-raspberry-pi-mon/messages.html' | relative_url }})
 - [Ajouter la musique du disque Freebox à Music Assistant]({{ '/sujets/618-comment-ajouter-la-musique-stockee-sur-le-disque-dur-de-votre-freebox-a-music-as/messages.html' | relative_url }})
 
 Voir aussi les [actualités]({{ '/actualites/' | relative_url }}).
