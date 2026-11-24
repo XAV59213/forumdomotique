@@ -1605,6 +1605,10 @@ figure.creation-video-figure figcaption {
    Les paysages et les captures larges restent en pleine largeur tant que
    leur hauteur tient dans le maximum. Couvertures, carrousels, lightbox
    et archives (hors .article-body) ne sont pas concernés. */
+.article-body figure:not(.bistrot-cover):not(.apropos-figure):not(.creation-video-figure):not(.photo-slide) {
+  margin-left: 0;
+  margin-right: 0;
+}
 .article-body figure:not(.bistrot-cover):not(.apropos-figure):not(.creation-video-figure):not(.photo-slide) img,
 .article-body p img,
 .article-body li img,
