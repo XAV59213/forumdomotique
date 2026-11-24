@@ -149,6 +149,7 @@
       {% if is_editorial %}</div>{% endif %}
       {% if page.layout != "ha-release" %}
         {% include github-star.html %}
+        {% include github-activity.html %}
         {% include don.html %}
       {% endif %}
       {% if don_marker != "" %}{{ don_marker }}{{ don_after }}{% endif %}
@@ -163,6 +164,9 @@
     {% if robots_content contains "noindex" %}{% assign skip_goatcounter = true %}{% endif %}
     {% if page.github_repo or page.permalink == '/mes-integrations/' %}
     <script src="{{ '/assets/js/github-stars.js' | relative_url }}" defer></script>
+    {% endif %}
+    {% if page.github_repo %}
+    <script src="{{ '/assets/js/github-activity.js' | relative_url }}" defer></script>
     {% endif %}
     {% unless skip_goatcounter %}
     <script data-goatcounter="https://forumdomotique.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>

@@ -1,0 +1,19 @@
+{% comment %}
+  Issues et pull requests du dépôt d’une intégration (page.github_repo).
+  Le contenu public est chargé dans le navigateur via l’API GitHub, sans jeton.
+  Les titres (écrits par des tiers) sont insérés en texte, jamais en HTML.
+{% endcomment %}
+{% assign activity_repo = include.repo | default: page.github_repo %}
+{% if activity_repo %}
+<aside class="github-activity-block" data-github-activity="{{ activity_repo }}" aria-labelledby="github-activity-title-{{ activity_repo }}">
+  <h2 id="github-activity-title-{{ activity_repo }}">Issues et pull requests</h2>
+  <p class="github-activity-intro">Le suivi technique du dépôt <a href="https://github.com/XAV59213/{{ activity_repo }}" target="_blank" rel="noopener noreferrer">XAV59213/{{ activity_repo }}</a>, en complément des commentaires plus bas.</p>
+  <div class="github-activity-live" data-github-activity-live hidden></div>
+  <p class="github-activity-status" data-github-activity-status>Chargement des issues et des pull requests…</p>
+  <p class="github-activity-links">
+    <a href="https://github.com/XAV59213/{{ activity_repo }}/issues" target="_blank" rel="noopener noreferrer">Voir toutes les issues</a>
+    <a href="https://github.com/XAV59213/{{ activity_repo }}/pulls" target="_blank" rel="noopener noreferrer">Voir toutes les PR</a>
+    <a class="github-activity-new" href="https://github.com/XAV59213/{{ activity_repo }}/issues/new" target="_blank" rel="noopener noreferrer">Signaler un problème</a>
+  </p>
+</aside>
+{% endif %}

@@ -1219,6 +1219,162 @@ $ha-navy: #0b3a57;
 }
 .giscus-intro { margin: 0 0 1rem; color: #444; }
 
+.github-activity-block {
+  margin: 2rem 0 1.6rem;
+  padding: 1.15rem 1.2rem 1.3rem;
+  background: #f5f7fc;
+  border: 1px solid #e3e8f3;
+  border-radius: 12px;
+}
+.github-activity-block h2 {
+  margin: 0 0 0.5rem;
+  font-size: 1.25rem;
+  color: #1a2a4a;
+}
+.github-activity-intro { margin: 0 0 0.95rem; color: #2c3a4d; }
+.github-activity-intro a { font-weight: 600; }
+.github-activity-status { margin: 0 0 1rem; color: #4a5568; }
+.github-activity-counts {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem 1.4rem;
+  margin: 0 0 1rem;
+}
+.github-activity-count { margin: 0; color: #2c3a4d; }
+.github-activity-count-label { font-weight: 700; color: #1a2a4a; }
+.github-activity-tabs {
+  display: flex;
+  gap: 0.35rem;
+  margin: 0 0 0.85rem;
+  padding: 0.2rem;
+  background: #e8eef8;
+  border-radius: 10px;
+}
+.github-activity-tab {
+  flex: 1;
+  margin: 0;
+  padding: 0.45rem 0.7rem;
+  border: 0;
+  border-radius: 8px;
+  background: transparent;
+  color: #1a2a4a;
+  font: inherit;
+  font-weight: 700;
+  font-size: 0.95rem;
+  cursor: pointer;
+}
+.github-activity-tab[aria-selected="true"] {
+  background: #fff;
+  box-shadow: 0 1px 3px rgba(26, 42, 74, 0.12);
+}
+.github-activity-tab:focus-visible {
+  outline: 3px solid #155799;
+  outline-offset: 2px;
+}
+.github-activity-col-title {
+  display: none;
+  margin: 0 0 0.65rem;
+  font-size: 1.02rem;
+  color: #1a2a4a;
+}
+.github-activity-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.github-activity-item {
+  margin: 0 0 0.7rem;
+  padding: 0.65rem 0.7rem 0.7rem;
+  background: #fff;
+  border: 1px solid #e3e8f3;
+  border-radius: 10px;
+}
+.github-activity-item:last-child { margin-bottom: 0; }
+.github-activity-item-link {
+  display: block;
+  color: #155799;
+  text-decoration: none;
+  font-weight: 600;
+  line-height: 1.35;
+}
+.github-activity-item-link:hover { text-decoration: underline; }
+.github-activity-item-link:focus-visible {
+  outline: 3px solid #155799;
+  outline-offset: 2px;
+}
+.github-activity-num {
+  color: #5a6a80;
+  font-variant-numeric: tabular-nums;
+  font-weight: 700;
+}
+.github-activity-item-meta {
+  margin: 0.35rem 0 0;
+  color: #4a5568;
+  font-size: 0.88rem;
+}
+.github-activity-badge {
+  display: inline-block;
+  padding: 0.1rem 0.45rem;
+  border-radius: 999px;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+  line-height: 1.4;
+}
+.github-activity-badge.is-open { background: #e6f6eb; color: #1a7f37; }
+.github-activity-badge.is-closed { background: #fde8ea; color: #cf222e; }
+.github-activity-badge.is-merged { background: #f0e8fb; color: #6e40c9; }
+.github-activity-empty { margin: 0; color: #4a5568; }
+.github-activity-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem 0.8rem;
+  align-items: center;
+  margin: 1rem 0 0;
+}
+.github-activity-links a {
+  font-weight: 600;
+  color: #155799;
+}
+.github-activity-links a:focus-visible {
+  outline: 3px solid #155799;
+  outline-offset: 2px;
+}
+.github-activity-links .github-activity-new {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.42rem 0.8rem;
+  background: #155799;
+  color: #fff;
+  border-radius: 10px;
+  text-decoration: none;
+  font-size: 0.95rem;
+  line-height: 1.2;
+  box-shadow: 0 2px 6px rgba(21, 87, 153, 0.25);
+  transition: transform 0.15s ease, background 0.15s ease;
+}
+.github-activity-links .github-activity-new:hover {
+  background: #0f4478;
+  color: #fff;
+  transform: translateY(-1px);
+  text-decoration: none;
+}
+@media (max-width: 700px) {
+  .github-activity-block { padding: 1rem 1rem 1.15rem; }
+}
+@media (min-width: 800px) {
+  .github-activity-tabs { display: none; }
+  .github-activity-panels {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1.1rem;
+    align-items: start;
+  }
+  .github-activity-panel { display: block; }
+  .github-activity-col-title { display: block; }
+}
+
+
 /* Blocs de code dans les articles : défilement horizontal si ça déborde, sans couper le texte. */
 .main-content pre,
 .main-content .highlight,
