@@ -10,6 +10,7 @@ tags:
   - home-assistant
   - débuter
   - marketplace
+pdf: /contenus/guides/commencer-avec-home-assistant/commencer-avec-home-assistant.pdf
 ---
 
 # Commencer avec Home Assistant
