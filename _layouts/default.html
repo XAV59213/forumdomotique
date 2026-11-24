@@ -40,8 +40,10 @@
     {% include head-custom.html %}
   </head>
   {% assign is_article = false %}
+  {% assign is_editorial = false %}
   {% if page.section == "tests" or page.section == "guides" or page.section == "creations" or page.section == "actualites" or page.section == "actualite-ha" or page.section == "coin-bistrot" %}
     {% assign is_article = true %}
+    {% assign is_editorial = true %}
   {% endif %}
   {% if page.url contains "/sujets/" and page.url contains "messages" %}
     {% assign is_article = true %}
@@ -142,7 +144,9 @@
         {% endif %}
       {% endif %}
       {% include pdf-download.html body=don_before %}
+      {% if is_editorial %}<div class="article-body">{% endif %}
       {{ don_before }}
+      {% if is_editorial %}</div>{% endif %}
       {% if page.layout != "ha-release" %}
         {% include github-star.html %}
         {% include don.html %}

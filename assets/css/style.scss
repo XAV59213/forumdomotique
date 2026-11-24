@@ -1600,6 +1600,33 @@ figure.creation-video-figure figcaption {
 }
 .ha-article-head .auteur-byline { margin: 0 0 0.85rem; }
 
+/* ——— Images du corps des articles ——— */
+/* Les portraits ne prennent plus tout l’écran, sans recadrer ni déformer.
+   Les paysages et les captures larges restent en pleine largeur tant que
+   leur hauteur tient dans le maximum. Couvertures, carrousels, lightbox
+   et archives (hors .article-body) ne sont pas concernés. */
+.article-body figure:not(.bistrot-cover):not(.apropos-figure):not(.creation-video-figure):not(.photo-slide) img,
+.article-body p img,
+.article-body li img,
+.article-body td img {
+  display: block;
+  max-width: 100%;
+  width: auto;
+  height: auto;
+  max-height: 420px;
+  object-fit: contain;
+  margin-left: auto;
+  margin-right: auto;
+}
+@media screen and (min-width: 42em) {
+  .article-body figure:not(.bistrot-cover):not(.apropos-figure):not(.creation-video-figure):not(.photo-slide) img,
+  .article-body p img,
+  .article-body li img,
+  .article-body td img {
+    max-height: 520px;
+  }
+}
+
 /* ——— Coin bistrot de la domotique ——— */
 .feature-card .tag-bistrot,
 .tag-bistrot {
