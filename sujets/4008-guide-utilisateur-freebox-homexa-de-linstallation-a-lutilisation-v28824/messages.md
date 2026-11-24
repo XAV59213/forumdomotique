@@ -10,6 +10,10 @@ pdf: /sujets/4008-guide-utilisateur-freebox-homexa-de-linstallation-a-lutilisati
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/4008-guide-utilisateur-freebox-homexa-de-linstallation-%C3%A0-lutilisation-v28824/">Lire et commenter sur Forum Domotique</a> · <a href="https://github.com/XAV59213/freebox_homexa">Dépôt HACS : Freebox Homexa</a></p>
 
+<div class="ha-callout info" markdown="1">
+**Nouvelle version.** Ce guide est aussi publié dans la rubrique Guides : [Guide utilisateur Freebox Homexa]({{ '/contenus/guides/guide-utilisateur-freebox-homexa/article.html' | relative_url }}).
+</div>
+
 # Guide utilisateur Freebox Homexa — de l’installation à l’utilisation (v28.8.24)
 
 <!-- Bannière reconstituée (l’original hx4wox.jpg est introuvable) à partir des visuels du dépôt et des photos d’appairage. -->
