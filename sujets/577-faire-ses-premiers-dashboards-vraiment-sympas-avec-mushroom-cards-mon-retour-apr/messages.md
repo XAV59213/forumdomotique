@@ -4,10 +4,13 @@ description: "Je me suis dit : « encore une mode qui va durer trois mois ». Et
 image: /sujets/577-faire-ses-premiers-dashboards-vraiment-sympas-avec-mushroom-cards-mon-retour-apr/images/index.png
 date: 2025-12-01
 ---
-{% raw %}
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/577-faire-ses-premiers-dashboards-vraiment-sympas-avec-mushroom-cards-mon-retour-apr%C3%A8s-plusieurs-mois-dutilisation-intensive-sur-home-assistant/">Lire et commenter sur Forum Domotique</a></p>
 
+<div class="ha-callout info" markdown="1">
+**Nouvelle version.** Ce retour est aussi publié dans le Coin bistrot de la domotique, avec l’installation mise à jour pour le Marketplace : [Faire ses premiers dashboards vraiment sympas avec Mushroom Cards]({{ '/contenus/coin-bistrot/faire-ses-premiers-dashboards-mushroom-cards/article.html' | relative_url }}).
+</div>
 
+{% raw %}
 <section class="carousel photo-carousel" data-carousel data-lightbox aria-roledescription="carrousel" aria-label="Photos de l’article (12)" tabindex="0">
 <div class="carousel-track" data-track>
 <figure class="photo-slide" data-slide>
