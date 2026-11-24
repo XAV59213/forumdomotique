@@ -160,7 +160,7 @@ Sur les captures de novembre 2025, le capteur de fuites s’affiche encore en **
 > **Cartes requises** (via le Marketplace) :
 >
 > - [Mushroom Cards](https://github.com/piitaya/lovelace-mushroom)
-> - [Flex Horseshoe Card](https://github.com/thomasloven/lovelace-flex-horseshoe-card)
+> - [Flex Horseshoe Card](https://github.com/AmoebeLabs/flex-horseshoe-card)
 > - [ApexCharts Card](https://github.com/RomRider/apexcharts-card)
 > - [Mini Graph Card](https://github.com/kalkih/mini-graph-card)
 

@@ -1,5 +1,5 @@
 {% assign fsrc = page.dir | append: include.src | relative_url %}
 <figure class="ha-figure">
-  <a href="{{ fsrc }}" target="_blank" rel="noopener"><img src="{{ fsrc }}" alt="{{ include.caption | escape }}" loading="lazy"></a>
+  <a href="{{ fsrc }}" target="_blank" rel="noopener"><img src="{{ fsrc }}" alt="{{ include.caption | escape }}" loading="lazy" decoding="async"></a>
   <figcaption>{{ include.caption }} <span class="credit">Image : <a href="{{ page.release_url }}">Home Assistant / Nabu Casa</a></span></figcaption>
 </figure>

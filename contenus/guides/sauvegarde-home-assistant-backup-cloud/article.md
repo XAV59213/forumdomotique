@@ -158,7 +158,7 @@ L'avantage, c'est que c'est entièrement local, donc ultra-rapide, sans dépendr
 
 Pour compléter le tableau et respecter le principe 3-2-1, j'utilise aussi le cloud Nabu Casa pour 7,50 € par mois, surtout depuis que j'ai l'abonnement pour l'accès distant. C'est la solution officielle, chiffrée de bout en bout, et ça envoie une copie sur leurs serveurs sans que je m'en occupe.
 
-![](images/favicon.ico)
+![Icône de Nabu Casa](images/favicon.ico)
 <!-- source : https://ec60fa24.nabucasa-com.pages.dev/favicon.ico -->
 
 ##### Nabu Casa
@@ -262,7 +262,7 @@ mode: single
 
 Même avec ces options natives, certaines solutions communautaires restent populaires pour leurs fonctionnalités plus avancées. Par exemple, l'add-on **Home Assistant Google Drive Backup** de sabeechen, disponible sur GitHub, est une référence depuis des années. Il automatise non seulement la création et l'upload vers Google Drive, mais gère aussi une rétention générationnelle fine : quotidiens, hebdomadaires, mensuels et annuels, avec des options pour marquer certains backups comme intouchables.
 
-![](images/favicon.svg)
+![Icône de GitHub](images/favicon.svg)
 <!-- source : https://github.githubassets.com/favicons/favicon.svg -->
 
 ##### GitHub

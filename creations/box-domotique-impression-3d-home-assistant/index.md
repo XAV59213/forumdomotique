@@ -157,7 +157,7 @@ Dans mon cas, le ventilo Noctua était plug and play sur Raspberry Pi 4B ; cela
 
 **Pour les LEDs :** Flashez le D1 Mini avec [ESPHOME FLASHER](https://install.wled.me/).
 
-a. Installer ESPhome Flasher ▶ [https://github.com/esphome/esphome-fl...](https://github.com/esphome/esphome-fl)
+a. Installer ESPhome Flasher ▶ [https://github.com/esphome/esphome-flasher](https://github.com/esphome/esphome-flasher)
 
 b. Ouvrir l'application ESPhome Flasher
 

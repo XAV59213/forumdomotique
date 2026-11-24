@@ -12,7 +12,7 @@
 {% assign gsrc = page.dir | append: g.src | relative_url %}
 <figure class="photo-slide" data-slide>
   <a href="{{ gsrc }}" data-full="{{ gsrc }}" data-alt="{{ g.caption | escape }} (Image : Home Assistant / Nabu Casa)" aria-label="Agrandir l’image {{ forloop.index | plus: 1 }} : {{ g.caption | escape }}">
-    <img src="{{ gsrc }}" alt="{{ g.caption | escape }}" loading="lazy">
+    <img src="{{ gsrc }}" alt="{{ g.caption | escape }}" loading="lazy" decoding="async">
   </a>
   <figcaption>{{ g.caption }} <span class="credit">Image : <a href="{{ page.release_url }}">Home Assistant / Nabu Casa</a></span></figcaption>
 </figure>

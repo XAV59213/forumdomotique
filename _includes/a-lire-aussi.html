@@ -136,7 +136,7 @@
       {%- assign rtitle = rp.title | strip_html | replace: "**", "" | strip -%}
     <a class="feature-card{% if rp.section == 'creations' %} feature-card-az{% endif %}" href="{{ rp.url | relative_url }}">
       {%- if rp.image %}
-      <img class="card-thumb" src="{{ rp.image | relative_url }}" alt="{{ rp.cover_alt | default: rp.product | default: rtitle | escape }}" loading="lazy" width="280" height="140">
+      <img class="card-thumb" src="{{ rp.image | relative_url }}" alt="{{ rp.cover_alt | default: rp.product | default: rtitle | escape }}" loading="lazy" decoding="async" width="280" height="140">
       {%- endif %}
       <div class="tag{% if rp.section == 'coin-bistrot' %} tag-bistrot{% endif %}{% if rp.section == 'creations' %} tag-az{% endif %}">{{ rub }}</div>
       <h3>{{ rtitle | escape }}</h3>
