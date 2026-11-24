@@ -18,6 +18,15 @@ Ici, je rassemble mes publications pour les lire confortablement, et je renvoie 
 <div class="hero-frame">
 <div class="carousel-track" data-track>
 <article class="hero-slide" data-slide>
+  <img src="{{ '/contenus/guides/commencer-avec-home-assistant/images/cover-commencer-home-assistant-og.jpg' | relative_url }}" alt="Sur une table en bois, un petit boîtier blanc, une tasse de café, des clés et un câble réseau, près d’une plante, dans un salon lumineux." width="1200" height="630" loading="eager">
+  <div class="hero-caption">
+    <div class="tag">Guide</div>
+    <h2><a href="contenus/guides/commencer-avec-home-assistant/article.html">Commencer avec Home Assistant</a></h2>
+    <p class="excerpt">Un parcours pour bien démarrer : ce qu’est Home Assistant, une démo sans rien installer, puis l’installation, les premiers objets et les automatisations.</p>
+    <a class="hero-btn" href="contenus/guides/commencer-avec-home-assistant/article.html">Lire le guide</a>
+  </div>
+</article>
+<article class="hero-slide" data-slide>
   <img src="{{ '/sujets/4074-freebox-homexa-est-dans-hacs-par-defaut-et-pas-mal-de-nouveautes/images/IMG_7808.png' | relative_url }}" alt="Carte Freebox Homexa dans un tableau de bord Home Assistant" width="1200" height="630" loading="eager">
   <div class="hero-caption">
     <div class="tag">HACS officiel</div>

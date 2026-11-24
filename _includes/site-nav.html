@@ -1,5 +1,6 @@
 <nav class="site-nav" aria-label="Sections du site">
   <a href="{{ '/' | relative_url }}"{% if page.home %} aria-current="page"{% endif %}>Accueil</a>
+  <a href="{{ '/contenus/guides/commencer-avec-home-assistant/article.html' | relative_url }}"{% if page.url contains '/contenus/guides/commencer-avec-home-assistant/' %} aria-current="page"{% endif %}>Débuter</a>
   <a href="{{ '/mes-integrations/' | relative_url }}"{% if page.permalink == '/mes-integrations/' %} aria-current="page"{% endif %}>Mes intégrations</a>
   <a href="{{ '/tests-produits/' | relative_url }}"{% if page.permalink == '/tests-produits/' %} aria-current="page"{% endif %}>Tests produits</a>
   <a href="{{ '/guides/' | relative_url }}"{% if page.permalink == '/guides/' %} aria-current="page"{% endif %}>Guides</a>
