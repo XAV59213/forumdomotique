@@ -1,16 +1,6 @@
 # Cartes du bloc « Prochains tests à venir » (accueil et page Tests produits).
 # Ne jamais y mettre d’URL vers un brouillon, de numéro de suivi ni de contact.
 # Pour retirer un test une fois publié, supprimer (ou commenter) sa carte.
-- id: nuki-smart-lock-pro-5
-  title: "Nuki Smart Lock Pro 5e génération, bientôt en test"
-  tag: "Début décembre"
-  brand: Nuki
-  product: "Smart Lock Pro 5e génération"
-  excerpt: "Je m’apprête à tester la serrure Nuki Smart Lock Pro de 5e génération, avec le Keypad 2 NFC blanc et sa détection de vol, le Door Sensor et le Fob. Deux volets à venir : l’installation et les usages au quotidien, puis l’intégration dans Home Assistant via Matter et Thread. Publication visée début décembre."
-  image: /assets/images/prochains-tests/nuki-smart-lock-pro-keypad-2-nfc-blanc.jpg
-  image_alt: "Nuki Smart Lock Pro de 5e génération et Keypad 2 NFC blanc, visuel officiel"
-  credit: "© Nuki"
-  # pas de champ url : la carte n’est pas un lien
 - id: netatmo-station-meteo
   title: "Station météo Netatmo Original, bientôt en test"
   tag: "Bientôt"

@@ -18,6 +18,15 @@ Ici, je rassemble mes publications pour les lire confortablement, et je renvoie 
 <div class="hero-frame">
 <div class="carousel-track" data-track>
 <article class="hero-slide" data-slide>
+  <img src="{{ '/contenus/tests/test-nuki-smart-lock-pro-5-installation-usages/images/cover-nuki-smart-lock-pro-5-og.jpg' | relative_url }}" alt="Nuki Smart Lock Pro de 5e génération installée à l’intérieur d’une porte blanche, anneau lumineux bleu allumé, sous la poignée." width="1200" height="630" loading="eager">
+  <div class="hero-caption">
+    <div class="tag">Test produit</div>
+    <h2><a href="contenus/tests/test-nuki-smart-lock-pro-5-installation-usages/article.html">Test Nuki Smart Lock Pro 5e génération</a></h2>
+    <p class="excerpt">Installation, Keypad, Door Sensor, Fob, Auto Unlock et détection de vol : mon premier volet d’essai, au quotidien.</p>
+    <a class="hero-btn" href="contenus/tests/test-nuki-smart-lock-pro-5-installation-usages/article.html">Lire le test</a>
+  </div>
+</article>
+<article class="hero-slide" data-slide>
   <img src="{{ '/contenus/guides/commencer-avec-home-assistant/images/cover-commencer-home-assistant-og.jpg' | relative_url }}" alt="Sur une table en bois, un petit boîtier blanc, une tasse de café, des clés et un câble réseau, près d’une plante, dans un salon lumineux." width="1200" height="630" loading="eager">
   <div class="hero-caption">
     <div class="tag">Guide</div>
