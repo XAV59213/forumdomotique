@@ -72,8 +72,8 @@ pdf: /contenus/tests/test-nuki-smart-lock-pro-5-installation-usages/test-nuki-sm
   <figcaption>Le Door Sensor, avec le capteur et l’aimant.</figcaption>
 </figure>
 <figure class="photo-slide" data-slide>
-  <a href="images/64-door-sensor-pose.jpg" data-full="images/64-door-sensor-pose.jpg" data-alt="Capteur et aimant blancs Nuki posés en haut du cadre, et deux éléments blancs face à face sur le bandeau, en bas." aria-label="Agrandir : la pose du Door Sensor">
-    <img src="images/64-door-sensor-pose.jpg" alt="Capteur et aimant blancs Nuki posés en haut du cadre, et deux éléments blancs face à face sur le bandeau, en bas." loading="lazy">
+  <a href="images/64-door-sensor-pose.jpg" data-full="images/64-door-sensor-pose.jpg" data-alt="Capteur et aimant blancs Nuki posés en haut du cadre d’une fenêtre PVC." aria-label="Agrandir : la pose du Door Sensor">
+    <img src="images/64-door-sensor-pose.jpg" alt="Capteur et aimant blancs Nuki posés en haut du cadre d’une fenêtre PVC." loading="lazy">
   </a>
   <figcaption>La pose du Door Sensor.</figcaption>
 </figure>
@@ -480,20 +480,14 @@ L’application affiche la serrure déverrouillée, une fois avec « Porte ferm�
 Ces mêmes états « Porte ouverte » et « Porte fermée » apparaissent aussi dans le journal d’activité (voir la capture dans la section sur la détection de vol).
 
 <figure>
-<img src="images/64-door-sensor-pose.jpg" alt="Fenêtre PVC avec store : capteur et aimant blancs Nuki en haut du cadre, et deux éléments blancs face à face sur le bandeau, en bas à droite.">
-<figcaption>La pose sur la fenêtre : le capteur et l’aimant en haut du cadre, et le bandeau en bas, près de la poignée.</figcaption>
+<img src="images/64-door-sensor-pose.jpg" alt="Fenêtre PVC avec store : capteur et aimant blancs Nuki en haut du cadre.">
+<figcaption>La pose sur la fenêtre : le capteur et l’aimant en haut du cadre.</figcaption>
 </figure>
 
-<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:1rem;margin:1.2rem 0;">
-<figure style="margin:0;">
+<figure>
 <img src="images/65-door-sensor-pose-haut.jpg" alt="Détail du capteur Nuki Door Sensor et de l’aimant blancs, collés en haut du cadre d’une fenêtre PVC.">
 <figcaption>Le capteur sur le cadre et l’aimant sur l’ouvrant, en haut de la fenêtre.</figcaption>
 </figure>
-<figure style="margin:0;">
-<img src="images/66-door-sensor-pose-bas.jpg" alt="Détail de deux éléments blancs face à face sur le bandeau de la fenêtre, près de la poignée.">
-<figcaption>Le bandeau en bas, près de la poignée.</figcaption>
-</figure>
-</div>
 
 Dans l’écran « Gérer le Nuki Door Sensor », le niveau de la batterie s’affiche sur **OK**, et la version du firmware sur **1.3.1**.
 
