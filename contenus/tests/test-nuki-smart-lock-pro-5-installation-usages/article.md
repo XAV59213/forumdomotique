@@ -72,12 +72,6 @@ pdf: /contenus/tests/test-nuki-smart-lock-pro-5-installation-usages/test-nuki-sm
   <figcaption>Le Door Sensor, avec le capteur et l’aimant.</figcaption>
 </figure>
 <figure class="photo-slide" data-slide>
-  <a href="images/64-door-sensor-pose.jpg" data-full="images/64-door-sensor-pose.jpg" data-alt="Capteur et aimant blancs Nuki posés en haut du cadre d’une fenêtre PVC." aria-label="Agrandir : la pose du Door Sensor">
-    <img src="images/64-door-sensor-pose.jpg" alt="Capteur et aimant blancs Nuki posés en haut du cadre d’une fenêtre PVC." loading="lazy">
-  </a>
-  <figcaption>La pose du Door Sensor.</figcaption>
-</figure>
-<figure class="photo-slide" data-slide>
   <a href="images/27-fob-en-main.jpg" data-full="images/27-fob-en-main.jpg" data-alt="Fob Nuki noir tenu dans la main, bouton visible, serrure installée en arrière-plan." aria-label="Agrandir : le Fob dans la main">
     <img src="images/27-fob-en-main.jpg" alt="Fob Nuki noir tenu dans la main, bouton visible, serrure installée en arrière-plan." loading="lazy">
   </a>
@@ -478,11 +472,6 @@ L’application affiche la serrure déverrouillée, une fois avec « Porte ferm�
 </div>
 
 Ces mêmes états « Porte ouverte » et « Porte fermée » apparaissent aussi dans le journal d’activité (voir la capture dans la section sur la détection de vol).
-
-<figure>
-<img src="images/64-door-sensor-pose.jpg" alt="Fenêtre PVC avec store : capteur et aimant blancs Nuki en haut du cadre.">
-<figcaption>La pose sur la fenêtre : le capteur et l’aimant en haut du cadre.</figcaption>
-</figure>
 
 <figure>
 <img src="images/65-door-sensor-pose-haut.jpg" alt="Détail du capteur Nuki Door Sensor et de l’aimant blancs, collés en haut du cadre d’une fenêtre PVC.">
