@@ -12,6 +12,7 @@ tags:
   - serrure
   - domotique
   - sécurité
+pdf: /contenus/tests/test-nuki-smart-lock-pro-5-installation-usages/test-nuki-smart-lock-pro-5-installation-usages.pdf
 ---
 
 # Test Nuki Smart Lock Pro 5e génération : l’installation et les usages au quotidien
