@@ -47,11 +47,6 @@ jobs:
           git add -u scripts/_pending .github/workflows/installer-retouche-65.yml || true
           git config user.name "XAV59213"
           git config user.email "153436936+XAV59213@users.noreply.github.com"
-          git commit -m "$(cat <<'EOF'
-Retoucher le joint PVC et les traces autour de l’angle sur la photo du Door Sensor en haut de la fenêtre. [install-65]
-
-Le capteur, l’aimant, le store et le cadrage restent inchangés.
-EOF
-)"
+          git commit -m "Retoucher le joint PVC et les traces autour de l’angle sur la photo du Door Sensor en haut de la fenêtre. [install-65]"
           git pull --rebase --autostash origin main
           git push
