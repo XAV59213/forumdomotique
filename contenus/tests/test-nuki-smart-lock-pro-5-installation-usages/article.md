@@ -23,6 +23,7 @@ shop_links:
     url: "https://nuki.io/fr-fr/produits/door-sensor"
   - label: "Fob"
     url: "https://nuki.io/fr-fr/produits/fob"
+forum_url: https://forumdomotique.com/forums/topic/4101-test-nuki-smart-lock-pro-5e-g%C3%A9n%C3%A9ration-linstallation-et-les-usages-au-quotidien/
 ---
 
 # Test Nuki Smart Lock Pro 5e génération : l’installation et les usages au quotidien

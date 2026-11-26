@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-21T13:25:22.625562+01:00",
+  "generated": "2026-11-26T19:06:30.007553+01:00",
   "author": "XAV59213",
   "profile": "https://forumdomotique.com/profile/106-xav59213/",
-  "forum_posts": 387,
-  "forum_topics": 216,
-  "topics_started": 52,
+  "forum_posts": 388,
+  "forum_topics": 217,
+  "topics_started": 53,
   "cms_articles": 10,
   "other_commented_articles": 2,
   "cms_comments": 37,
@@ -2422,6 +2422,17 @@
       "url": "https://forumdomotique.com/forums/topic/4098-%F0%9F%94%90%F0%9F%8C%A6%EF%B8%8F-deux-tests-%C3%A0-venir-nuki-smart-lock-pro-et-station-m%C3%A9t%C3%A9o-netatmo/",
       "folder": "sujets/4098-deux-tests-a-venir-nuki-smart-lock-pro-et-station-meteo-netatmo",
       "n_images": 2,
+      "started_by_xavier": true
+    },
+    {
+      "topic_id": "4101",
+      "title": "Test Nuki Smart Lock Pro 5e génération : l’installation et les usages au quotidien",
+      "category": "Vos Tests & Retours d’expérience",
+      "n_posts": 1,
+      "first_date": "2026-11-26T18:01:12Z",
+      "url": "https://forumdomotique.com/forums/topic/4101-test-nuki-smart-lock-pro-5e-g%C3%A9n%C3%A9ration-linstallation-et-les-usages-au-quotidien/",
+      "folder": "sujets/4101-test-nuki-smart-lock-pro-5e-generation-linstallation-et-les-usages-au-quotidien",
+      "n_images": 0,
       "started_by_xavier": true
     }
   ],
