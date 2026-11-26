@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-26T19:06:30.007553+01:00",
+  "generated": "2026-11-26T20:43:43.092005+01:00",
   "author": "XAV59213",
   "profile": "https://forumdomotique.com/profile/106-xav59213/",
-  "forum_posts": 388,
-  "forum_topics": 217,
-  "topics_started": 53,
+  "forum_posts": 389,
+  "forum_topics": 218,
+  "topics_started": 54,
   "cms_articles": 10,
   "other_commented_articles": 2,
   "cms_comments": 37,
@@ -2432,6 +2432,17 @@
       "first_date": "2026-11-26T18:01:12Z",
       "url": "https://forumdomotique.com/forums/topic/4101-test-nuki-smart-lock-pro-5e-g%C3%A9n%C3%A9ration-linstallation-et-les-usages-au-quotidien/",
       "folder": "sujets/4101-test-nuki-smart-lock-pro-5e-generation-linstallation-et-les-usages-au-quotidien",
+      "n_images": 0,
+      "started_by_xavier": true
+    },
+    {
+      "topic_id": "4102",
+      "title": "Home Assistant 2026.12 (bêta) : un dialogue de volets qu’on attrape, des boutons multi-appuis et Home Assistant Link",
+      "category": "Home Assistant",
+      "n_posts": 1,
+      "first_date": "2026-11-26T19:39:22Z",
+      "url": "https://forumdomotique.com/forums/topic/4102-home-assistant-202612-b%C3%AAta-un-dialogue-de-volets-quon-attrape-des-boutons-multi-appuis-et-home-assistant-link/",
+      "folder": "sujets/4102-home-assistant-202612-beta-un-dialogue-de-volets-quon-attrape-des-boutons-multi",
       "n_images": 0,
       "started_by_xavier": true
     }

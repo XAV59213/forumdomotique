@@ -14,6 +14,7 @@ month: Décembre 2026
 planned_fr: 2 décembre 2026
 release_url: https://rc.home-assistant.io/blog/2026/11/25/release-202612/
 official_title: '2026.12 Beta: Under cover 🪟'
+forum_url: https://forumdomotique.com/forums/topic/4102-home-assistant-202612-b%C3%AAta-un-dialogue-de-volets-quon-attrape-des-boutons-multi-appuis-et-home-assistant-link/
 gallery:
 - src: images/cover-more-info.webp
   caption: 'Le nouveau dialogue des volets : le dessin du volet sert de commande.'
