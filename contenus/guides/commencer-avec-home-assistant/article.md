@@ -1,6 +1,6 @@
 ---
 title: "Commencer avec Home Assistant"
-description: "Un parcours pour bien démarrer avec Home Assistant en 2026 : installer, relier ses premiers objets, automatiser, et s’appuyer sur les guides, le lexique et les intégrations déjà présents sur ce site."
+description: "Un parcours pour bien démarrer avec Home Assistant : installer, relier ses premiers objets, automatiser, et s’appuyer sur les guides déjà présents sur ce site."
 image: /contenus/guides/commencer-avec-home-assistant/images/cover-commencer-home-assistant-og.jpg
 cover_alt: "Sur une table en bois, un petit boîtier blanc, une tasse de café, des clés et un câble réseau, près d’une plante, dans un salon lumineux."
 date: 2026-11-24

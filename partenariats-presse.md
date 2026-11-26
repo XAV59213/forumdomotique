@@ -1,6 +1,6 @@
 ---
 title: "Partenariats & presse"
-description: "Partenariats et presse de XAV59213 : tests de matériel de maison connectée en conditions réelles, intégrations Home Assistant, et comment me proposer un produit à tester."
+description: "Partenariats et presse de XAV59213 : tests de matériel de maison connectée en conditions réelles, et comment me proposer un produit à tester."
 image: /assets/images/og-partenariats-presse.png
 date: 2026-11-21
 permalink: /partenariats-presse/

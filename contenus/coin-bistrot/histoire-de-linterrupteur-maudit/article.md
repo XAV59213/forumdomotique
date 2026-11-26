@@ -1,6 +1,6 @@
 ---
 title: "Quand Papa Geek Essaie de Faire Plaisir à Maman : L’Histoire de l’Interrupteur Maudit"
-description: "Papa geek installe un interrupteur connecté pour appeler tout le monde à table. L’histoire, un peu maudite, d’une automation Home Assistant devenue légendaire à la maison."
+description: "Papa geek installe un interrupteur connecté pour appeler tout le monde à table : l’histoire, un peu maudite, d’une automation Home Assistant."
 image: /contenus/coin-bistrot/histoire-de-linterrupteur-maudit/images/cover-interrupteur-maudit-og.jpg
 cover_alt: "Comptoir de bistrot, un café et une tablette de maison connectée, et au mur un interrupteur double qui brille d’un orange un peu trop vif."
 date: 2025-12-14

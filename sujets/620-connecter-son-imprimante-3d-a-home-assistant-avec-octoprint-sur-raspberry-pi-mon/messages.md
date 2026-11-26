@@ -4,6 +4,8 @@ description: "Depuis que j'ai plongé plus sérieusement dans l'impression 3D il
 image: /sujets/620-connecter-son-imprimante-3d-a-home-assistant-avec-octoprint-sur-raspberry-pi-mon/images/og-partage.jpg
 date: 2025-12-21
 pdf: /sujets/620-connecter-son-imprimante-3d-a-home-assistant-avec-octoprint-sur-raspberry-pi-mon/sujet-620.pdf
+canonical_url: https://xav59213.github.io/forumdomotique/contenus/guides/connecter-imprimante-3d-home-assistant-octoprint/article.html
+sitemap: false
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/620-connecter-son-imprimante-3d-%C3%A0-home-assistant-avec-octoprint-sur-raspberry-pi-mon-retour-dexp%C3%A9rience/">Lire et commenter sur Forum Domotique</a></p>
 

@@ -1,6 +1,6 @@
 ---
 title: "Comment renommer proprement ses instances Zigbee2MQTT dans le menu latéral de Home Assistant (et arrêter d’avoir dix fois « Zigbee2MQTT » qui se battent en duel)"
-description: "Plusieurs instances Zigbee2MQTT, et dix fois le même nom dans le menu latéral de Home Assistant : comment les renommer proprement, avec Ingress, pour retrouver en un clic le salon, l’étage ou le jardin."
+description: "Plusieurs instances Zigbee2MQTT portent le même nom dans le menu de Home Assistant : comment les renommer proprement, avec Ingress, pour s’y retrouver."
 image: /contenus/coin-bistrot/renommer-instances-zigbee2mqtt/images/cover-renommer-z2m-og.jpg
 cover_alt: "Comptoir de bistrot, un café, une clé USB Zigbee et une tablette dont le menu affiche clairement Z2M Salon, Z2M Étage, Z2M Jardin et Z2M Grange."
 date: 2025-11-23

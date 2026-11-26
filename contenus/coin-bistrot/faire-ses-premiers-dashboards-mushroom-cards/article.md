@@ -1,6 +1,6 @@
 ---
 title: "Faire ses premiers dashboards vraiment sympas avec Mushroom Cards : mon retour après plusieurs mois d’utilisation intensive sur Home Assistant"
-description: "Je me suis dit : « encore une mode qui va durer trois mois ». Six mois plus tard, pratiquement 95 % de mon dashboard Home Assistant est fait avec Mushroom Cards. Voici mon retour, sans langue de bois."
+description: "Six mois après avoir installé Mushroom Cards « juste pour voir », presque tout mon dashboard Home Assistant s’appuie dessus. Mon retour, sans langue de bois."
 image: /contenus/coin-bistrot/faire-ses-premiers-dashboards-mushroom-cards/images/cover-mushroom-cards-og.jpg
 cover_alt: "Comptoir de bistrot, une tasse de café fumante et une tablette aux cartes arrondies colorées, comme un dashboard Mushroom."
 date: 2025-12-01

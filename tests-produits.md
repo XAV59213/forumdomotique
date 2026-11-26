@@ -1,6 +1,6 @@
 ---
 title: "Tests produits"
-description: "Tests et avis de XAV59213 sur des produits domotiques : serrure Nuki Smart Lock Pro 5e génération, tondeuse Navimow, serrure Aqara U200, coordinateur SMLight SLZB-MR4U, et d’autres à venir."
+description: "Tests et avis de XAV59213 : Nuki Smart Lock Pro 5e génération, tondeuse Navimow, serrure Aqara U200, coordinateur SMLight SLZB-MR4U, et d’autres à venir."
 image: /assets/images/og-default.png
 date: 2026-11-20
 permalink: /tests-produits/

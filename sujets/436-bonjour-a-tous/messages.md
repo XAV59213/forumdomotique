@@ -5,6 +5,8 @@ image: /assets/images/vignettes-themes/presentation.jpg
 
 date: 2025-10-09
 cover_alt: "Vignette de rubrique Présentation / Communauté — XAV59213, Forum Domotique"
+seo:
+  title: "Bonjour à tous (sujet 436) | XAV59213"
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/436-bonjour-%C3%A0-tous-%F0%9F%91%8B/">Lire et commenter sur Forum Domotique</a></p>
 

@@ -1,6 +1,6 @@
 ---
 title: "Test Nuki Smart Lock Pro 5e génération : l’installation et les usages au quotidien"
-description: "J’ai installé la Nuki Smart Lock Pro de 5e génération, avec le Keypad 2 NFC blanc, le Door Sensor et le Fob : montage, application, Auto Unlock, mode Nuit et détection de vol, au quotidien."
+description: "J’ai installé la Nuki Smart Lock Pro de 5e génération, avec le Keypad 2 NFC, le Door Sensor et le Fob : montage, application et usages au quotidien."
 image: /contenus/tests/test-nuki-smart-lock-pro-5-installation-usages/images/cover-nuki-smart-lock-pro-5-og.jpg
 cover_alt: "Nuki Smart Lock Pro de 5e génération installée à l’intérieur d’une porte blanche, anneau lumineux bleu allumé, sous la poignée."
 date: 2026-11-25

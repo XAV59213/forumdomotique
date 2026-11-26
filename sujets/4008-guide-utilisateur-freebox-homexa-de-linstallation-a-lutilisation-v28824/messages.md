@@ -7,6 +7,8 @@ date: 2026-09-27
 github_repo: freebox_homexa
 cover_alt: "Freebox Homexa — Guide utilisateur, de l’installation à l’utilisation"
 pdf: /sujets/4008-guide-utilisateur-freebox-homexa-de-linstallation-a-lutilisation-v28824/guide-freebox-homexa-v28824.pdf
+canonical_url: https://xav59213.github.io/forumdomotique/contenus/guides/guide-utilisateur-freebox-homexa/article.html
+sitemap: false
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/4008-guide-utilisateur-freebox-homexa-de-linstallation-%C3%A0-lutilisation-v28824/">Lire et commenter sur Forum Domotique</a> · <a href="https://github.com/XAV59213/freebox_homexa">Dépôt HACS : Freebox Homexa</a></p>
 

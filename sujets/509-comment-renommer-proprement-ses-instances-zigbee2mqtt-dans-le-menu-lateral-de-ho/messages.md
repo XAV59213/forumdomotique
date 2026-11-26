@@ -3,6 +3,8 @@ title: "Comment renommer proprement ses instances Zigbee2MQTT dans le menu laté
 description: "Cela fait maintenant plusieurs années que je tourne avec plusieurs instances Zigbee2MQTT sous Home Assistant. Au début une seule suffisait largement, puis…"
 image: /sujets/509-comment-renommer-proprement-ses-instances-zigbee2mqtt-dans-le-menu-lateral-de-ho/images/og-partage.jpg
 date: 2025-11-23
+canonical_url: https://xav59213.github.io/forumdomotique/contenus/coin-bistrot/renommer-instances-zigbee2mqtt/article.html
+sitemap: false
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/509-comment-renommer-proprement-ses-instances-zigbee2mqtt-dans-le-menu-lat%C3%A9ral-de-home-assistant-et-arr%C3%AAter-davoir-dix-fois-%C2%AB-zigbee2mqtt-%C2%BB-qui-se-battent-en-duel/">Lire et commenter sur Forum Domotique</a></p>
 

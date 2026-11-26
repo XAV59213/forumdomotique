@@ -1,6 +1,6 @@
 ---
 title: "Le lexique Home Assistant"
-description: "Le vocabulaire de Home Assistant, expliqué simplement : Marketplace, applications, Matter, Thread, automations, helpers, cartes, et les mots que j’emploie au quotidien."
+description: "Le vocabulaire de Home Assistant, expliqué simplement : Marketplace, Matter, Thread, automations, helpers, cartes, et les mots du quotidien."
 image: /contenus/coin-bistrot/lexique-home-assistant/images/cover-coin-bistrot-og.jpg
 cover_alt: "Comptoir de bistrot chaleureux, une tablette affiche un tableau de bord de maison connectée à côté d’un café et d’objets connectés."
 date: 2026-11-24

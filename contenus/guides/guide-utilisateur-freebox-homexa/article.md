@@ -1,6 +1,6 @@
 ---
 title: "Guide utilisateur Freebox Homexa : de l’installation à l’utilisation (v28.8.24)"
-description: "Suite à la mise à jour 28.8.24, guide complet Freebox Homexa : installation HACS, appairage Server et Delta, droits Freebox OS, et usage quotidien dans Home Assistant."
+description: "Guide complet Freebox Homexa : installation HACS, appairage Server et Delta, droits Freebox OS, et usage quotidien dans Home Assistant."
 image: /contenus/guides/guide-utilisateur-freebox-homexa/images/entete-freebox-homexa-og.jpg
 image_alt: "Freebox Homexa — Guide utilisateur, de l’installation à l’utilisation"
 date: 2026-11-24

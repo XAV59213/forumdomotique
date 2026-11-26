@@ -3,6 +3,8 @@ title: "Bonjour à tous"
 description: "Bienvenue dans le monde de la domotique ! C’est super que tu te lances, et les vidéos YouTube sont un excellent point de départ pour s’inspirer Pas de…"
 image: /sujets/733-bonjour-a-tous/images/og-partage.jpg
 date: 2026-02-01
+seo:
+  title: "Bonjour à tous (sujet 733) | XAV59213"
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/733-bonjour-%C3%A0-tous/">Lire et commenter sur Forum Domotique</a></p>
 

@@ -3,6 +3,8 @@ title: "Quand Papa Geek Essaie de Faire Plaisir à Maman : L'Histoire de l'Inter
 description: "Ah, la vie de père de cinq enfants... Cinq ! C'est pas une famille, c'est une petite tribu. Y en a un qui crie parce qu'il a perdu sa chaussette gauche…"
 image: /sujets/605-quand-papa-geek-essaie-de-faire-plaisir-a-maman-lhistoire-de-linterrupteur-maudi/images/og-partage.jpg
 date: 2025-12-14
+canonical_url: https://xav59213.github.io/forumdomotique/contenus/coin-bistrot/histoire-de-linterrupteur-maudit/article.html
+sitemap: false
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/605-quand-papa-geek-essaie-de-faire-plaisir-%C3%A0-maman-lhistoire-de-linterrupteur-maudit/">Lire et commenter sur Forum Domotique</a></p>
 

@@ -3,6 +3,8 @@ title: "Faire ses premiers dashboards vraiment sympas avec Mushroom Cards : mon 
 description: "Je me suis dit : « encore une mode qui va durer trois mois ». Et puis j’ai installé le premier pack, juste pour voir. Six mois plus tard, pratiquement 95…"
 image: /sujets/577-faire-ses-premiers-dashboards-vraiment-sympas-avec-mushroom-cards-mon-retour-apr/images/index.png
 date: 2025-12-01
+canonical_url: https://xav59213.github.io/forumdomotique/contenus/coin-bistrot/faire-ses-premiers-dashboards-mushroom-cards/article.html
+sitemap: false
 ---
 <p class="forum-cta"><a href="https://forumdomotique.com/forums/topic/577-faire-ses-premiers-dashboards-vraiment-sympas-avec-mushroom-cards-mon-retour-apr%C3%A8s-plusieurs-mois-dutilisation-intensive-sur-home-assistant/">Lire et commenter sur Forum Domotique</a></p>
 
