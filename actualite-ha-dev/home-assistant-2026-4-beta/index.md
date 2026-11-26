@@ -52,7 +52,7 @@ seo:
 
 **b6 à b8 (31 mars).** Les **conditions et déclencheurs de vanne** arrivent (`valve.opened` et `valve.closed`) [#166634](https://github.com/home-assistant/core/pull/166634) [#165160](https://github.com/home-assistant/core/pull/165160). Z-Wave sépare l’état « Ouverture » en capteurs Ouvert/Fermé et Basculé [#166635](https://github.com/home-assistant/core/pull/166635). Puis viennent les conditions de **minuteur** [#166641](https://github.com/home-assistant/core/pull/166641), de **calendrier** [#166643](https://github.com/home-assistant/core/pull/166643) et de **compteur** [#166879](https://github.com/home-assistant/core/pull/166879). Les plateformes de déclencheurs et de conditions ne sont plus chargées qu’à leur première utilisation [#166911](https://github.com/home-assistant/core/pull/166911) [#166939](https://github.com/home-assistant/core/pull/166939).
 
-**b9 et b10 (1er avril).** L’intégration **Dropbox est retirée** de la version [#166986](https://github.com/home-assistant/core/pull/166986). L’intégration BMW devient une coquille qui affiche une réparation [#166983](https://github.com/home-assistant/core/pull/166983), et les sauvegardes reçues ne sont plus stockées que dans le dossier temporaire [#166982](https://github.com/home-assistant/core/pull/166982).
+**b9 et b10 (1er avril).** L’intégration **Dropbox est retirée** de la version [#166986](https://github.com/home-assistant/core/pull/166986). L’intégration BMW est réduite à une intégration vide qui affiche seulement un avis de réparation [#166983](https://github.com/home-assistant/core/pull/166983), et les sauvegardes reçues ne sont plus stockées que dans le dossier temporaire [#166982](https://github.com/home-assistant/core/pull/166982).
 
 ## ⚠️ Changements cassants annoncés
 
@@ -62,7 +62,7 @@ Les notes finales documentent notamment des changements pour **JVC Projector, Li
 
 - [Les agents de sauvegarde peuvent indiquer la progression de l’envoi](https://contributors.home-assistant.io/blog/2026/03/11/backup-upload-progress/)
 - [Mises à jour des composants du frontend pour la 2026.4](https://contributors.home-assistant.io/blog/2026/03/25/frontend-component-updates-2026.4/)
-- [Contexte « lazy » du frontend](https://contributors.home-assistant.io/blog/2026/03/25/frontend-lazy-context/) et [nouvelle façon de gérer les boîtes de dialogue](https://contributors.home-assistant.io/blog/2026/03/25/frontend-dialogs/)
+- [Chargement à la demande des données partagées du frontend (*lazy context*)](https://contributors.home-assistant.io/blog/2026/03/25/frontend-lazy-context/) et [nouvelle façon de gérer les boîtes de dialogue](https://contributors.home-assistant.io/blog/2026/03/25/frontend-dialogs/)
 - [Nouvelle plateforme d’entités infrarouges](https://contributors.home-assistant.io/blog/2026/03/30/infrared-entity-platform/)
 
 ## 🧭 Pour le canal bêta

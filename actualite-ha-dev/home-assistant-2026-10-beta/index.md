@@ -46,7 +46,7 @@ La **2026.10.0b0** a été publiée le **30 septembre 2026**. Comme en mai, la b
 
 **b2 (6 octobre).** Le recorder détecte correctement les préversions de PostgreSQL [#183146](https://github.com/home-assistant/core/pull/183146). Les thermostats en lecture seule sont signalés comme tels à Google Assistant [#183820](https://github.com/home-assistant/core/pull/183820).
 
-**b3 (7 octobre, 0 h 47).** Les **conditions suivies sont réévaluées à chaque changement d’état** [#184335](https://github.com/home-assistant/core/pull/184335). Le calcul de moyenne des statistiques n’est plus quadratique [#184522](https://github.com/home-assistant/core/pull/184522). Les flux et enregistrements **H.265** sont de nouveau encapsulés en *hvc1* [#184537](https://github.com/home-assistant/core/pull/184537). WLED reçoit une série de correctifs (découverte, mises à jour du firmware, capteurs de courant) [#184411](https://github.com/home-assistant/core/pull/184411) [#184415](https://github.com/home-assistant/core/pull/184415).
+**b3 (7 octobre, 0 h 47).** Les **conditions suivies sont réévaluées à chaque changement d’état** [#184335](https://github.com/home-assistant/core/pull/184335). Le calcul de la moyenne dans les statistiques ne ralentit plus fortement avec beaucoup de valeurs [#184522](https://github.com/home-assistant/core/pull/184522). Les flux et enregistrements **H.265** sont de nouveau marqués au format *hvc1* (comme avant) [#184537](https://github.com/home-assistant/core/pull/184537). WLED reçoit une série de correctifs (découverte, mises à jour du firmware, capteurs de courant) [#184411](https://github.com/home-assistant/core/pull/184411) [#184415](https://github.com/home-assistant/core/pull/184415).
 
 **b4 (7 octobre, 7 h 53) : la bêta Freebox.** L’identifiant et le mot de passe sont correctement encodés dans l’URL du flux des **caméras Freebox** [#184572](https://github.com/home-assistant/core/pull/184572). La version du firmware des nœuds Freebox Home est transmise comme texte [#184577](https://github.com/home-assistant/core/pull/184577), et les **erreurs de la mise à jour périodique** sont gérées [#184578](https://github.com/home-assistant/core/pull/184578). La même bêta sépare les messages diffusés en continu de l’assistant dans l’entrée de la synthèse vocale [#184535](https://github.com/home-assistant/core/pull/184535). Les entrées OAuth du serveur MCP n’ont plus d’identifiant unique [#184594](https://github.com/home-assistant/core/pull/184594).
 
@@ -65,7 +65,7 @@ Les notes finales listent **plus de vingt entrées**, notamment l’**authentifi
 - [Action d’arrêt et activité « au repos » pour les tondeuses](https://contributors.home-assistant.io/blog/2026/09/11/lawn-mower-stop-action-idle-activity/)
 - [Gestion des erreurs OAuth2 centralisée dans le helper](https://contributors.home-assistant.io/blog/2026/09/07/oauth2-central-error-handling/)
 - [Probatio, le moteur de validation](https://contributors.home-assistant.io/blog/2026/09/30/probatio-validation-engine/)
-- [Motifs d’abandon communs traduits de façon centrale](https://contributors.home-assistant.io/blog/2026/09/28/central-config-flow-abort-reasons/)
+- [Messages d’abandon communs des formulaires de configuration, traduits de façon centralisée](https://contributors.home-assistant.io/blog/2026/09/28/central-config-flow-abort-reasons/)
 - [Exceptions d’entrée de configuration dans les migrations](https://contributors.home-assistant.io/blog/2026/09/17/use-config-entry-exc-in-migration/)
 
 ## 🧭 Pour le canal bêta

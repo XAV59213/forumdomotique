@@ -3,7 +3,7 @@ layout: ha-dev
 title: 'Bêta Home Assistant 2026.11 : le Marketplace prend forme pendant la bêta, et les intégrations déclarent leur connectivité'
 short_title: 'Bêta 2026.11 : HACS devient le Marketplace'
 description: 'La bêta de Home Assistant 2026.11 (28 octobre – 4 novembre 2026) en français : Marketplace (ex-HACS), exclusions de cibles, noms d’entités, correctifs des sept bêtas.'
-excerpt_fr: 'La bêta de la plus grosse version de l’histoire : HACS devient le Marketplace, les cibles acceptent des exclusions et les noms d’entités sont repensés. Pendant la bêta, le Marketplace gagne son titre, un miroir chinois, et chaque intégration déclare sa connectivité.'
+excerpt_fr: 'La bêta de la plus grosse version de l’histoire : HACS devient le Marketplace, les cibles acceptent des exclusions et les noms d’entités sont repensés. Pendant la bêta, le Marketplace gagne son titre et un serveur miroir pour les utilisateurs en Chine, et les intégrations déclarent leur connectivité.'
 image: /actualite-ha-dev/home-assistant-2026-11-beta/images/cover.png
 cover_alt: 'Couverture : la bêta de Home Assistant 2026.11, novembre 2026'
 date: 2026-10-28
@@ -28,7 +28,7 @@ La **2026.11.0b0** a été publiée le **28 octobre 2026**, et la version stable
 <div class="ha-callout info" markdown="1">
 **En bref**
 - 🧪 **En test** : le Marketplace (ex-HACS), des exclusions dans les cibles, des sections de dashboard automatiques, des noms d’entités repensés (« nommer une fois »), les outils « Pourquoi est-ce arrivé ? », les caméras Matter 1.5, LoRaWAN, Zigbee Green Power et les disques locaux pour les sauvegardes.
-- 🔁 **Pendant la bêta** : le champ des outils IA devient une liste de cases à cocher (b1), les identifiants tronqués ne finissent plus par « _ » (b2), une métadonnée de connectivité est ajoutée aux intégrations (b3), le Marketplace reçoit un titre, une icône et un miroir pour la Chine (b3-b5).
+- 🔁 **Pendant la bêta** : le champ des outils IA devient une liste de cases à cocher (b1), les identifiants tronqués ne finissent plus par « _ » (b2), une métadonnée de connectivité est ajoutée aux intégrations (b3), le Marketplace reçoit un titre, une icône et un serveur miroir pour les utilisateurs en Chine (b3-b5).
 - ⚠️ **À vérifier** : plus de quarante entrées, dont les noms d’entités, Matter, MQTT, Z-Wave, ZHA, Philips Hue, Tuya et l’authentification.
 </div>
 
@@ -50,7 +50,7 @@ La **2026.11.0b0** a été publiée le **28 octobre 2026**, et la version stable
 
 **b4 (3 novembre).** Les délais d’attente de la **Freebox** sont signalés comme « connexion impossible » [#190079](https://github.com/home-assistant/core/pull/190079). Une durée de dérogation evohome qui chevauche le changement d’heure est corrigée [#190109](https://github.com/home-assistant/core/pull/190109).
 
-**b5 et b6 (4 novembre).** Une commande WebSocket **explique les exclusions d’une cible** [#190119](https://github.com/home-assistant/core/pull/190119). Le **Marketplace** gagne un **miroir pour la Chine** [#190251](https://github.com/home-assistant/core/pull/190251). Les commandes différées s’exécutent sous l’identité de l’utilisateur qui a lancé le minuteur [#190287](https://github.com/home-assistant/core/pull/190287). Tedee bénéficie d’un délai de grâce avant de redemander l’authentification [#190338](https://github.com/home-assistant/core/pull/190338), et l’ancienne intégration Flic est marquée « legacy » [#190364](https://github.com/home-assistant/core/pull/190364).
+**b5 et b6 (4 novembre).** Une commande WebSocket **explique les exclusions d’une cible** [#190119](https://github.com/home-assistant/core/pull/190119). Le **Marketplace** gagne un **serveur miroir pour les utilisateurs en Chine** [#190251](https://github.com/home-assistant/core/pull/190251). Les commandes différées s’exécutent sous l’identité de l’utilisateur qui a lancé le minuteur [#190287](https://github.com/home-assistant/core/pull/190287). Tedee bénéficie d’un délai de grâce avant de redemander l’authentification [#190338](https://github.com/home-assistant/core/pull/190338), et l’ancienne intégration Flic est marquée « legacy » [#190364](https://github.com/home-assistant/core/pull/190364).
 
 ## ⚠️ Changements cassants annoncés
 
@@ -74,7 +74,7 @@ Si vous publiez une intégration sur HACS, testez votre dépôt dans le **Market
 <div class="ha-avis" markdown="1">
 **💬 Mon avis**
 
-C’est le cycle bêta que j’attendais le plus en tant que développeur d’intégrations. Voir le Marketplace se peaufiner d’une bêta à l’autre, avec son titre, son icône et même un miroir pour la Chine, montre que l’équipe l’a vraiment pensé pour tout le monde.
+C’est le cycle bêta que j’attendais le plus en tant que développeur d’intégrations. Voir le Marketplace se peaufiner d’une bêta à l’autre, avec son titre, son icône et même un serveur miroir pour les utilisateurs en Chine, montre que l’équipe l’a vraiment pensé pour tout le monde.
 </div>
 
 Vos intégrations HACS s’affichent bien dans le Marketplace ? Comparons nos retours sur le forum.
