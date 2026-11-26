@@ -123,6 +123,13 @@ Le **5 novembre 2026**, Nuki a lancé le **Smart Module** (une solution intégr�
 
 Le **12 novembre 2026**, Nuki a annoncé les **Google Wallet Home Keys** sur ce même Keypad 2 NFC. Au moment où j’écris ces lignes, Nuki indique que la fonction est d’abord proposée en aperçu via la version bêta de Google Home, avant une disponibilité plus large. Je n’utilise pas Google Wallet pour l’instant.
 
+<aside class="ha-callout info" aria-label="Bon à savoir">
+<p><strong>Bon à savoir.</strong></p>
+<p>Le Keypad 2 NFC existe aussi en noir. Le modèle blanc, celui de cet essai, vient tout juste de sortir : à ce jour, je suis le seul à l’avoir testé et présenté. Il sera bientôt en vente pour tous sur le site Nuki ; pour l’instant, il reste réservé aux membres du Club Nuki.</p>
+<p>Sur la Smart Lock Pro, l’anneau blanc peut être remplacé par un anneau noir : les deux sont fournis dans la boîte.</p>
+<p>Un Keypad 2 NFC fabriqué avant le 25 octobre 2026 peut recevoir gratuitement un compartiment à piles mis à jour, intégrant la détection de vol, sous réserve d’éligibilité de l’appareil et lorsque le stock sera de nouveau disponible. Nuki le précise sur sa <a href="https://nuki.io/fr-fr/produits/pieces-de-rechange/compartiment-a-piles-keypad-2-nfc">page officielle du compartiment à piles</a>, où l’on peut vérifier l’éligibilité et commander le compartiment.</p>
+</aside>
+
 ## Ce que Nuki annonce sur le papier
 
 <p class="ha-note">Avant de poser quoi que ce soit, je rassemble ici les caractéristiques officielles. Ce n’est pas encore mon avis. Les liens pointent vers les fiches Nuki.</p>
