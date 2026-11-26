@@ -946,10 +946,32 @@ def product_meta_block(article: Article, styles):
         bits.append(f"<b>Marque</b>  {esc(article.brand)}")
     if article.tags:
         bits.append(f"<b>Catégories</b>  {esc(', '.join(article.tags))}")
-    if not bits:
+    shop_parts = []
+    shop_heading = str(article.fm.get("shop_heading") or "Voir sur la boutique").strip()
+    raw_links = article.fm.get("shop_links") or []
+    if isinstance(raw_links, list):
+        for link in raw_links:
+            if not isinstance(link, dict):
+                continue
+            label = str(link.get("label") or "").strip()
+            url = str(link.get("url") or "").strip()
+            if label and url:
+                shop_parts.append(
+                    f'<link href="{esc(url)}" color="#0d5c38"><u>{esc(label)}</u></link>'
+                )
+    if not bits and not shop_parts:
         return None
-    inner = Paragraph("    ·    ".join(bits), styles["meta"])
-    t = Table([[inner]], colWidths=[CONTENT_W])
+    rows = []
+    if bits:
+        rows.append([Paragraph("    ·    ".join(bits), styles["meta"])])
+    if shop_parts:
+        rows.append([
+            Paragraph(
+                f"<b>{esc(shop_heading)}</b><br/>" + "    ·    ".join(shop_parts),
+                styles["meta"],
+            )
+        ])
+    t = Table(rows, colWidths=[CONTENT_W])
     t.setStyle(TableStyle([
         ("BACKGROUND", (0, 0), (-1, -1), HexColor("#f6faf7")),
         ("LEFTPADDING", (0, 0), (-1, -1), 4 * mm),
@@ -957,6 +979,7 @@ def product_meta_block(article: Article, styles):
         ("TOPPADDING", (0, 0), (-1, -1), 2.5 * mm),
         ("BOTTOMPADDING", (0, 0), (-1, -1), 2.5 * mm),
         ("BOX", (0, 0), (-1, -1), 0.3, HexColor("#dce8e0")),
+        ("VALIGN", (0, 0), (-1, -1), "TOP"),
     ]))
     t.spaceAfter = 5 * mm
     return t
