@@ -1,0 +1,27 @@
+{% assign items = include.items %}
+{% if items and items.size > 0 %}
+<section class="carousel hero-carousel ha-hero hd-hero" data-carousel data-autoplay="7000" aria-roledescription="carrousel" aria-label="{{ include.label | default: 'Cycles bêta de Home Assistant' }}" tabindex="0">
+<div class="hero-frame">
+<div class="carousel-track" data-track>
+{% for p in items limit: 12 %}
+{% assign bs = site.data.ha_betas[p.cycle] %}{% assign nb = 0 %}{% for b in bs %}{% unless b.stable %}{% assign nb = nb | plus: 1 %}{% endunless %}{% endfor %}
+<article class="hero-slide" data-slide>
+  <img src="{{ p.image | relative_url }}" alt="{{ p.cover_alt | default: p.title | escape }}" width="1200" height="630" loading="{% if forloop.first %}eager{% else %}lazy{% endif %}">
+  <div class="hero-caption">
+    <div class="tag">Bêta {{ p.version }} · {{ p.month }}</div>
+    <h2><a href="{{ p.url | relative_url }}">{{ p.short_title | default: p.title }}</a></h2>
+    <p class="excerpt">{{ p.excerpt_fr | default: p.description }}</p>
+    <p class="hero-date">{{ nb }} bêta{% if nb > 1 %}s{% endif %} depuis le {{ bs[0].date_fr }}</p>
+    <a class="hero-btn" href="{{ p.url | relative_url }}">Lire l’article</a>
+  </div>
+</article>
+{% endfor %}
+</div>
+<button type="button" class="carousel-nav" data-prev aria-label="Cycle précédent">‹</button>
+<button type="button" class="carousel-nav" data-next aria-label="Cycle suivant">›</button>
+</div>
+<div class="carousel-dots" data-dots></div>
+<div class="carousel-live" data-live aria-live="polite"></div>
+<p class="carousel-hint">Faites défiler horizontalement pour voir les autres cycles bêta.</p>
+</section>
+{% endif %}

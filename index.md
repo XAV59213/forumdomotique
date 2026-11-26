@@ -150,6 +150,15 @@ Chaque mise à jour mensuelle de Home Assistant expliquée en français : nouvea
 
 <p class="ha-more"><a class="hero-btn" href="{{ '/actualite-home-assistant/' | relative_url }}">Toutes les versions de Home Assistant →</a></p>
 
+## Actualité HA développement
+
+Les bêtas de Home Assistant suivies depuis le canal de développement : ce qui arrive en test, ce qui change d’une bêta à l’autre et les points à surveiller avant la version finale.
+
+{% assign ha_dev = site.pages | where: "section", "actualite-ha-dev" | sort: "date" | reverse %}
+{% include ha-dev-cards.html items=ha_dev label="Actualité HA développement" carousel=true %}
+
+<p class="ha-more hd-more"><a class="hero-btn" href="{{ '/actualite-ha-dev/' | relative_url }}">Tous les cycles bêta →</a></p>
+
 {% include prochains-tests.html lead="Les essais que je prépare en ce moment, avant leur publication." %}
 
 {% assign tests = site.pages | where: "section", "tests" | sort: "date" | reverse %}

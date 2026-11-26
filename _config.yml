@@ -119,6 +119,10 @@ defaults:
     values:
       don: true
   - scope:
+      path: actualite-ha-dev
+    values:
+      don: true
+  - scope:
       path: sujets
     values:
       don: true

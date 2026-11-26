@@ -8,7 +8,7 @@ robots: noindex, follow
 [
 {%- for p in site.pages -%}
   {%- assign include_page = false -%}
-  {%- if p.section == "guides" or p.section == "tests" or p.section == "creations" or p.section == "actualites" or p.section == "actualite-ha" or p.section == "coin-bistrot" -%}
+  {%- if p.section == "guides" or p.section == "tests" or p.section == "creations" or p.section == "actualites" or p.section == "actualite-ha" or p.section == "actualite-ha-dev" or p.section == "coin-bistrot" -%}
     {%- assign include_page = true -%}
   {%- endif -%}
   {%- if p.url contains "/sujets/" and p.url contains "messages" -%}
@@ -31,6 +31,8 @@ robots: noindex, follow
       {%- assign rubrique = "Actualités" -%}
     {%- elsif p.section == "actualite-ha" -%}
       {%- assign rubrique = "Actualité HA" -%}
+    {%- elsif p.section == "actualite-ha-dev" -%}
+      {%- assign rubrique = "Actualité HA dev" -%}
     {%- elsif p.section == "coin-bistrot" -%}
       {%- assign rubrique = "Coin bistrot" -%}
     {%- elsif p.github_repo -%}

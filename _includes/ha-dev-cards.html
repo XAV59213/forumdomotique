@@ -1,0 +1,31 @@
+{% comment %} Cartes des cycles bêta. Paramètres : items, carousel (true/false), label {% endcomment %}
+{% assign items = include.items %}
+{% if items and items.size > 0 %}
+{% if include.carousel %}
+<section class="carousel card-carousel ha-cards hd-cards" data-carousel aria-roledescription="carrousel" aria-label="{{ include.label }}" tabindex="0">
+<div class="carousel-track" data-track>
+{% else %}
+<div class="feature-grid ha-grid hd-grid">
+{% endif %}
+{% for p in items %}
+{% assign bs = site.data.ha_betas[p.cycle] %}{% assign nb = 0 %}{% for b in bs %}{% unless b.stable %}{% assign nb = nb | plus: 1 %}{% endunless %}{% endfor %}
+  <a class="feature-card ha-card hd-card" href="{{ p.url | relative_url }}"{% if include.carousel %} data-slide{% endif %}>
+    <img class="card-thumb" src="{{ p.image | relative_url }}" alt="{{ p.short_title | default: p.title | escape }}" loading="lazy" decoding="async" width="280" height="147">
+    <div class="tag">Bêta {{ p.version }} · {{ p.month }}</div>
+    <h3>{{ p.short_title | default: p.title }}</h3>
+    <p>{{ p.excerpt_fr | default: p.description }}</p>
+    <p class="card-date">{{ nb }} bêta{% if nb > 1 %}s{% endif %} · ouverte le {{ bs[0].date | date: "%d/%m/%Y" }}</p>
+    {% include auteur.html class="auteur-card" %}
+    {% include audience-mention.html page=p class="audience-card" %}
+  </a>
+{% endfor %}
+{% if include.carousel %}
+</div>
+<button type="button" class="carousel-nav" data-prev aria-label="Faire défiler vers la gauche">‹</button>
+<button type="button" class="carousel-nav" data-next aria-label="Faire défiler vers la droite">›</button>
+<p class="carousel-hint">Faites défiler horizontalement pour voir tous les cycles bêta.</p>
+</section>
+{% else %}
+</div>
+{% endif %}
+{% endif %}

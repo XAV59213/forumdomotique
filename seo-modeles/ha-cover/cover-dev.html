@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="fr"><head><meta charset="utf-8">
+<!-- Modèle de couverture « Actualité HA développement » (variante bêta, palette orange) (1200×630).
+     Paramètres d'URL : v=2026.5  m=Mai 2026  t=Accroche courte
+     i=icone:couleur,icone:couleur… (noms Material Design Icons, 8 max) -->
+<style>
+@font-face{font-family:Figtree;src:url(figtree-latin.woff2) format('woff2');font-weight:300 900;}
+@font-face{font-family:MDI;src:url(materialdesignicons-webfont.woff2) format('woff2');}
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1200px;height:630px;overflow:hidden}
+body{font-family:Figtree,sans-serif;position:relative;
+ background:radial-gradient(circle at 78% 30%,#ffd08a 0,rgba(255,208,138,0) 55%),
+            linear-gradient(160deg,#ffb547 0%,#ff9a1f 45%,#f5810c 100%);color:#2a1503}
+.deco{position:absolute;border-radius:50%;background:rgba(170,70,0,.16)}
+.brand{position:absolute;left:64px;top:62px;display:flex;align-items:center;gap:14px;font-size:31px;font-weight:600;letter-spacing:-.2px}
+.mdi{font-family:MDI;font-style:normal;line-height:1}
+.brand .mdi{font-size:44px;color:#2a1503}
+.beta{margin-left:6px;font-size:17px;font-weight:800;letter-spacing:1.5px;text-transform:uppercase;color:#fff;background:#2a1503;padding:6px 12px 5px;border-radius:999px;display:inline-flex;align-items:center;gap:6px}
+.beta .mdi{font-size:20px;color:#ffb547}
+.kicker{position:absolute;left:62px;top:150px;font-size:84px;font-weight:900;line-height:.96;letter-spacing:-1px;text-transform:uppercase}
+.ver{display:block;font-size:150px;letter-spacing:-4px;margin-top:6px}
+.sub{position:absolute;left:66px;top:458px;font-size:30px;font-weight:700;color:#fff;text-shadow:0 1px 0 rgba(110,40,0,.18)}
+.tag{position:absolute;left:62px;top:512px;max-width:640px;font-size:23px;font-weight:600;line-height:1.25;
+ background:rgba(255,255,255,.88);color:#5a2600;padding:10px 18px;border-radius:14px;box-shadow:0 6px 18px rgba(120,50,0,.18)}
+svg.tree{position:absolute;left:0;top:0}
+.node{position:absolute;width:92px;height:92px;margin:-46px 0 0 -46px;border-radius:50%;
+ background:rgba(255,255,255,.93);box-shadow:0 0 0 10px rgba(255,255,255,.28),0 8px 20px rgba(140,60,0,.2);
+ display:flex;align-items:center;justify-content:center}
+.node .mdi{font-size:50px}
+.sig{position:absolute;right:30px;bottom:18px;font-size:16px;font-weight:600;color:rgba(255,255,255,.9)}
+</style></head><body>
+<div class="deco" style="left:-70px;bottom:-110px;width:300px;height:300px"></div>
+<div class="deco" style="left:430px;bottom:-60px;width:150px;height:150px;background:rgba(3,120,190,.12)"></div>
+<div class="deco" style="right:-60px;top:40px;width:170px;height:170px;background:rgba(255,255,255,.10)"></div>
+<svg class="tree" width="1200" height="630" viewBox="0 0 1200 630">
+ <g fill="none" stroke="rgba(255,255,255,.62)" stroke-linecap="round" stroke-width="26">
+  <path d="M905 660 V95"/>
+  <path d="M905 470 C905 420 860 400 800 370 C760 350 745 320 745 160"/>
+  <path d="M905 520 C905 470 820 440 740 410 C690 390 650 360 640 300"/>
+  <path d="M905 560 C905 520 860 500 800 495 L705 495"/>
+  <path d="M905 330 C905 280 950 260 1010 225 C1040 205 1050 180 1050 165"/>
+  <path d="M905 470 C905 420 990 400 1040 380 C1075 365 1090 345 1095 330"/>
+  <path d="M905 560 C905 520 960 505 1010 505 L1060 505"/>
+ </g>
+</svg>
+<div id="nodes"></div>
+<div class="brand"><i class="mdi">&#xF07D0;</i>Home Assistant<span class="beta"><i class="mdi">&#xF0093;</i>Canal bêta</span></div>
+<div class="kicker">En test<br>dans la<span class="ver" id="v">2026.x</span></div>
+<div class="sub" id="m">Bêta</div>
+<div class="tag" id="t"></div>
+<div class="sig">XAV59213 · Forum Domotique</div>
+<script>
+const P=new URLSearchParams(location.search);
+document.getElementById('v').textContent=P.get('v')||'2026.x';
+document.getElementById('m').textContent='Bêta · version de '+(P.get('m')||'').toLowerCase();
+const t=P.get('t'); if(t){document.getElementById('t').textContent=t}else{document.getElementById('t').remove()}
+const pos=[[905,95],[745,150],[640,290],[1050,160],[1095,325],[705,495],[1060,505],[905,330]];
+const cps=JSON.parse(P.get('cp')||'[]');
+const box=document.getElementById('nodes');
+(P.get('i')||'').split(',').filter(Boolean).slice(0,8).forEach((s,k)=>{
+  const [name,col]=s.split(':');const d=document.createElement('div');d.className='node';
+  d.style.left=pos[k][0]+'px';d.style.top=pos[k][1]+'px';
+  const ic=document.createElement('i');ic.className='mdi';ic.style.color='#'+(col||'1e88e5');
+  ic.textContent=String.fromCodePoint(parseInt(cps[k],16));d.appendChild(ic);box.appendChild(d);
+});
+</script></body></html>

@@ -2253,3 +2253,64 @@ figure.creation-video-figure figcaption {
     padding: 0.7rem 0.7rem 1rem;
   }
 }
+
+/* ——— Actualité HA développement (canal bêta, palette orange) ——— */
+$hd-orange: #f57c00;
+$hd-deep: #b34700;
+$hd-brown: #3d1c04;
+.hd-hero .hero-frame, .hd-hero .hero-slide, .hd-hero .hero-slide img { background: #ff9a1f; }
+.hd-hero .hero-caption { background: linear-gradient(165deg, #6b3108 0%, $hd-brown 60%, #241002 100%); }
+.hd-hero .hero-caption .tag { color: #ffc27a; }
+.hd-hero .hero-caption .excerpt { color: #f6e3d2; }
+.hd-hero .hero-date { color: #e9bf98; }
+.hd-hero .hero-btn, .hd-more .hero-btn { background: $hd-orange; }
+.hd-hero .hero-btn:hover, .hd-more .hero-btn:hover { background: #e06c00; }
+.hd-hero .carousel-dot[aria-current="true"] { background: $hd-orange; }
+.hd-card .tag { color: $hd-deep; }
+.hd-card:hover { border-color: #ffb870; }
+.hd-cards .carousel-nav:hover, .hd-hero .carousel-nav:hover { color: $hd-orange; }
+.ha-note.hd-note { background: #fff5ea; border-left-color: $hd-orange; }
+.hd-badge { display: inline-block; background: $hd-brown; color: #ffc27a; border-radius: 999px; padding: 0.1rem 0.55rem; margin-right: 0.35rem; font-size: 0.72rem; letter-spacing: 0.06em; }
+.ha-dev .ha-kicker { color: $hd-deep; }
+.ha-dev .ha-article-head h1, .ha-dev .ha-body h2 { color: $hd-brown; }
+.ha-dev .ha-body h2 { border-bottom-color: #ffe2c2; }
+.ha-dev .ha-body h3 { color: $hd-deep; }
+.ha-dev .ha-body blockquote { border-left-color: $hd-orange; background: #fff8f1; }
+.ha-dev .ha-callout.info { background: #fff5ea; border-color: #ffd9b0; border-left-color: $hd-orange; }
+.ha-dev .ha-avis { background: linear-gradient(135deg, #fff7ef, #fdf0e2); border-color: #f4d9bd; }
+.ha-dev .ha-gallery .carousel-track { background: #2c1506; }
+.ha-dev .ha-prevnext a { color: $hd-brown; border-color: #f1dcc6; }
+.ha-dev .ha-prevnext a span { color: $hd-deep; }
+.ha-dev .ha-prevnext a:hover { border-color: $hd-orange; }
+.ha-dev .ha-sources { background: #fffaf5; border-color: #f1e1d1; }
+.hd-stable-link { margin: 0.2rem 0 1.2rem; padding: 0.7rem 1rem; border-radius: 10px; background: #effaf1; border: 1px solid #cfe9d5; font-size: 0.96rem; }
+.hd-stable-link.hd-ongoing { background: #fff5ea; border-color: #ffd9b0; }
+.hd-timeline { margin: 2rem 0 1rem; }
+.hd-timeline h2 { color: $hd-brown; border-bottom: 2px solid #ffe2c2; padding-bottom: 0.25rem; }
+.hd-timeline ol { list-style: none; margin: 1rem 0 0.4rem; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 0.6rem; }
+.hd-timeline li { position: relative; background: #fff; border: 1px solid #f1dcc6; border-top: 4px solid #ffb870; border-radius: 10px; padding: 0.55rem 0.7rem; display: flex; flex-direction: column; gap: 0.1rem; }
+.hd-timeline li.is-first { border-top-color: $hd-orange; }
+.hd-timeline li.is-stable { border-top-color: #43a047; background: #f4fbf5; border-color: #cfe9d5; }
+.hd-timeline .hd-v { font-weight: 800; color: $hd-brown; font-size: 1.02rem; font-variant-numeric: tabular-nums; }
+.hd-timeline a { text-decoration: none; }
+.hd-timeline a:hover .hd-v { color: $hd-orange; text-decoration: underline; }
+.hd-timeline .hd-d { font-size: 0.84rem; color: #6d5a4c; }
+.hd-timeline .hd-c { font-size: 0.84rem; font-weight: 600; color: $hd-deep; }
+.hd-timeline li.is-stable .hd-c { color: #2e7d32; }
+.hd-timeline-note { font-size: 0.85rem; color: #6d5a4c; }
+.hd-channels { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 0.9rem; margin: 1rem 0 1.6rem; }
+.hd-channel { border: 1px solid #f1dcc6; border-radius: 12px; padding: 0.9rem 1rem; background: #fff; }
+.hd-channel h3 { margin: 0 0 0.35rem; font-size: 1.05rem; color: $hd-brown; }
+.hd-channel p { margin: 0.3rem 0; font-size: 0.95rem; }
+.hd-channel code { font-size: 0.85rem; }
+.hd-channel.is-beta { border-top: 4px solid $hd-orange; }
+.hd-channel.is-dev { border-top: 4px solid #c62828; }
+.hd-channel.is-stable { border-top: 4px solid #03a9f4; }
+@media (max-width: 520px) { .hd-timeline ol { grid-template-columns: 1fr 1fr; } }
+/* Signature d’auteur dans l’en-tête des articles HA : le logo garde sa taille
+   (la règle générique « .article-body p img » l’agrandissait). */
+.article-body .auteur-byline img.auteur-logo { display: inline-block; width: 24px; height: 24px; max-height: 24px; margin: 0 !important; }
+.article-body .feature-card .auteur-byline img.auteur-logo { width: 20px; height: 20px; max-height: 20px; }
+.ha-dev .carousel-dot[aria-current="true"], .hd-hero .carousel-dot[aria-current="true"] { background: $hd-orange; }
+.ha-dev .carousel-dot, .hd-hero .carousel-dot { background: #ecd6c2; }
+.hd-card h3 { color: $hd-brown; }

@@ -1,0 +1,546 @@
+2026-1:
+- v: 2026.1.0b0
+  date: '2025-12-29'
+  heure: '20:40'
+  date_fr: 29 décembre 2025
+  changes: 0
+  url: https://github.com/home-assistant/core/releases/tag/2026.1.0b0
+- v: 2026.1.0b1
+  date: '2025-12-30'
+  heure: '10:15'
+  date_fr: 30 décembre 2025
+  changes: 14
+  url: https://github.com/home-assistant/core/releases/tag/2026.1.0b1
+- v: 2026.1.0b2
+  date: '2025-12-31'
+  heure: '16:34'
+  date_fr: 31 décembre 2025
+  changes: 11
+  url: https://github.com/home-assistant/core/releases/tag/2026.1.0b2
+- v: 2026.1.0b3
+  date: '2026-01-05'
+  heure: '16:54'
+  date_fr: 5 janvier 2026
+  changes: 26
+  url: https://github.com/home-assistant/core/releases/tag/2026.1.0b3
+- v: 2026.1.0b4
+  date: '2026-01-06'
+  heure: '17:57'
+  date_fr: 6 janvier 2026
+  changes: 10
+  url: https://github.com/home-assistant/core/releases/tag/2026.1.0b4
+- v: 2026.1.0b5
+  date: '2026-01-07'
+  heure: '14:53'
+  date_fr: 7 janvier 2026
+  changes: 12
+  url: https://github.com/home-assistant/core/releases/tag/2026.1.0b5
+- v: 2026.1.0
+  date: '2026-01-07'
+  heure: '18:38'
+  date_fr: 7 janvier 2026
+  url: https://github.com/home-assistant/core/releases/tag/2026.1.0
+  stable: true
+2026-2:
+- v: 2026.2.0b0
+  date: '2026-01-28'
+  heure: '21:32'
+  date_fr: 28 janvier 2026
+  changes: 0
+  url: https://github.com/home-assistant/core/releases/tag/2026.2.0b0
+- v: 2026.2.0b1
+  date: '2026-01-30'
+  heure: '12:47'
+  date_fr: 30 janvier 2026
+  changes: 20
+  url: https://github.com/home-assistant/core/releases/tag/2026.2.0b1
+- v: 2026.2.0b2
+  date: '2026-02-02'
+  heure: '19:13'
+  date_fr: 2 février 2026
+  changes: 20
+  url: https://github.com/home-assistant/core/releases/tag/2026.2.0b2
+- v: 2026.2.0b3
+  date: '2026-02-03'
+  heure: '18:04'
+  date_fr: 3 février 2026
+  changes: 13
+  url: https://github.com/home-assistant/core/releases/tag/2026.2.0b3
+- v: 2026.2.0b4
+  date: '2026-02-04'
+  heure: '17:15'
+  date_fr: 4 février 2026
+  changes: 17
+  url: https://github.com/home-assistant/core/releases/tag/2026.2.0b4
+- v: 2026.2.0b5
+  date: '2026-02-04'
+  heure: '19:46'
+  date_fr: 4 février 2026
+  changes: 7
+  url: https://github.com/home-assistant/core/releases/tag/2026.2.0b5
+- v: 2026.2.0
+  date: '2026-02-04'
+  heure: '20:39'
+  date_fr: 4 février 2026
+  url: https://github.com/home-assistant/core/releases/tag/2026.2.0
+  stable: true
+2026-3:
+- v: 2026.3.0b0
+  date: '2026-02-25'
+  heure: '21:21'
+  date_fr: 25 février 2026
+  changes: 0
+  url: https://github.com/home-assistant/core/releases/tag/2026.3.0b0
+- v: 2026.3.0b1
+  date: '2026-02-26'
+  heure: '20:32'
+  date_fr: 26 février 2026
+  changes: 14
+  url: https://github.com/home-assistant/core/releases/tag/2026.3.0b1
+- v: 2026.3.0b2
+  date: '2026-03-02'
+  heure: '19:34'
+  date_fr: 2 mars 2026
+  changes: 38
+  url: https://github.com/home-assistant/core/releases/tag/2026.3.0b2
+- v: 2026.3.0b3
+  date: '2026-03-04'
+  heure: '15:31'
+  date_fr: 4 mars 2026
+  changes: 24
+  url: https://github.com/home-assistant/core/releases/tag/2026.3.0b3
+- v: 2026.3.0b4
+  date: '2026-03-04'
+  heure: '18:11'
+  date_fr: 4 mars 2026
+  changes: 2
+  url: https://github.com/home-assistant/core/releases/tag/2026.3.0b4
+- v: 2026.3.0
+  date: '2026-03-04'
+  heure: '20:18'
+  date_fr: 4 mars 2026
+  url: https://github.com/home-assistant/core/releases/tag/2026.3.0
+  stable: true
+2026-4:
+- v: 2026.4.0b0
+  date: '2026-03-25'
+  heure: '20:29'
+  date_fr: 25 mars 2026
+  changes: 0
+  url: https://github.com/home-assistant/core/releases/tag/2026.4.0b0
+- v: 2026.4.0b1
+  date: '2026-03-26'
+  heure: 01:02
+  date_fr: 26 mars 2026
+  changes: 19
+  url: https://github.com/home-assistant/core/releases/tag/2026.4.0b1
+- v: 2026.4.0b2
+  date: '2026-03-26'
+  heure: '11:59'
+  date_fr: 26 mars 2026
+  changes: 7
+  url: https://github.com/home-assistant/core/releases/tag/2026.4.0b2
+- v: 2026.4.0b3
+  date: '2026-03-26'
+  heure: '20:52'
+  date_fr: 26 mars 2026
+  changes: 22
+  url: https://github.com/home-assistant/core/releases/tag/2026.4.0b3
+- v: 2026.4.0b4
+  date: '2026-03-27'
+  heure: '22:48'
+  date_fr: 27 mars 2026
+  changes: 9
+  url: https://github.com/home-assistant/core/releases/tag/2026.4.0b4
+- v: 2026.4.0b5
+  date: '2026-03-30'
+  heure: '10:57'
+  date_fr: 30 mars 2026
+  changes: 22
+  url: https://github.com/home-assistant/core/releases/tag/2026.4.0b5
+- v: 2026.4.0b6
+  date: '2026-03-31'
+  heure: 09:38
+  date_fr: 31 mars 2026
+  changes: 16
+  url: https://github.com/home-assistant/core/releases/tag/2026.4.0b6
+- v: 2026.4.0b7
+  date: '2026-03-31'
+  heure: '10:26'
+  date_fr: 31 mars 2026
+  changes: 1
+  url: https://github.com/home-assistant/core/releases/tag/2026.4.0b7
+- v: 2026.4.0b8
+  date: '2026-03-31'
+  heure: '20:02'
+  date_fr: 31 mars 2026
+  changes: 17
+  url: https://github.com/home-assistant/core/releases/tag/2026.4.0b8
+- v: 2026.4.0b9
+  date: '2026-04-01'
+  heure: 08:36
+  date_fr: 1er avril 2026
+  changes: 10
+  url: https://github.com/home-assistant/core/releases/tag/2026.4.0b9
+- v: 2026.4.0b10
+  date: '2026-04-01'
+  heure: '12:24'
+  date_fr: 1er avril 2026
+  changes: 2
+  url: https://github.com/home-assistant/core/releases/tag/2026.4.0b10
+- v: 2026.4.0
+  date: '2026-04-01'
+  heure: '14:36'
+  date_fr: 1er avril 2026
+  url: https://github.com/home-assistant/core/releases/tag/2026.4.0
+  stable: true
+2026-5:
+- v: 2026.5.0b0
+  date: '2026-04-29'
+  heure: '18:42'
+  date_fr: 29 avril 2026
+  changes: 0
+  url: https://github.com/home-assistant/core/releases/tag/2026.5.0b0
+- v: 2026.5.0b1
+  date: '2026-05-04'
+  heure: '18:45'
+  date_fr: 4 mai 2026
+  changes: 42
+  url: https://github.com/home-assistant/core/releases/tag/2026.5.0b1
+- v: 2026.5.0b2
+  date: '2026-05-05'
+  heure: '16:30'
+  date_fr: 5 mai 2026
+  changes: 21
+  url: https://github.com/home-assistant/core/releases/tag/2026.5.0b2
+- v: 2026.5.0b3
+  date: '2026-05-06'
+  heure: '13:17'
+  date_fr: 6 mai 2026
+  changes: 22
+  url: https://github.com/home-assistant/core/releases/tag/2026.5.0b3
+- v: 2026.5.0b4
+  date: '2026-05-06'
+  heure: '15:28'
+  date_fr: 6 mai 2026
+  changes: 6
+  url: https://github.com/home-assistant/core/releases/tag/2026.5.0b4
+- v: 2026.5.0
+  date: '2026-05-06'
+  heure: '17:31'
+  date_fr: 6 mai 2026
+  url: https://github.com/home-assistant/core/releases/tag/2026.5.0
+  stable: true
+2026-6:
+- v: 2026.6.0b0
+  date: '2026-05-27'
+  heure: '18:44'
+  date_fr: 27 mai 2026
+  changes: 0
+  url: https://github.com/home-assistant/core/releases/tag/2026.6.0b0
+- v: 2026.6.0b1
+  date: '2026-06-01'
+  heure: '18:56'
+  date_fr: 1er juin 2026
+  changes: 82
+  url: https://github.com/home-assistant/core/releases/tag/2026.6.0b1
+- v: 2026.6.0b2
+  date: '2026-06-01'
+  heure: '23:07'
+  date_fr: 1er juin 2026
+  changes: 18
+  url: https://github.com/home-assistant/core/releases/tag/2026.6.0b2
+- v: 2026.6.0b3
+  date: '2026-06-03'
+  heure: '12:06'
+  date_fr: 3 juin 2026
+  changes: 20
+  url: https://github.com/home-assistant/core/releases/tag/2026.6.0b3
+- v: 2026.6.0b4
+  date: '2026-06-03'
+  heure: '17:10'
+  date_fr: 3 juin 2026
+  changes: 4
+  url: https://github.com/home-assistant/core/releases/tag/2026.6.0b4
+- v: 2026.6.0
+  date: '2026-06-03'
+  heure: '20:00'
+  date_fr: 3 juin 2026
+  url: https://github.com/home-assistant/core/releases/tag/2026.6.0
+  stable: true
+2026-7:
+- v: 2026.7.0b0
+  date: '2026-06-24'
+  heure: '18:41'
+  date_fr: 24 juin 2026
+  changes: 0
+  url: https://github.com/home-assistant/core/releases/tag/2026.7.0b0
+- v: 2026.7.0b1
+  date: '2026-06-24'
+  heure: '23:30'
+  date_fr: 24 juin 2026
+  changes: 5
+  url: https://github.com/home-assistant/core/releases/tag/2026.7.0b1
+- v: 2026.7.0b2
+  date: '2026-06-27'
+  heure: '13:31'
+  date_fr: 27 juin 2026
+  changes: 44
+  url: https://github.com/home-assistant/core/releases/tag/2026.7.0b2
+- v: 2026.7.0b3
+  date: '2026-06-30'
+  heure: '15:29'
+  date_fr: 30 juin 2026
+  changes: 18
+  url: https://github.com/home-assistant/core/releases/tag/2026.7.0b3
+- v: 2026.7.0b4
+  date: '2026-07-01'
+  heure: '14:33'
+  date_fr: 1er juillet 2026
+  changes: 15
+  url: https://github.com/home-assistant/core/releases/tag/2026.7.0b4
+- v: 2026.7.0
+  date: '2026-07-01'
+  heure: '19:50'
+  date_fr: 1er juillet 2026
+  url: https://github.com/home-assistant/core/releases/tag/2026.7.0
+  stable: true
+2026-8:
+- v: 2026.8.0b0
+  date: '2026-07-29'
+  heure: '16:33'
+  date_fr: 29 juillet 2026
+  changes: 0
+  url: https://github.com/home-assistant/core/releases/tag/2026.8.0b0
+- v: 2026.8.0b1
+  date: '2026-07-30'
+  heure: '11:31'
+  date_fr: 30 juillet 2026
+  changes: 19
+  url: https://github.com/home-assistant/core/releases/tag/2026.8.0b1
+- v: 2026.8.0b2
+  date: '2026-07-30'
+  heure: '23:46'
+  date_fr: 30 juillet 2026
+  changes: 14
+  url: https://github.com/home-assistant/core/releases/tag/2026.8.0b2
+- v: 2026.8.0b3
+  date: '2026-07-31'
+  heure: '17:27'
+  date_fr: 31 juillet 2026
+  changes: 16
+  url: https://github.com/home-assistant/core/releases/tag/2026.8.0b3
+- v: 2026.8.0b4
+  date: '2026-08-03'
+  heure: '11:05'
+  date_fr: 3 août 2026
+  changes: 52
+  url: https://github.com/home-assistant/core/releases/tag/2026.8.0b4
+- v: 2026.8.0b5
+  date: '2026-08-04'
+  heure: '14:36'
+  date_fr: 4 août 2026
+  changes: 100
+  url: https://github.com/home-assistant/core/releases/tag/2026.8.0b5
+- v: 2026.8.0b6
+  date: '2026-08-05'
+  heure: '11:59'
+  date_fr: 5 août 2026
+  changes: 27
+  url: https://github.com/home-assistant/core/releases/tag/2026.8.0b6
+- v: 2026.8.0
+  date: '2026-08-05'
+  heure: '17:23'
+  date_fr: 5 août 2026
+  url: https://github.com/home-assistant/core/releases/tag/2026.8.0
+  stable: true
+2026-9:
+- v: 2026.9.0b0
+  date: '2026-08-26'
+  heure: '21:15'
+  date_fr: 26 août 2026
+  changes: 0
+  url: https://github.com/home-assistant/core/releases/tag/2026.9.0b0
+- v: 2026.9.0b1
+  date: '2026-08-27'
+  heure: '18:35'
+  date_fr: 27 août 2026
+  changes: 30
+  url: https://github.com/home-assistant/core/releases/tag/2026.9.0b1
+- v: 2026.9.0b2
+  date: '2026-08-28'
+  heure: '22:12'
+  date_fr: 28 août 2026
+  changes: 50
+  url: https://github.com/home-assistant/core/releases/tag/2026.9.0b2
+- v: 2026.9.0b3
+  date: '2026-08-29'
+  heure: '10:46'
+  date_fr: 29 août 2026
+  changes: 15
+  url: https://github.com/home-assistant/core/releases/tag/2026.9.0b3
+- v: 2026.9.0b4
+  date: '2026-08-29'
+  heure: '22:55'
+  date_fr: 29 août 2026
+  changes: 26
+  url: https://github.com/home-assistant/core/releases/tag/2026.9.0b4
+- v: 2026.9.0b5
+  date: '2026-08-31'
+  heure: '15:42'
+  date_fr: 31 août 2026
+  changes: 27
+  url: https://github.com/home-assistant/core/releases/tag/2026.9.0b5
+- v: 2026.9.0b6
+  date: '2026-09-01'
+  heure: '11:35'
+  date_fr: 1er septembre 2026
+  changes: 14
+  url: https://github.com/home-assistant/core/releases/tag/2026.9.0b6
+- v: 2026.9.0b7
+  date: '2026-09-02'
+  heure: '12:03'
+  date_fr: 2 septembre 2026
+  changes: 8
+  url: https://github.com/home-assistant/core/releases/tag/2026.9.0b7
+- v: 2026.9.0b8
+  date: '2026-09-02'
+  heure: '13:07'
+  date_fr: 2 septembre 2026
+  changes: 1
+  url: https://github.com/home-assistant/core/releases/tag/2026.9.0b8
+- v: 2026.9.0b9
+  date: '2026-09-02'
+  heure: '14:19'
+  date_fr: 2 septembre 2026
+  changes: 1
+  url: https://github.com/home-assistant/core/releases/tag/2026.9.0b9
+- v: 2026.9.0
+  date: '2026-09-02'
+  heure: '18:08'
+  date_fr: 2 septembre 2026
+  url: https://github.com/home-assistant/core/releases/tag/2026.9.0
+  stable: true
+2026-10:
+- v: 2026.10.0b0
+  date: '2026-09-30'
+  heure: '19:37'
+  date_fr: 30 septembre 2026
+  changes: 0
+  url: https://github.com/home-assistant/core/releases/tag/2026.10.0b0
+- v: 2026.10.0b1
+  date: '2026-10-05'
+  heure: '18:34'
+  date_fr: 5 octobre 2026
+  changes: 67
+  url: https://github.com/home-assistant/core/releases/tag/2026.10.0b1
+- v: 2026.10.0b2
+  date: '2026-10-06'
+  heure: 08:01
+  date_fr: 6 octobre 2026
+  changes: 19
+  url: https://github.com/home-assistant/core/releases/tag/2026.10.0b2
+- v: 2026.10.0b3
+  date: '2026-10-07'
+  heure: 00:47
+  date_fr: 7 octobre 2026
+  changes: 38
+  url: https://github.com/home-assistant/core/releases/tag/2026.10.0b3
+- v: 2026.10.0b4
+  date: '2026-10-07'
+  heure: 07:53
+  date_fr: 7 octobre 2026
+  changes: 34
+  url: https://github.com/home-assistant/core/releases/tag/2026.10.0b4
+- v: 2026.10.0b5
+  date: '2026-10-07'
+  heure: '13:34'
+  date_fr: 7 octobre 2026
+  changes: 24
+  url: https://github.com/home-assistant/core/releases/tag/2026.10.0b5
+- v: 2026.10.0b6
+  date: '2026-10-07'
+  heure: '15:53'
+  date_fr: 7 octobre 2026
+  changes: 4
+  url: https://github.com/home-assistant/core/releases/tag/2026.10.0b6
+- v: 2026.10.0b7
+  date: '2026-10-07'
+  heure: '17:30'
+  date_fr: 7 octobre 2026
+  changes: 3
+  url: https://github.com/home-assistant/core/releases/tag/2026.10.0b7
+- v: 2026.10.0
+  date: '2026-10-07'
+  heure: '19:22'
+  date_fr: 7 octobre 2026
+  url: https://github.com/home-assistant/core/releases/tag/2026.10.0
+  stable: true
+2026-11:
+- v: 2026.11.0b0
+  date: '2026-10-28'
+  heure: '17:06'
+  date_fr: 28 octobre 2026
+  changes: 0
+  url: https://github.com/home-assistant/core/releases/tag/2026.11.0b0
+- v: 2026.11.0b1
+  date: '2026-10-29'
+  heure: '17:53'
+  date_fr: 29 octobre 2026
+  changes: 27
+  url: https://github.com/home-assistant/core/releases/tag/2026.11.0b1
+- v: 2026.11.0b2
+  date: '2026-10-31'
+  heure: 00:07
+  date_fr: 31 octobre 2026
+  changes: 18
+  url: https://github.com/home-assistant/core/releases/tag/2026.11.0b2
+- v: 2026.11.0b3
+  date: '2026-11-02'
+  heure: '17:53'
+  date_fr: 2 novembre 2026
+  changes: 54
+  url: https://github.com/home-assistant/core/releases/tag/2026.11.0b3
+- v: 2026.11.0b4
+  date: '2026-11-03'
+  heure: '14:48'
+  date_fr: 3 novembre 2026
+  changes: 19
+  url: https://github.com/home-assistant/core/releases/tag/2026.11.0b4
+- v: 2026.11.0b5
+  date: '2026-11-04'
+  heure: '13:26'
+  date_fr: 4 novembre 2026
+  changes: 14
+  url: https://github.com/home-assistant/core/releases/tag/2026.11.0b5
+- v: 2026.11.0b6
+  date: '2026-11-04'
+  heure: '17:27'
+  date_fr: 4 novembre 2026
+  changes: 8
+  url: https://github.com/home-assistant/core/releases/tag/2026.11.0b6
+- v: 2026.11.0
+  date: '2026-11-04'
+  heure: '18:32'
+  date_fr: 4 novembre 2026
+  url: https://github.com/home-assistant/core/releases/tag/2026.11.0
+  stable: true
+2026-12:
+- v: 2026.12.0b0
+  date: '2026-11-25'
+  heure: '19:26'
+  date_fr: 25 novembre 2026
+  changes: 0
+  url: https://github.com/home-assistant/core/releases/tag/2026.12.0b0
+- v: 2026.12.0b1
+  date: '2026-11-26'
+  heure: 09:54
+  date_fr: 26 novembre 2026
+  changes: 39
+  url: https://github.com/home-assistant/core/releases/tag/2026.12.0b1
+- v: 2026.12.0b2
+  date: '2026-11-26'
+  heure: '18:25'
+  date_fr: 26 novembre 2026
+  changes: 18
+  url: https://github.com/home-assistant/core/releases/tag/2026.12.0b2

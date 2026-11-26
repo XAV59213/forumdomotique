@@ -1,0 +1,57 @@
+---
+layout: default
+---
+{% assign rel = site.pages | where: "section", "actualite-ha-dev" | sort: "date" %}
+{% for p in rel %}{% if p.url == page.url %}{% assign idx = forloop.index0 %}{% endif %}{% endfor %}
+{% assign stable = site.pages | where: "section", "actualite-ha" | where: "version", page.version | first %}
+{% assign betas = site.data.ha_betas[page.cycle] %}
+{% assign nb_betas = 0 %}{% assign nb_changes = 0 %}{% assign last_beta = nil %}{% assign final = nil %}
+{% for b in betas %}{% if b.stable %}{% assign final = b %}{% else %}{% assign nb_betas = nb_betas | plus: 1 %}{% assign nb_changes = nb_changes | plus: b.changes %}{% assign last_beta = b %}{% endif %}{% endfor %}
+<article class="ha-article ha-dev">
+  <p class="ha-breadcrumb"><a href="{{ '/actualite-ha-dev/' | relative_url }}">Actualité HA développement</a> › Bêta {{ page.version }}</p>
+  <header class="ha-article-head">
+    <p class="ha-kicker"><span class="hd-badge">Canal bêta</span> Cycle {{ page.version }} · {{ page.month }}</p>
+    <h1>{{ page.title }}</h1>
+    {% include auteur.html class="auteur-article" %}
+    <p class="ha-meta">
+      <span>Bêta ouverte le {{ betas[0].date_fr }}</span>
+      <span>{{ nb_betas }} bêta{% if nb_betas > 1 %}s{% endif %} ({{ betas[0].v }} → {{ last_beta.v }}), {{ nb_changes }} changements</span>
+      {% if final %}<span>Version finale le {{ final.date_fr }}</span>{% elsif page.planned_fr %}<span>Version finale annoncée le {{ page.planned_fr }}</span>{% endif %}
+      <span><a href="{{ page.release_url }}">{% if final %}Notes officielles{% else %}Notes de la bêta{% endif %} (en anglais)</a></span>
+    </p>
+    {% include audience-mention.html page=page class="audience-article" %}
+  </header>
+
+  {% include ha-dev-gallery.html stable=stable %}
+
+  {% if stable %}
+  <p class="hd-stable-link">✅ Cette bêta est devenue la version stable <strong>{{ page.version }}</strong> : <a href="{{ stable.url | relative_url }}">lire l’article complet de la rubrique Actualité HA</a>.</p>
+  {% else %}
+  <p class="hd-stable-link hd-ongoing">🧪 Bêta en cours : cet article suit les versions de test publiées jusqu’au {{ last_beta.date_fr }}. Les fonctionnalités peuvent encore changer avant la version finale.</p>
+  {% endif %}
+
+  <div class="ha-body">
+  {{ content }}
+  </div>
+
+  {% include ha-beta-timeline.html betas=betas %}
+
+  <aside class="ha-sources">
+    <p><strong>Sources :</strong> {% if final %}<a href="{{ page.release_url }}">billet officiel « {{ page.official_title }} »</a> sur home-assistant.io{% else %}<a href="{{ page.release_url }}">notes de la bêta « {{ page.official_title }} »</a> sur rc.home-assistant.io (document de travail, susceptible d’évoluer){% endif %} · listes de changements des bêtas sur GitHub (<a href="https://github.com/home-assistant/core/releases?q={{ page.version }}.0b&amp;expanded=true">{{ page.version }}.0b*</a>){% if page.contributors_url %} · <a href="{{ page.contributors_url }}">blog des contributeurs</a>{% endif %}{% if page.changelog_url %} · <a href="{{ page.changelog_url }}">journal complet des changements</a>{% endif %}.</p>
+    <p>Dates des bêtas : horodatage des publications GitHub, converti à l’heure de Paris. Nombre de changements : pull requests listées dans chaque bêta (hors b0). Captures d’écran : Home Assistant / Nabu Casa (Open Home Foundation), reproduites avec mention de la source. Couverture : XAV59213.</p>
+  </aside>
+
+  {% include github-star.html %}
+  {% include don.html %}
+
+  {% include a-lire-aussi.html %}
+
+  <nav class="ha-prevnext" aria-label="Autres cycles bêta">
+    {% if idx > 0 %}{% assign pi = idx | minus: 1 %}{% assign prev = rel[pi] %}
+    <a class="ha-prev" href="{{ prev.url | relative_url }}"><span>‹ Bêta précédente</span>{{ prev.version }} — {{ prev.month }}</a>
+    {% else %}<span></span>{% endif %}
+    {% assign nidx = idx | plus: 1 %}{% if nidx < rel.size %}{% assign nxt = rel[nidx] %}
+    <a class="ha-next" href="{{ nxt.url | relative_url }}"><span>Bêta suivante ›</span>{{ nxt.version }} — {{ nxt.month }}</a>
+    {% endif %}
+  </nav>
+</article>

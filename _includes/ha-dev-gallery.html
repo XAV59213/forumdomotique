@@ -1,0 +1,33 @@
+{% comment %} Galerie d’un article « Actualité HA développement ».
+Images propres à l’article (page.gallery) ou, à défaut, les premières images de l’article stable correspondant (include.stable). {% endcomment %}
+{% assign st = include.stable %}
+{% if page.gallery and page.gallery.size > 0 %}{% assign gal = page.gallery %}{% assign gdir = page.dir %}{% assign gcredit = page.release_url %}
+{% elsif st and st.gallery %}{% assign gal = st.gallery | slice: 0, 5 %}{% assign gdir = st.dir %}{% assign gcredit = st.release_url %}
+{% else %}{% assign gal = nil %}{% endif %}
+{% assign n = 1 %}{% if gal %}{% assign n = gal.size | plus: 1 %}{% endif %}
+<section class="carousel photo-carousel ha-gallery hd-gallery" data-carousel data-lightbox aria-roledescription="carrousel" aria-label="Images de l’article ({{ n }})" tabindex="0">
+<div class="carousel-track" data-track>
+<figure class="photo-slide" data-slide>
+  <a href="{{ page.image | relative_url }}" data-full="{{ page.image | relative_url }}" data-alt="Couverture — bêta Home Assistant {{ page.version }}" aria-label="Agrandir la couverture">
+    <img src="{{ page.image | relative_url }}" alt="{{ page.cover_alt | default: page.title | escape }}" loading="eager" width="1200" height="630">
+  </a>
+  <figcaption>Bêta Home Assistant {{ page.version }} — {{ page.month }}</figcaption>
+</figure>
+{% for g in gal %}
+{% assign gsrc = gdir | append: g.src | relative_url %}
+<figure class="photo-slide" data-slide>
+  <a href="{{ gsrc }}" data-full="{{ gsrc }}" data-alt="{{ g.caption | escape }} (Image : Home Assistant / Nabu Casa)" aria-label="Agrandir l’image {{ forloop.index | plus: 1 }} : {{ g.caption | escape }}">
+    <img src="{{ gsrc }}" alt="{{ g.caption | escape }}" loading="lazy" decoding="async">
+  </a>
+  <figcaption>{{ g.caption }} <span class="credit">Image : <a href="{{ gcredit }}">Home Assistant / Nabu Casa</a></span></figcaption>
+</figure>
+{% endfor %}
+</div>
+{% if n > 1 %}
+<button type="button" class="carousel-nav" data-prev aria-label="Image précédente">‹</button>
+<button type="button" class="carousel-nav" data-next aria-label="Image suivante">›</button>
+<div class="carousel-dots" data-dots></div>
+<div class="carousel-live" data-live aria-live="polite"></div>
+<p class="carousel-hint">Faites défiler horizontalement pour voir les autres images.</p>
+{% endif %}
+</section>

@@ -41,7 +41,7 @@
   </head>
   {% assign is_article = false %}
   {% assign is_editorial = false %}
-  {% if page.section == "tests" or page.section == "guides" or page.section == "creations" or page.section == "actualites" or page.section == "actualite-ha" or page.section == "coin-bistrot" %}
+  {% if page.section == "tests" or page.section == "guides" or page.section == "creations" or page.section == "actualites" or page.section == "actualite-ha" or page.section == "actualite-ha-dev" or page.section == "coin-bistrot" %}
     {% assign is_article = true %}
     {% assign is_editorial = true %}
   {% endif %}
@@ -89,7 +89,8 @@
         {% assign home_guides = site.pages | where: "section", "guides" | size %}
         {% assign home_creations = site.pages | where: "section", "creations" | size %}
         {% assign home_ha = site.pages | where: "section", "actualite-ha" | size %}
-        {% assign home_articles = home_tests | plus: home_guides | plus: home_creations | plus: home_ha %}
+        {% assign home_ha_dev = site.pages | where: "section", "actualite-ha-dev" | size %}
+        {% assign home_articles = home_tests | plus: home_guides | plus: home_creations | plus: home_ha | plus: home_ha_dev %}
         {% assign home_news = site.pages | where: "section", "actualites" %}
         {% for p in home_news %}
           {% unless p.canonical_url %}
@@ -108,10 +109,10 @@
     {% endif %}
 
     <main id="content" class="main-content" role="main">
-      {% if is_article and page.layout != "ha-release" %}
+      {% if is_article and page.layout != "ha-release" and page.layout != "ha-dev" %}
         {% include auteur.html class="auteur-article" %}
       {% endif %}
-      {% if is_article and page.audience_key and page.layout != "ha-release" %}
+      {% if is_article and page.audience_key and page.layout != "ha-release" and page.layout != "ha-dev" %}
         {% include audience-mention.html page=page class="audience-article" %}
       {% endif %}
       {% if page.section == "actualites" and page.canonical_url %}

@@ -1,0 +1,17 @@
+{% comment %} Chronologie d’un cycle bêta (données : _data/ha_betas.yml). Paramètre : betas {% endcomment %}
+{% assign betas = include.betas %}
+{% if betas and betas.size > 0 %}
+<section class="hd-timeline" aria-labelledby="hd-timeline-h">
+  <h2 id="hd-timeline-h">🗓️ Le cycle bêta, version par version</h2>
+  <ol>
+  {% for b in betas %}
+    <li class="{% if b.stable %}is-stable{% elsif forloop.first %}is-first{% endif %}">
+      <a href="{{ b.url }}"><span class="hd-v">{{ b.v }}</span></a>
+      <span class="hd-d">{{ b.date_fr }} · {{ b.heure }}</span>
+      <span class="hd-c">{% if b.stable %}Version finale{% elsif forloop.first %}Ouverture de la bêta{% else %}{{ b.changes }} changement{% if b.changes > 1 %}s{% endif %}{% endif %}</span>
+    </li>
+  {% endfor %}
+  </ol>
+  <p class="hd-timeline-note">Heures de Paris. Chaque numéro renvoie à la publication officielle sur GitHub.</p>
+</section>
+{% endif %}

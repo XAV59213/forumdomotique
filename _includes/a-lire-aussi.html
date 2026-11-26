@@ -62,7 +62,7 @@
   {%- assign scored_list = "" -%}
   {%- for p in site.pages -%}
     {%- assign ok = false -%}
-    {%- if p.section == "guides" or p.section == "tests" or p.section == "creations" or p.section == "actualites" or p.section == "actualite-ha" or p.section == "coin-bistrot" -%}
+    {%- if p.section == "guides" or p.section == "tests" or p.section == "creations" or p.section == "actualites" or p.section == "actualite-ha" or p.section == "actualite-ha-dev" or p.section == "coin-bistrot" -%}
       {%- assign ok = true -%}
     {%- endif -%}
     {%- if p.url == page.url -%}{%- assign ok = false -%}{%- endif -%}
@@ -129,6 +129,7 @@
       {%- elsif rp.section == "creations" -%}{%- assign rub = "Mes créations" -%}
       {%- elsif rp.section == "actualites" -%}{%- assign rub = "Actualités" -%}
       {%- elsif rp.section == "actualite-ha" -%}{%- assign rub = "Actualité HA" -%}
+      {%- elsif rp.section == "actualite-ha-dev" -%}{%- assign rub = "Actualité HA dev" -%}
       {%- elsif rp.section == "coin-bistrot" -%}{%- assign rub = "Coin bistrot" -%}
       {%- elsif rp.github_repo -%}{%- assign rub = "Intégrations" -%}
       {%- else -%}{%- assign rub = "Sujets" -%}
