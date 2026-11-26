@@ -1,9 +1,19 @@
-{% if page.product or page.brand %}
-<aside class="product-meta">
+{% if page.product or page.brand or page.shop_links %}
+<aside class="product-meta"{% if page.shop_links %} aria-label="Fiche produit"{% endif %}>
   {% if page.product %}<p><span>Produit</span> {{ page.product }}</p>{% endif %}
   {% if page.brand %}<p><span>Marque</span> {{ page.brand }}</p>{% endif %}
   {% if page.tags %}
   <p><span>Catégories</span> {% for t in page.tags %}{{ t }}{% unless forloop.last %}, {% endunless %}{% endfor %}</p>
+  {% endif %}
+  {% if page.shop_links %}
+  <nav class="product-meta-shop" aria-label="{{ page.shop_heading | default: 'Voir sur la boutique' }}">
+    <p class="product-meta-shop-label"><span>{{ page.shop_heading | default: "Voir sur la boutique" }}</span></p>
+    <ul class="product-meta-shop-list">
+      {% for link in page.shop_links %}
+      <li><a href="{{ link.url }}" rel="noopener noreferrer">{{ link.label }}</a></li>
+      {% endfor %}
+    </ul>
+  </nav>
   {% endif %}
 </aside>
 {% endif %}

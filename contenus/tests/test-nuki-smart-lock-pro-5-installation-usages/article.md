@@ -13,6 +13,16 @@ tags:
   - domotique
   - sécurité
 pdf: /contenus/tests/test-nuki-smart-lock-pro-5-installation-usages/test-nuki-smart-lock-pro-5-installation-usages.pdf
+shop_heading: "Voir sur la boutique Nuki"
+shop_links:
+  - label: "Smart Lock Pro 5e génération"
+    url: "https://nuki.io/fr-fr/produits/smart-lock-pro-5eme-gen"
+  - label: "Keypad 2 NFC"
+    url: "https://nuki.io/fr-fr/produits/keypad-2-nfc"
+  - label: "Door Sensor"
+    url: "https://nuki.io/fr-fr/produits/door-sensor"
+  - label: "Fob"
+    url: "https://nuki.io/fr-fr/produits/fob"
 ---
 
 # Test Nuki Smart Lock Pro 5e génération : l’installation et les usages au quotidien
