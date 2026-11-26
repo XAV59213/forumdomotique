@@ -33,6 +33,8 @@ dans le layout, juste au-dessus du bandeau « Lire et commenter ». S’il
 existe déjà un lien vers le même fichier dans le texte (guide 4008), le
 bouton n’est pas doublé.
 
+Les clics sur les liens PDF du site sont comptés dans GoatCounter comme des événements `telechargement-pdf/<fichier>.pdf` (attributs `data-goatcounter-click` et script `assets/js/pdf-downloads.js`).
+
 ## GitHub Action
 
 Le flux `.github/workflows/generer-pdf.yml` peut être lancé à la main

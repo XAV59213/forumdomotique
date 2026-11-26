@@ -22,6 +22,6 @@
     {%- assign pdf_already = true -%}
   {%- endif -%}
   {%- unless pdf_already -%}
-<p class="pdf-download"><a href="{{ pdf_href | relative_url }}">Télécharger en PDF</a></p>
+<p class="pdf-download"><a href="{{ pdf_href | relative_url }}" data-goatcounter-click="telechargement-pdf/{{ pdf_name }}" data-goatcounter-title="PDF – {{ page.title | escape }}">Télécharger en PDF</a></p>
   {%- endunless -%}
 {%- endif -%}
