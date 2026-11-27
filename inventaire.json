@@ -1,9 +1,9 @@
 {
-  "generated": "2026-11-26T20:43:43.092005+01:00",
+  "generated": "2026-11-27T18:37:07.972716+01:00",
   "author": "XAV59213",
   "profile": "https://forumdomotique.com/profile/106-xav59213/",
-  "forum_posts": 389,
-  "forum_topics": 218,
+  "forum_posts": 390,
+  "forum_topics": 219,
   "topics_started": 54,
   "cms_articles": 10,
   "other_commented_articles": 2,
@@ -2445,6 +2445,17 @@
       "folder": "sujets/4102-home-assistant-202612-beta-un-dialogue-de-volets-quon-attrape-des-boutons-multi",
       "n_images": 0,
       "started_by_xavier": true
+    },
+    {
+      "topic_id": "995",
+      "title": "Quel interrupteur Zigbee ou Z-Wave pour piloter mon portail électrique via Home Assistant ?",
+      "category": "Garage et Véhicules Électriques",
+      "n_posts": 1,
+      "first_date": "2026-11-27T17:33:20Z",
+      "url": "https://forumdomotique.com/forums/topic/995-quel-interrupteur-zigbee-ou-z-wave-pour-piloter-mon-portail-%C3%A9lectrique-via-home-assistant/",
+      "folder": "sujets/995-quel-interrupteur-zigbee-ou-z-wave-pour-piloter-mon-portail-electrique-via-home",
+      "n_images": 0,
+      "started_by_xavier": false
     }
   ],
   "cms": [
