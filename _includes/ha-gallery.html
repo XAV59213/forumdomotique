@@ -4,7 +4,8 @@
 <div class="carousel-track" data-track>
 <figure class="photo-slide" data-slide>
   <a href="{{ page.image | relative_url }}" data-full="{{ page.image | relative_url }}" data-alt="Couverture — Home Assistant {{ page.version }}" aria-label="Agrandir la couverture">
-    <img src="{{ page.image | relative_url }}" alt="{{ page.cover_alt | default: page.title | escape }}" loading="eager" width="1200" height="630">
+    {% assign gal_alt = page.cover_alt | default: page.title %}
+    {% include card-img.html src=page.image alt=gal_alt class="ha-cover" width=1200 height=630 loading="eager" fetchpriority="high" kind="wide" %}
   </a>
   <figcaption>Home Assistant {{ page.version }} — {{ page.month }}</figcaption>
 </figure>

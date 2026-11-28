@@ -1,6 +1,6 @@
 ---
 title: "Connecter son imprimante 3D à Home Assistant avec OctoPrint sur Raspberry Pi : mon retour d’expérience"
-description: "Comment j’ai connecté mon imprimante 3D à Home Assistant avec OctoPrint sur un Raspberry Pi : isolation USB, image OctoPi, intégration officielle et notifications."
+description: "Comment j’ai connecté mon imprimante 3D à Home Assistant avec OctoPrint sur Raspberry Pi : isolation USB, image OctoPi, intégration officielle et notifications."
 image: /contenus/guides/connecter-imprimante-3d-home-assistant-octoprint/images/entete-octoprint-og.jpg
 image_alt: "Raspberry Pi posé sur le plateau d’une imprimante 3D Artillery Genius, éclairage bleu et violet, logo Home Assistant sur la tête d’impression."
 cover_alt: "Raspberry Pi posé sur le plateau d’une imprimante 3D Artillery Genius, éclairage bleu et violet, logo Home Assistant sur la tête d’impression."

@@ -18,6 +18,7 @@ permalink: /sitemap-images.xml
   {% unless skip %}
   <url>
     <loc>{{ p.url | absolute_url }}</loc>
+    {% if p.date %}<lastmod>{{ p.date | date_to_xmlschema }}</lastmod>{% else %}<lastmod>{{ site.time | date_to_xmlschema }}</lastmod>{% endif %}
     <image:image>
       <image:loc>{{ p.image | absolute_url }}</image:loc>
       <image:title>{{ p.title | xml_escape }}</image:title>

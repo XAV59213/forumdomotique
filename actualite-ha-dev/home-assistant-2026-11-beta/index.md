@@ -2,7 +2,7 @@
 layout: ha-dev
 title: 'Bêta Home Assistant 2026.11 : le Marketplace prend forme pendant la bêta, et les intégrations déclarent leur connectivité'
 short_title: 'Bêta 2026.11 : HACS devient le Marketplace'
-description: 'La bêta de Home Assistant 2026.11 (28 octobre – 4 novembre 2026) en français : Marketplace (ex-HACS), exclusions de cibles, noms d’entités, correctifs des sept bêtas.'
+description: "La bêta de Home Assistant 2026.11 (28 octobre – 4 novembre 2026) : Marketplace (ex-HACS), exclusions de cibles, noms d’entités, correctifs des sept bêtas."
 excerpt_fr: 'La bêta de la plus grosse version de l’histoire : HACS devient le Marketplace, les cibles acceptent des exclusions et les noms d’entités sont repensés. Pendant la bêta, le Marketplace gagne son titre et un serveur miroir pour les utilisateurs en Chine, et les intégrations déclarent leur connectivité.'
 image: /actualite-ha-dev/home-assistant-2026-11-beta/images/cover.png
 cover_alt: 'Couverture : la bêta de Home Assistant 2026.11, novembre 2026'

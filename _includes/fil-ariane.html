@@ -1,0 +1,44 @@
+{%- if include.skip -%}
+{%- else -%}
+{%- assign fa_section = page.section -%}
+{%- assign fa_label = nil -%}
+{%- assign fa_url = nil -%}
+{%- if fa_section == "tests" -%}
+  {%- assign fa_label = "Tests produits" -%}
+  {%- assign fa_url = "/tests-produits/" -%}
+{%- elsif fa_section == "guides" -%}
+  {%- assign fa_label = "Guides" -%}
+  {%- assign fa_url = "/guides/" -%}
+{%- elsif fa_section == "creations" -%}
+  {%- assign fa_label = "Mes créations" -%}
+  {%- assign fa_url = "/creations/" -%}
+{%- elsif fa_section == "actualites" -%}
+  {%- assign fa_label = "Actualités" -%}
+  {%- assign fa_url = "/actualites/" -%}
+{%- elsif fa_section == "actualite-ha" -%}
+  {%- assign fa_label = "Actualité Home Assistant" -%}
+  {%- assign fa_url = "/actualite-home-assistant/" -%}
+{%- elsif fa_section == "actualite-ha-dev" -%}
+  {%- assign fa_label = "Actualité HA développement" -%}
+  {%- assign fa_url = "/actualite-ha-dev/" -%}
+{%- elsif fa_section == "coin-bistrot" -%}
+  {%- assign fa_label = "Coin bistrot" -%}
+  {%- assign fa_url = "/coin-bistrot-de-la-domotique/" -%}
+{%- elsif page.github_repo or page.url contains "/mes-integrations" -%}
+  {%- assign fa_label = "Mes intégrations" -%}
+  {%- assign fa_url = "/mes-integrations/" -%}
+{%- elsif page.url contains "/sujets/" -%}
+  {%- assign fa_label = "Réponses aux utilisateurs" -%}
+  {%- assign fa_url = "/reponses-utilisateurs/" -%}
+{%- endif -%}
+{%- assign fa_title = page.short_title | default: page.title | strip_html | replace: "**", "" | strip -%}
+<nav class="fil-ariane" aria-label="Fil d’Ariane">
+  <ol>
+    <li><a href="{{ '/' | relative_url }}">Accueil</a></li>
+    {%- if fa_label and fa_url %}
+    <li><a href="{{ fa_url | relative_url }}">{{ fa_label }}</a></li>
+    {%- endif %}
+    <li aria-current="page">{{ fa_title | escape }}</li>
+  </ol>
+</nav>
+{%- endif -%}

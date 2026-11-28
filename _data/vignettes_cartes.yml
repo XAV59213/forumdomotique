@@ -1,0 +1,671 @@
+# Vignettes redimensionnées pour les cartes et carrousels (générées, originaux intacts).
+
+"actualite-ha-dev/home-assistant-2026-1-beta/images/cover.png":
+  card_webp: /assets/images/vignettes-cartes/actualite-ha-dev-home-assistant-2026-1-beta-images-cover-png-card.webp
+  card_jpg: /assets/images/vignettes-cartes/actualite-ha-dev-home-assistant-2026-1-beta-images-cover-png-card.jpg
+  wide_webp: /assets/images/vignettes-cartes/actualite-ha-dev-home-assistant-2026-1-beta-images-cover-png-wide.webp
+  wide_jpg: /assets/images/vignettes-cartes/actualite-ha-dev-home-assistant-2026-1-beta-images-cover-png-wide.jpg
+  card_w: 800
+  card_h: 450
+  wide_w: 1200
+  wide_h: 630
+
+"actualite-ha-dev/home-assistant-2026-10-beta/images/cover.png":
+  card_webp: /assets/images/vignettes-cartes/actualite-ha-dev-home-assistant-2026-10-beta-images-cover-png-card.webp
+  card_jpg: /assets/images/vignettes-cartes/actualite-ha-dev-home-assistant-2026-10-beta-images-cover-png-card.jpg
+  wide_webp: /assets/images/vignettes-cartes/actualite-ha-dev-home-assistant-2026-10-beta-images-cover-png-wide.webp
+  wide_jpg: /assets/images/vignettes-cartes/actualite-ha-dev-home-assistant-2026-10-beta-images-cover-png-wide.jpg
+  card_w: 800
+  card_h: 450
+  wide_w: 1200
+  wide_h: 630
+
+"actualite-ha-dev/home-assistant-2026-11-beta/images/cover.png":
+  card_webp: /assets/images/vignettes-cartes/actualite-ha-dev-home-assistant-2026-11-beta-images-cover-png-card.webp
+  card_jpg: /assets/images/vignettes-cartes/actualite-ha-dev-home-assistant-2026-11-beta-images-cover-png-card.jpg
+  wide_webp: /assets/images/vignettes-cartes/actualite-ha-dev-home-assistant-2026-11-beta-images-cover-png-wide.webp
+  wide_jpg: /assets/images/vignettes-cartes/actualite-ha-dev-home-assistant-2026-11-beta-images-cover-png-wide.jpg
+  card_w: 800
+  card_h: 450
+  wide_w: 1200
+  wide_h: 630
+
+"actualite-ha-dev/home-assistant-2026-12-beta/images/cover.png":
+  card_webp: /assets/images/vignettes-cartes/actualite-ha-dev-home-assistant-2026-12-beta-images-cover-png-card.webp
+  card_jpg: /assets/images/vignettes-cartes/actualite-ha-dev-home-assistant-2026-12-beta-images-cover-png-card.jpg
+  wide_webp: /assets/images/vignettes-cartes/actualite-ha-dev-home-assistant-2026-12-beta-images-cover-png-wide.webp
+  wide_jpg: /assets/images/vignettes-cartes/actualite-ha-dev-home-assistant-2026-12-beta-images-cover-png-wide.jpg
+  card_w: 800
+  card_h: 450
+  wide_w: 1200
+  wide_h: 630
+
+"actualite-ha-dev/home-assistant-2026-2-beta/images/cover.png":
+  card_webp: /assets/images/vignettes-cartes/actualite-ha-dev-home-assistant-2026-2-beta-images-cover-png-card.webp
+  card_jpg: /assets/images/vignettes-cartes/actualite-ha-dev-home-assistant-2026-2-beta-images-cover-png-card.jpg
+  wide_webp: /assets/images/vignettes-cartes/actualite-ha-dev-home-assistant-2026-2-beta-images-cover-png-wide.webp
+  wide_jpg: /assets/images/vignettes-cartes/actualite-ha-dev-home-assistant-2026-2-beta-images-cover-png-wide.jpg
+  card_w: 800
+  card_h: 450
+  wide_w: 1200
+  wide_h: 630
+
+"actualite-ha-dev/home-assistant-2026-3-beta/images/cover.png":
+  card_webp: /assets/images/vignettes-cartes/actualite-ha-dev-home-assistant-2026-3-beta-images-cover-png-card.webp
+  card_jpg: /assets/images/vignettes-cartes/actualite-ha-dev-home-assistant-2026-3-beta-images-cover-png-card.jpg
+  wide_webp: /assets/images/vignettes-cartes/actualite-ha-dev-home-assistant-2026-3-beta-images-cover-png-wide.webp
+  wide_jpg: /assets/images/vignettes-cartes/actualite-ha-dev-home-assistant-2026-3-beta-images-cover-png-wide.jpg
+  card_w: 800
+  card_h: 450
+  wide_w: 1200
+  wide_h: 630
+
+"actualite-ha-dev/home-assistant-2026-4-beta/images/cover.png":
+  card_webp: /assets/images/vignettes-cartes/actualite-ha-dev-home-assistant-2026-4-beta-images-cover-png-card.webp
+  card_jpg: /assets/images/vignettes-cartes/actualite-ha-dev-home-assistant-2026-4-beta-images-cover-png-card.jpg
+  wide_webp: /assets/images/vignettes-cartes/actualite-ha-dev-home-assistant-2026-4-beta-images-cover-png-wide.webp
+  wide_jpg: /assets/images/vignettes-cartes/actualite-ha-dev-home-assistant-2026-4-beta-images-cover-png-wide.jpg
+  card_w: 800
+  card_h: 450
+  wide_w: 1200
+  wide_h: 630
+
+"actualite-ha-dev/home-assistant-2026-5-beta/images/cover.png":
+  card_webp: /assets/images/vignettes-cartes/actualite-ha-dev-home-assistant-2026-5-beta-images-cover-png-card.webp
+  card_jpg: /assets/images/vignettes-cartes/actualite-ha-dev-home-assistant-2026-5-beta-images-cover-png-card.jpg
+  wide_webp: /assets/images/vignettes-cartes/actualite-ha-dev-home-assistant-2026-5-beta-images-cover-png-wide.webp
+  wide_jpg: /assets/images/vignettes-cartes/actualite-ha-dev-home-assistant-2026-5-beta-images-cover-png-wide.jpg
+  card_w: 800
+  card_h: 450
+  wide_w: 1200
+  wide_h: 630
+
+"actualite-ha-dev/home-assistant-2026-6-beta/images/cover.png":
+  card_webp: /assets/images/vignettes-cartes/actualite-ha-dev-home-assistant-2026-6-beta-images-cover-png-card.webp
+  card_jpg: /assets/images/vignettes-cartes/actualite-ha-dev-home-assistant-2026-6-beta-images-cover-png-card.jpg
+  wide_webp: /assets/images/vignettes-cartes/actualite-ha-dev-home-assistant-2026-6-beta-images-cover-png-wide.webp
+  wide_jpg: /assets/images/vignettes-cartes/actualite-ha-dev-home-assistant-2026-6-beta-images-cover-png-wide.jpg
+  card_w: 800
+  card_h: 450
+  wide_w: 1200
+  wide_h: 630
+
+"actualite-ha-dev/home-assistant-2026-7-beta/images/cover.png":
+  card_webp: /assets/images/vignettes-cartes/actualite-ha-dev-home-assistant-2026-7-beta-images-cover-png-card.webp
+  card_jpg: /assets/images/vignettes-cartes/actualite-ha-dev-home-assistant-2026-7-beta-images-cover-png-card.jpg
+  wide_webp: /assets/images/vignettes-cartes/actualite-ha-dev-home-assistant-2026-7-beta-images-cover-png-wide.webp
+  wide_jpg: /assets/images/vignettes-cartes/actualite-ha-dev-home-assistant-2026-7-beta-images-cover-png-wide.jpg
+  card_w: 800
+  card_h: 450
+  wide_w: 1200
+  wide_h: 630
+
+"actualite-ha-dev/home-assistant-2026-8-beta/images/cover.png":
+  card_webp: /assets/images/vignettes-cartes/actualite-ha-dev-home-assistant-2026-8-beta-images-cover-png-card.webp
+  card_jpg: /assets/images/vignettes-cartes/actualite-ha-dev-home-assistant-2026-8-beta-images-cover-png-card.jpg
+  wide_webp: /assets/images/vignettes-cartes/actualite-ha-dev-home-assistant-2026-8-beta-images-cover-png-wide.webp
+  wide_jpg: /assets/images/vignettes-cartes/actualite-ha-dev-home-assistant-2026-8-beta-images-cover-png-wide.jpg
+  card_w: 800
+  card_h: 450
+  wide_w: 1200
+  wide_h: 630
+
+"actualite-ha-dev/home-assistant-2026-9-beta/images/cover.png":
+  card_webp: /assets/images/vignettes-cartes/actualite-ha-dev-home-assistant-2026-9-beta-images-cover-png-card.webp
+  card_jpg: /assets/images/vignettes-cartes/actualite-ha-dev-home-assistant-2026-9-beta-images-cover-png-card.jpg
+  wide_webp: /assets/images/vignettes-cartes/actualite-ha-dev-home-assistant-2026-9-beta-images-cover-png-wide.webp
+  wide_jpg: /assets/images/vignettes-cartes/actualite-ha-dev-home-assistant-2026-9-beta-images-cover-png-wide.jpg
+  card_w: 800
+  card_h: 450
+  wide_w: 1200
+  wide_h: 630
+
+"actualite-home-assistant/home-assistant-2026-1/images/cover.png":
+  card_webp: /assets/images/vignettes-cartes/actualite-home-assistant-home-assistant-2026-1-images-cover-png-card.webp
+  card_jpg: /assets/images/vignettes-cartes/actualite-home-assistant-home-assistant-2026-1-images-cover-png-card.jpg
+  wide_webp: /assets/images/vignettes-cartes/actualite-home-assistant-home-assistant-2026-1-images-cover-png-wide.webp
+  wide_jpg: /assets/images/vignettes-cartes/actualite-home-assistant-home-assistant-2026-1-images-cover-png-wide.jpg
+  card_w: 800
+  card_h: 450
+  wide_w: 1200
+  wide_h: 630
+
+"actualite-home-assistant/home-assistant-2026-10/images/cover.png":
+  card_webp: /assets/images/vignettes-cartes/actualite-home-assistant-home-assistant-2026-10-images-cover-png-card.webp
+  card_jpg: /assets/images/vignettes-cartes/actualite-home-assistant-home-assistant-2026-10-images-cover-png-card.jpg
+  wide_webp: /assets/images/vignettes-cartes/actualite-home-assistant-home-assistant-2026-10-images-cover-png-wide.webp
+  wide_jpg: /assets/images/vignettes-cartes/actualite-home-assistant-home-assistant-2026-10-images-cover-png-wide.jpg
+  card_w: 800
+  card_h: 450
+  wide_w: 1200
+  wide_h: 630
+
+"actualite-home-assistant/home-assistant-2026-11/images/cover.png":
+  card_webp: /assets/images/vignettes-cartes/actualite-home-assistant-home-assistant-2026-11-images-cover-png-card.webp
+  card_jpg: /assets/images/vignettes-cartes/actualite-home-assistant-home-assistant-2026-11-images-cover-png-card.jpg
+  wide_webp: /assets/images/vignettes-cartes/actualite-home-assistant-home-assistant-2026-11-images-cover-png-wide.webp
+  wide_jpg: /assets/images/vignettes-cartes/actualite-home-assistant-home-assistant-2026-11-images-cover-png-wide.jpg
+  card_w: 800
+  card_h: 450
+  wide_w: 1200
+  wide_h: 630
+
+"actualite-home-assistant/home-assistant-2026-2/images/cover.png":
+  card_webp: /assets/images/vignettes-cartes/actualite-home-assistant-home-assistant-2026-2-images-cover-png-card.webp
+  card_jpg: /assets/images/vignettes-cartes/actualite-home-assistant-home-assistant-2026-2-images-cover-png-card.jpg
+  wide_webp: /assets/images/vignettes-cartes/actualite-home-assistant-home-assistant-2026-2-images-cover-png-wide.webp
+  wide_jpg: /assets/images/vignettes-cartes/actualite-home-assistant-home-assistant-2026-2-images-cover-png-wide.jpg
+  card_w: 800
+  card_h: 450
+  wide_w: 1200
+  wide_h: 630
+
+"actualite-home-assistant/home-assistant-2026-3/images/cover.png":
+  card_webp: /assets/images/vignettes-cartes/actualite-home-assistant-home-assistant-2026-3-images-cover-png-card.webp
+  card_jpg: /assets/images/vignettes-cartes/actualite-home-assistant-home-assistant-2026-3-images-cover-png-card.jpg
+  wide_webp: /assets/images/vignettes-cartes/actualite-home-assistant-home-assistant-2026-3-images-cover-png-wide.webp
+  wide_jpg: /assets/images/vignettes-cartes/actualite-home-assistant-home-assistant-2026-3-images-cover-png-wide.jpg
+  card_w: 800
+  card_h: 450
+  wide_w: 1200
+  wide_h: 630
+
+"actualite-home-assistant/home-assistant-2026-4/images/cover.png":
+  card_webp: /assets/images/vignettes-cartes/actualite-home-assistant-home-assistant-2026-4-images-cover-png-card.webp
+  card_jpg: /assets/images/vignettes-cartes/actualite-home-assistant-home-assistant-2026-4-images-cover-png-card.jpg
+  wide_webp: /assets/images/vignettes-cartes/actualite-home-assistant-home-assistant-2026-4-images-cover-png-wide.webp
+  wide_jpg: /assets/images/vignettes-cartes/actualite-home-assistant-home-assistant-2026-4-images-cover-png-wide.jpg
+  card_w: 800
+  card_h: 450
+  wide_w: 1200
+  wide_h: 630
+
+"actualite-home-assistant/home-assistant-2026-5/images/cover.png":
+  card_webp: /assets/images/vignettes-cartes/actualite-home-assistant-home-assistant-2026-5-images-cover-png-card.webp
+  card_jpg: /assets/images/vignettes-cartes/actualite-home-assistant-home-assistant-2026-5-images-cover-png-card.jpg
+  wide_webp: /assets/images/vignettes-cartes/actualite-home-assistant-home-assistant-2026-5-images-cover-png-wide.webp
+  wide_jpg: /assets/images/vignettes-cartes/actualite-home-assistant-home-assistant-2026-5-images-cover-png-wide.jpg
+  card_w: 800
+  card_h: 450
+  wide_w: 1200
+  wide_h: 630
+
+"actualite-home-assistant/home-assistant-2026-6/images/cover.png":
+  card_webp: /assets/images/vignettes-cartes/actualite-home-assistant-home-assistant-2026-6-images-cover-png-card.webp
+  card_jpg: /assets/images/vignettes-cartes/actualite-home-assistant-home-assistant-2026-6-images-cover-png-card.jpg
+  wide_webp: /assets/images/vignettes-cartes/actualite-home-assistant-home-assistant-2026-6-images-cover-png-wide.webp
+  wide_jpg: /assets/images/vignettes-cartes/actualite-home-assistant-home-assistant-2026-6-images-cover-png-wide.jpg
+  card_w: 800
+  card_h: 450
+  wide_w: 1200
+  wide_h: 630
+
+"actualite-home-assistant/home-assistant-2026-7/images/cover.png":
+  card_webp: /assets/images/vignettes-cartes/actualite-home-assistant-home-assistant-2026-7-images-cover-png-card.webp
+  card_jpg: /assets/images/vignettes-cartes/actualite-home-assistant-home-assistant-2026-7-images-cover-png-card.jpg
+  wide_webp: /assets/images/vignettes-cartes/actualite-home-assistant-home-assistant-2026-7-images-cover-png-wide.webp
+  wide_jpg: /assets/images/vignettes-cartes/actualite-home-assistant-home-assistant-2026-7-images-cover-png-wide.jpg
+  card_w: 800
+  card_h: 450
+  wide_w: 1200
+  wide_h: 630
+
+"actualite-home-assistant/home-assistant-2026-8/images/cover.png":
+  card_webp: /assets/images/vignettes-cartes/actualite-home-assistant-home-assistant-2026-8-images-cover-png-card.webp
+  card_jpg: /assets/images/vignettes-cartes/actualite-home-assistant-home-assistant-2026-8-images-cover-png-card.jpg
+  wide_webp: /assets/images/vignettes-cartes/actualite-home-assistant-home-assistant-2026-8-images-cover-png-wide.webp
+  wide_jpg: /assets/images/vignettes-cartes/actualite-home-assistant-home-assistant-2026-8-images-cover-png-wide.jpg
+  card_w: 800
+  card_h: 450
+  wide_w: 1200
+  wide_h: 630
+
+"actualite-home-assistant/home-assistant-2026-9/images/cover.png":
+  card_webp: /assets/images/vignettes-cartes/actualite-home-assistant-home-assistant-2026-9-images-cover-png-card.webp
+  card_jpg: /assets/images/vignettes-cartes/actualite-home-assistant-home-assistant-2026-9-images-cover-png-card.jpg
+  wide_webp: /assets/images/vignettes-cartes/actualite-home-assistant-home-assistant-2026-9-images-cover-png-wide.webp
+  wide_jpg: /assets/images/vignettes-cartes/actualite-home-assistant-home-assistant-2026-9-images-cover-png-wide.jpg
+  card_w: 800
+  card_h: 450
+  wide_w: 1200
+  wide_h: 630
+
+"assets/images/prochains-tests/netatmo-station-meteo-original-anemometre-pluviometre.jpg":
+  card_webp: /assets/images/vignettes-cartes/assets-images-prochains-tests-netatmo-station-meteo-original-2baee1e4-card.webp
+  card_jpg: /assets/images/vignettes-cartes/assets-images-prochains-tests-netatmo-station-meteo-original-2baee1e4-card.jpg
+  wide_webp: /assets/images/vignettes-cartes/assets-images-prochains-tests-netatmo-station-meteo-original-2baee1e4-wide.webp
+  wide_jpg: /assets/images/vignettes-cartes/assets-images-prochains-tests-netatmo-station-meteo-original-2baee1e4-wide.jpg
+  card_w: 800
+  card_h: 450
+  wide_w: 1200
+  wide_h: 630
+
+"contenus/coin-bistrot/faire-ses-premiers-dashboards-mushroom-cards/images/cover-mushroom-cards-og.jpg":
+  card_webp: /assets/images/vignettes-cartes/contenus-coin-bistrot-faire-ses-premiers-dashboards-mushroom-d2a5f4f8-card.webp
+  card_jpg: /assets/images/vignettes-cartes/contenus-coin-bistrot-faire-ses-premiers-dashboards-mushroom-d2a5f4f8-card.jpg
+  wide_webp: /assets/images/vignettes-cartes/contenus-coin-bistrot-faire-ses-premiers-dashboards-mushroom-d2a5f4f8-wide.webp
+  wide_jpg: /assets/images/vignettes-cartes/contenus-coin-bistrot-faire-ses-premiers-dashboards-mushroom-d2a5f4f8-wide.jpg
+  card_w: 800
+  card_h: 450
+  wide_w: 1200
+  wide_h: 630
+
+"contenus/coin-bistrot/histoire-de-linterrupteur-maudit/images/cover-interrupteur-maudit-og.jpg":
+  card_webp: /assets/images/vignettes-cartes/contenus-coin-bistrot-histoire-de-linterrupteur-maudit-image-adca3b60-card.webp
+  card_jpg: /assets/images/vignettes-cartes/contenus-coin-bistrot-histoire-de-linterrupteur-maudit-image-adca3b60-card.jpg
+  wide_webp: /assets/images/vignettes-cartes/contenus-coin-bistrot-histoire-de-linterrupteur-maudit-image-adca3b60-wide.webp
+  wide_jpg: /assets/images/vignettes-cartes/contenus-coin-bistrot-histoire-de-linterrupteur-maudit-image-adca3b60-wide.jpg
+  card_w: 800
+  card_h: 450
+  wide_w: 1200
+  wide_h: 630
+
+"contenus/coin-bistrot/lexique-home-assistant/images/cover-coin-bistrot-og.jpg":
+  card_webp: /assets/images/vignettes-cartes/contenus-coin-bistrot-lexique-home-assistant-images-cover-coin-bistrot-og-jpg-card.webp
+  card_jpg: /assets/images/vignettes-cartes/contenus-coin-bistrot-lexique-home-assistant-images-cover-coin-bistrot-og-jpg-card.jpg
+  wide_webp: /assets/images/vignettes-cartes/contenus-coin-bistrot-lexique-home-assistant-images-cover-coin-bistrot-og-jpg-wide.webp
+  wide_jpg: /assets/images/vignettes-cartes/contenus-coin-bistrot-lexique-home-assistant-images-cover-coin-bistrot-og-jpg-wide.jpg
+  card_w: 800
+  card_h: 450
+  wide_w: 1200
+  wide_h: 630
+
+"contenus/coin-bistrot/renommer-instances-zigbee2mqtt/images/cover-renommer-z2m-og.jpg":
+  card_webp: /assets/images/vignettes-cartes/contenus-coin-bistrot-renommer-instances-zigbee2mqtt-images-99b7d2f2-card.webp
+  card_jpg: /assets/images/vignettes-cartes/contenus-coin-bistrot-renommer-instances-zigbee2mqtt-images-99b7d2f2-card.jpg
+  wide_webp: /assets/images/vignettes-cartes/contenus-coin-bistrot-renommer-instances-zigbee2mqtt-images-99b7d2f2-wide.webp
+  wide_jpg: /assets/images/vignettes-cartes/contenus-coin-bistrot-renommer-instances-zigbee2mqtt-images-99b7d2f2-wide.jpg
+  card_w: 800
+  card_h: 450
+  wide_w: 1200
+  wide_h: 630
+
+"contenus/guides/commencer-avec-home-assistant/images/cover-commencer-home-assistant-og.jpg":
+  card_webp: /assets/images/vignettes-cartes/contenus-guides-commencer-avec-home-assistant-images-cover-c-bf373cab-card.webp
+  card_jpg: /assets/images/vignettes-cartes/contenus-guides-commencer-avec-home-assistant-images-cover-c-bf373cab-card.jpg
+  wide_webp: /assets/images/vignettes-cartes/contenus-guides-commencer-avec-home-assistant-images-cover-c-bf373cab-wide.webp
+  wide_jpg: /assets/images/vignettes-cartes/contenus-guides-commencer-avec-home-assistant-images-cover-c-bf373cab-wide.jpg
+  card_w: 800
+  card_h: 450
+  wide_w: 1200
+  wide_h: 630
+
+"contenus/guides/connecter-imprimante-3d-home-assistant-octoprint/images/entete-octoprint-og.jpg":
+  card_webp: /assets/images/vignettes-cartes/contenus-guides-connecter-imprimante-3d-home-assistant-octop-92573cbf-card.webp
+  card_jpg: /assets/images/vignettes-cartes/contenus-guides-connecter-imprimante-3d-home-assistant-octop-92573cbf-card.jpg
+  wide_webp: /assets/images/vignettes-cartes/contenus-guides-connecter-imprimante-3d-home-assistant-octop-92573cbf-wide.webp
+  wide_jpg: /assets/images/vignettes-cartes/contenus-guides-connecter-imprimante-3d-home-assistant-octop-92573cbf-wide.jpg
+  card_w: 800
+  card_h: 450
+  wide_w: 1200
+  wide_h: 630
+
+"contenus/guides/freebox-smb-music-assistant/images/freebox-smb-music-assistant-couverture.jpg":
+  card_webp: /assets/images/vignettes-cartes/contenus-guides-freebox-smb-music-assistant-images-freebox-s-6d4d8505-card.webp
+  card_jpg: /assets/images/vignettes-cartes/contenus-guides-freebox-smb-music-assistant-images-freebox-s-6d4d8505-card.jpg
+  wide_webp: /assets/images/vignettes-cartes/contenus-guides-freebox-smb-music-assistant-images-freebox-s-6d4d8505-wide.webp
+  wide_jpg: /assets/images/vignettes-cartes/contenus-guides-freebox-smb-music-assistant-images-freebox-s-6d4d8505-wide.jpg
+  card_w: 800
+  card_h: 450
+  wide_w: 1200
+  wide_h: 630
+
+"contenus/guides/guide-du-smlight-slzb-mr4u-installation-multi-radio-dedie-a-lopen-border-router-pour-matte/images/guide-slzb-mr4u-couverture.jpg":
+  card_webp: /assets/images/vignettes-cartes/contenus-guides-guide-du-smlight-slzb-mr4u-installation-mult-0ecb9a52-card.webp
+  card_jpg: /assets/images/vignettes-cartes/contenus-guides-guide-du-smlight-slzb-mr4u-installation-mult-0ecb9a52-card.jpg
+  wide_webp: /assets/images/vignettes-cartes/contenus-guides-guide-du-smlight-slzb-mr4u-installation-mult-0ecb9a52-wide.webp
+  wide_jpg: /assets/images/vignettes-cartes/contenus-guides-guide-du-smlight-slzb-mr4u-installation-mult-0ecb9a52-wide.jpg
+  card_w: 800
+  card_h: 450
+  wide_w: 1200
+  wide_h: 630
+
+"contenus/guides/guide-utilisateur-freebox-homexa/images/entete-freebox-homexa-og.jpg":
+  card_webp: /assets/images/vignettes-cartes/contenus-guides-guide-utilisateur-freebox-homexa-images-ente-ca422678-card.webp
+  card_jpg: /assets/images/vignettes-cartes/contenus-guides-guide-utilisateur-freebox-homexa-images-ente-ca422678-card.jpg
+  wide_webp: /assets/images/vignettes-cartes/contenus-guides-guide-utilisateur-freebox-homexa-images-ente-ca422678-wide.webp
+  wide_jpg: /assets/images/vignettes-cartes/contenus-guides-guide-utilisateur-freebox-homexa-images-ente-ca422678-wide.jpg
+  card_w: 800
+  card_h: 450
+  wide_w: 1200
+  wide_h: 630
+
+"contenus/guides/installer-sonoff-zbminil2-home-assistant-zigbee-sans-neutre/images/sonoff-zbminil2-couverture.jpg":
+  card_webp: /assets/images/vignettes-cartes/contenus-guides-installer-sonoff-zbminil2-home-assistant-zig-e2f43a96-card.webp
+  card_jpg: /assets/images/vignettes-cartes/contenus-guides-installer-sonoff-zbminil2-home-assistant-zig-e2f43a96-card.jpg
+  wide_webp: /assets/images/vignettes-cartes/contenus-guides-installer-sonoff-zbminil2-home-assistant-zig-e2f43a96-wide.webp
+  wide_jpg: /assets/images/vignettes-cartes/contenus-guides-installer-sonoff-zbminil2-home-assistant-zig-e2f43a96-wide.jpg
+  card_w: 800
+  card_h: 450
+  wide_w: 1200
+  wide_h: 630
+
+"contenus/guides/integrer-resmed-myair-cpap-home-assistant/images/entete-resmed-myair-og.jpg":
+  card_webp: /assets/images/vignettes-cartes/contenus-guides-integrer-resmed-myair-cpap-home-assistant-im-49148517-card.webp
+  card_jpg: /assets/images/vignettes-cartes/contenus-guides-integrer-resmed-myair-cpap-home-assistant-im-49148517-card.jpg
+  wide_webp: /assets/images/vignettes-cartes/contenus-guides-integrer-resmed-myair-cpap-home-assistant-im-49148517-wide.webp
+  wide_jpg: /assets/images/vignettes-cartes/contenus-guides-integrer-resmed-myair-cpap-home-assistant-im-49148517-wide.jpg
+  card_w: 800
+  card_h: 450
+  wide_w: 1200
+  wide_h: 630
+
+"contenus/guides/music-assistant-echo/images/music-assistant-echo-couverture.jpg":
+  card_webp: /assets/images/vignettes-cartes/contenus-guides-music-assistant-echo-images-music-assistant-echo-couverture-jpg-card.webp
+  card_jpg: /assets/images/vignettes-cartes/contenus-guides-music-assistant-echo-images-music-assistant-echo-couverture-jpg-card.jpg
+  wide_webp: /assets/images/vignettes-cartes/contenus-guides-music-assistant-echo-images-music-assistant-echo-couverture-jpg-wide.webp
+  wide_jpg: /assets/images/vignettes-cartes/contenus-guides-music-assistant-echo-images-music-assistant-echo-couverture-jpg-wide.jpg
+  card_w: 800
+  card_h: 450
+  wide_w: 1200
+  wide_h: 630
+
+"contenus/guides/sauvegarde-home-assistant-backup-cloud/images/cover-sauvegarde.png":
+  card_webp: /assets/images/vignettes-cartes/contenus-guides-sauvegarde-home-assistant-backup-cloud-image-fa79103b-card.webp
+  card_jpg: /assets/images/vignettes-cartes/contenus-guides-sauvegarde-home-assistant-backup-cloud-image-fa79103b-card.jpg
+  wide_webp: /assets/images/vignettes-cartes/contenus-guides-sauvegarde-home-assistant-backup-cloud-image-fa79103b-wide.webp
+  wide_jpg: /assets/images/vignettes-cartes/contenus-guides-sauvegarde-home-assistant-backup-cloud-image-fa79103b-wide.jpg
+  card_w: 800
+  card_h: 450
+  wide_w: 1200
+  wide_h: 630
+
+"contenus/tests/test-avis-aqara-u200-serrure-connectee-matter-thread/images/cover-aqara-u200.jpg":
+  card_webp: /assets/images/vignettes-cartes/contenus-tests-test-avis-aqara-u200-serrure-connectee-matter-00313465-card.webp
+  card_jpg: /assets/images/vignettes-cartes/contenus-tests-test-avis-aqara-u200-serrure-connectee-matter-00313465-card.jpg
+  wide_webp: /assets/images/vignettes-cartes/contenus-tests-test-avis-aqara-u200-serrure-connectee-matter-00313465-wide.webp
+  wide_jpg: /assets/images/vignettes-cartes/contenus-tests-test-avis-aqara-u200-serrure-connectee-matter-00313465-wide.jpg
+  card_w: 800
+  card_h: 450
+  wide_w: 1200
+  wide_h: 630
+
+"contenus/tests/test-nuki-smart-lock-pro-5-installation-usages/images/cover-nuki-smart-lock-pro-5-og.jpg":
+  card_webp: /assets/images/vignettes-cartes/contenus-tests-test-nuki-smart-lock-pro-5-installation-usage-dc29dae7-card.webp
+  card_jpg: /assets/images/vignettes-cartes/contenus-tests-test-nuki-smart-lock-pro-5-installation-usage-dc29dae7-card.jpg
+  wide_webp: /assets/images/vignettes-cartes/contenus-tests-test-nuki-smart-lock-pro-5-installation-usage-dc29dae7-wide.webp
+  wide_jpg: /assets/images/vignettes-cartes/contenus-tests-test-nuki-smart-lock-pro-5-installation-usage-dc29dae7-wide.jpg
+  card_w: 800
+  card_h: 450
+  wide_w: 1200
+  wide_h: 630
+
+"contenus/tests/test-segway-navimow-i108e-avis-tondeuse-robot-sans-fil/images/cover-navimow-i108e.jpg":
+  card_webp: /assets/images/vignettes-cartes/contenus-tests-test-segway-navimow-i108e-avis-tondeuse-robot-d3b7ec16-card.webp
+  card_jpg: /assets/images/vignettes-cartes/contenus-tests-test-segway-navimow-i108e-avis-tondeuse-robot-d3b7ec16-card.jpg
+  wide_webp: /assets/images/vignettes-cartes/contenus-tests-test-segway-navimow-i108e-avis-tondeuse-robot-d3b7ec16-wide.webp
+  wide_jpg: /assets/images/vignettes-cartes/contenus-tests-test-segway-navimow-i108e-avis-tondeuse-robot-d3b7ec16-wide.jpg
+  card_w: 800
+  card_h: 450
+  wide_w: 1200
+  wide_h: 630
+
+"contenus/tests/test-slzb-mr4u-coordinateur-zigbee-thread-matter/images/cover-slzb-mr4u.jpg":
+  card_webp: /assets/images/vignettes-cartes/contenus-tests-test-slzb-mr4u-coordinateur-zigbee-thread-mat-dc686eab-card.webp
+  card_jpg: /assets/images/vignettes-cartes/contenus-tests-test-slzb-mr4u-coordinateur-zigbee-thread-mat-dc686eab-card.jpg
+  wide_webp: /assets/images/vignettes-cartes/contenus-tests-test-slzb-mr4u-coordinateur-zigbee-thread-mat-dc686eab-wide.webp
+  wide_jpg: /assets/images/vignettes-cartes/contenus-tests-test-slzb-mr4u-coordinateur-zigbee-thread-mat-dc686eab-wide.jpg
+  card_w: 800
+  card_h: 450
+  wide_w: 1200
+  wide_h: 630
+
+"creations/box-domotique-impression-3d-home-assistant/images/box-domotique-a-z-couverture.jpg":
+  card_webp: /assets/images/vignettes-cartes/creations-box-domotique-impression-3d-home-assistant-images-1ee1f6c4-card.webp
+  card_jpg: /assets/images/vignettes-cartes/creations-box-domotique-impression-3d-home-assistant-images-1ee1f6c4-card.jpg
+  wide_webp: /assets/images/vignettes-cartes/creations-box-domotique-impression-3d-home-assistant-images-1ee1f6c4-wide.webp
+  wide_jpg: /assets/images/vignettes-cartes/creations-box-domotique-impression-3d-home-assistant-images-1ee1f6c4-wide.jpg
+  card_w: 800
+  card_h: 450
+  wide_w: 1200
+  wide_h: 630
+
+"creations/compteur-deau-connecte-moins-de-20-euros/images/compteur-eau-couverture.jpg":
+  card_webp: /assets/images/vignettes-cartes/creations-compteur-deau-connecte-moins-de-20-euros-images-co-b7cff292-card.webp
+  card_jpg: /assets/images/vignettes-cartes/creations-compteur-deau-connecte-moins-de-20-euros-images-co-b7cff292-card.jpg
+  wide_webp: /assets/images/vignettes-cartes/creations-compteur-deau-connecte-moins-de-20-euros-images-co-b7cff292-wide.webp
+  wide_jpg: /assets/images/vignettes-cartes/creations-compteur-deau-connecte-moins-de-20-euros-images-co-b7cff292-wide.jpg
+  card_w: 800
+  card_h: 450
+  wide_w: 1200
+  wide_h: 630
+
+"creations/portail-coulissant-ditec-cs122e-home-assistant/images/portail-couverture-og.jpg":
+  card_webp: /assets/images/vignettes-cartes/creations-portail-coulissant-ditec-cs122e-home-assistant-ima-ae863e07-card.webp
+  card_jpg: /assets/images/vignettes-cartes/creations-portail-coulissant-ditec-cs122e-home-assistant-ima-ae863e07-card.jpg
+  wide_webp: /assets/images/vignettes-cartes/creations-portail-coulissant-ditec-cs122e-home-assistant-ima-ae863e07-wide.webp
+  wide_jpg: /assets/images/vignettes-cartes/creations-portail-coulissant-ditec-cs122e-home-assistant-ima-ae863e07-wide.jpg
+  card_w: 800
+  card_h: 450
+  wide_w: 1200
+  wide_h: 630
+
+"sujets/101-presentation-du-projet-freebox-homexa/images/og-partage.jpg":
+  card_webp: /assets/images/vignettes-cartes/sujets-101-presentation-du-projet-freebox-homexa-images-og-partage-jpg-card.webp
+  card_jpg: /assets/images/vignettes-cartes/sujets-101-presentation-du-projet-freebox-homexa-images-og-partage-jpg-card.jpg
+  wide_webp: /assets/images/vignettes-cartes/sujets-101-presentation-du-projet-freebox-homexa-images-og-partage-jpg-wide.webp
+  wide_jpg: /assets/images/vignettes-cartes/sujets-101-presentation-du-projet-freebox-homexa-images-og-partage-jpg-wide.jpg
+  card_w: 800
+  card_h: 450
+  wide_w: 1200
+  wide_h: 630
+
+"sujets/110-free-mobile-sms-xa-integration-home-assistant/images/banner-freesmsxa.png":
+  card_webp: /assets/images/vignettes-cartes/sujets-110-free-mobile-sms-xa-integration-home-assistant-ima-6c7ed2ec-card.webp
+  card_jpg: /assets/images/vignettes-cartes/sujets-110-free-mobile-sms-xa-integration-home-assistant-ima-6c7ed2ec-card.jpg
+  wide_webp: /assets/images/vignettes-cartes/sujets-110-free-mobile-sms-xa-integration-home-assistant-ima-6c7ed2ec-wide.webp
+  wide_jpg: /assets/images/vignettes-cartes/sujets-110-free-mobile-sms-xa-integration-home-assistant-ima-6c7ed2ec-wide.jpg
+  card_w: 800
+  card_h: 450
+  wide_w: 1200
+  wide_h: 630
+
+"sujets/133-projet-piscine-besoin-de-testeur/images/banner-piscinexa.jpg":
+  card_webp: /assets/images/vignettes-cartes/sujets-133-projet-piscine-besoin-de-testeur-images-banner-piscinexa-jpg-card.webp
+  card_jpg: /assets/images/vignettes-cartes/sujets-133-projet-piscine-besoin-de-testeur-images-banner-piscinexa-jpg-card.jpg
+  wide_webp: /assets/images/vignettes-cartes/sujets-133-projet-piscine-besoin-de-testeur-images-banner-piscinexa-jpg-wide.webp
+  wide_jpg: /assets/images/vignettes-cartes/sujets-133-projet-piscine-besoin-de-testeur-images-banner-piscinexa-jpg-wide.jpg
+  card_w: 800
+  card_h: 450
+  wide_w: 1200
+  wide_h: 630
+
+"sujets/134-domotiser-la-pompe-et-leclairage-de-piscine-avec-home-assistant-possible-et-comm/images/og-partage.jpg":
+  card_webp: /assets/images/vignettes-cartes/sujets-134-domotiser-la-pompe-et-leclairage-de-piscine-avec-237b2232-card.webp
+  card_jpg: /assets/images/vignettes-cartes/sujets-134-domotiser-la-pompe-et-leclairage-de-piscine-avec-237b2232-card.jpg
+  wide_webp: /assets/images/vignettes-cartes/sujets-134-domotiser-la-pompe-et-leclairage-de-piscine-avec-237b2232-wide.webp
+  wide_jpg: /assets/images/vignettes-cartes/sujets-134-domotiser-la-pompe-et-leclairage-de-piscine-avec-237b2232-wide.jpg
+  card_w: 800
+  card_h: 450
+  wide_w: 1200
+  wide_h: 630
+
+"sujets/192-grok-automation-suggester-des-idees-dautomatisations-ia-directement-dans-home-as/images/Capturedcrandu2025-06-0711-23-20.png":
+  card_webp: /assets/images/vignettes-cartes/sujets-192-grok-automation-suggester-des-idees-dautomatisati-709bee6e-card.webp
+  card_jpg: /assets/images/vignettes-cartes/sujets-192-grok-automation-suggester-des-idees-dautomatisati-709bee6e-card.jpg
+  wide_webp: /assets/images/vignettes-cartes/sujets-192-grok-automation-suggester-des-idees-dautomatisati-709bee6e-wide.webp
+  wide_jpg: /assets/images/vignettes-cartes/sujets-192-grok-automation-suggester-des-idees-dautomatisati-709bee6e-wide.jpg
+  card_w: 800
+  card_h: 450
+  wide_w: 1200
+  wide_h: 630
+
+"sujets/193-integration-home-assistant-saints-du-jour/images/banner-saintdujour.png":
+  card_webp: /assets/images/vignettes-cartes/sujets-193-integration-home-assistant-saints-du-jour-images-3d0889ab-card.webp
+  card_jpg: /assets/images/vignettes-cartes/sujets-193-integration-home-assistant-saints-du-jour-images-3d0889ab-card.jpg
+  wide_webp: /assets/images/vignettes-cartes/sujets-193-integration-home-assistant-saints-du-jour-images-3d0889ab-wide.webp
+  wide_jpg: /assets/images/vignettes-cartes/sujets-193-integration-home-assistant-saints-du-jour-images-3d0889ab-wide.jpg
+  card_w: 800
+  card_h: 450
+  wide_w: 1200
+  wide_h: 630
+
+"sujets/194-integration-ha-jour-ferie-capteur-de-jours-feries/images/banner-jourferier.png":
+  card_webp: /assets/images/vignettes-cartes/sujets-194-integration-ha-jour-ferie-capteur-de-jours-feries-7fb283f2-card.webp
+  card_jpg: /assets/images/vignettes-cartes/sujets-194-integration-ha-jour-ferie-capteur-de-jours-feries-7fb283f2-card.jpg
+  wide_webp: /assets/images/vignettes-cartes/sujets-194-integration-ha-jour-ferie-capteur-de-jours-feries-7fb283f2-wide.webp
+  wide_jpg: /assets/images/vignettes-cartes/sujets-194-integration-ha-jour-ferie-capteur-de-jours-feries-7fb283f2-wide.jpg
+  card_w: 800
+  card_h: 450
+  wide_w: 1200
+  wide_h: 630
+
+"sujets/196-integration-date-countdown-suivi-devenements-personnels-dans-home-assistant/images/og-partage.jpg":
+  card_webp: /assets/images/vignettes-cartes/sujets-196-integration-date-countdown-suivi-devenements-pers-0cd92187-card.webp
+  card_jpg: /assets/images/vignettes-cartes/sujets-196-integration-date-countdown-suivi-devenements-pers-0cd92187-card.jpg
+  wide_webp: /assets/images/vignettes-cartes/sujets-196-integration-date-countdown-suivi-devenements-pers-0cd92187-wide.webp
+  wide_jpg: /assets/images/vignettes-cartes/sujets-196-integration-date-countdown-suivi-devenements-pers-0cd92187-wide.jpg
+  card_w: 800
+  card_h: 450
+  wide_w: 1200
+  wide_h: 630
+
+"sujets/353-envoyer-des-sms-depuis-le-dashboard-home-assistant-avec-lintegration-free-mobile/images/og-partage.jpg":
+  card_webp: /assets/images/vignettes-cartes/sujets-353-envoyer-des-sms-depuis-le-dashboard-home-assistan-4b9f229f-card.webp
+  card_jpg: /assets/images/vignettes-cartes/sujets-353-envoyer-des-sms-depuis-le-dashboard-home-assistan-4b9f229f-card.jpg
+  wide_webp: /assets/images/vignettes-cartes/sujets-353-envoyer-des-sms-depuis-le-dashboard-home-assistan-4b9f229f-wide.webp
+  wide_jpg: /assets/images/vignettes-cartes/sujets-353-envoyer-des-sms-depuis-le-dashboard-home-assistan-4b9f229f-wide.jpg
+  card_w: 800
+  card_h: 450
+  wide_w: 1200
+  wide_h: 630
+
+"sujets/354-configurer-lenvoi-de-notifications-sms-dans-vos-automatisations-home-assistant-v/images/og-partage.jpg":
+  card_webp: /assets/images/vignettes-cartes/sujets-354-configurer-lenvoi-de-notifications-sms-dans-vos-a-829cd8ad-card.webp
+  card_jpg: /assets/images/vignettes-cartes/sujets-354-configurer-lenvoi-de-notifications-sms-dans-vos-a-829cd8ad-card.jpg
+  wide_webp: /assets/images/vignettes-cartes/sujets-354-configurer-lenvoi-de-notifications-sms-dans-vos-a-829cd8ad-wide.webp
+  wide_jpg: /assets/images/vignettes-cartes/sujets-354-configurer-lenvoi-de-notifications-sms-dans-vos-a-829cd8ad-wide.jpg
+  card_w: 800
+  card_h: 450
+  wide_w: 1200
+  wide_h: 630
+
+"sujets/4008-guide-utilisateur-freebox-homexa-de-linstallation-a-lutilisation-v28824/images/entete-freebox-homexa-og.jpg":
+  card_webp: /assets/images/vignettes-cartes/sujets-4008-guide-utilisateur-freebox-homexa-de-linstallatio-2bff29ff-card.webp
+  card_jpg: /assets/images/vignettes-cartes/sujets-4008-guide-utilisateur-freebox-homexa-de-linstallatio-2bff29ff-card.jpg
+  wide_webp: /assets/images/vignettes-cartes/sujets-4008-guide-utilisateur-freebox-homexa-de-linstallatio-2bff29ff-wide.webp
+  wide_jpg: /assets/images/vignettes-cartes/sujets-4008-guide-utilisateur-freebox-homexa-de-linstallatio-2bff29ff-wide.jpg
+  card_w: 800
+  card_h: 450
+  wide_w: 1200
+  wide_h: 630
+
+"sujets/4063-freebox-homexa-passe-en-28864/images/og-partage.jpg":
+  card_webp: /assets/images/vignettes-cartes/sujets-4063-freebox-homexa-passe-en-28864-images-og-partage-jpg-card.webp
+  card_jpg: /assets/images/vignettes-cartes/sujets-4063-freebox-homexa-passe-en-28864-images-og-partage-jpg-card.jpg
+  wide_webp: /assets/images/vignettes-cartes/sujets-4063-freebox-homexa-passe-en-28864-images-og-partage-jpg-wide.webp
+  wide_jpg: /assets/images/vignettes-cartes/sujets-4063-freebox-homexa-passe-en-28864-images-og-partage-jpg-wide.jpg
+  card_w: 800
+  card_h: 450
+  wide_w: 1200
+  wide_h: 630
+
+"sujets/4074-freebox-homexa-est-dans-hacs-par-defaut-et-pas-mal-de-nouveautes/images/IMG_7808.png":
+  card_webp: /assets/images/vignettes-cartes/sujets-4074-freebox-homexa-est-dans-hacs-par-defaut-et-pas-m-3d7c23a9-card.webp
+  card_jpg: /assets/images/vignettes-cartes/sujets-4074-freebox-homexa-est-dans-hacs-par-defaut-et-pas-m-3d7c23a9-card.jpg
+  wide_webp: /assets/images/vignettes-cartes/sujets-4074-freebox-homexa-est-dans-hacs-par-defaut-et-pas-m-3d7c23a9-wide.webp
+  wide_jpg: /assets/images/vignettes-cartes/sujets-4074-freebox-homexa-est-dans-hacs-par-defaut-et-pas-m-3d7c23a9-wide.jpg
+  card_w: 800
+  card_h: 450
+  wide_w: 1200
+  wide_h: 630
+
+"sujets/4093-integration-home-assistant-souvenirs-et-celebrations/images/banner-date_countdown.png":
+  card_webp: /assets/images/vignettes-cartes/sujets-4093-integration-home-assistant-souvenirs-et-celebrat-1482d0db-card.webp
+  card_jpg: /assets/images/vignettes-cartes/sujets-4093-integration-home-assistant-souvenirs-et-celebrat-1482d0db-card.jpg
+  wide_webp: /assets/images/vignettes-cartes/sujets-4093-integration-home-assistant-souvenirs-et-celebrat-1482d0db-wide.webp
+  wide_jpg: /assets/images/vignettes-cartes/sujets-4093-integration-home-assistant-souvenirs-et-celebrat-1482d0db-wide.jpg
+  card_w: 800
+  card_h: 450
+  wide_w: 1200
+  wide_h: 630
+
+"sujets/4094-phase-de-la-lune-la-lune-son-illumination-et-une-anecdote-par-jour-dans-home-ass/images/card-preview.jpg":
+  card_webp: /assets/images/vignettes-cartes/sujets-4094-phase-de-la-lune-la-lune-son-illumination-et-une-7c43bacc-card.webp
+  card_jpg: /assets/images/vignettes-cartes/sujets-4094-phase-de-la-lune-la-lune-son-illumination-et-une-7c43bacc-card.jpg
+  wide_webp: /assets/images/vignettes-cartes/sujets-4094-phase-de-la-lune-la-lune-son-illumination-et-une-7c43bacc-wide.webp
+  wide_jpg: /assets/images/vignettes-cartes/sujets-4094-phase-de-la-lune-la-lune-son-illumination-et-une-7c43bacc-wide.jpg
+  card_w: 800
+  card_h: 450
+  wide_w: 1200
+  wide_h: 630
+
+"sujets/4094-phase-de-la-lune-la-lune-son-illumination-et-une-anecdote-par-jour-dans-home-ass/images/og-partage.jpg":
+  card_webp: /assets/images/vignettes-cartes/sujets-4094-phase-de-la-lune-la-lune-son-illumination-et-une-c4f578e6-card.webp
+  card_jpg: /assets/images/vignettes-cartes/sujets-4094-phase-de-la-lune-la-lune-son-illumination-et-une-c4f578e6-card.jpg
+  wide_webp: /assets/images/vignettes-cartes/sujets-4094-phase-de-la-lune-la-lune-son-illumination-et-une-c4f578e6-wide.webp
+  wide_jpg: /assets/images/vignettes-cartes/sujets-4094-phase-de-la-lune-la-lune-son-illumination-et-une-c4f578e6-wide.jpg
+  card_w: 800
+  card_h: 450
+  wide_w: 1200
+  wide_h: 630
+
+"sujets/4095-starship-tracker-suivez-les-lancements-starship-de-spacex-dans-home-assistant/images/banner-starship.jpg":
+  card_webp: /assets/images/vignettes-cartes/sujets-4095-starship-tracker-suivez-les-lancements-starship-51790999-card.webp
+  card_jpg: /assets/images/vignettes-cartes/sujets-4095-starship-tracker-suivez-les-lancements-starship-51790999-card.jpg
+  wide_webp: /assets/images/vignettes-cartes/sujets-4095-starship-tracker-suivez-les-lancements-starship-51790999-wide.webp
+  wide_jpg: /assets/images/vignettes-cartes/sujets-4095-starship-tracker-suivez-les-lancements-starship-51790999-wide.jpg
+  card_w: 800
+  card_h: 450
+  wide_w: 1200
+  wide_h: 630
+
+"sujets/4096-projet-en-cours-maison-3d-votre-maison-qui-vit-au-rythme-de-la-meteo-dans-home-a/images/maison3d-reference.webp":
+  card_webp: /assets/images/vignettes-cartes/sujets-4096-projet-en-cours-maison-3d-votre-maison-qui-vit-a-9ed4b9f1-card.webp
+  card_jpg: /assets/images/vignettes-cartes/sujets-4096-projet-en-cours-maison-3d-votre-maison-qui-vit-a-9ed4b9f1-card.jpg
+  wide_webp: /assets/images/vignettes-cartes/sujets-4096-projet-en-cours-maison-3d-votre-maison-qui-vit-a-9ed4b9f1-wide.webp
+  wide_jpg: /assets/images/vignettes-cartes/sujets-4096-projet-en-cours-maison-3d-votre-maison-qui-vit-a-9ed4b9f1-wide.jpg
+  card_w: 800
+  card_h: 450
+  wide_w: 1200
+  wide_h: 630
+
+"sujets/4096-projet-en-cours-maison-3d-votre-maison-qui-vit-au-rythme-de-la-meteo-dans-home-a/images/og-partage.jpg":
+  card_webp: /assets/images/vignettes-cartes/sujets-4096-projet-en-cours-maison-3d-votre-maison-qui-vit-a-6aff5ec5-card.webp
+  card_jpg: /assets/images/vignettes-cartes/sujets-4096-projet-en-cours-maison-3d-votre-maison-qui-vit-a-6aff5ec5-card.jpg
+  wide_webp: /assets/images/vignettes-cartes/sujets-4096-projet-en-cours-maison-3d-votre-maison-qui-vit-a-6aff5ec5-wide.webp
+  wide_jpg: /assets/images/vignettes-cartes/sujets-4096-projet-en-cours-maison-3d-votre-maison-qui-vit-a-6aff5ec5-wide.jpg
+  card_w: 800
+  card_h: 450
+  wide_w: 1200
+  wide_h: 630
+
+"sujets/497-failover-pi-systeme-de-bascule-automatique-entre-freebox-4g/images/og-partage.jpg":
+  card_webp: /assets/images/vignettes-cartes/sujets-497-failover-pi-systeme-de-bascule-automatique-entre-202e26ff-card.webp
+  card_jpg: /assets/images/vignettes-cartes/sujets-497-failover-pi-systeme-de-bascule-automatique-entre-202e26ff-card.jpg
+  wide_webp: /assets/images/vignettes-cartes/sujets-497-failover-pi-systeme-de-bascule-automatique-entre-202e26ff-wide.webp
+  wide_jpg: /assets/images/vignettes-cartes/sujets-497-failover-pi-systeme-de-bascule-automatique-entre-202e26ff-wide.jpg
+  card_w: 800
+  card_h: 450
+  wide_w: 1200
+  wide_h: 630
+
+"sujets/596-chauffage-electrique-fil-pilote-fr-enfin-une-integration-qui-parle-francais/images/IMG_6431.jpeg":
+  card_webp: /assets/images/vignettes-cartes/sujets-596-chauffage-electrique-fil-pilote-fr-enfin-une-inte-9847ef76-card.webp
+  card_jpg: /assets/images/vignettes-cartes/sujets-596-chauffage-electrique-fil-pilote-fr-enfin-une-inte-9847ef76-card.jpg
+  wide_webp: /assets/images/vignettes-cartes/sujets-596-chauffage-electrique-fil-pilote-fr-enfin-une-inte-9847ef76-wide.webp
+  wide_jpg: /assets/images/vignettes-cartes/sujets-596-chauffage-electrique-fil-pilote-fr-enfin-une-inte-9847ef76-wide.jpg
+  card_w: 800
+  card_h: 450
+  wide_w: 1200
+  wide_h: 630
+
+"sujets/596-chauffage-electrique-fil-pilote-fr-enfin-une-integration-qui-parle-francais/images/og-partage.jpg":
+  card_webp: /assets/images/vignettes-cartes/sujets-596-chauffage-electrique-fil-pilote-fr-enfin-une-inte-ca3ece27-card.webp
+  card_jpg: /assets/images/vignettes-cartes/sujets-596-chauffage-electrique-fil-pilote-fr-enfin-une-inte-ca3ece27-card.jpg
+  wide_webp: /assets/images/vignettes-cartes/sujets-596-chauffage-electrique-fil-pilote-fr-enfin-une-inte-ca3ece27-wide.webp
+  wide_jpg: /assets/images/vignettes-cartes/sujets-596-chauffage-electrique-fil-pilote-fr-enfin-une-inte-ca3ece27-wide.jpg
+  card_w: 800
+  card_h: 450
+  wide_w: 1200
+  wide_h: 630
+
+"sujets/90-creer-un-tableau-de-bord-de-gestion-de-piscine-dans-home-assistant/images/og-partage.jpg":
+  card_webp: /assets/images/vignettes-cartes/sujets-90-creer-un-tableau-de-bord-de-gestion-de-piscine-dan-41912b4d-card.webp
+  card_jpg: /assets/images/vignettes-cartes/sujets-90-creer-un-tableau-de-bord-de-gestion-de-piscine-dan-41912b4d-card.jpg
+  wide_webp: /assets/images/vignettes-cartes/sujets-90-creer-un-tableau-de-bord-de-gestion-de-piscine-dan-41912b4d-wide.webp
+  wide_jpg: /assets/images/vignettes-cartes/sujets-90-creer-un-tableau-de-bord-de-gestion-de-piscine-dan-41912b4d-wide.jpg
+  card_w: 800
+  card_h: 450
+  wide_w: 1200
+  wide_h: 630

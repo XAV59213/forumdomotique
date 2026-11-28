@@ -3,7 +3,8 @@
   <p class="kicker">{{ include.label }}</p>
   <div class="featured-inner">
     <a class="featured-media" href="{{ include.une.url | relative_url }}">
-      <img src="{{ include.une.image | relative_url }}" alt="{{ include.une.product | default: include.une.title | escape }}" width="1280" height="720" loading="eager">
+      {% assign feat_alt = include.une.cover_alt | default: include.une.product | default: include.une.title %}
+      {% include card-img.html src=include.une.image alt=feat_alt class="featured-photo" width=1280 height=720 loading="lazy" kind="wide" %}
     </a>
     <div class="featured-copy">
       {% if include.une.brand or include.une.product %}

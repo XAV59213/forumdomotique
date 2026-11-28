@@ -1,0 +1,38 @@
+---
+layout: null
+permalink: /sitemap.xml
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{% assign pdf_skip = "sujets/489-integrer-resmed-myair-cpap-dans-home-assistant/sujet-489.pdf|sujets/620-connecter-son-imprimante-3d-a-home-assistant-avec-octoprint-sur-raspberry-pi-mon/sujet-620.pdf|sujets/4008-guide-utilisateur-freebox-homexa-de-linstallation-a-lutilisation-v28824/guide-freebox-homexa-v28824.pdf" %}
+{% for p in site.pages %}
+  {% assign skip = false %}
+  {% if p.sitemap == false %}{% assign skip = true %}{% endif %}
+  {% if p.canonical_url %}{% assign skip = true %}{% endif %}
+  {% if p.url contains "/brouillons/" %}{% assign skip = true %}{% endif %}
+  {% if p.url contains "google2b70f4b4787d43c1" %}{% assign skip = true %}{% endif %}
+  {% if p.url contains "BingSiteAuth" %}{% assign skip = true %}{% endif %}
+  {% if p.url == "/sitemap.xml" or p.url == "/sitemap-images.xml" or p.url == "/feed.xml" or p.url == "/404.html" %}{% assign skip = true %}{% endif %}
+  {% unless skip %}
+  <url>
+    <loc>{{ p.url | absolute_url }}</loc>
+    {% if p.date %}<lastmod>{{ p.date | date_to_xmlschema }}</lastmod>{% else %}<lastmod>{{ site.time | date_to_xmlschema }}</lastmod>{% endif %}
+  </url>
+  {% endunless %}
+{% endfor %}
+{% for f in site.static_files %}
+  {% assign ext = f.extname | downcase %}
+  {% if ext == ".pdf" %}
+    {% assign skip = false %}
+    {% assign fpath = f.path | remove_first: "/" %}
+    {% if f.path contains "/brouillons/" %}{% assign skip = true %}{% endif %}
+    {% if pdf_skip contains fpath %}{% assign skip = true %}{% endif %}
+    {% unless skip %}
+  <url>
+    <loc>{{ f.path | absolute_url }}</loc>
+    <lastmod>{{ f.modified_time | date_to_xmlschema }}</lastmod>
+  </url>
+    {% endunless %}
+  {% endif %}
+{% endfor %}
+</urlset>

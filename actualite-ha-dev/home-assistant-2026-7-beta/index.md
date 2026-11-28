@@ -2,7 +2,7 @@
 layout: ha-dev
 title: 'Bêta Home Assistant 2026.7 : grand ménage, onze intégrations retirées pendant la bêta'
 short_title: 'Bêta 2026.7 : les déclencheurs par usage pour tous'
-description: 'La bêta de Home Assistant 2026.7 (24 juin – 1er juillet 2026) en français : déclencheurs par usage pour tous, journal Activité, Update all et intégrations retirées.'
+description: "La bêta de Home Assistant 2026.7 (24 juin – 1er juillet 2026) : déclencheurs par usage pour tous, journal Activité, Update all et intégrations retirées."
 excerpt_fr: La bêta 2026.7 fait sortir de Labs les déclencheurs par usage, et le journal devient une frise Activité. Pendant la bêta, onze vieilles intégrations sont retirées, de Mycroft à Microsoft Face.
 image: /actualite-ha-dev/home-assistant-2026-7-beta/images/cover.png
 cover_alt: 'Couverture : la bêta de Home Assistant 2026.7, juillet 2026'

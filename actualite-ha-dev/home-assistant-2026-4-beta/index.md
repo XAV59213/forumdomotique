@@ -2,7 +2,7 @@
 layout: ha-dev
 title: 'Bêta Home Assistant 2026.4 : onze bêtas, un record, pour l’infrarouge natif et les déclencheurs multi-domaines'
 short_title: 'Bêta 2026.4 : onze bêtas pour l’infrarouge'
-description: 'La bêta de Home Assistant 2026.4 (25 mars – 1er avril 2026) en français : infrarouge natif, déclencheurs et conditions multi-domaines, Dropbox retiré, onze bêtas.'
+description: "La bêta de Home Assistant 2026.4 (25 mars – 1er avril 2026) : infrarouge natif, déclencheurs et conditions multi-domaines, Dropbox retiré, onze bêtas."
 excerpt_fr: 'Onze bêtas en une semaine : la 2026.4 a été la plus remaniée de l’année. Les déclencheurs et conditions par usage s’enrichissent presque chaque jour, le support des aspirateurs MQTT est annulé, et l’intégration Dropbox est retirée juste avant la sortie.'
 image: /actualite-ha-dev/home-assistant-2026-4-beta/images/cover.png
 cover_alt: 'Couverture : la bêta de Home Assistant 2026.4, avril 2026'

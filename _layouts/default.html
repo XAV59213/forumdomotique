@@ -38,6 +38,7 @@
     <meta property="og:image:alt" content="{{ page.cover_alt | default: page.title | escape }}">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
+    {% include seo-jsonld.html %}
   </head>
   {% assign is_article = false %}
   {% assign is_editorial = false %}
@@ -110,6 +111,7 @@
 
     <main id="content" class="main-content" role="main">
       {% if is_article and page.layout != "ha-release" and page.layout != "ha-dev" %}
+        {% include fil-ariane.html %}
         {% include auteur.html class="auteur-article" %}
       {% endif %}
       {% if is_article and page.audience_key and page.layout != "ha-release" and page.layout != "ha-dev" %}
@@ -156,7 +158,7 @@
         {% include don.html %}
       {% endif %}
       {% if don_marker != "" %}{{ don_marker }}{{ don_after }}{% endif %}
-      {% if is_editorial and page.layout != "ha-release" %}
+      {% if is_editorial and page.layout != "ha-release" and page.layout != "ha-dev" %}
         {% include a-lire-aussi.html %}
       {% endif %}
       {% if is_article %}

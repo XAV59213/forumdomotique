@@ -18,7 +18,7 @@ Ici, je rassemble mes publications pour les lire confortablement, et je renvoie 
 <div class="hero-frame">
 <div class="carousel-track" data-track>
 <article class="hero-slide" data-slide>
-  <img src="{{ '/contenus/tests/test-nuki-smart-lock-pro-5-installation-usages/images/cover-nuki-smart-lock-pro-5-og.jpg' | relative_url }}" alt="Nuki Smart Lock Pro de 5e génération installée à l’intérieur d’une porte blanche, anneau lumineux bleu allumé, sous la poignée." width="1200" height="630" loading="eager">
+  {% include card-img.html src="/contenus/tests/test-nuki-smart-lock-pro-5-installation-usages/images/cover-nuki-smart-lock-pro-5-og.jpg" alt="Nuki Smart Lock Pro de 5e génération installée à l’intérieur d’une porte blanche, anneau lumineux bleu allumé, sous la poignée." class="hero-photo" width=1200 height=630 loading="eager" fetchpriority="high" kind="wide" %}
   <div class="hero-caption">
     <div class="tag">Test produit</div>
     <h2><a href="contenus/tests/test-nuki-smart-lock-pro-5-installation-usages/article.html">Test Nuki Smart Lock Pro 5e génération</a></h2>
@@ -27,7 +27,7 @@ Ici, je rassemble mes publications pour les lire confortablement, et je renvoie 
   </div>
 </article>
 <article class="hero-slide" data-slide>
-  <img src="{{ '/contenus/guides/commencer-avec-home-assistant/images/cover-commencer-home-assistant-og.jpg' | relative_url }}" alt="Sur une table en bois, un petit boîtier blanc, une tasse de café, des clés et un câble réseau, près d’une plante, dans un salon lumineux." width="1200" height="630" loading="eager">
+  {% include card-img.html src="/contenus/guides/commencer-avec-home-assistant/images/cover-commencer-home-assistant-og.jpg" alt="Sur une table en bois, un petit boîtier blanc, une tasse de café, des clés et un câble réseau, près d’une plante, dans un salon lumineux." class="hero-photo" width=1200 height=630 loading="lazy" kind="wide" %}
   <div class="hero-caption">
     <div class="tag">Guide</div>
     <h2><a href="contenus/guides/commencer-avec-home-assistant/article.html">Commencer avec Home Assistant</a></h2>
@@ -36,7 +36,7 @@ Ici, je rassemble mes publications pour les lire confortablement, et je renvoie 
   </div>
 </article>
 <article class="hero-slide" data-slide>
-  <img src="{{ '/sujets/4074-freebox-homexa-est-dans-hacs-par-defaut-et-pas-mal-de-nouveautes/images/IMG_7808.png' | relative_url }}" alt="Carte Freebox Homexa dans un tableau de bord Home Assistant" width="1200" height="630" loading="eager">
+  {% include card-img.html src="/sujets/4074-freebox-homexa-est-dans-hacs-par-defaut-et-pas-mal-de-nouveautes/images/IMG_7808.png" alt="Carte Freebox Homexa dans un tableau de bord Home Assistant" class="hero-photo" width=1200 height=630 loading="lazy" kind="wide" %}
   <div class="hero-caption">
     <div class="tag">HACS officiel</div>
     <h2><a href="sujets/4074-freebox-homexa-est-dans-hacs-par-defaut-et-pas-mal-de-nouveautes/messages.html">Freebox Homexa</a></h2>
@@ -45,7 +45,7 @@ Ici, je rassemble mes publications pour les lire confortablement, et je renvoie 
   </div>
 </article>
 <article class="hero-slide" data-slide>
-  <img src="{{ '/contenus/tests/test-segway-navimow-i108e-avis-tondeuse-robot-sans-fil/images/cover-navimow-i108e.jpg' | relative_url }}" alt="Tondeuse robot Segway Navimow i108, vue rapprochée" width="1200" height="630" loading="eager">
+  {% include card-img.html src="/contenus/tests/test-segway-navimow-i108e-avis-tondeuse-robot-sans-fil/images/cover-navimow-i108e.jpg" alt="Tondeuse robot Segway Navimow i108, vue rapprochée" class="hero-photo" width=1200 height=630 loading="lazy" kind="wide" %}
   <div class="hero-caption">
     <div class="tag">Test produit</div>
     <h2><a href="contenus/tests/test-segway-navimow-i108e-avis-tondeuse-robot-sans-fil/article.html">Test Segway Navimow i108E</a></h2>
@@ -54,7 +54,7 @@ Ici, je rassemble mes publications pour les lire confortablement, et je renvoie 
   </div>
 </article>
 <article class="hero-slide" data-slide>
-  <img src="{{ '/sujets/596-chauffage-electrique-fil-pilote-fr-enfin-une-integration-qui-parle-francais/images/IMG_6431.jpeg' | relative_url }}" alt="Radiateurs électriques à fil pilote pilotés dans Home Assistant" width="1200" height="630" loading="eager">
+  {% include card-img.html src="/sujets/596-chauffage-electrique-fil-pilote-fr-enfin-une-integration-qui-parle-francais/images/IMG_6431.jpeg" alt="Radiateurs électriques à fil pilote pilotés dans Home Assistant" class="hero-photo" width=1200 height=630 loading="lazy" kind="wide" %}
   <div class="hero-caption">
     <div class="tag">HACS officiel</div>
     <h2><a href="sujets/596-chauffage-electrique-fil-pilote-fr-enfin-une-integration-qui-parle-francais/messages.html">Chauffage fil pilote FR</a></h2>
@@ -63,7 +63,7 @@ Ici, je rassemble mes publications pour les lire confortablement, et je renvoie 
   </div>
 </article>
 <article class="hero-slide" data-slide>
-  <img src="{{ '/contenus/tests/test-avis-aqara-u200-serrure-connectee-matter-thread/images/cover-aqara-u200.jpg' | relative_url }}" alt="Boîtes de la serrure Aqara Smart Lock U200 et du cylindre, avec le bandeau Forum Domotique" width="1200" height="630" loading="eager">
+  {% include card-img.html src="/contenus/tests/test-avis-aqara-u200-serrure-connectee-matter-thread/images/cover-aqara-u200.jpg" alt="Boîtes de la serrure Aqara Smart Lock U200 et du cylindre, avec le bandeau Forum Domotique" class="hero-photo" width=1200 height=630 loading="lazy" kind="wide" %}
   <div class="hero-caption">
     <div class="tag">Test produit</div>
     <h2><a href="contenus/tests/test-avis-aqara-u200-serrure-connectee-matter-thread/article.html">Test Aqara U200</a></h2>
@@ -72,7 +72,7 @@ Ici, je rassemble mes publications pour les lire confortablement, et je renvoie 
   </div>
 </article>
 <article class="hero-slide" data-slide>
-  <img src="{{ '/sujets/194-integration-ha-jour-ferie-capteur-de-jours-feries/images/banner-jourferier.png' | relative_url }}" alt="Bannière de l’intégration Jour Férié pour Home Assistant" width="1200" height="630" loading="eager">
+  {% include card-img.html src="/sujets/194-integration-ha-jour-ferie-capteur-de-jours-feries/images/banner-jourferier.png" alt="Bannière de l’intégration Jour Férié pour Home Assistant" class="hero-photo" width=1200 height=630 loading="lazy" kind="wide" %}
   <div class="hero-caption">
     <div class="tag">HACS officiel</div>
     <h2><a href="sujets/194-integration-ha-jour-ferie-capteur-de-jours-feries/messages.html">Jour Férié</a></h2>
@@ -81,7 +81,7 @@ Ici, je rassemble mes publications pour les lire confortablement, et je renvoie 
   </div>
 </article>
 <article class="hero-slide" data-slide>
-  <img src="{{ '/contenus/tests/test-slzb-mr4u-coordinateur-zigbee-thread-matter/images/cover-slzb-mr4u.jpg' | relative_url }}" alt="Coordinateur SMLight SLZB-MR4U et son interface" width="1200" height="630" loading="eager">
+  {% include card-img.html src="/contenus/tests/test-slzb-mr4u-coordinateur-zigbee-thread-matter/images/cover-slzb-mr4u.jpg" alt="Coordinateur SMLight SLZB-MR4U et son interface" class="hero-photo" width=1200 height=630 loading="lazy" kind="wide" %}
   <div class="hero-caption">
     <div class="tag">Test produit</div>
     <h2><a href="contenus/tests/test-slzb-mr4u-coordinateur-zigbee-thread-matter/article.html">Test SMLight SLZB-MR4U</a></h2>
@@ -90,7 +90,7 @@ Ici, je rassemble mes publications pour les lire confortablement, et je renvoie 
   </div>
 </article>
 <article class="hero-slide" data-slide>
-  <img src="{{ '/sujets/133-projet-piscine-besoin-de-testeur/images/banner-piscinexa.jpg' | relative_url }}" alt="Bannière de Piscinexa, gestion de piscine pour Home Assistant" width="1200" height="630" loading="eager">
+  {% include card-img.html src="/sujets/133-projet-piscine-besoin-de-testeur/images/banner-piscinexa.jpg" alt="Bannière de Piscinexa, gestion de piscine pour Home Assistant" class="hero-photo" width=1200 height=630 loading="lazy" kind="wide" %}
   <div class="hero-caption">
     <div class="tag">Intégration</div>
     <h2><a href="sujets/133-projet-piscine-besoin-de-testeur/messages.html">Piscinexa</a></h2>
@@ -99,7 +99,7 @@ Ici, je rassemble mes publications pour les lire confortablement, et je renvoie 
   </div>
 </article>
 <article class="hero-slide" data-slide>
-  <img src="{{ '/sujets/4096-projet-en-cours-maison-3d-votre-maison-qui-vit-au-rythme-de-la-meteo-dans-home-a/images/maison3d-reference.webp' | relative_url }}" alt="Rendu Maison 3D d’une maison qui change avec la météo" width="1200" height="630" loading="eager">
+  {% include card-img.html src="/sujets/4096-projet-en-cours-maison-3d-votre-maison-qui-vit-au-rythme-de-la-meteo-dans-home-a/images/maison3d-reference.webp" alt="Rendu Maison 3D d’une maison qui change avec la météo" class="hero-photo" width=1200 height=630 loading="lazy" kind="wide" %}
   <div class="hero-caption">
     <div class="tag">Intégration</div>
     <h2><a href="sujets/4096-projet-en-cours-maison-3d-votre-maison-qui-vit-au-rythme-de-la-meteo-dans-home-a/messages.html">Maison 3D</a></h2>
@@ -128,7 +128,7 @@ Mes dépôts GitHub / HACS, clairement séparés des réponses dans les sujets d
   {% else %}
   <a class="feature-card" href="https://github.com/XAV59213/{{ item.repo }}" data-slide>
   {% endif %}
-    <img class="card-thumb" src="{{ item.image | relative_url }}" alt="{{ item.name }}" loading="lazy" width="280" height="140">
+    {% include card-img.html src=item.image alt=item.name class="card-thumb" width=280 height=140 loading="lazy" kind="card" %}
     <div class="tag">{% if item.official %}HACS officiel{% else %}Dépôt HACS{% endif %}</div>
     <h3>{{ item.name }}</h3>
     <p>{{ item.blurb }}</p>

@@ -1,0 +1,91 @@
+{%- assign ld_is_article = false -%}
+{%- if page.section == "tests" or page.section == "guides" or page.section == "creations" or page.section == "actualites" or page.section == "actualite-ha" or page.section == "actualite-ha-dev" or page.section == "coin-bistrot" -%}
+  {%- assign ld_is_article = true -%}
+{%- endif -%}
+{%- if page.url contains "/sujets/" and page.url contains "messages" -%}
+  {%- assign ld_is_article = true -%}
+{%- endif -%}
+{%- assign ld_url = page.url | absolute_url -%}
+{%- assign ld_home = site.url | append: site.baseurl | append: "/" -%}
+{%- assign ld_logo = site.logo | absolute_url -%}
+{%- assign ld_img = nil -%}
+{%- if page.image and page.image != "" -%}
+  {%- assign ld_img = page.image | absolute_url -%}
+{%- endif -%}
+{%- if page.home %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": {{ site.title | jsonify }},
+  "url": {{ ld_home | jsonify }},
+  "logo": {{ ld_logo | jsonify }},
+  "sameAs": [
+    "https://github.com/XAV59213",
+    "https://forumdomotique.com/profile/106-xav59213/"
+  ]
+}
+</script>
+{%- endif -%}
+{%- if ld_is_article and page.sitemap != false %}
+{%- assign fa_label = nil -%}
+{%- assign fa_url = nil -%}
+{%- if page.section == "tests" -%}{%- assign fa_label = "Tests produits" -%}{%- assign fa_url = "/tests-produits/" -%}
+{%- elsif page.section == "guides" -%}{%- assign fa_label = "Guides" -%}{%- assign fa_url = "/guides/" -%}
+{%- elsif page.section == "creations" -%}{%- assign fa_label = "Mes créations" -%}{%- assign fa_url = "/creations/" -%}
+{%- elsif page.section == "actualites" -%}{%- assign fa_label = "Actualités" -%}{%- assign fa_url = "/actualites/" -%}
+{%- elsif page.section == "actualite-ha" -%}{%- assign fa_label = "Actualité Home Assistant" -%}{%- assign fa_url = "/actualite-home-assistant/" -%}
+{%- elsif page.section == "actualite-ha-dev" -%}{%- assign fa_label = "Actualité HA développement" -%}{%- assign fa_url = "/actualite-ha-dev/" -%}
+{%- elsif page.section == "coin-bistrot" -%}{%- assign fa_label = "Coin bistrot" -%}{%- assign fa_url = "/coin-bistrot-de-la-domotique/" -%}
+{%- elsif page.github_repo -%}{%- assign fa_label = "Mes intégrations" -%}{%- assign fa_url = "/mes-integrations/" -%}
+{%- elsif page.url contains "/sujets/" -%}{%- assign fa_label = "Réponses aux utilisateurs" -%}{%- assign fa_url = "/reponses-utilisateurs/" -%}
+{%- endif -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Accueil", "item": {{ ld_home | jsonify }} }{%- if fa_label and fa_url -%},
+    { "@type": "ListItem", "position": 2, "name": {{ fa_label | jsonify }}, "item": {{ fa_url | absolute_url | jsonify }} },
+    { "@type": "ListItem", "position": 3, "name": {{ page.title | jsonify }}, "item": {{ ld_url | jsonify }} }
+    {%- else -%},
+    { "@type": "ListItem", "position": 2, "name": {{ page.title | jsonify }}, "item": {{ ld_url | jsonify }} }
+    {%- endif %}
+  ]
+}
+</script>
+{%- endif -%}
+{%- if page.section == "tests" and page.canonical_url == nil and page.sitemap != false %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "name": {{ page.title | jsonify }},
+  "datePublished": {{ page.date | date: "%Y-%m-%d" | jsonify }},
+  {%- if page.description %}
+  "reviewBody": {{ page.description | jsonify }},
+  {%- endif %}
+  "url": {{ ld_url | jsonify }},
+  "author": {
+    "@type": "Person",
+    "name": "XAV59213",
+    "url": {{ ld_home | jsonify }}
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": {{ site.title | jsonify }},
+    "url": {{ ld_home | jsonify }}
+  },
+  "itemReviewed": {
+    "@type": "Product",
+    "name": {{ page.product | default: page.title | jsonify }}
+    {%- if page.brand -%},
+    "brand": { "@type": "Brand", "name": {{ page.brand | jsonify }} }
+    {%- endif -%}
+    {%- if ld_img -%},
+    "image": {{ ld_img | jsonify }}
+    {%- endif %}
+  }
+}
+</script>
+{%- endif -%}

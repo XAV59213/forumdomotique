@@ -9,7 +9,8 @@
 {% endif %}
 {% for p in items %}
   <a class="feature-card ha-card" href="{{ p.url | relative_url }}"{% if include.carousel %} data-slide{% endif %}>
-    <img class="card-thumb" src="{{ p.image | relative_url }}" alt="{{ p.short_title | default: p.title | escape }}" loading="lazy" decoding="async" width="280" height="147">
+    {% assign card_alt = p.cover_alt | default: p.short_title | default: p.title %}
+    {% include card-img.html src=p.image alt=card_alt class="card-thumb" width=280 height=147 loading="lazy" kind="card" %}
     <div class="tag">Version {{ p.version }} · {{ p.month }}</div>
     <h3>{{ p.short_title | default: p.title }}</h3>
     <p>{{ p.excerpt_fr | default: p.description }}</p>

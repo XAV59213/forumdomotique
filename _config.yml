@@ -18,7 +18,8 @@ kramdown:
   syntax_highlighter: rouge
 plugins:
   - jekyll-seo-tag
-  - jekyll-sitemap
+  # sitemap.xml est généré par le fichier maison (avec lastmod).
+  # jekyll-sitemap n’est plus chargé pour éviter un conflit de permalink.
   - jekyll-relative-links
 relative_links:
   enabled: true
@@ -48,6 +49,7 @@ exclude:
   - Gemfile.lock
   - seo-modeles
   - scripts
+  - "https:"
 defaults:
   - scope:
       path: ""

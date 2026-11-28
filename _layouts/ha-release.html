@@ -4,7 +4,7 @@ layout: default
 {% assign rel = site.pages | where: "section", "actualite-ha" | sort: "date" %}
 {% for p in rel %}{% if p.url == page.url %}{% assign idx = forloop.index0 %}{% endif %}{% endfor %}
 <article class="ha-article">
-  <p class="ha-breadcrumb"><a href="{{ '/actualite-home-assistant/' | relative_url }}">Actualité Home Assistant</a> › Version {{ page.version }}</p>
+  <p class="ha-breadcrumb"><a href="{{ '/' | relative_url }}">Accueil</a> › <a href="{{ '/actualite-home-assistant/' | relative_url }}">Actualité Home Assistant</a> › Version {{ page.version }}</p>
   <header class="ha-article-head">
     <p class="ha-kicker">Notes de version · {{ page.month }}</p>
     <h1>{{ page.title }}</h1>

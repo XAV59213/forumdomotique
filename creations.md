@@ -1,6 +1,6 @@
 ---
 title: "Mes créations"
-description: "Mes projets fabriqués de A à Z : impression 3D, capteurs, montage, configuration Home Assistant."
+description: "Mes projets fabriqués de A à Z : impression 3D, capteurs, montage et configuration Home Assistant, racontés pas à pas depuis le début."
 image: /creations/portail-coulissant-ditec-cs122e-home-assistant/images/portail-couverture-og.jpg
 date: 2026-11-21
 permalink: /creations/

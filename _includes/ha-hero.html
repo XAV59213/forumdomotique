@@ -5,7 +5,12 @@
 <div class="carousel-track" data-track>
 {% for p in items limit: 12 %}
 <article class="hero-slide" data-slide>
-  <img src="{{ p.image | relative_url }}" alt="{{ p.cover_alt | default: p.title | escape }}" width="1200" height="630" loading="{% if forloop.first %}eager{% else %}lazy{% endif %}">
+  {% assign hero_alt = p.cover_alt | default: p.title %}
+  {% if forloop.first %}
+  {% include card-img.html src=p.image alt=hero_alt class="hero-photo" width=1200 height=630 loading="eager" fetchpriority="high" kind="wide" %}
+  {% else %}
+  {% include card-img.html src=p.image alt=hero_alt class="hero-photo" width=1200 height=630 loading="lazy" kind="wide" %}
+  {% endif %}
   <div class="hero-caption">
     <div class="tag">Home Assistant {{ p.version }} · {{ p.month }}</div>
     <h2><a href="{{ p.url | relative_url }}">{{ p.short_title | default: p.title }}</a></h2>

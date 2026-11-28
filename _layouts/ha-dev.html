@@ -8,7 +8,7 @@ layout: default
 {% assign nb_betas = 0 %}{% assign nb_changes = 0 %}{% assign last_beta = nil %}{% assign final = nil %}
 {% for b in betas %}{% if b.stable %}{% assign final = b %}{% else %}{% assign nb_betas = nb_betas | plus: 1 %}{% assign nb_changes = nb_changes | plus: b.changes %}{% assign last_beta = b %}{% endif %}{% endfor %}
 <article class="ha-article ha-dev">
-  <p class="ha-breadcrumb"><a href="{{ '/actualite-ha-dev/' | relative_url }}">Actualité HA développement</a> › Bêta {{ page.version }}</p>
+  <p class="ha-breadcrumb"><a href="{{ '/' | relative_url }}">Accueil</a> › <a href="{{ '/actualite-ha-dev/' | relative_url }}">Actualité HA développement</a> › Bêta {{ page.version }}</p>
   <header class="ha-article-head">
     <p class="ha-kicker"><span class="hd-badge">Canal bêta</span> Cycle {{ page.version }} · {{ page.month }}</p>
     <h1>{{ page.title }}</h1>

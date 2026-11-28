@@ -24,7 +24,8 @@
     {% for p in items %}
     <a class="feature-card{% if p.section == 'creations' %} feature-card-az{% endif %}" href="{{ p.url | relative_url }}" {% if include.carousel %}data-slide{% endif %} data-tags="{{ p.tags | join: ' ' }}">
       {% if p.image %}
-      <img class="card-thumb" src="{{ p.image | relative_url }}" alt="{{ p.product | default: p.title | escape }}" loading="lazy" decoding="async" width="280" height="140">
+      {% assign card_alt = p.cover_alt | default: p.product | default: p.title %}
+      {% include card-img.html src=p.image alt=card_alt class="card-thumb" width=280 height=140 loading="lazy" kind="card" %}
       {% endif %}
       {% if p.brand %}
       <div class="tag">{{ p.brand }}</div>

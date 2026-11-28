@@ -17,7 +17,7 @@ permalink: /mes-integrations/
 {% for item in site.data.integrations %}
   <article class="feature-card">
     {% if item.image %}
-    <img class="card-thumb" src="{{ item.image | relative_url }}" alt="{{ item.name }}" loading="lazy" width="280" height="140">
+    {% include card-img.html src=item.image alt=item.name class="card-thumb" width=280 height=140 loading="lazy" kind="card" %}
     {% endif %}
     <div class="tag">{% if item.official %}HACS officiel{% else %}Dépôt HACS personnalisé{% endif %}</div>
     <h3>{% if item.page %}<a href="{{ item.page | relative_url }}">{{ item.name }}</a>{% else %}{{ item.name }}{% endif %}</h3>

@@ -1,0 +1,31 @@
+{%- comment -%}
+  Vignette redimensionnée (WebP + JPEG) pour cartes et carrousels.
+  Paramètres : src, alt, class, width, height, loading, fetchpriority, kind (card|wide).
+{%- endcomment -%}
+{%- assign ci_src = include.src | default: "" | strip -%}
+{%- assign ci_key = ci_src | remove_first: "/" -%}
+{%- assign ci_v = site.data.vignettes_cartes[ci_key] -%}
+{%- assign ci_kind = include.kind | default: "card" -%}
+{%- assign ci_loading = include.loading | default: "lazy" -%}
+{%- assign ci_class = include.class | default: "card-thumb" -%}
+{%- assign ci_width = include.width -%}
+{%- assign ci_height = include.height -%}
+{%- if ci_v -%}
+  {%- if ci_kind == "wide" -%}
+    {%- assign ci_webp = ci_v.wide_webp -%}
+    {%- assign ci_jpg = ci_v.wide_jpg -%}
+    {%- if ci_width == nil -%}{%- assign ci_width = ci_v.wide_w -%}{%- endif -%}
+    {%- if ci_height == nil -%}{%- assign ci_height = ci_v.wide_h -%}{%- endif -%}
+  {%- else -%}
+    {%- assign ci_webp = ci_v.card_webp -%}
+    {%- assign ci_jpg = ci_v.card_jpg -%}
+    {%- if ci_width == nil -%}{%- assign ci_width = ci_v.card_w | default: 800 -%}{%- endif -%}
+    {%- if ci_height == nil -%}{%- assign ci_height = ci_v.card_h | default: 450 -%}{%- endif -%}
+  {%- endif -%}
+  <picture class="{{ ci_class }}-wrap">
+    <source type="image/webp" srcset="{{ ci_webp | relative_url }}">
+    <img class="{{ ci_class }}" src="{{ ci_jpg | relative_url }}" alt="{{ include.alt | escape }}" width="{{ ci_width }}" height="{{ ci_height }}" loading="{{ ci_loading }}" decoding="async"{% if include.fetchpriority %} fetchpriority="{{ include.fetchpriority }}"{% endif %}>
+  </picture>
+{%- else -%}
+  <img class="{{ ci_class }}" src="{{ ci_src | relative_url }}" alt="{{ include.alt | escape }}"{% if ci_width %} width="{{ ci_width }}"{% endif %}{% if ci_height %} height="{{ ci_height }}"{% endif %} loading="{{ ci_loading }}" decoding="async"{% if include.fetchpriority %} fetchpriority="{{ include.fetchpriority }}"{% endif %}>
+{%- endif -%}
