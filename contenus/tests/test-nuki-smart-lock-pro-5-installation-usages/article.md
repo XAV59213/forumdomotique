@@ -30,9 +30,9 @@ forum_url: https://forumdomotique.com/forums/topic/4101-test-nuki-smart-lock-pro
 
 <figure class="bistrot-cover">
   <picture>
-    <source type="image/webp" srcset="{{ '/contenus/tests/test-nuki-smart-lock-pro-5-installation-usages/images/cover-nuki-smart-lock-pro-5-hero.webp' | relative_url }}">
-    <img src="{{ '/contenus/tests/test-nuki-smart-lock-pro-5-installation-usages/images/cover-nuki-smart-lock-pro-5-hero.jpg' | relative_url }}" alt="Nuki Smart Lock Pro de 5e génération installée à l’intérieur d’une porte blanche, anneau lumineux bleu allumé, sous la poignée." width="1600" height="900">
-  </picture>
+  <source type="image/webp" srcset="{{ '/contenus/tests/test-nuki-smart-lock-pro-5-installation-usages/images/affichage/cover-nuki-smart-lock-pro-5-hero-640.webp' | relative_url }} 640w, {{ '/contenus/tests/test-nuki-smart-lock-pro-5-installation-usages/images/affichage/cover-nuki-smart-lock-pro-5-hero-1200.webp' | relative_url }} 1200w" sizes="(max-width: 42em) 100vw, 1200px">
+  <img src="{{ '/contenus/tests/test-nuki-smart-lock-pro-5-installation-usages/images/affichage/cover-nuki-smart-lock-pro-5-hero-1200.jpg' | relative_url }}" srcset="{{ '/contenus/tests/test-nuki-smart-lock-pro-5-installation-usages/images/affichage/cover-nuki-smart-lock-pro-5-hero-640.jpg' | relative_url }} 640w, {{ '/contenus/tests/test-nuki-smart-lock-pro-5-installation-usages/images/affichage/cover-nuki-smart-lock-pro-5-hero-1200.jpg' | relative_url }} 1200w" sizes="(max-width: 42em) 100vw, 1200px" alt="Nuki Smart Lock Pro de 5e génération installée à l’intérieur d’une porte blanche, anneau lumineux bleu allumé, sous la poignée." width="1200" height="675" loading="eager" decoding="async" fetchpriority="high">
+</picture>
   <figcaption>La Smart Lock Pro en place, anneau allumé : le point de départ de ce premier volet.</figcaption>
 </figure>
 
@@ -42,55 +42,82 @@ forum_url: https://forumdomotique.com/forums/topic/4101-test-nuki-smart-lock-pro
 <div class="carousel-track" data-track>
 <figure class="photo-slide" data-slide>
   <a href="images/3-boites-fermees.jpg" data-full="images/3-boites-fermees.jpg" data-alt="Quatre boîtes Nuki fermées posées sur une table : Keypad 2 NFC blanc, Smart Lock Pro, Door Sensor et Fob." aria-label="Agrandir : les quatre boîtes à la réception">
-    <img src="images/3-boites-fermees.jpg" alt="Quatre boîtes Nuki fermées posées sur une table : Keypad 2 NFC blanc, Smart Lock Pro, Door Sensor et Fob." loading="eager">
+    <picture>
+  <source type="image/webp" srcset="images/affichage/3-boites-fermees-640.webp 640w, images/affichage/3-boites-fermees-1200.webp 1200w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/3-boites-fermees-1200.jpg" srcset="images/affichage/3-boites-fermees-640.jpg 640w, images/affichage/3-boites-fermees-1200.jpg 1200w" sizes="(max-width: 42em) 92vw, 800px" alt="Quatre boîtes Nuki fermées posées sur une table : Keypad 2 NFC blanc, Smart Lock Pro, Door Sensor et Fob." width="1200" height="1600" loading="lazy" decoding="async">
+</picture>
   </a>
   <figcaption>Les quatre boîtes à la réception.</figcaption>
 </figure>
 <figure class="photo-slide" data-slide>
   <a href="images/1-tout-deballe.jpg" data-full="images/1-tout-deballe.jpg" data-alt="Matériel Nuki déballé sur une table : Keypad 2 NFC blanc, Door Sensor, Fob et Smart Lock Pro, chacun avec son mode d’emploi." aria-label="Agrandir : le matériel déballé">
-    <img src="images/1-tout-deballe.jpg" alt="Matériel Nuki déballé sur une table : Keypad 2 NFC blanc, Door Sensor, Fob et Smart Lock Pro, chacun avec son mode d’emploi." loading="lazy">
+    <picture>
+  <source type="image/webp" srcset="images/affichage/1-tout-deballe-640.webp 640w, images/affichage/1-tout-deballe-1200.webp 1200w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/1-tout-deballe-1200.jpg" srcset="images/affichage/1-tout-deballe-640.jpg 640w, images/affichage/1-tout-deballe-1200.jpg 1200w" sizes="(max-width: 42em) 92vw, 800px" alt="Matériel Nuki déballé sur une table : Keypad 2 NFC blanc, Door Sensor, Fob et Smart Lock Pro, chacun avec son mode d’emploi." width="1200" height="900" loading="lazy" decoding="async">
+</picture>
   </a>
   <figcaption>Le matériel une fois sorti des boîtes.</figcaption>
 </figure>
 <figure class="photo-slide" data-slide>
   <a href="images/4-contenu-smart-lock-pro.jpg" data-full="images/4-contenu-smart-lock-pro.jpg" data-alt="Contenu de la boîte Nuki Smart Lock Pro : la serrure, les pièces d’assemblage, le câble de charge tressé et le mode d’emploi." aria-label="Agrandir : le contenu de la boîte Smart Lock Pro">
-    <img src="images/4-contenu-smart-lock-pro.jpg" alt="Contenu de la boîte Nuki Smart Lock Pro : la serrure, les pièces d’assemblage, le câble de charge tressé et le mode d’emploi." loading="lazy">
+    <picture>
+  <source type="image/webp" srcset="images/affichage/4-contenu-smart-lock-pro-640.webp 640w, images/affichage/4-contenu-smart-lock-pro-1200.webp 1200w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/4-contenu-smart-lock-pro-1200.jpg" srcset="images/affichage/4-contenu-smart-lock-pro-640.jpg 640w, images/affichage/4-contenu-smart-lock-pro-1200.jpg 1200w" sizes="(max-width: 42em) 92vw, 800px" alt="Contenu de la boîte Nuki Smart Lock Pro : la serrure, les pièces d’assemblage, le câble de charge tressé et le mode d’emploi." width="1200" height="1600" loading="lazy" decoding="async">
+</picture>
   </a>
   <figcaption>Le contenu de la boîte Smart Lock Pro.</figcaption>
 </figure>
 <figure class="photo-slide" data-slide>
   <a href="images/17-smart-lock-installee.jpg" data-full="images/17-smart-lock-installee.jpg" data-alt="Nuki Smart Lock Pro installée à l’intérieur de la porte, anneau allumé d’un halo bleu." aria-label="Agrandir : la Smart Lock Pro installée">
-    <img src="images/17-smart-lock-installee.jpg" alt="Nuki Smart Lock Pro installée à l’intérieur de la porte, anneau allumé d’un halo bleu." loading="lazy">
+    <picture>
+  <source type="image/webp" srcset="images/affichage/17-smart-lock-installee-640.webp 640w, images/affichage/17-smart-lock-installee-1200.webp 1200w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/17-smart-lock-installee-1200.jpg" srcset="images/affichage/17-smart-lock-installee-640.jpg 640w, images/affichage/17-smart-lock-installee-1200.jpg 1200w" sizes="(max-width: 42em) 92vw, 800px" alt="Nuki Smart Lock Pro installée à l’intérieur de la porte, anneau allumé d’un halo bleu." width="1200" height="1600" loading="lazy" decoding="async">
+</picture>
   </a>
   <figcaption>La Smart Lock Pro en place, anneau allumé.</figcaption>
 </figure>
 <figure class="photo-slide" data-slide>
   <a href="images/24-keypad-allume.jpg" data-full="images/24-keypad-allume.jpg" data-alt="Keypad 2 NFC blanc allumé, vu de face, posé sur une table, avec trois voyants bleus allumés en haut." aria-label="Agrandir : le Keypad 2 NFC allumé">
-    <img src="images/24-keypad-allume.jpg" alt="Keypad 2 NFC blanc allumé, vu de face, posé sur une table, avec trois voyants bleus allumés en haut." loading="lazy">
+    <picture>
+  <source type="image/webp" srcset="images/affichage/24-keypad-allume-640.webp 640w, images/affichage/24-keypad-allume-1200.webp 1200w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/24-keypad-allume-1200.jpg" srcset="images/affichage/24-keypad-allume-640.jpg 640w, images/affichage/24-keypad-allume-1200.jpg 1200w" sizes="(max-width: 42em) 92vw, 800px" alt="Keypad 2 NFC blanc allumé, vu de face, posé sur une table, avec trois voyants bleus allumés en haut." width="1200" height="1600" loading="lazy" decoding="async">
+</picture>
   </a>
   <figcaption>Le Keypad 2 NFC blanc, allumé.</figcaption>
 </figure>
 <figure class="photo-slide" data-slide>
   <a href="images/26-keypad-exterieur.jpg" data-full="images/26-keypad-exterieur.jpg" data-alt="Keypad 2 NFC blanc collé à l’extérieur, sur le dormant de la porte." aria-label="Agrandir : le Keypad collé à l’extérieur">
-    <img src="images/26-keypad-exterieur.jpg" alt="Keypad 2 NFC blanc collé à l’extérieur, sur le dormant de la porte." loading="lazy">
+    <picture>
+  <source type="image/webp" srcset="images/affichage/26-keypad-exterieur-640.webp 640w, images/affichage/26-keypad-exterieur-1200.webp 1200w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/26-keypad-exterieur-1200.jpg" srcset="images/affichage/26-keypad-exterieur-640.jpg 640w, images/affichage/26-keypad-exterieur-1200.jpg 1200w" sizes="(max-width: 42em) 92vw, 800px" alt="Keypad 2 NFC blanc collé à l’extérieur, sur le dormant de la porte." width="1200" height="1445" loading="lazy" decoding="async">
+</picture>
   </a>
   <figcaption>Le Keypad collé à l’extérieur, sur le dormant.</figcaption>
 </figure>
 <figure class="photo-slide" data-slide>
   <a href="images/54-door-sensor-deballage.jpg" data-full="images/54-door-sensor-deballage.jpg" data-alt="Door Sensor Nuki déballé sur une table : boîte, notice, capteur et aimant blancs." aria-label="Agrandir : le Door Sensor déballé">
-    <img src="images/54-door-sensor-deballage.jpg" alt="Door Sensor Nuki déballé sur une table : boîte, notice, capteur et aimant blancs." loading="lazy">
+    <picture>
+  <source type="image/webp" srcset="images/affichage/54-door-sensor-deballage-640.webp 640w, images/affichage/54-door-sensor-deballage-1200.webp 1200w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/54-door-sensor-deballage-1200.jpg" srcset="images/affichage/54-door-sensor-deballage-640.jpg 640w, images/affichage/54-door-sensor-deballage-1200.jpg 1200w" sizes="(max-width: 42em) 92vw, 800px" alt="Door Sensor Nuki déballé sur une table : boîte, notice, capteur et aimant blancs." width="1200" height="1408" loading="lazy" decoding="async">
+</picture>
   </a>
   <figcaption>Le Door Sensor, avec le capteur et l’aimant.</figcaption>
 </figure>
 <figure class="photo-slide" data-slide>
   <a href="images/27-fob-en-main.jpg" data-full="images/27-fob-en-main.jpg" data-alt="Fob Nuki noir tenu dans la main, bouton visible, serrure installée en arrière-plan." aria-label="Agrandir : le Fob dans la main">
-    <img src="images/27-fob-en-main.jpg" alt="Fob Nuki noir tenu dans la main, bouton visible, serrure installée en arrière-plan." loading="lazy">
+    <picture>
+  <source type="image/webp" srcset="images/affichage/27-fob-en-main-640.webp 640w, images/affichage/27-fob-en-main-1200.webp 1200w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/27-fob-en-main-1200.jpg" srcset="images/affichage/27-fob-en-main-640.jpg 640w, images/affichage/27-fob-en-main-1200.jpg 1200w" sizes="(max-width: 42em) 92vw, 800px" alt="Fob Nuki noir tenu dans la main, bouton visible, serrure installée en arrière-plan." width="1200" height="1600" loading="lazy" decoding="async">
+</picture>
   </a>
   <figcaption>Le Fob dans la main, bouton visible.</figcaption>
 </figure>
 <figure class="photo-slide" data-slide>
   <a href="images/38-boite-made-in-eu.jpg" data-full="images/38-boite-made-in-eu.jpg" data-alt="Dessus de la boîte Nuki Smart Lock Pro : mention made in EU avec les étoiles de l’Union européenne, et designed by." aria-label="Agrandir : le dessus de la boîte, made in EU">
-    <img src="images/38-boite-made-in-eu.jpg" alt="Dessus de la boîte Nuki Smart Lock Pro : mention made in EU avec les étoiles de l’Union européenne, et designed by." loading="lazy">
+    <picture>
+  <source type="image/webp" srcset="images/affichage/38-boite-made-in-eu-640.webp 640w, images/affichage/38-boite-made-in-eu-1200.webp 1200w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/38-boite-made-in-eu-1200.jpg" srcset="images/affichage/38-boite-made-in-eu-640.jpg 640w, images/affichage/38-boite-made-in-eu-1200.jpg 1200w" sizes="(max-width: 42em) 92vw, 800px" alt="Dessus de la boîte Nuki Smart Lock Pro : mention made in EU avec les étoiles de l’Union européenne, et designed by." width="1200" height="1494" loading="lazy" decoding="async">
+</picture>
   </a>
   <figcaption>Le dessus de la boîte : « made in EU ».</figcaption>
 </figure>
@@ -160,26 +187,38 @@ Nuki le met en avant sur la fiche de la Pro : la serrure est **conçue en Autric
 Sur le dessus de la boîte, on lit **made in EU**, avec le cercle d’étoiles de l’Union européenne, et **designed by**, suivi d’un logo trop petit pour être lu clairement ici. La mention « conçue en Autriche » reste celle de la [fiche officielle](https://nuki.io/fr/produits/smart-lock-pro-5eme-gen), elle n’apparaît pas de façon lisible sur cette face de la boîte.
 
 <figure>
-<img src="images/38-boite-made-in-eu.jpg" alt="Dessus de la boîte Nuki Smart Lock Pro, posée sur un set de table : mention made in EU avec les étoiles de l’Union européenne en bas à gauche, et designed by suivi d’un logo peu lisible en bas à droite.">
+<picture>
+  <source type="image/webp" srcset="images/affichage/38-boite-made-in-eu-640.webp 640w, images/affichage/38-boite-made-in-eu-1200.webp 1200w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/38-boite-made-in-eu-1200.jpg" srcset="images/affichage/38-boite-made-in-eu-640.jpg 640w, images/affichage/38-boite-made-in-eu-1200.jpg 1200w" sizes="(max-width: 42em) 92vw, 800px" alt="Dessus de la boîte Nuki Smart Lock Pro, posée sur un set de table : mention made in EU avec les étoiles de l’Union européenne en bas à gauche, et designed by suivi d’un logo peu lisible en bas à droite." width="1200" height="1494" loading="lazy" decoding="async">
+</picture>
 <figcaption>Le dessus de la boîte : « made in EU » à gauche, « designed by » à droite. Le logo qui suit « designed by » est trop petit pour être lu clairement.</figcaption>
 </figure>
 
 ## Réception et déballage
 
 <figure>
-<img src="images/2-colis-reception.jpg" alt="Colis cartonné posé sur une table, étiquette d’expédition entièrement floutée, étiquette lithium UN 3481 visible sur le côté.">
+<picture>
+  <source type="image/webp" srcset="images/affichage/2-colis-reception-640.webp 640w, images/affichage/2-colis-reception-1200.webp 1200w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/2-colis-reception-1200.jpg" srcset="images/affichage/2-colis-reception-640.jpg 640w, images/affichage/2-colis-reception-1200.jpg 1200w" sizes="(max-width: 42em) 92vw, 800px" alt="Colis cartonné posé sur une table, étiquette d’expédition entièrement floutée, étiquette lithium UN 3481 visible sur le côté." width="1200" height="1600" loading="lazy" decoding="async">
+</picture>
 <figcaption>Le colis à la réception. L’étiquette d’expédition a été floutée ; le marquage lithium UN 3481 reste visible.</figcaption>
 </figure>
 
 <figure>
-<img src="images/1-tout-deballe.jpg" alt="Matériel Nuki déballé sur une table : Keypad 2 NFC blanc dans sa boîte ouverte, Door Sensor et sa notice, Fob dans son écrin, Smart Lock Pro et sa boîte ouverte.">
+<picture>
+  <source type="image/webp" srcset="images/affichage/1-tout-deballe-640.webp 640w, images/affichage/1-tout-deballe-1200.webp 1200w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/1-tout-deballe-1200.jpg" srcset="images/affichage/1-tout-deballe-640.jpg 640w, images/affichage/1-tout-deballe-1200.jpg 1200w" sizes="(max-width: 42em) 92vw, 800px" alt="Matériel Nuki déballé sur une table : Keypad 2 NFC blanc dans sa boîte ouverte, Door Sensor et sa notice, Fob dans son écrin, Smart Lock Pro et sa boîte ouverte." width="1200" height="900" loading="lazy" decoding="async">
+</picture>
 <figcaption>Le matériel une fois sorti des boîtes : Keypad 2 NFC blanc, Door Sensor, Fob et Smart Lock Pro, chacun avec son mode d’emploi.</figcaption>
 </figure>
 
 ## Contenu des boîtes et premières impressions
 
 <figure>
-<img src="images/4-contenu-smart-lock-pro.jpg" alt="Contenu de la boîte Nuki Smart Lock Pro : la serrure posée sur sa boîte, pièces d’assemblage et anneau, câble de charge tressé, mode d’emploi.">
+<picture>
+  <source type="image/webp" srcset="images/affichage/4-contenu-smart-lock-pro-640.webp 640w, images/affichage/4-contenu-smart-lock-pro-1200.webp 1200w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/4-contenu-smart-lock-pro-1200.jpg" srcset="images/affichage/4-contenu-smart-lock-pro-640.jpg 640w, images/affichage/4-contenu-smart-lock-pro-1200.jpg 1200w" sizes="(max-width: 42em) 92vw, 800px" alt="Contenu de la boîte Nuki Smart Lock Pro : la serrure posée sur sa boîte, pièces d’assemblage et anneau, câble de charge tressé, mode d’emploi." width="1200" height="1600" loading="lazy" decoding="async">
+</picture>
 <figcaption>Contenu de la boîte Smart Lock Pro : la serrure, les pièces d’assemblage, le câble de charge tressé et le mode d’emploi.</figcaption>
 </figure>
 
@@ -205,11 +244,17 @@ Ce que j’ai apprécié, c’est le montage rapide et la facilité : moins de c
 
 <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:1rem;margin:1.2rem 0;">
 <figure style="margin:0;">
-<img src="images/05-porte-avant-montage.jpg" alt="Porte blanche vue de l’intérieur, poignée et cylindre existant, avant le montage de la Nuki Smart Lock Pro.">
+<picture>
+  <source type="image/webp" srcset="images/affichage/05-porte-avant-montage-640.webp 640w, images/affichage/05-porte-avant-montage-1200.webp 1200w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/05-porte-avant-montage-1200.jpg" srcset="images/affichage/05-porte-avant-montage-640.jpg 640w, images/affichage/05-porte-avant-montage-1200.jpg 1200w" sizes="(max-width: 42em) 92vw, 800px" alt="Porte blanche vue de l’intérieur, poignée et cylindre existant, avant le montage de la Nuki Smart Lock Pro." width="1200" height="1600" loading="lazy" decoding="async">
+</picture>
 <figcaption>La porte avant le montage, avec le cylindre déjà en place.</figcaption>
 </figure>
 <figure style="margin:0;">
-<img src="images/17-smart-lock-installee.jpg" alt="Nuki Smart Lock Pro installée à l’intérieur de la porte, anneau allumé d’un halo bleu.">
+<picture>
+  <source type="image/webp" srcset="images/affichage/17-smart-lock-installee-640.webp 640w, images/affichage/17-smart-lock-installee-1200.webp 1200w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/17-smart-lock-installee-1200.jpg" srcset="images/affichage/17-smart-lock-installee-640.jpg 640w, images/affichage/17-smart-lock-installee-1200.jpg 1200w" sizes="(max-width: 42em) 92vw, 800px" alt="Nuki Smart Lock Pro installée à l’intérieur de la porte, anneau allumé d’un halo bleu." width="1200" height="1600" loading="lazy" decoding="async">
+</picture>
 <figcaption>La Smart Lock Pro en place, anneau allumé.</figcaption>
 </figure>
 </div>
@@ -227,21 +272,33 @@ Même si l’objectif, dans le second volet, est une utilisation poussée avec H
 Le Quick Start Guide fourni dans la boîte renvoie vers [nuki.io/start](https://nuki.io/start), pour télécharger l’application et suivre les étapes.
 
 <figure>
-<img src="images/08-quick-start-guide.jpg" alt="Guide de démarrage rapide Nuki posé sur la table, avec un QR code vers nuki.io/start et une carte de cote.">
+<picture>
+  <source type="image/webp" srcset="images/affichage/08-quick-start-guide-640.webp 640w, images/affichage/08-quick-start-guide-1200.webp 1200w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/08-quick-start-guide-1200.jpg" srcset="images/affichage/08-quick-start-guide-640.jpg 640w, images/affichage/08-quick-start-guide-1200.jpg 1200w" sizes="(max-width: 42em) 92vw, 800px" alt="Guide de démarrage rapide Nuki posé sur la table, avec un QR code vers nuki.io/start et une carte de cote." width="1200" height="1414" loading="lazy" decoding="async">
+</picture>
 <figcaption>Le Quick Start Guide fourni avec la serrure, et le QR code vers nuki.io/start.</figcaption>
 </figure>
 
 <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:1rem;margin:1.2rem 0;">
 <figure style="margin:0;">
-<img src="images/06-app-store-nuki.jpg" alt="Fiche App Store de l’application Nuki Smart Lock, avec l’icône, la note et les visuels de l’app.">
+<picture>
+  <source type="image/webp" srcset="images/affichage/06-app-store-nuki-640.webp 640w, images/affichage/06-app-store-nuki-1200.webp 1200w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/06-app-store-nuki-1200.jpg" srcset="images/affichage/06-app-store-nuki-640.jpg 640w, images/affichage/06-app-store-nuki-1200.jpg 1200w" sizes="(max-width: 42em) 92vw, 800px" alt="Fiche App Store de l’application Nuki Smart Lock, avec l’icône, la note et les visuels de l’app." width="1200" height="2466" loading="lazy" decoding="async">
+</picture>
 <figcaption>La fiche de l’application Nuki Smart Lock, dans l’App Store.</figcaption>
 </figure>
 <figure style="margin:0;">
-<img src="images/07-app-confidentialite-vide.jpg" alt="Écran de l’application Nuki « Sécurité et Confidentialité », interrupteurs de la politique de confidentialité et des conditions d’utilisation encore désactivés.">
+<picture>
+  <source type="image/webp" srcset="images/affichage/07-app-confidentialite-vide-640.webp 640w, images/affichage/07-app-confidentialite-vide-1200.webp 1200w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/07-app-confidentialite-vide-1200.jpg" srcset="images/affichage/07-app-confidentialite-vide-640.jpg 640w, images/affichage/07-app-confidentialite-vide-1200.jpg 1200w" sizes="(max-width: 42em) 92vw, 800px" alt="Écran de l’application Nuki « Sécurité et Confidentialité », interrupteurs de la politique de confidentialité et des conditions d’utilisation encore désactivés." width="1200" height="2442" loading="lazy" decoding="async">
+</picture>
 <figcaption>L’écran « Sécurité et Confidentialité », avant l’acceptation des conditions.</figcaption>
 </figure>
 <figure style="margin:0;">
-<img src="images/13-app-connexion-bluetooth.jpg" alt="Écran de l’application Nuki « Connexion à la Smart Lock… », icône Bluetooth au centre.">
+<picture>
+  <source type="image/webp" srcset="images/affichage/13-app-connexion-bluetooth-640.webp 640w, images/affichage/13-app-connexion-bluetooth-1200.webp 1200w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/13-app-connexion-bluetooth-1200.jpg" srcset="images/affichage/13-app-connexion-bluetooth-640.jpg 640w, images/affichage/13-app-connexion-bluetooth-1200.jpg 1200w" sizes="(max-width: 42em) 92vw, 800px" alt="Écran de l’application Nuki « Connexion à la Smart Lock… », icône Bluetooth au centre." width="1200" height="2442" loading="lazy" decoding="async">
+</picture>
 <figcaption>La connexion Bluetooth à la Smart Lock, en cours dans l’application.</figcaption>
 </figure>
 </div>
@@ -251,7 +308,10 @@ Dans l’application, le micrologiciel de la Smart Lock s’affiche en **5.10.5*
 Je n’ai eu aucun souci à installer l’application, ça s’est passé avec fluidité, et pour installer les appareils, idem : il y a juste à choisir ce qu’on veut intégrer, et hop.
 
 <figure>
-<img src="images/39-app-gerer-appareils.jpg" alt="Écran de l’application Nuki « Gérer appareils », proposant Smart Lock, Opener, Smart Module et Accessoires.">
+<picture>
+  <source type="image/webp" srcset="images/affichage/39-app-gerer-appareils-640.webp 640w, images/affichage/39-app-gerer-appareils-1200.webp 1200w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/39-app-gerer-appareils-1200.jpg" srcset="images/affichage/39-app-gerer-appareils-640.jpg 640w, images/affichage/39-app-gerer-appareils-1200.jpg 1200w" sizes="(max-width: 42em) 92vw, 800px" alt="Écran de l’application Nuki « Gérer appareils », proposant Smart Lock, Opener, Smart Module et Accessoires." width="1200" height="2442" loading="lazy" decoding="async">
+</picture>
 <figcaption>L’écran « Gérer appareils » de l’application : Smart Lock, Opener, Smart Module et Accessoires.</figcaption>
 </figure>
 
@@ -263,23 +323,38 @@ Le calibrage est fait. Dans l’application, il se trouve dans le menu **Génér
 
 <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:0.8rem;margin:1.2rem 0;">
 <figure style="margin:0;">
-<img src="images/40-app-general-calibrer.jpg" alt="Écran Général de l’application Nuki, avec l’action Calibrer la Smart Lock, la poignée Béquille, une durée de déblocage de 3 secondes et une rotation de la clé de 360 degrés (1x).">
+<picture>
+  <source type="image/webp" srcset="images/affichage/40-app-general-calibrer-640.webp 640w, images/affichage/40-app-general-calibrer-1200.webp 1200w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/40-app-general-calibrer-1200.jpg" srcset="images/affichage/40-app-general-calibrer-640.jpg 640w, images/affichage/40-app-general-calibrer-1200.jpg 1200w" sizes="(max-width: 42em) 92vw, 800px" alt="Écran Général de l’application Nuki, avec l’action Calibrer la Smart Lock, la poignée Béquille, une durée de déblocage de 3 secondes et une rotation de la clé de 360 degrés (1x)." width="1200" height="2442" loading="lazy" decoding="async">
+</picture>
 <figcaption>Le menu Général, avec l’action Calibrer la Smart Lock.</figcaption>
 </figure>
 <figure style="margin:0;">
-<img src="images/41-app-calibrez-smart-lock.jpg" alt="Écran de l’application Nuki « Calibrez votre Smart Lock » : porte fermée et déverrouillée, tourner la serrure jusqu’à la résistance, bouton Lancer le calibrage.">
+<picture>
+  <source type="image/webp" srcset="images/affichage/41-app-calibrez-smart-lock-640.webp 640w, images/affichage/41-app-calibrez-smart-lock-1200.webp 1200w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/41-app-calibrez-smart-lock-1200.jpg" srcset="images/affichage/41-app-calibrez-smart-lock-640.jpg 640w, images/affichage/41-app-calibrez-smart-lock-1200.jpg 1200w" sizes="(max-width: 42em) 92vw, 800px" alt="Écran de l’application Nuki « Calibrez votre Smart Lock » : porte fermée et déverrouillée, tourner la serrure jusqu’à la résistance, bouton Lancer le calibrage." width="1200" height="2442" loading="lazy" decoding="async">
+</picture>
 <figcaption>« Calibrez votre Smart Lock » : porte fermée et déverrouillée.</figcaption>
 </figure>
 <figure style="margin:0;">
-<img src="images/42-app-gardez-porte-fermee.jpg" alt="Écran de l’application Nuki « Gardez votre porte fermée » : certaines portes s’ouvrent pendant le calibrage.">
+<picture>
+  <source type="image/webp" srcset="images/affichage/42-app-gardez-porte-fermee-640.webp 640w, images/affichage/42-app-gardez-porte-fermee-1200.webp 1200w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/42-app-gardez-porte-fermee-1200.jpg" srcset="images/affichage/42-app-gardez-porte-fermee-640.jpg 640w, images/affichage/42-app-gardez-porte-fermee-1200.jpg 1200w" sizes="(max-width: 42em) 92vw, 800px" alt="Écran de l’application Nuki « Gardez votre porte fermée » : certaines portes s’ouvrent pendant le calibrage." width="1200" height="2442" loading="lazy" decoding="async">
+</picture>
 <figcaption>« Gardez votre porte fermée » : certaines portes s’ouvrent pendant le calibrage.</figcaption>
 </figure>
 <figure style="margin:0;">
-<img src="images/43-app-calibrage-en-cours.jpg" alt="Écran de l’application Nuki « Calibrage… » en cours, avec l’avertissement de maintenir la porte fermée.">
+<picture>
+  <source type="image/webp" srcset="images/affichage/43-app-calibrage-en-cours-640.webp 640w, images/affichage/43-app-calibrage-en-cours-1200.webp 1200w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/43-app-calibrage-en-cours-1200.jpg" srcset="images/affichage/43-app-calibrage-en-cours-640.jpg 640w, images/affichage/43-app-calibrage-en-cours-1200.jpg 1200w" sizes="(max-width: 42em) 92vw, 800px" alt="Écran de l’application Nuki « Calibrage… » en cours, avec l’avertissement de maintenir la porte fermée." width="1200" height="2442" loading="lazy" decoding="async">
+</picture>
 <figcaption>Le calibrage en cours.</figcaption>
 </figure>
 <figure style="margin:0;">
-<img src="images/44-app-calibrage-termine.jpg" alt="Écran de l’application Nuki « Calibrage terminé ! », avec les boutons Tester le calibrage et Terminé.">
+<picture>
+  <source type="image/webp" srcset="images/affichage/44-app-calibrage-termine-640.webp 640w, images/affichage/44-app-calibrage-termine-1200.webp 1200w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/44-app-calibrage-termine-1200.jpg" srcset="images/affichage/44-app-calibrage-termine-640.jpg 640w, images/affichage/44-app-calibrage-termine-1200.jpg 1200w" sizes="(max-width: 42em) 92vw, 800px" alt="Écran de l’application Nuki « Calibrage terminé ! », avec les boutons Tester le calibrage et Terminé." width="1200" height="2442" loading="lazy" decoding="async">
+</picture>
 <figcaption>« Calibrage terminé ! », avec le bouton « Tester le calibrage ».</figcaption>
 </figure>
 </div>
@@ -293,7 +368,10 @@ Tout est fini : toutes les empreintes, les codes, la création des utilisateurs,
 Dans la page de la serrure « Serrure connecter cuisine », on trouve **Fonctions & Configuration**, le **Journal d’activité**, les **Services Nuki**, et les autorisations **Utilisateur**, **Keypad** et **Fob**. Dans « Vos actions », **Auto Unlock** s’affiche sur **Actif**. L’application indique : « Nuki déverrouille automatiquement votre porte lorsque vous rentrez chez vous. » On y voit aussi **Smart Notifications** et **Actions Glisser**.
 
 <figure>
-<img src="images/72-app-serrure-connecter-cuisine.jpg" alt="Écran de l’application Nuki « Serrure connecter cuisine » : Fonctions & Configuration, Journal d’activité, Services Nuki, autorisations Utilisateur, Keypad et Fob, et dans Vos actions, Auto Unlock Actif, Smart Notifications et Actions Glisser.">
+<picture>
+  <source type="image/webp" srcset="images/affichage/72-app-serrure-connecter-cuisine-640.webp 640w, images/affichage/72-app-serrure-connecter-cuisine-1200.webp 1200w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/72-app-serrure-connecter-cuisine-1200.jpg" srcset="images/affichage/72-app-serrure-connecter-cuisine-640.jpg 640w, images/affichage/72-app-serrure-connecter-cuisine-1200.jpg 1200w" sizes="(max-width: 42em) 92vw, 800px" alt="Écran de l’application Nuki « Serrure connecter cuisine » : Fonctions & Configuration, Journal d’activité, Services Nuki, autorisations Utilisateur, Keypad et Fob, et dans Vos actions, Auto Unlock Actif, Smart Notifications et Actions Glisser." width="1200" height="2442" loading="lazy" decoding="async">
+</picture>
 <figcaption>La page de la serrure « Serrure connecter cuisine » : Auto Unlock est actif.</figcaption>
 </figure>
 
@@ -302,7 +380,10 @@ Dans l’écran Auto Unlock, la fonction est activée. L’option « Tenir compt
 En tête d’écran, l’application précise : « Grâce à la fonction de déverrouillage automatique, Nuki déverrouille d’elle-même votre porte quand vous approchez de votre appareil Nuki. » Plus bas, le schéma « Comment ça marche » illustre une clôture virtuelle (geofence) générique, sans adresse réelle. Le principe, d’après l’application : Nuki déverrouille la porte quand on revient, en s’appuyant sur une clôture virtuelle (geofence) et sur la localisation du smartphone.
 
 <figure>
-<img src="images/73-app-auto-unlock.jpg" alt="Écran Auto Unlock de l’application Nuki : fonction activée, option Tenir compte des appareils à proximité activée, Retarder Auto Unlock sur Aucun délai, et le schéma Comment ça marche avec une clôture virtuelle générique.">
+<picture>
+  <source type="image/webp" srcset="images/affichage/73-app-auto-unlock-640.webp 640w, images/affichage/73-app-auto-unlock-1200.webp 1200w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/73-app-auto-unlock-1200.jpg" srcset="images/affichage/73-app-auto-unlock-640.jpg 640w, images/affichage/73-app-auto-unlock-1200.jpg 1200w" sizes="(max-width: 42em) 92vw, 800px" alt="Écran Auto Unlock de l’application Nuki : fonction activée, option Tenir compte des appareils à proximité activée, Retarder Auto Unlock sur Aucun délai, et le schéma Comment ça marche avec une clôture virtuelle générique." width="1200" height="2442" loading="lazy" decoding="async">
+</picture>
 <figcaption>L’écran Auto Unlock, avec le schéma « Comment ça marche ».</figcaption>
 </figure>
 
@@ -315,7 +396,10 @@ En tête d’écran, l’application précise : « Grâce à la fonction de dév
 Le mode Nuit est activé, de **23:00** à **06:00**. L’application indique : « En mode Nuit, Nuki verrouille votre porte automatiquement pendant la nuit. Pendant la période sélectionnée, l’appareil Nuki active son mode économie d’énergie et verrouille la porte à double tour (720°). »
 
 <figure>
-<img src="images/74-app-mode-nuit.jpg" alt="Écran Mode Nuit de l’application Nuki : fonction activée, heure de début 23:00, heure de fin 06:00, et le texte d’explication sur le verrouillage automatique et le double tour.">
+<picture>
+  <source type="image/webp" srcset="images/affichage/74-app-mode-nuit-640.webp 640w, images/affichage/74-app-mode-nuit-1200.webp 1200w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/74-app-mode-nuit-1200.jpg" srcset="images/affichage/74-app-mode-nuit-640.jpg 640w, images/affichage/74-app-mode-nuit-1200.jpg 1200w" sizes="(max-width: 42em) 92vw, 800px" alt="Écran Mode Nuit de l’application Nuki : fonction activée, heure de début 23:00, heure de fin 06:00, et le texte d’explication sur le verrouillage automatique et le double tour." width="1200" height="1552" loading="lazy" decoding="async">
+</picture>
 <figcaption>Le mode Nuit, activé de 23:00 à 06:00.</figcaption>
 </figure>
 
@@ -324,7 +408,10 @@ Toutes les options sont activées : **Verrouiller à l’heure de début** (« V
 En bas d’écran, « Créer une plage horaire » précise : « À la fin du mode Nuit, la porte ne se déverrouille pas automatiquement. Appuyez ici pour programmer une action automatique. »
 
 <figure>
-<img src="images/75-app-mode-nuit-options.jpg" alt="Bas de l’écran Mode Nuit de l’application Nuki : options Verrouiller à l’heure de début, Vitesse de verrouillage Gentle, Refuser Auto Unlock et Activer l’Auto Lock, toutes activées, et Créer une plage horaire.">
+<picture>
+  <source type="image/webp" srcset="images/affichage/75-app-mode-nuit-options-640.webp 640w, images/affichage/75-app-mode-nuit-options-1200.webp 1200w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/75-app-mode-nuit-options-1200.jpg" srcset="images/affichage/75-app-mode-nuit-options-640.jpg 640w, images/affichage/75-app-mode-nuit-options-1200.jpg 1200w" sizes="(max-width: 42em) 92vw, 800px" alt="Bas de l’écran Mode Nuit de l’application Nuki : options Verrouiller à l’heure de début, Vitesse de verrouillage Gentle, Refuser Auto Unlock et Activer l’Auto Lock, toutes activées, et Créer une plage horaire." width="1200" height="1312" loading="lazy" decoding="async">
+</picture>
 <figcaption>Les options du mode Nuit, toutes activées, et « Créer une plage horaire ».</figcaption>
 </figure>
 
@@ -339,7 +426,10 @@ C’est l’accessoire que l’on voit depuis l’extérieur.
 Dans l’application, le micrologiciel du Keypad 2 NFC s’affiche en **1.12.0**. Sur la capture, la mise à jour du firmware à la version 1.12.0 est en cours ; l’app indique que cela peut prendre jusqu’à deux minutes.
 
 <figure>
-<img src="images/21-app-keypad-firmware-1-12-0.jpg" alt="Écran de l’application Nuki : mise à jour du firmware du Keypad à la version 1.12.0 en cours, jusqu’à deux minutes.">
+<picture>
+  <source type="image/webp" srcset="images/affichage/21-app-keypad-firmware-1-12-0-640.webp 640w, images/affichage/21-app-keypad-firmware-1-12-0-1200.webp 1200w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/21-app-keypad-firmware-1-12-0-1200.jpg" srcset="images/affichage/21-app-keypad-firmware-1-12-0-640.jpg 640w, images/affichage/21-app-keypad-firmware-1-12-0-1200.jpg 1200w" sizes="(max-width: 42em) 92vw, 800px" alt="Écran de l’application Nuki : mise à jour du firmware du Keypad à la version 1.12.0 en cours, jusqu’à deux minutes." width="1200" height="2442" loading="lazy" decoding="async">
+</picture>
 <figcaption>La mise à jour du firmware du Keypad à la version 1.12.0, en cours dans l’application.</figcaption>
 </figure>
 
@@ -347,11 +437,17 @@ Je l’ai juste collé pour l’instant, mais le double face est très efficace,
 
 <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:1rem;margin:1.2rem 0;">
 <figure style="margin:0;">
-<img src="images/24-keypad-allume.jpg" alt="Keypad 2 NFC blanc allumé, vu de face, posé sur une table, avec trois voyants bleus allumés en haut.">
+<picture>
+  <source type="image/webp" srcset="images/affichage/24-keypad-allume-640.webp 640w, images/affichage/24-keypad-allume-1200.webp 1200w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/24-keypad-allume-1200.jpg" srcset="images/affichage/24-keypad-allume-640.jpg 640w, images/affichage/24-keypad-allume-1200.jpg 1200w" sizes="(max-width: 42em) 92vw, 800px" alt="Keypad 2 NFC blanc allumé, vu de face, posé sur une table, avec trois voyants bleus allumés en haut." width="1200" height="1600" loading="lazy" decoding="async">
+</picture>
 <figcaption>Le Keypad 2 NFC blanc, allumé, posé sur la table.</figcaption>
 </figure>
 <figure style="margin:0;">
-<img src="images/26-keypad-exterieur.jpg" alt="Keypad 2 NFC blanc collé à l’extérieur, sur le dormant de la porte.">
+<picture>
+  <source type="image/webp" srcset="images/affichage/26-keypad-exterieur-640.webp 640w, images/affichage/26-keypad-exterieur-1200.webp 1200w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/26-keypad-exterieur-1200.jpg" srcset="images/affichage/26-keypad-exterieur-640.jpg 640w, images/affichage/26-keypad-exterieur-1200.jpg 1200w" sizes="(max-width: 42em) 92vw, 800px" alt="Keypad 2 NFC blanc collé à l’extérieur, sur le dormant de la porte." width="1200" height="1445" loading="lazy" decoding="async">
+</picture>
 <figcaption>Le Keypad collé à l’extérieur, sur le dormant de la porte.</figcaption>
 </figure>
 </div>
@@ -362,22 +458,34 @@ Pour ajouter une empreinte, l’application passe par la fiche de l’utilisateu
 
 <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:1rem;margin:1.2rem 0;">
 <figure style="margin:0;">
-<img src="images/48-app-empreinte-reconnue.jpg" alt="Écran de l’application Nuki : Empreinte digitale reconnue avec succès. Vous pouvez désormais commander l’appareil avec votre doigt.">
+<picture>
+  <source type="image/webp" srcset="images/affichage/48-app-empreinte-reconnue-640.webp 640w, images/affichage/48-app-empreinte-reconnue-1200.webp 1200w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/48-app-empreinte-reconnue-1200.jpg" srcset="images/affichage/48-app-empreinte-reconnue-640.jpg 640w, images/affichage/48-app-empreinte-reconnue-1200.jpg 1200w" sizes="(max-width: 42em) 92vw, 800px" alt="Écran de l’application Nuki : Empreinte digitale reconnue avec succès. Vous pouvez désormais commander l’appareil avec votre doigt." width="1200" height="2442" loading="lazy" decoding="async">
+</picture>
 <figcaption>« Empreinte digitale reconnue avec succès. »</figcaption>
 </figure>
 <figure style="margin:0;">
-<img src="images/50-app-empreinte-ajoutee.jpg" alt="Écran de l’application Nuki : Empreinte digitale ajoutée avec succès, avec les boutons Ajouter une autre empreinte digitale et Terminé.">
+<picture>
+  <source type="image/webp" srcset="images/affichage/50-app-empreinte-ajoutee-640.webp 640w, images/affichage/50-app-empreinte-ajoutee-1200.webp 1200w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/50-app-empreinte-ajoutee-1200.jpg" srcset="images/affichage/50-app-empreinte-ajoutee-640.jpg 640w, images/affichage/50-app-empreinte-ajoutee-1200.jpg 1200w" sizes="(max-width: 42em) 92vw, 800px" alt="Écran de l’application Nuki : Empreinte digitale ajoutée avec succès, avec les boutons Ajouter une autre empreinte digitale et Terminé." width="1200" height="2442" loading="lazy" decoding="async">
+</picture>
 <figcaption>« Empreinte digitale ajoutée avec succès. »</figcaption>
 </figure>
 </div>
 
 <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:1rem;margin:1.2rem 0;">
 <figure style="margin:0;">
-<img src="images/51-keypad-pouce-capteur.jpg" alt="Pouce posé sur le capteur d’empreinte du Keypad 2 NFC blanc, collé sur le dormant de la porte.">
+<picture>
+  <source type="image/webp" srcset="images/affichage/51-keypad-pouce-capteur-640.webp 640w, images/affichage/51-keypad-pouce-capteur-1200.webp 1200w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/51-keypad-pouce-capteur-1200.jpg" srcset="images/affichage/51-keypad-pouce-capteur-640.jpg 640w, images/affichage/51-keypad-pouce-capteur-1200.jpg 1200w" sizes="(max-width: 42em) 92vw, 800px" alt="Pouce posé sur le capteur d’empreinte du Keypad 2 NFC blanc, collé sur le dormant de la porte." width="1200" height="2134" loading="lazy" decoding="async">
+</picture>
 <figcaption>Pouce posé sur le capteur d’empreinte du clavier.</figcaption>
 </figure>
 <figure style="margin:0;">
-<img src="images/52-keypad-tap-to-unlock.jpg" alt="Essai Tap to Unlock : iPhone approché du Keypad 2 NFC blanc, collé sur le dormant.">
+<picture>
+  <source type="image/webp" srcset="images/affichage/52-keypad-tap-to-unlock-640.webp 640w, images/affichage/52-keypad-tap-to-unlock-1200.webp 1200w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/52-keypad-tap-to-unlock-1200.jpg" srcset="images/affichage/52-keypad-tap-to-unlock-640.jpg 640w, images/affichage/52-keypad-tap-to-unlock-1200.jpg 1200w" sizes="(max-width: 42em) 92vw, 800px" alt="Essai Tap to Unlock : iPhone approché du Keypad 2 NFC blanc, collé sur le dormant." width="1200" height="2134" loading="lazy" decoding="async">
+</picture>
 <figcaption>Essai Tap to Unlock : téléphone approché du clavier.</figcaption>
 </figure>
 </div>
@@ -385,7 +493,10 @@ Pour ajouter une empreinte, l’application passe par la fiche de l’utilisateu
 Tap to Unlock : téléphone approché du clavier, la porte s’est bien déverrouillée.
 
 <figure>
-<img src="images/53-app-tap-to-unlock.jpg" alt="Écran de l’application Nuki pendant Tap to Unlock : carte Nuki « Serrure connecter cuisine », avec un indicateur de chargement.">
+<picture>
+  <source type="image/webp" srcset="images/affichage/53-app-tap-to-unlock-640.webp 640w, images/affichage/53-app-tap-to-unlock-1200.webp 1200w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/53-app-tap-to-unlock-1200.jpg" srcset="images/affichage/53-app-tap-to-unlock-640.jpg 640w, images/affichage/53-app-tap-to-unlock-1200.jpg 1200w" sizes="(max-width: 42em) 92vw, 800px" alt="Écran de l’application Nuki pendant Tap to Unlock : carte Nuki « Serrure connecter cuisine », avec un indicateur de chargement." width="1200" height="1240" loading="lazy" decoding="async">
+</picture>
 <figcaption>L’application Nuki pendant Tap to Unlock, sur la carte « Serrure connecter cuisine ».</figcaption>
 </figure>
 
@@ -396,14 +507,20 @@ C’est l’un des points que je tiens à documenter clairement. D’après le [
 Dans les paramètres du Keypad, le type d’appareil s’affiche en **Keypad 2 NFC**, la pile en « suffisamment chargée », et le firmware en **2.6.4**. La détection de vol est **active**. L’application indique : « Détecte lorsque le Keypad est déplacé et le désactive pour les utilisateurs non autorisés. »
 
 <figure>
-<img src="images/70-app-keypad-parametres.jpg" alt="Écran Paramètres de l’application Nuki pour le Keypad : type d’appareil Keypad 2 NFC, pile suffisamment chargée, firmware 2.6.4, détection de vol active. L’identifiant du Keypad est masqué.">
+<picture>
+  <source type="image/webp" srcset="images/affichage/70-app-keypad-parametres-640.webp 640w, images/affichage/70-app-keypad-parametres-1200.webp 1200w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/70-app-keypad-parametres-1200.jpg" srcset="images/affichage/70-app-keypad-parametres-640.jpg 640w, images/affichage/70-app-keypad-parametres-1200.jpg 1200w" sizes="(max-width: 42em) 92vw, 800px" alt="Écran Paramètres de l’application Nuki pour le Keypad : type d’appareil Keypad 2 NFC, pile suffisamment chargée, firmware 2.6.4, détection de vol active. L’identifiant du Keypad est masqué." width="1200" height="2440" loading="lazy" decoding="async">
+</picture>
 <figcaption>Les paramètres du Keypad : Keypad 2 NFC, pile suffisamment chargée, firmware 2.6.4, détection de vol active.</figcaption>
 </figure>
 
 Dans le journal d’activité, les options « Journal d’activité » et « Enregistrer l’état du capteur de porte » sont activées. Le journal enregistre, en rouge, « Nuki Keypad — Le Keypad déplacé ». On y voit aussi les alternances « Porte ouverte » et « Porte fermée » du capteur de porte, « Papa (Empreinte digitale) — Déverrouillé », et « Manuellement (bouton) — Verrouillé ».
 
 <figure>
-<img src="images/69-app-journal-activite.jpg" alt="Journal d’activité de l’application Nuki : options Journal d’activité et Enregistrer l’état du capteur de porte activées, entrée « Le Keypad déplacé » en rouge, états Porte ouverte et Porte fermée, déverrouillage Papa (Empreinte digitale), verrouillage Manuellement (bouton).">
+<picture>
+  <source type="image/webp" srcset="images/affichage/69-app-journal-activite-640.webp 640w, images/affichage/69-app-journal-activite-1200.webp 1200w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/69-app-journal-activite-1200.jpg" srcset="images/affichage/69-app-journal-activite-640.jpg 640w, images/affichage/69-app-journal-activite-1200.jpg 1200w" sizes="(max-width: 42em) 92vw, 800px" alt="Journal d’activité de l’application Nuki : options Journal d’activité et Enregistrer l’état du capteur de porte activées, entrée « Le Keypad déplacé » en rouge, états Porte ouverte et Porte fermée, déverrouillage Papa (Empreinte digitale), verrouillage Manuellement (bouton)." width="1200" height="2442" loading="lazy" decoding="async">
+</picture>
 <figcaption>Le journal d’activité : « Le Keypad déplacé », en rouge, et les états du capteur de porte.</figcaption>
 </figure>
 
@@ -412,7 +529,10 @@ Dans le journal d’activité, les options « Journal d’activité » et « Enr
 </aside>
 
 <figure>
-<img src="images/71-keypad-retire-support.jpg" alt="Keypad 2 NFC blanc retiré de son support, tenu en main devant une porte d’entrée vitrée, avec store intérieur et briques.">
+<picture>
+  <source type="image/webp" srcset="images/affichage/71-keypad-retire-support-640.webp 640w, images/affichage/71-keypad-retire-support-1200.webp 1200w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/71-keypad-retire-support-1200.jpg" srcset="images/affichage/71-keypad-retire-support-640.jpg 640w, images/affichage/71-keypad-retire-support-1200.jpg 1200w" sizes="(max-width: 42em) 92vw, 800px" alt="Keypad 2 NFC blanc retiré de son support, tenu en main devant une porte d’entrée vitrée, avec store intérieur et briques." width="1200" height="1536" loading="lazy" decoding="async">
+</picture>
 <figcaption>Le Keypad retiré de son support, tenu en main devant la porte d’entrée.</figcaption>
 </figure>
 
@@ -421,14 +541,20 @@ Dans le journal d’activité, les options « Journal d’activité » et « Enr
 L’idée, sur le papier, est simple et utile : savoir non seulement si la serrure est verrouillée, mais si la porte est bien close. Nuki ajoute une alerte si la porte reste ouverte plus longtemps que d’habitude, et une détection de sabotage.
 
 <figure>
-<img src="images/54-door-sensor-deballage.jpg" alt="Door Sensor Nuki déballé sur une table : boîte, notice, plateau vide, capteur et aimant blancs.">
+<picture>
+  <source type="image/webp" srcset="images/affichage/54-door-sensor-deballage-640.webp 640w, images/affichage/54-door-sensor-deballage-1200.webp 1200w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/54-door-sensor-deballage-1200.jpg" srcset="images/affichage/54-door-sensor-deballage-640.jpg 640w, images/affichage/54-door-sensor-deballage-1200.jpg 1200w" sizes="(max-width: 42em) 92vw, 800px" alt="Door Sensor Nuki déballé sur une table : boîte, notice, plateau vide, capteur et aimant blancs." width="1200" height="1408" loading="lazy" decoding="async">
+</picture>
 <figcaption>Le Door Sensor une fois sorti de sa boîte, avec sa notice, le capteur et l’aimant.</figcaption>
 </figure>
 
 Dans l’application, j’ajoute le Door Sensor (écran « Ajouter Door Sensor »). L’application indique aussi que l’on ne peut activer qu’un seul Door Sensor par Smart Lock.
 
 <figure>
-<img src="images/55-app-ajouter-door-sensor.jpg" alt="Écran de l’application Nuki « Ajouter Door Sensor », avec un schéma de porte et le bouton Ajouter Door Sensor.">
+<picture>
+  <source type="image/webp" srcset="images/affichage/55-app-ajouter-door-sensor-640.webp 640w, images/affichage/55-app-ajouter-door-sensor-1200.webp 1200w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/55-app-ajouter-door-sensor-1200.jpg" srcset="images/affichage/55-app-ajouter-door-sensor-640.jpg 640w, images/affichage/55-app-ajouter-door-sensor-1200.jpg 1200w" sizes="(max-width: 42em) 92vw, 800px" alt="Écran de l’application Nuki « Ajouter Door Sensor », avec un schéma de porte et le bouton Ajouter Door Sensor." width="1200" height="2442" loading="lazy" decoding="async">
+</picture>
 <figcaption>L’ajout du Door Sensor dans l’application.</figcaption>
 </figure>
 
@@ -436,19 +562,31 @@ La mise à jour du micrologiciel vers la version **1.3.1** demande de maintenir 
 
 <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:0.8rem;margin:1.2rem 0;">
 <figure style="margin:0;">
-<img src="images/56-app-maj-firmware-0pct.jpg" alt="Écran de l’application Nuki : mise à jour du micrologiciel du Door Sensor vers la version 1.3.1, transfert à 0 %.">
+<picture>
+  <source type="image/webp" srcset="images/affichage/56-app-maj-firmware-0pct-640.webp 640w, images/affichage/56-app-maj-firmware-0pct-1200.webp 1200w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/56-app-maj-firmware-0pct-1200.jpg" srcset="images/affichage/56-app-maj-firmware-0pct-640.jpg 640w, images/affichage/56-app-maj-firmware-0pct-1200.jpg 1200w" sizes="(max-width: 42em) 92vw, 800px" alt="Écran de l’application Nuki : mise à jour du micrologiciel du Door Sensor vers la version 1.3.1, transfert à 0 %." width="1200" height="2442" loading="lazy" decoding="async">
+</picture>
 <figcaption>Mise à jour du micrologiciel, à 0 %.</figcaption>
 </figure>
 <figure style="margin:0;">
-<img src="images/57-app-bouton-10s.jpg" alt="Écran de l’application Nuki : maintenez le bouton appuyé pendant 10 secondes, relâchez dès que la lumière brille.">
+<picture>
+  <source type="image/webp" srcset="images/affichage/57-app-bouton-10s-640.webp 640w, images/affichage/57-app-bouton-10s-1200.webp 1200w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/57-app-bouton-10s-1200.jpg" srcset="images/affichage/57-app-bouton-10s-640.jpg 640w, images/affichage/57-app-bouton-10s-1200.jpg 1200w" sizes="(max-width: 42em) 92vw, 800px" alt="Écran de l’application Nuki : maintenez le bouton appuyé pendant 10 secondes, relâchez dès que la lumière brille." width="1200" height="2442" loading="lazy" decoding="async">
+</picture>
 <figcaption>L’appui de 10 secondes sur le bouton, demandé par l’application.</figcaption>
 </figure>
 <figure style="margin:0;">
-<img src="images/58-app-maj-firmware-42pct.jpg" alt="Écran de l’application Nuki : mise à jour du micrologiciel du Door Sensor, transfert à 42 %.">
+<picture>
+  <source type="image/webp" srcset="images/affichage/58-app-maj-firmware-42pct-640.webp 640w, images/affichage/58-app-maj-firmware-42pct-1200.webp 1200w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/58-app-maj-firmware-42pct-1200.jpg" srcset="images/affichage/58-app-maj-firmware-42pct-640.jpg 640w, images/affichage/58-app-maj-firmware-42pct-1200.jpg 1200w" sizes="(max-width: 42em) 92vw, 800px" alt="Écran de l’application Nuki : mise à jour du micrologiciel du Door Sensor, transfert à 42 %." width="1200" height="2442" loading="lazy" decoding="async">
+</picture>
 <figcaption>Le transfert en cours, à 42 %.</figcaption>
 </figure>
 <figure style="margin:0;">
-<img src="images/59-app-maj-firmware-ok.jpg" alt="Écran de l’application Nuki : le firmware du capteur de porte est à jour, avec un bouton Terminé.">
+<picture>
+  <source type="image/webp" srcset="images/affichage/59-app-maj-firmware-ok-640.webp 640w, images/affichage/59-app-maj-firmware-ok-1200.webp 1200w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/59-app-maj-firmware-ok-1200.jpg" srcset="images/affichage/59-app-maj-firmware-ok-640.jpg 640w, images/affichage/59-app-maj-firmware-ok-1200.jpg 1200w" sizes="(max-width: 42em) 92vw, 800px" alt="Écran de l’application Nuki : le firmware du capteur de porte est à jour, avec un bouton Terminé." width="1200" height="2442" loading="lazy" decoding="async">
+</picture>
 <figcaption>Le firmware du capteur de porte est à jour.</figcaption>
 </figure>
 </div>
@@ -457,11 +595,17 @@ L’application demande ensuite d’enlever l’opercule de protection du capteu
 
 <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:1rem;margin:1.2rem 0;">
 <figure style="margin:0;">
-<img src="images/60-app-opercule.jpg" alt="Écran de l’application Nuki : enlevez d’abord l’opercule de protection de votre capteur de porte.">
+<picture>
+  <source type="image/webp" srcset="images/affichage/60-app-opercule-640.webp 640w, images/affichage/60-app-opercule-1200.webp 1200w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/60-app-opercule-1200.jpg" srcset="images/affichage/60-app-opercule-640.jpg 640w, images/affichage/60-app-opercule-1200.jpg 1200w" sizes="(max-width: 42em) 92vw, 800px" alt="Écran de l’application Nuki : enlevez d’abord l’opercule de protection de votre capteur de porte." width="1200" height="2442" loading="lazy" decoding="async">
+</picture>
 <figcaption>Le retrait de l’opercule de protection, demandé par l’application.</figcaption>
 </figure>
 <figure style="margin:0;">
-<img src="images/61-app-door-sensor-connectee.jpg" alt="Écran de l’application Nuki : Nuki Door Sensor connectée !">
+<picture>
+  <source type="image/webp" srcset="images/affichage/61-app-door-sensor-connectee-640.webp 640w, images/affichage/61-app-door-sensor-connectee-1200.webp 1200w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/61-app-door-sensor-connectee-1200.jpg" srcset="images/affichage/61-app-door-sensor-connectee-640.jpg 640w, images/affichage/61-app-door-sensor-connectee-1200.jpg 1200w" sizes="(max-width: 42em) 92vw, 800px" alt="Écran de l’application Nuki : Nuki Door Sensor connectée !" width="1200" height="2442" loading="lazy" decoding="async">
+</picture>
 <figcaption>« Nuki Door Sensor connectée ! »</figcaption>
 </figure>
 </div>
@@ -469,7 +613,10 @@ L’application demande ensuite d’enlever l’opercule de protection du capteu
 Pour la pose, l’application indique de coller le Nuki Door Sensor sur l’encadrement et l’aimant sur la porte, en veillant à ce que le repère du capteur soit face à l’aimant, avec un écart de 0,5 à 3 cm.
 
 <figure>
-<img src="images/62-app-coller-capteur-aimant.jpg" alt="Écran de l’application Nuki : collez le Door Sensor sur l’encadrement et l’aimant sur la porte, repère face à l’aimant, écart de 0,5 à 3 cm.">
+<picture>
+  <source type="image/webp" srcset="images/affichage/62-app-coller-capteur-aimant-640.webp 640w, images/affichage/62-app-coller-capteur-aimant-1200.webp 1200w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/62-app-coller-capteur-aimant-1200.jpg" srcset="images/affichage/62-app-coller-capteur-aimant-640.jpg 640w, images/affichage/62-app-coller-capteur-aimant-1200.jpg 1200w" sizes="(max-width: 42em) 92vw, 800px" alt="Écran de l’application Nuki : collez le Door Sensor sur l’encadrement et l’aimant sur la porte, repère face à l’aimant, écart de 0,5 à 3 cm." width="1200" height="2442" loading="lazy" decoding="async">
+</picture>
 <figcaption>Les consignes de pose dans l’application : capteur sur le cadre, aimant sur l’ouvrant, repère face à l’aimant, 0,5 à 3 cm d’écart.</figcaption>
 </figure>
 
@@ -481,11 +628,17 @@ L’application affiche la serrure déverrouillée, une fois avec « Porte ferm�
 
 <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:1rem;margin:1.2rem 0;">
 <figure style="margin:0;">
-<img src="images/67-app-deverrouille-porte-fermee.jpg" alt="Écran de l’application Nuki : serrure déverrouillée, état « Porte fermée », sur Serrure connecter cuisine.">
+<picture>
+  <source type="image/webp" srcset="images/affichage/67-app-deverrouille-porte-fermee-640.webp 640w, images/affichage/67-app-deverrouille-porte-fermee-1200.webp 1200w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/67-app-deverrouille-porte-fermee-1200.jpg" srcset="images/affichage/67-app-deverrouille-porte-fermee-640.jpg 640w, images/affichage/67-app-deverrouille-porte-fermee-1200.jpg 1200w" sizes="(max-width: 42em) 92vw, 800px" alt="Écran de l’application Nuki : serrure déverrouillée, état « Porte fermée », sur Serrure connecter cuisine." width="1200" height="2442" loading="lazy" decoding="async">
+</picture>
 <figcaption>Déverrouillé, porte fermée.</figcaption>
 </figure>
 <figure style="margin:0;">
-<img src="images/68-app-deverrouille-porte-ouverte.jpg" alt="Écran de l’application Nuki : serrure déverrouillée, état « Porte ouverte », sur Serrure connecter cuisine.">
+<picture>
+  <source type="image/webp" srcset="images/affichage/68-app-deverrouille-porte-ouverte-640.webp 640w, images/affichage/68-app-deverrouille-porte-ouverte-1200.webp 1200w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/68-app-deverrouille-porte-ouverte-1200.jpg" srcset="images/affichage/68-app-deverrouille-porte-ouverte-640.jpg 640w, images/affichage/68-app-deverrouille-porte-ouverte-1200.jpg 1200w" sizes="(max-width: 42em) 92vw, 800px" alt="Écran de l’application Nuki : serrure déverrouillée, état « Porte ouverte », sur Serrure connecter cuisine." width="1200" height="2442" loading="lazy" decoding="async">
+</picture>
 <figcaption>Déverrouillé, porte ouverte.</figcaption>
 </figure>
 </div>
@@ -493,14 +646,20 @@ L’application affiche la serrure déverrouillée, une fois avec « Porte ferm�
 Ces mêmes états « Porte ouverte » et « Porte fermée » apparaissent aussi dans le journal d’activité (voir la capture dans la section sur la détection de vol).
 
 <figure>
-<img src="images/65-door-sensor-pose-haut.jpg" alt="Détail du capteur Nuki Door Sensor et de l’aimant blancs, collés en haut du cadre d’une fenêtre PVC.">
+<picture>
+  <source type="image/webp" srcset="images/affichage/65-door-sensor-pose-haut-640.webp 640w, images/affichage/65-door-sensor-pose-haut-1200.webp 1200w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/65-door-sensor-pose-haut-1200.jpg" srcset="images/affichage/65-door-sensor-pose-haut-640.jpg 640w, images/affichage/65-door-sensor-pose-haut-1200.jpg 1200w" sizes="(max-width: 42em) 92vw, 800px" alt="Détail du capteur Nuki Door Sensor et de l’aimant blancs, collés en haut du cadre d’une fenêtre PVC." width="1200" height="845" loading="lazy" decoding="async">
+</picture>
 <figcaption>Le capteur sur le cadre et l’aimant sur l’ouvrant, en haut de la fenêtre.</figcaption>
 </figure>
 
 Dans l’écran « Gérer le Nuki Door Sensor », le niveau de la batterie s’affiche sur **OK**, et la version du firmware sur **1.3.1**.
 
 <figure>
-<img src="images/63-app-gerer-door-sensor.jpg" alt="Écran de l’application Nuki « Gérer le Nuki Door Sensor » : niveau de la batterie OK, version du firmware 1.3.1. L’identifiant du capteur est masqué.">
+<picture>
+  <source type="image/webp" srcset="images/affichage/63-app-gerer-door-sensor-640.webp 640w, images/affichage/63-app-gerer-door-sensor-1200.webp 1200w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/63-app-gerer-door-sensor-1200.jpg" srcset="images/affichage/63-app-gerer-door-sensor-640.jpg 640w, images/affichage/63-app-gerer-door-sensor-1200.jpg 1200w" sizes="(max-width: 42em) 92vw, 800px" alt="Écran de l’application Nuki « Gérer le Nuki Door Sensor » : niveau de la batterie OK, version du firmware 1.3.1. L’identifiant du capteur est masqué." width="1200" height="1536" loading="lazy" decoding="async">
+</picture>
 <figcaption>L’écran de gestion du Door Sensor : batterie OK, firmware 1.3.1.</figcaption>
 </figure>
 
@@ -509,21 +668,30 @@ Dans l’écran « Gérer le Nuki Door Sensor », le niveau de la batterie s’a
 Pour ceux qui n’ont pas de smartphone sous la main, ou qui préfèrent un simple bouton sur un porte-clés, le Fob est l’accessoire le plus évident. Nuki le présente aussi comme un bon recours pour un enfant, un proche, ou un prestataire dont on peut retirer l’accès à distance en cas de perte.
 
 <figure>
-<img src="images/27-fob-en-main.jpg" alt="Fob Nuki noir tenu dans la main, bouton visible, serrure installée en arrière-plan.">
+<picture>
+  <source type="image/webp" srcset="images/affichage/27-fob-en-main-640.webp 640w, images/affichage/27-fob-en-main-1200.webp 1200w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/27-fob-en-main-1200.jpg" srcset="images/affichage/27-fob-en-main-640.jpg 640w, images/affichage/27-fob-en-main-1200.jpg 1200w" sizes="(max-width: 42em) 92vw, 800px" alt="Fob Nuki noir tenu dans la main, bouton visible, serrure installée en arrière-plan." width="1200" height="1600" loading="lazy" decoding="async">
+</picture>
 <figcaption>Le Fob dans la main, bouton visible.</figcaption>
 </figure>
 
 Dans l’écran « Les actions du bouton Fob », l’application indique : « Définissez les actions du Fob ici. Votre appareil Nuki effectuera cette action lorsque vous appuierez sur le bouton du Fob. » Les actions sont réglées ainsi : **Pression simple** sur **Intelligent**, **Pression double** sur **Déverrouiller**, **Pression triple** sur **Verrouiller**. L’app précise : « Ces paramètres s’appliquent à tous les Fobs connectés. »
 
 <figure>
-<img src="images/76-app-actions-bouton-fob.jpg" alt="Écran de l’application Nuki « Les actions du bouton Fob » : pression simple Intelligent, pression double Déverrouiller, pression triple Verrouiller.">
+<picture>
+  <source type="image/webp" srcset="images/affichage/76-app-actions-bouton-fob-640.webp 640w, images/affichage/76-app-actions-bouton-fob-1200.webp 1200w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/76-app-actions-bouton-fob-1200.jpg" srcset="images/affichage/76-app-actions-bouton-fob-640.jpg 640w, images/affichage/76-app-actions-bouton-fob-1200.jpg 1200w" sizes="(max-width: 42em) 92vw, 800px" alt="Écran de l’application Nuki « Les actions du bouton Fob » : pression simple Intelligent, pression double Déverrouiller, pression triple Verrouiller." width="1200" height="890" loading="lazy" decoding="async">
+</picture>
 <figcaption>Les actions du bouton Fob : Intelligent, Déverrouiller, Verrouiller.</figcaption>
 </figure>
 
 La fiche « Nuki Fob maman » affiche les **Statistiques d’accès**, le **Verrouillage activé**, l’**Accès pour une durée limitée** sur **Inactif**, et les **Paramètres avancés de l’appareil**. Un bouton « Supprimer le Fob » permet de révoquer un Fob perdu.
 
 <figure>
-<img src="images/77-app-nuki-fob-maman.jpg" alt="Fiche de l’application Nuki « Nuki Fob maman » : statistiques d’accès, verrouillage activé, accès pour une durée limitée inactif, paramètres avancés de l’appareil, et bouton Supprimer le Fob.">
+<picture>
+  <source type="image/webp" srcset="images/affichage/77-app-nuki-fob-maman-640.webp 640w, images/affichage/77-app-nuki-fob-maman-1200.webp 1200w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/77-app-nuki-fob-maman-1200.jpg" srcset="images/affichage/77-app-nuki-fob-maman-640.jpg 640w, images/affichage/77-app-nuki-fob-maman-1200.jpg 1200w" sizes="(max-width: 42em) 92vw, 800px" alt="Fiche de l’application Nuki « Nuki Fob maman » : statistiques d’accès, verrouillage activé, accès pour une durée limitée inactif, paramètres avancés de l’appareil, et bouton Supprimer le Fob." width="1200" height="1267" loading="lazy" decoding="async">
+</picture>
 <figcaption>La fiche « Nuki Fob maman », avec le bouton « Supprimer le Fob ».</figcaption>
 </figure>
 

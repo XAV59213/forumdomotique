@@ -557,6 +557,13 @@
   margin: 0 !important;
   border-radius: 6px;
 }
+.photo-slide picture {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 100%;
+  height: 100%;
+}
 .photo-carousel .carousel-nav { background: rgba(255, 255, 255, 0.9); }
 
 /* Lightbox */
@@ -1932,6 +1939,9 @@ figure.creation-video-figure figcaption {
   margin-left: 0;
   margin-right: 0;
 }
+.article-body figure:not(.bistrot-cover):not(.apropos-figure):not(.creation-video-figure):not(.photo-slide) picture {
+  display: block;
+}
 .article-body figure:not(.bistrot-cover):not(.apropos-figure):not(.creation-video-figure):not(.photo-slide) img,
 .article-body p img,
 .article-body li img,
@@ -1972,6 +1982,10 @@ figure.creation-video-figure figcaption {
   height: auto;
   margin: 0 !important;
   border-radius: 0;
+}
+.bistrot-cover picture {
+  display: block;
+  width: 100%;
 }
 .bistrot-cover figcaption {
   margin: 0;

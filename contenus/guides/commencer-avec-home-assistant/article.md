@@ -17,9 +17,9 @@ pdf: /contenus/guides/commencer-avec-home-assistant/commencer-avec-home-assistan
 
 <figure class="bistrot-cover">
   <picture>
-    <source type="image/webp" srcset="{{ '/contenus/guides/commencer-avec-home-assistant/images/cover-commencer-home-assistant.webp' | relative_url }}">
-    <img src="{{ '/contenus/guides/commencer-avec-home-assistant/images/cover-commencer-home-assistant.jpg' | relative_url }}" alt="Sur une table en bois, un petit boîtier blanc, une tasse de café, des clés et un câble réseau, près d’une plante, dans un salon lumineux." width="1600" height="900">
-  </picture>
+  <source type="image/webp" srcset="{{ '/contenus/guides/commencer-avec-home-assistant/images/affichage/cover-commencer-home-assistant-640.webp' | relative_url }} 640w, {{ '/contenus/guides/commencer-avec-home-assistant/images/affichage/cover-commencer-home-assistant-1200.webp' | relative_url }} 1200w" sizes="(max-width: 42em) 100vw, 1200px">
+  <img src="{{ '/contenus/guides/commencer-avec-home-assistant/images/affichage/cover-commencer-home-assistant-1200.jpg' | relative_url }}" srcset="{{ '/contenus/guides/commencer-avec-home-assistant/images/affichage/cover-commencer-home-assistant-640.jpg' | relative_url }} 640w, {{ '/contenus/guides/commencer-avec-home-assistant/images/affichage/cover-commencer-home-assistant-1200.jpg' | relative_url }} 1200w" sizes="(max-width: 42em) 100vw, 1200px" alt="Sur une table en bois, un petit boîtier blanc, une tasse de café, des clés et un câble réseau, près d’une plante, dans un salon lumineux." width="1200" height="675" loading="eager" decoding="async" fetchpriority="high">
+</picture>
   <figcaption>On installe d’abord des bases solides. Le reste, on l’ajoute à son rythme, autour d’un café.</figcaption>
 </figure>
 
@@ -38,9 +38,9 @@ Ce n’est pas réservé aux informaticiens. L’interface est en français, et 
 <aside class="debuter-demo" aria-labelledby="debuter-demo-titre">
   <figure class="debuter-demo-media">
     <picture>
-      <source type="image/webp" srcset="{{ '/contenus/guides/commencer-avec-home-assistant/images/debuter-demo-home-assistant.webp' | relative_url }}">
-      <img src="{{ '/contenus/guides/commencer-avec-home-assistant/images/debuter-demo-home-assistant.jpg' | relative_url }}" alt="Une tablette posée sur une table en bois affiche un tableau de bord stylisé de la maison, avec un bouton vert « Essayer la démo »." width="1600" height="900">
-    </picture>
+  <source type="image/webp" srcset="{{ '/contenus/guides/commencer-avec-home-assistant/images/affichage/debuter-demo-home-assistant-640.webp' | relative_url }} 640w, {{ '/contenus/guides/commencer-avec-home-assistant/images/affichage/debuter-demo-home-assistant-1200.webp' | relative_url }} 1200w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="{{ '/contenus/guides/commencer-avec-home-assistant/images/affichage/debuter-demo-home-assistant-1200.jpg' | relative_url }}" srcset="{{ '/contenus/guides/commencer-avec-home-assistant/images/affichage/debuter-demo-home-assistant-640.jpg' | relative_url }} 640w, {{ '/contenus/guides/commencer-avec-home-assistant/images/affichage/debuter-demo-home-assistant-1200.jpg' | relative_url }} 1200w" sizes="(max-width: 42em) 92vw, 800px" alt="Une tablette posée sur une table en bois affiche un tableau de bord stylisé de la maison, avec un bouton vert « Essayer la démo »." width="1200" height="675" loading="lazy" decoding="async">
+</picture>
   </figure>
   <div class="debuter-demo-copy">
     <h2 id="debuter-demo-titre">Découvre-le sans rien installer</h2>

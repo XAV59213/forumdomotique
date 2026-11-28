@@ -18,82 +18,130 @@ pdf: /contenus/guides/guide-du-smlight-slzb-mr4u-installation-multi-radio-dedie-
 <div class="carousel-track" data-track>
 <figure class="photo-slide" data-slide>
   <a href="images/Capturedcrandu2025-12-1411-57-15.png" data-full="images/Capturedcrandu2025-12-1411-57-15.png" data-alt="Photo 1 — Guide du SMLight SLZB-MR4U : Installation multi-radio dédié à l’Open Border Router pour Matter over Thread" aria-label="Agrandir la photo 1 : Photo 1 — Guide du SMLight SLZB-MR4U : Installation multi-radio dédié à l’Open Border Router pour Matter over Thread">
-    <img src="images/Capturedcrandu2025-12-1411-57-15.png" alt="Photo 1 — Guide du SMLight SLZB-MR4U : Installation multi-radio dédié à l’Open Border Router pour Matter over Thread" loading="eager">
+    <picture>
+  <source type="image/webp" srcset="images/affichage/Capturedcrandu2025-12-1411-57-15-591.webp 591w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/Capturedcrandu2025-12-1411-57-15-591.jpg" srcset="images/affichage/Capturedcrandu2025-12-1411-57-15-591.jpg 591w" sizes="(max-width: 42em) 92vw, 800px" alt="Photo 1 — Guide du SMLight SLZB-MR4U : Installation multi-radio dédié à l’Open Border Router pour Matter over Thread" width="591" height="478" loading="eager" decoding="async" fetchpriority="high">
+</picture>
   </a>
 </figure>
 <figure class="photo-slide" data-slide>
   <a href="images/Capturedcrandu2025-12-1410-54-55.png" data-full="images/Capturedcrandu2025-12-1410-54-55.png" data-alt="Photo 2 — Guide du SMLight SLZB-MR4U : Installation multi-radio dédié à l’Open Border Router pour Matter over Thread" aria-label="Agrandir la photo 2 : Photo 2 — Guide du SMLight SLZB-MR4U : Installation multi-radio dédié à l’Open Border Router pour Matter over Thread">
-    <img src="images/Capturedcrandu2025-12-1410-54-55.png" alt="Photo 2 — Guide du SMLight SLZB-MR4U : Installation multi-radio dédié à l’Open Border Router pour Matter over Thread" loading="lazy">
+    <picture>
+  <source type="image/webp" srcset="images/affichage/Capturedcrandu2025-12-1410-54-55-640.webp 640w, images/affichage/Capturedcrandu2025-12-1410-54-55-922.webp 922w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/Capturedcrandu2025-12-1410-54-55-922.jpg" srcset="images/affichage/Capturedcrandu2025-12-1410-54-55-640.jpg 640w, images/affichage/Capturedcrandu2025-12-1410-54-55-922.jpg 922w" sizes="(max-width: 42em) 92vw, 800px" alt="Photo 2 — Guide du SMLight SLZB-MR4U : Installation multi-radio dédié à l’Open Border Router pour Matter over Thread" width="922" height="399" loading="lazy" decoding="async">
+</picture>
   </a>
 </figure>
 <figure class="photo-slide" data-slide>
   <a href="images/Capturedcrandu2025-12-1410-52-29.png" data-full="images/Capturedcrandu2025-12-1410-52-29.png" data-alt="Photo 3 — Guide du SMLight SLZB-MR4U : Installation multi-radio dédié à l’Open Border Router pour Matter over Thread" aria-label="Agrandir la photo 3 : Photo 3 — Guide du SMLight SLZB-MR4U : Installation multi-radio dédié à l’Open Border Router pour Matter over Thread">
-    <img src="images/Capturedcrandu2025-12-1410-52-29.png" alt="Photo 3 — Guide du SMLight SLZB-MR4U : Installation multi-radio dédié à l’Open Border Router pour Matter over Thread" loading="lazy">
+    <picture>
+  <source type="image/webp" srcset="images/affichage/Capturedcrandu2025-12-1410-52-29-640.webp 640w, images/affichage/Capturedcrandu2025-12-1410-52-29-723.webp 723w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/Capturedcrandu2025-12-1410-52-29-723.jpg" srcset="images/affichage/Capturedcrandu2025-12-1410-52-29-640.jpg 640w, images/affichage/Capturedcrandu2025-12-1410-52-29-723.jpg 723w" sizes="(max-width: 42em) 92vw, 800px" alt="Photo 3 — Guide du SMLight SLZB-MR4U : Installation multi-radio dédié à l’Open Border Router pour Matter over Thread" width="723" height="679" loading="lazy" decoding="async">
+</picture>
   </a>
 </figure>
 <figure class="photo-slide" data-slide>
   <a href="images/Capturedcrandu2025-12-1310-17-35.png" data-full="images/Capturedcrandu2025-12-1310-17-35.png" data-alt="Photo 4 — Guide du SMLight SLZB-MR4U : Installation multi-radio dédié à l’Open Border Router pour Matter over Thread" aria-label="Agrandir la photo 4 : Photo 4 — Guide du SMLight SLZB-MR4U : Installation multi-radio dédié à l’Open Border Router pour Matter over Thread">
-    <img src="images/Capturedcrandu2025-12-1310-17-35.png" alt="Photo 4 — Guide du SMLight SLZB-MR4U : Installation multi-radio dédié à l’Open Border Router pour Matter over Thread" loading="lazy">
+    <picture>
+  <source type="image/webp" srcset="images/affichage/Capturedcrandu2025-12-1310-17-35-640.webp 640w, images/affichage/Capturedcrandu2025-12-1310-17-35-1200.webp 1200w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/Capturedcrandu2025-12-1310-17-35-1200.jpg" srcset="images/affichage/Capturedcrandu2025-12-1310-17-35-640.jpg 640w, images/affichage/Capturedcrandu2025-12-1310-17-35-1200.jpg 1200w" sizes="(max-width: 42em) 92vw, 800px" alt="Photo 4 — Guide du SMLight SLZB-MR4U : Installation multi-radio dédié à l’Open Border Router pour Matter over Thread" width="1200" height="159" loading="lazy" decoding="async">
+</picture>
   </a>
 </figure>
 <figure class="photo-slide" data-slide>
   <a href="images/Capturedcrandu2025-12-1411-00-06.png" data-full="images/Capturedcrandu2025-12-1411-00-06.png" data-alt="Photo 5 — Guide du SMLight SLZB-MR4U : Installation multi-radio dédié à l’Open Border Router pour Matter over Thread" aria-label="Agrandir la photo 5 : Photo 5 — Guide du SMLight SLZB-MR4U : Installation multi-radio dédié à l’Open Border Router pour Matter over Thread">
-    <img src="images/Capturedcrandu2025-12-1411-00-06.png" alt="Photo 5 — Guide du SMLight SLZB-MR4U : Installation multi-radio dédié à l’Open Border Router pour Matter over Thread" loading="lazy">
+    <picture>
+  <source type="image/webp" srcset="images/affichage/Capturedcrandu2025-12-1411-00-06-640.webp 640w, images/affichage/Capturedcrandu2025-12-1411-00-06-760.webp 760w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/Capturedcrandu2025-12-1411-00-06-760.jpg" srcset="images/affichage/Capturedcrandu2025-12-1411-00-06-640.jpg 640w, images/affichage/Capturedcrandu2025-12-1411-00-06-760.jpg 760w" sizes="(max-width: 42em) 92vw, 800px" alt="Photo 5 — Guide du SMLight SLZB-MR4U : Installation multi-radio dédié à l’Open Border Router pour Matter over Thread" width="760" height="867" loading="lazy" decoding="async">
+</picture>
   </a>
 </figure>
 <figure class="photo-slide" data-slide>
   <a href="images/Capturedcrandu2025-12-1411-06-01.png" data-full="images/Capturedcrandu2025-12-1411-06-01.png" data-alt="Photo 6 — Guide du SMLight SLZB-MR4U : Installation multi-radio dédié à l’Open Border Router pour Matter over Thread" aria-label="Agrandir la photo 6 : Photo 6 — Guide du SMLight SLZB-MR4U : Installation multi-radio dédié à l’Open Border Router pour Matter over Thread">
-    <img src="images/Capturedcrandu2025-12-1411-06-01.png" alt="Photo 6 — Guide du SMLight SLZB-MR4U : Installation multi-radio dédié à l’Open Border Router pour Matter over Thread" loading="lazy">
+    <picture>
+  <source type="image/webp" srcset="images/affichage/Capturedcrandu2025-12-1411-06-01-640.webp 640w, images/affichage/Capturedcrandu2025-12-1411-06-01-740.webp 740w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/Capturedcrandu2025-12-1411-06-01-740.jpg" srcset="images/affichage/Capturedcrandu2025-12-1411-06-01-640.jpg 640w, images/affichage/Capturedcrandu2025-12-1411-06-01-740.jpg 740w" sizes="(max-width: 42em) 92vw, 800px" alt="Photo 6 — Guide du SMLight SLZB-MR4U : Installation multi-radio dédié à l’Open Border Router pour Matter over Thread" width="740" height="541" loading="lazy" decoding="async">
+</picture>
   </a>
 </figure>
 <figure class="photo-slide" data-slide>
   <a href="images/Capturedcrandu2025-12-1310-24-18.png" data-full="images/Capturedcrandu2025-12-1310-24-18.png" data-alt="Photo 7 — Guide du SMLight SLZB-MR4U : Installation multi-radio dédié à l’Open Border Router pour Matter over Thread" aria-label="Agrandir la photo 7 : Photo 7 — Guide du SMLight SLZB-MR4U : Installation multi-radio dédié à l’Open Border Router pour Matter over Thread">
-    <img src="images/Capturedcrandu2025-12-1310-24-18.png" alt="Photo 7 — Guide du SMLight SLZB-MR4U : Installation multi-radio dédié à l’Open Border Router pour Matter over Thread" loading="lazy">
+    <picture>
+  <source type="image/webp" srcset="images/affichage/Capturedcrandu2025-12-1310-24-18-460.webp 460w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/Capturedcrandu2025-12-1310-24-18-460.jpg" srcset="images/affichage/Capturedcrandu2025-12-1310-24-18-460.jpg 460w" sizes="(max-width: 42em) 92vw, 800px" alt="Photo 7 — Guide du SMLight SLZB-MR4U : Installation multi-radio dédié à l’Open Border Router pour Matter over Thread" width="460" height="814" loading="lazy" decoding="async">
+</picture>
   </a>
 </figure>
 <figure class="photo-slide" data-slide>
   <a href="images/Capturedcrandu2025-12-1411-01-50.png" data-full="images/Capturedcrandu2025-12-1411-01-50.png" data-alt="Photo 8 — Guide du SMLight SLZB-MR4U : Installation multi-radio dédié à l’Open Border Router pour Matter over Thread" aria-label="Agrandir la photo 8 : Photo 8 — Guide du SMLight SLZB-MR4U : Installation multi-radio dédié à l’Open Border Router pour Matter over Thread">
-    <img src="images/Capturedcrandu2025-12-1411-01-50.png" alt="Photo 8 — Guide du SMLight SLZB-MR4U : Installation multi-radio dédié à l’Open Border Router pour Matter over Thread" loading="lazy">
+    <picture>
+  <source type="image/webp" srcset="images/affichage/Capturedcrandu2025-12-1411-01-50-608.webp 608w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/Capturedcrandu2025-12-1411-01-50-608.jpg" srcset="images/affichage/Capturedcrandu2025-12-1411-01-50-608.jpg 608w" sizes="(max-width: 42em) 92vw, 800px" alt="Photo 8 — Guide du SMLight SLZB-MR4U : Installation multi-radio dédié à l’Open Border Router pour Matter over Thread" width="608" height="648" loading="lazy" decoding="async">
+</picture>
   </a>
 </figure>
 <figure class="photo-slide" data-slide>
   <a href="images/Capturedcrandu2025-12-1411-02-40.png" data-full="images/Capturedcrandu2025-12-1411-02-40.png" data-alt="Photo 9 — Guide du SMLight SLZB-MR4U : Installation multi-radio dédié à l’Open Border Router pour Matter over Thread" aria-label="Agrandir la photo 9 : Photo 9 — Guide du SMLight SLZB-MR4U : Installation multi-radio dédié à l’Open Border Router pour Matter over Thread">
-    <img src="images/Capturedcrandu2025-12-1411-02-40.png" alt="Photo 9 — Guide du SMLight SLZB-MR4U : Installation multi-radio dédié à l’Open Border Router pour Matter over Thread" loading="lazy">
+    <picture>
+  <source type="image/webp" srcset="images/affichage/Capturedcrandu2025-12-1411-02-40-541.webp 541w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/Capturedcrandu2025-12-1411-02-40-541.jpg" srcset="images/affichage/Capturedcrandu2025-12-1411-02-40-541.jpg 541w" sizes="(max-width: 42em) 92vw, 800px" alt="Photo 9 — Guide du SMLight SLZB-MR4U : Installation multi-radio dédié à l’Open Border Router pour Matter over Thread" width="541" height="602" loading="lazy" decoding="async">
+</picture>
   </a>
 </figure>
 <figure class="photo-slide" data-slide>
   <a href="images/Capturedcrandu2025-12-2314-55-49.png" data-full="images/Capturedcrandu2025-12-2314-55-49.png" data-alt="Photo 10 — Guide du SMLight SLZB-MR4U : Installation multi-radio dédié à l’Open Border Router pour Matter over Thread" aria-label="Agrandir la photo 10 : Photo 10 — Guide du SMLight SLZB-MR4U : Installation multi-radio dédié à l’Open Border Router pour Matter over Thread">
-    <img src="images/Capturedcrandu2025-12-2314-55-49.png" alt="Photo 10 — Guide du SMLight SLZB-MR4U : Installation multi-radio dédié à l’Open Border Router pour Matter over Thread" loading="lazy">
+    <picture>
+  <source type="image/webp" srcset="images/affichage/Capturedcrandu2025-12-2314-55-49-640.webp 640w, images/affichage/Capturedcrandu2025-12-2314-55-49-914.webp 914w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/Capturedcrandu2025-12-2314-55-49-914.jpg" srcset="images/affichage/Capturedcrandu2025-12-2314-55-49-640.jpg 640w, images/affichage/Capturedcrandu2025-12-2314-55-49-914.jpg 914w" sizes="(max-width: 42em) 92vw, 800px" alt="Photo 10 — Guide du SMLight SLZB-MR4U : Installation multi-radio dédié à l’Open Border Router pour Matter over Thread" width="914" height="749" loading="lazy" decoding="async">
+</picture>
   </a>
 </figure>
 <figure class="photo-slide" data-slide>
   <a href="images/Capturedcrandu2025-12-2314-52-51.png" data-full="images/Capturedcrandu2025-12-2314-52-51.png" data-alt="Photo 11 — Guide du SMLight SLZB-MR4U : Installation multi-radio dédié à l’Open Border Router pour Matter over Thread" aria-label="Agrandir la photo 11 : Photo 11 — Guide du SMLight SLZB-MR4U : Installation multi-radio dédié à l’Open Border Router pour Matter over Thread">
-    <img src="images/Capturedcrandu2025-12-2314-52-51.png" alt="Photo 11 — Guide du SMLight SLZB-MR4U : Installation multi-radio dédié à l’Open Border Router pour Matter over Thread" loading="lazy">
+    <picture>
+  <source type="image/webp" srcset="images/affichage/Capturedcrandu2025-12-2314-52-51-640.webp 640w, images/affichage/Capturedcrandu2025-12-2314-52-51-838.webp 838w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/Capturedcrandu2025-12-2314-52-51-838.jpg" srcset="images/affichage/Capturedcrandu2025-12-2314-52-51-640.jpg 640w, images/affichage/Capturedcrandu2025-12-2314-52-51-838.jpg 838w" sizes="(max-width: 42em) 92vw, 800px" alt="Photo 11 — Guide du SMLight SLZB-MR4U : Installation multi-radio dédié à l’Open Border Router pour Matter over Thread" width="838" height="509" loading="lazy" decoding="async">
+</picture>
   </a>
 </figure>
 <figure class="photo-slide" data-slide>
   <a href="images/Capturedcrandu2025-12-2314-59-51.png" data-full="images/Capturedcrandu2025-12-2314-59-51.png" data-alt="Photo 12 — Guide du SMLight SLZB-MR4U : Installation multi-radio dédié à l’Open Border Router pour Matter over Thread" aria-label="Agrandir la photo 12 : Photo 12 — Guide du SMLight SLZB-MR4U : Installation multi-radio dédié à l’Open Border Router pour Matter over Thread">
-    <img src="images/Capturedcrandu2025-12-2314-59-51.png" alt="Photo 12 — Guide du SMLight SLZB-MR4U : Installation multi-radio dédié à l’Open Border Router pour Matter over Thread" loading="lazy">
+    <picture>
+  <source type="image/webp" srcset="images/affichage/Capturedcrandu2025-12-2314-59-51-640.webp 640w, images/affichage/Capturedcrandu2025-12-2314-59-51-914.webp 914w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/Capturedcrandu2025-12-2314-59-51-914.jpg" srcset="images/affichage/Capturedcrandu2025-12-2314-59-51-640.jpg 640w, images/affichage/Capturedcrandu2025-12-2314-59-51-914.jpg 914w" sizes="(max-width: 42em) 92vw, 800px" alt="Photo 12 — Guide du SMLight SLZB-MR4U : Installation multi-radio dédié à l’Open Border Router pour Matter over Thread" width="914" height="749" loading="lazy" decoding="async">
+</picture>
   </a>
 </figure>
 <figure class="photo-slide" data-slide>
   <a href="images/Capturedcrandu2025-12-2317-30-06.png" data-full="images/Capturedcrandu2025-12-2317-30-06.png" data-alt="Photo 13 — Guide du SMLight SLZB-MR4U : Installation multi-radio dédié à l’Open Border Router pour Matter over Thread" aria-label="Agrandir la photo 13 : Photo 13 — Guide du SMLight SLZB-MR4U : Installation multi-radio dédié à l’Open Border Router pour Matter over Thread">
-    <img src="images/Capturedcrandu2025-12-2317-30-06.png" alt="Photo 13 — Guide du SMLight SLZB-MR4U : Installation multi-radio dédié à l’Open Border Router pour Matter over Thread" loading="lazy">
+    <picture>
+  <source type="image/webp" srcset="images/affichage/Capturedcrandu2025-12-2317-30-06-640.webp 640w, images/affichage/Capturedcrandu2025-12-2317-30-06-919.webp 919w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/Capturedcrandu2025-12-2317-30-06-919.jpg" srcset="images/affichage/Capturedcrandu2025-12-2317-30-06-640.jpg 640w, images/affichage/Capturedcrandu2025-12-2317-30-06-919.jpg 919w" sizes="(max-width: 42em) 92vw, 800px" alt="Photo 13 — Guide du SMLight SLZB-MR4U : Installation multi-radio dédié à l’Open Border Router pour Matter over Thread" width="919" height="853" loading="lazy" decoding="async">
+</picture>
   </a>
 </figure>
 <figure class="photo-slide" data-slide>
   <a href="images/Capturedcrandu2025-12-2317-30-43.png" data-full="images/Capturedcrandu2025-12-2317-30-43.png" data-alt="Photo 14 — Guide du SMLight SLZB-MR4U : Installation multi-radio dédié à l’Open Border Router pour Matter over Thread" aria-label="Agrandir la photo 14 : Photo 14 — Guide du SMLight SLZB-MR4U : Installation multi-radio dédié à l’Open Border Router pour Matter over Thread">
-    <img src="images/Capturedcrandu2025-12-2317-30-43.png" alt="Photo 14 — Guide du SMLight SLZB-MR4U : Installation multi-radio dédié à l’Open Border Router pour Matter over Thread" loading="lazy">
+    <picture>
+  <source type="image/webp" srcset="images/affichage/Capturedcrandu2025-12-2317-30-43-640.webp 640w, images/affichage/Capturedcrandu2025-12-2317-30-43-974.webp 974w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/Capturedcrandu2025-12-2317-30-43-974.jpg" srcset="images/affichage/Capturedcrandu2025-12-2317-30-43-640.jpg 640w, images/affichage/Capturedcrandu2025-12-2317-30-43-974.jpg 974w" sizes="(max-width: 42em) 92vw, 800px" alt="Photo 14 — Guide du SMLight SLZB-MR4U : Installation multi-radio dédié à l’Open Border Router pour Matter over Thread" width="974" height="486" loading="lazy" decoding="async">
+</picture>
   </a>
 </figure>
 <figure class="photo-slide" data-slide>
   <a href="images/Capturedcrandu2025-12-2317-30-57.png" data-full="images/Capturedcrandu2025-12-2317-30-57.png" data-alt="Photo 15 — Guide du SMLight SLZB-MR4U : Installation multi-radio dédié à l’Open Border Router pour Matter over Thread" aria-label="Agrandir la photo 15 : Photo 15 — Guide du SMLight SLZB-MR4U : Installation multi-radio dédié à l’Open Border Router pour Matter over Thread">
-    <img src="images/Capturedcrandu2025-12-2317-30-57.png" alt="Photo 15 — Guide du SMLight SLZB-MR4U : Installation multi-radio dédié à l’Open Border Router pour Matter over Thread" loading="lazy">
+    <picture>
+  <source type="image/webp" srcset="images/affichage/Capturedcrandu2025-12-2317-30-57-640.webp 640w, images/affichage/Capturedcrandu2025-12-2317-30-57-963.webp 963w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/Capturedcrandu2025-12-2317-30-57-963.jpg" srcset="images/affichage/Capturedcrandu2025-12-2317-30-57-640.jpg 640w, images/affichage/Capturedcrandu2025-12-2317-30-57-963.jpg 963w" sizes="(max-width: 42em) 92vw, 800px" alt="Photo 15 — Guide du SMLight SLZB-MR4U : Installation multi-radio dédié à l’Open Border Router pour Matter over Thread" width="963" height="652" loading="lazy" decoding="async">
+</picture>
   </a>
 </figure>
 <figure class="photo-slide" data-slide>
   <a href="images/Capturedcrandu2025-12-2317-48-03.png" data-full="images/Capturedcrandu2025-12-2317-48-03.png" data-alt="Photo 16 — Guide du SMLight SLZB-MR4U : Installation multi-radio dédié à l’Open Border Router pour Matter over Thread" aria-label="Agrandir la photo 16 : Photo 16 — Guide du SMLight SLZB-MR4U : Installation multi-radio dédié à l’Open Border Router pour Matter over Thread">
-    <img src="images/Capturedcrandu2025-12-2317-48-03.png" alt="Photo 16 — Guide du SMLight SLZB-MR4U : Installation multi-radio dédié à l’Open Border Router pour Matter over Thread" loading="lazy">
+    <picture>
+  <source type="image/webp" srcset="images/affichage/Capturedcrandu2025-12-2317-48-03-640.webp 640w, images/affichage/Capturedcrandu2025-12-2317-48-03-913.webp 913w" sizes="(max-width: 42em) 92vw, 800px">
+  <img src="images/affichage/Capturedcrandu2025-12-2317-48-03-913.jpg" srcset="images/affichage/Capturedcrandu2025-12-2317-48-03-640.jpg 640w, images/affichage/Capturedcrandu2025-12-2317-48-03-913.jpg 913w" sizes="(max-width: 42em) 92vw, 800px" alt="Photo 16 — Guide du SMLight SLZB-MR4U : Installation multi-radio dédié à l’Open Border Router pour Matter over Thread" width="913" height="751" loading="lazy" decoding="async">
+</picture>
   </a>
 </figure>
 </div>
